@@ -1,0 +1,233 @@
+                        
+
+一雄性SCP-2579实体正在表演Nae Nae嘻哈流行舞，以追求一雌性实体
+
+项目编号： SCP-2579
+
+项目等级： Safe
+
+特殊收容措施： 所有已知的SCP-2579实体应收容在Site-282动物专项收容站。其皆安置于一个足以模拟太平洋西北侧的森林环境的大收容间。每日到往收容间里投食两次。
+
+描述：  SCP-2579是一种特殊的熊类，其特征几乎与棕熊(Ursus arctos lasiotus)一致，主要在日本出没。而这些实例最初被发现于加拿大与美国华盛顿州的边界，似乎已适应太平洋西北侧的森林环境的生活。SCP-2579实体一般不表现出异常属性，饮食习惯与通常的熊无异。但其有两点值得注意的异常：一是其繁殖季的交配行为；二是在SCP-2579实体的脑内，形成并表现出有个控制装置（标记为：SCP-2579-1）的存在。
+
+雄性SCP-2579实体可异常地产生音乐，确信这一现象源自其脑内的控制装置。 繁殖季间，雄性实体将尝试播放音乐，且用喉音发声来协调当前歌曲，以向雌性求爱。这些音乐被重点指出，其为当下美国流行歌曲，如Taylor Swift的“Shake it Off”、Silentó的“Watch Me (Whip/Nae Nae)” 、LMFAO的“Sexy and I Know It”。所有在交配仪式中被演奏的歌曲，都来自目前《公告牌》的百强榜单。 雄性将尝试表演与正播放的歌曲有关的舞蹈。
+
+偶尔会有两个雄性实体，对一个雌性实例实体繁殖权的争夺行为。但实体不会通过物理战斗，而是在伴乐舞风中，表演复杂的舞蹈程序来吸引雌性。SCP-2579实体已被观察到有霹雳舞，机械舞和锁舞，还有小丑舞。根据音乐播放的情况，还观察到几个表演流行舞的例子，如Nae Nae和江南Style。
+
+SCP-2579-1是嵌入成年SCP-2579实体脑内的一小型装置，随着其成长而自然形成。一SCP-2579-1实体有三个主要组件：小型固态存储驱动器、无线信号接收器和外壳。外壳主要由角蛋白样物质构成，而存储驱动器和无线信号接收器，似乎是由骨质、铁沉积物、硅和[已编辑]制成。SCP-2579-1似乎从任何方式上，都不会对SCP-2579实体产生阻碍作用。因组成SCP-2579-1的材料与SCP-003相似，故推测这两个异常具有某种关联。
+
+SCP-2579-1实体的表面上刻有“巨兽园的可控化熊增强型”的阳文。而设备的存储驱动器上存有多个文件，包括自述文本文件、若干配置文件和100~150首MP3格式的歌曲。而这些歌曲每周都会根据当下“《公告牌》热门曲目”前百列表，来进行更新。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                音乐性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Apr 2019 08:32
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Windycity
+                      
+              MUX
+            
+          
+        
+              
+          
+            
+              
+            
+            Criminal Justice Collaboratory
+                      
+              Colby Community College
+            
+          
+        
+              
+          
+            
+              
+            
+            Nexus Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BRTFF
+                      
+              Passion on the Top
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

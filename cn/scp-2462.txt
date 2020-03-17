@@ -1,0 +1,246 @@
+                        
+
+SCP-2462
+
+項目編號： SCP-2462
+
+項目等級： Euclid Safe
+
+特殊收容措施： 由於Rafflesia arnoldii限制的生長條件，前哨2462-0已建立在發現SCP-2462的地點，以防止未授權訪問和允許實驗。對██████市民的金融補償已批准，以防止SCP-2462的異常特性洩漏至第三方。於SCP-2462開花期間，將於其設置一350公尺長的周界，除在其中生活、工作或定期访问周界的██████市民以外，所有未授權者皆被拒絕訪問。
+
+SCP-2462應存於前哨2462-0。4面鏡子應被部屬於SCP-2462周圍，且必須定期清潔以保持反射性。
+
+描述： SCP-2462是一遺傳學上並不明顯的阿諾德大花草（Rafflesia arnoldii），位於印度尼西亞的██████外。當SCP-2462開花時，其會生成可變數量的R. arnoldii虛幻實體（統稱為SCP-2462-A），距離在250公尺內。
+
+SCP-2462-A不會替換任何物質並擁有自身的質量，其不透光、且會響應環境刺激和物理作用。對SCP-2462-A照相的電腦分析證實它們並非幻覺。
+
+SCP-2462-A的數量可變。在SCP-2462處的自然環境中，一般情況下會維持平均30,000個SCP-2462-A1。已知以下因素會影響SCP-2462-A的產生：
+
+鄰近其它R. arnoldii：SCP-2462視線內的每個存活物種皆導致SCP-2462-A的數量減少~60%。
+營養不良：在SCP-2462營養不良期間，SCP-2462-A生產會增加20-50%。
+光照：當對SCP-2462-A的照明下降到低於其自然環境的夜間水平時，SCP-2462-A數量將增至原本的三倍，於照明恢復後數量回復。
+損傷：當SCP-2462受到損傷，SCP-2462-A將覆滿其周圍250m幾乎所有表面。SCP-2462-A只於對SCP-2462-A的損傷治癒後才會恢復。
+
+由於定位和運輸R. arnoldii的困難2，以呈現其它R. arnoldii實體來收容是不切實際的。
+
+回收： SCP-2462於2008年被確認，在SCP-2462-A照相被發布於██████官方旅遊網站後。對██████市民的採訪表明，SCP-2462自去年來一直顯現異常性質，SCP-2462-A已影響鄰近2個城鎮郊區。在SCP-2462於2008年的綻放前，這幾月間考慮過將SCP-2462-A變作觀光景點。
+
+附錄： 根据Breitkopf博士的建议，在SCP-2462開花期間，其被四面鏡子圍繞，產生有效的無限反射。SCP-2462-A並沒有生成。SCP-2462被降級為Safe，且收容措施已被相應地調整。
+
+Footnotes
+1. 大致活躍範圍為約6.5平方公尺一個。
+2. R. arnoldii寄生生存於崖爬藤屬（Tetrastigma）種的根部，且未成功於封閉環境中栽培出。除了每年短暫的開花期間，其非肉眼可見。此外由於森林砍伐，R. arnoldii現屬於極危物種SCP-2462是在半徑36公里內唯一已知的种群成员。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自我复制
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Dec 2017 03:33
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Living Through Technology
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikistória
+                      
+              A enciclopédia de História feita por estudantes
+            
+          
+        
+              
+          
+            
+              
+            
+            Chimiex Bicaz
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            John Parra
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

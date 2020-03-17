@@ -1,0 +1,279 @@
+                        
+
+项目编号： SCP-2862
+
+项目等级： Euclid
+
+特殊收容措施： SCP-2862须随时被蒙眼。SCP-2862被收容于15立方米的无陈设房间内。区域涂成黑色，其中包含一个小型的透明栖枝和喂食碗。区域需随时被监控是否有视觉偏差。喂食系统为自动化，每5小时投食一只活鼠。
+
+若出现收容突破，SCP-2862须被立即麻醉蒙眼。机动特遣队将出动尽可能遮蔽其视线，尤其优先阻断其对在被变形后可能有危险物体的视线。
+
+描述：  SCP-2862是一类似北部白面枭的实体，身长25cm，重3.4kg。实体的行为与类似动物相同，表现出普通的认知和问题解决能力。SCP-2862的行为表现说明它可能自出生起就经历异常。
+
+SCP-2862的异常性质会在其与物体互动时出现。SCP-2862与物体的互动方式表现为该物体在距其更远或更近位置，无论其几何方位如何。此效应并不总是出现，SCP-2862一般与物体以非异常方式互动。确信此效应会被SCP-2862对周围环境的感知所触发。
+
+SCP-2862会把物体“拉”向它，使其在SCP-2862的视觉感知中相对变小。此时，外部观察者可能会发现该物体的大小在对着SCP-2862“缩放”。所有情况下，发生变形的物体会出现放射活动增强，推测是因其分子结构在过程中被改变。正在进行更多测试。
+
+SCP-2862对此效应的控制是积极且本能的。目标离SCP-2862越远越可能被其捕捉，无论SCP-2862是否已经进食。
+
+在SCP-2862所在处可识别到臭氧气味。此种反常的原因未知。
+
+附录A: 
+
+事件-002-A: D-0550被指示与SCP-2862尽可能保持距离。
+
+D-0550进入房间看向 SCP-2862。他慢步靠墙向角落移动。
+
+SCP-2862注视D-0550，将头从左转向右。
+
+D-0550跌倒在地板上，用手按住眼睛。对象在对自己自言自语。
+
+SCP-2862发出叫声，与D-0550保持距离。
+
+D-0550在听到声音后爬起推到另一角落。
+
+15分钟里无异常活动，SCP-2862在这期间更仔细地注视着 D-0550。
+
+D-0550开始向SCP-2862的爪缩小，变形为仅有7cm高。SCP-2862飞下，未待研究员干涉便开始进食被变形的D-0550。D-0550发出声音但不可辨认。
+附加记录：
+
+事件-002-B：D-0551被指示靠近SCP-2862。
+
+D-0551:  嗨，小鸟。
+
+D-0551靠近SCP-2862。SCP-2862后退。
+
+D-0551:  (笑)嘿，过来。
+
+SCP-2862做出防备姿势，张开翅膀。SCP-2862开始将头上下移动并转动
+
+D-0551:  好大的小家伙！
+
+D-0551靠近触摸SCP-2862。SCP-2862发出叫声，缩起身子。
+
+SCP-2862斜视。
+
+D-0551:  真他妈可爱！
+
+D-0551开始大叫。 D-0551的身体似乎开始慢慢被垂直挤压。
+
+D-0551定在原地，慢慢地从地面升起。SCP-2862的头和眼部活动反映了这点。
+
+SCP-2862转头180度。D-0551绕SCP-2862旋转后撞到墙上。SCP-2862将头来回转动数次。
+
+SCP-2862清洁了一下羽毛。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 08:58
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Terminus
+                      
+              Patriot Survival Technology Hacker
+            
+          
+        
+              
+          
+            
+              
+            
+            fsfp
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Living Through Technology
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Hyper RPG FanWiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

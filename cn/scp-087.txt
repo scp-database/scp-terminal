@@ -1,0 +1,247 @@
+                        
+
+图A：从探索I的录像中截取的静止帧。
+
+项目编号： SCP-087
+
+项目等级： Euclid
+
+特殊收容措施： SCP-087位于[已编辑]的校园内。通向SCP-087的门廊由具有电控锁机构的强化钢板建造。该入口已被伪装成与所在建筑的设计相一致的保洁室。门把手上的锁机构将保持锁定，除非同时施加██伏特的电压并逆时针旋转钥匙。门内衬有6厘米厚的工业泡沫填充物。
+
+由于最后一次探索的结果（参阅文件087-IV），现禁止任何人员进入SCP-087。
+
+描述：  SCP-087是一个无灯的平台楼梯，每层13阶，倾斜38度角下降。楼层之间是一个直径约为3米的半圆型平台，每经一个平台下降方向便旋转180度。由于SCP-087的设计将可视范围限制在1.5段台阶左右，且里面没有任何灯具或窗户，任何探索SCP-087的对象都必须携带光源。超过75瓦的光源已证明不会起到更好的效果，因SCP-087似乎可以吸收过多的光线。
+
+对象报告和录音都确认其中存在着痛苦的叫声，推测由█岁至██岁之间的孩童所发出。呼救声源估计位于首个平台下方200米处。然而，任何下楼的尝试都不能使对象更接近声源。由最深一次的探索Ⅳ所计算得到的深度，已远远超出该建筑和地质环境所可能达到的结构深度。直至现在，仍不能得知SCP-087是否具有尽头。
+
+图B：SCP-087-1，从探索I中截取的增强图像。
+
+SCP-087至今已有4个D级人员所拍摄的探索录像，每个进行探索的对象都遇到过SCP-087-1，它是一张没有瞳孔、鼻孔以及嘴部的脸。SCP-087-1的性质完全不明，但已确定它不是求救声的来源。当面对SCP-087-1时探索人员表现出强烈的恐惧与害怕，但是难以确定这种感觉是反常的还是仅仅为自然反应。
+
+附录： 
+
+在探险IV结束后的两周内，数位来自[已编辑]大学的职员和学生报告称有听到SCP-087内传来频率为1-2秒/次的敲门声。已向通往SCP-087的门填充了6厘米厚的工业泡沫。所有关于敲门声的报告都已中止。
+
+经授权的人员可以参阅文件087-I至087-IV，分别为探索I-IV的文字本。
+
+文件087-I
+
+文件087-II
+
+文件087-III
+
+[数据删除]
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                时空
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Oct 2019 13:21
+            
+            编辑
++43)
+标签
+讨论 (31)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Naruto Mush Rivalry
+                      
+              Ninja of the world, REJOICE!
+            
+          
+        
+              
+          
+            
+              
+            
+            Roboticspedia
+                      
+              All that you want to know about making robots
+            
+          
+        
+              
+          
+            
+              
+            
+            iaac emergent culture glossary
+                      
+              words, words, words
+            
+          
+        
+              
+          
+            
+              
+            
+            Fondazione SCP
+                      
+              Branca Italiana della SCP Foundation
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

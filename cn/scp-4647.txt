@@ -1,0 +1,242 @@
+                        
+
+SCP-4647
+
+项目编号：  SCP-4647
+
+项目等级：  Euclid
+
+特殊收容措施：  已建立绕行公路用于限制进入6号美国国道的部分路段。潜伏的基金会特工将对经历SCP-4647异常的司机实行记忆删除。
+
+SCP-4647-1在显现后将被追踪及收容于耐冲击容器中，并在可能时即刻带离SCP-4647。
+
+描述：  SCP-4647为6号美国国道的一部分，长11.9km，位于内华达州白松县。
+
+任何在夜晚驶入SCP-4647的车辆均有小概率呈现出某些异常效应。
+
+驾驶者的去甲肾上腺素1水平增长最高150%。
+无论型号，车辆的最高时速可达到350公里。
+驾驶者宣称见到了巨大的，具不同形象的怪物卡车在后追赶。卡车仅可在车辆的后视镜中被观察；其对驾驶者的肉眼与摄像机均不可见。
+在看到卡车后，驾驶者报告卡车在追上他们，即便他们已经加速行驶。
+当后视镜中的卡车追上汽车时，汽车的其中一面后视镜会破碎，一辆小型（高约5-20cm）的卡车（下称为SCP-4647-1）将从镜中以超过400公里的时速出现。内后视镜中出现的实例往往会打破后窗并离开汽车。测试表明SCP-4647-1实例的尺寸与原初车辆成反比。
+
+SCP-4647-1实例无人驾驶，可完全自主移动，并将于脱出镜中后试图驶入周围的荒野。
+
+于1999年1月22日进行了一次测试，将一面大型落地镜置于SCP-4647-1实例的行进路线上。在与落地镜接触前，该实例自身受到SCP-4647影响，使得第二辆大得多的SCP-4647-1从中出现。该过程迅速重复，交替产生小型及大型的实例，最终显现了89例SCP-4647-1，高度由1cm至8.8m不等。所有实例除尺寸外完全一致，并迅速互相碰撞，导致多数实例被粉碎及摧毁。少数实例在相撞前尚未完全脱离镜面。当所有实例停止移动及已无完好的镜子时，显现终止。
+
+脚注
+1. 提高警觉性、心率与血压的神经递质。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            31 Aug 2019 06:10
+            
+            编辑
++3)
+标签
+讨论 (6)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            V-USB
+                      
+              A Firmware-Only USB Driver for the AVR
+            
+          
+        
+              
+          
+            
+              
+            
+            The Employment Network of SB
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Horizons
+                      
+              The RP about how it all continued... maybe.
+            
+          
+        
+              
+          
+            
+              
+            
+            Monaco Bay Weyr
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

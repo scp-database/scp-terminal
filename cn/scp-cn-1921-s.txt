@@ -1,0 +1,286 @@
+                        
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+事件CN1921A-1 
+
+事件性质： SCP-CN-1921-A
+
+事件简述： 2017年11月1日收到来自1967年11月1日的一封信件。
+
+信件署名： 你们的苏维埃老同志
+
+详细内容： 详见【信件CN1921A-1】。
+
+事件影响： Site-RU-██发生小规模入侵。2人伤亡。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+事件CN1921A-4 
+
+事件性质： SCP-CN-1921-A
+
+事件简述： 2017年7月25日收到来自1921年7月25日的一封信件。
+
+署名者： 中国共产党全体党员
+
+详细内容： 详见【其他信件】。
+
+事件影响： 上海发生多起人员失踪事件。数日后于嘉兴██被找到。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+事件CN1921A-6 
+
+事件性质： SCP-CN-1921-A
+
+事件简述： 2017年9月3日收到来自1927年7月31日的一封信件。
+
+署名者： 周
+
+详细内容： 详见【其他信件】。
+
+事件影响： 中国东南沿海地区所有Site发生收容失效。约████人伤亡。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+事件CN1921A-8 
+
+事件性质： SCP-CN-1921-A
+
+事件简述： 2019年10月1日收到来自1949年10月1日的一封信件。
+
+署名者： 全体中国人民
+
+详细内容： 详见【其他信件】。
+
+事件影响： 天安门广场被不明组织尝试袭击。提前部署的MTF-甲午-31“哆啦B梦”成功阻止恶性事件发生。1人死亡。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+事件CN1921B-1 
+
+事件性质： SCP-CN-1921-B
+
+事件简述： 2019年5月15日向2119年2月12日发送信件
+
+署名者： SCP基金会中国分部
+
+详细内容： 详见【其他信件】。
+
+事件影响： SCP-5000造成的影响基本消除。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                补充材料
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            29 Jan 2020 07:36
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Keramiker - fabriker - stämplar och signaturer
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            IRUNA Online Thailand WIKI
+                      
+              by iruna th team
+            
+          
+        
+              
+          
+            
+              
+            
+            Części Fiat i nie tylko
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Android Alchemy
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

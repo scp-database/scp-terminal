@@ -1,0 +1,249 @@
+                        
+
+威胁等级： 绿
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特殊收容措施： 基金会已从美利坚合众国政府购得SCP-4952周边土地。但由于SCP-4952的性质，除标准反入侵措施外，没有必要采取进一步的收容措施。
+
+描述： SCP-4952是一个反复发生的事件，项目与一处已废弃的机动车隧道出口、附近的一个污水池及连接上述各点的一段公路的出口有关，且该路段位于马萨诸塞州的弗罗斯特国家公园。
+
+SCP-4952包含以下组成部分：
+
+SCP-4952-1是一辆外表漆为浅蓝色的1963年的克莱斯勒300汽车。
+SCP-4952-2是一个外表形似美国诗人弗罗斯特的男性人类个体（于1910年记录），SCP-4952-2坐在SCP-4952-1的驾驶座上。
+SCP-4952-3是三个与SCP-4952-2外表相同的个体。SCP-4952-3个体坐在SCP-4952-1的后排座位上，且都带上安全带。
+在大约0.8%的已记录SCP-4952事件中，单个的SCP-4952-3个体会被SCP-4952-4个体取代。SCP-4952-4是一个外表为美国音乐家Mal Blum的个体（于2015年记录）。
+除SCP-4952-2到-4实例外，SCP-4952-1内部几乎总是4之间出现。
+
+在SCP-4952反复事件中，SCP-4952-1会在隧道中出现并以大约每小时110千米的时间撞击SCP-4952-1和SCP-4952-2的第二次到最后一次反复产生的个体；SCP-4952-1和SCP-4952-2的第二次到最后一次反复产生个体会被撞进污水池，随后消失。尽管SCP-4952-2的之前反复个体会被上述影响杀死，SCP-4952-2个体会在最初的SCP-4952反复中存活下来。SCP-4952-2最初显示出震惊，接着会在反复结束时表现出沮丧。
+
+新的SCP-4952反复事件将会由以下的任何条件触发：
+
+SCP-4952-2尝试从SCP-4952-1任何一次反复中移除SCP-4952-3或-4。
+SCP-4952-2试图检查个体的前一次的反复产生个体。
+任何试图将SCP-4952中的物理组成部分移出SCP-4952边界的尝试。
+任何由外部因素为阻止SCP-4952立刻重复发生的尝试。
+外部因素与SCP-4952-2有交流行为。
+最后一次SCP-4952事件发生后3小时56分钟27秒。
+
+SCP-4952于1986年3月21日在弗罗斯特国家公园的基金会人员收到一系列遇险信号后被发现。
+
+脚注
+1. 99.96%的已记录事件。
+2. 多个出现的实例会带有红色叉形标记。
+3. 主要由塑料硬币和印在低质量纸上的钞票组成，使用罗马数字。低质量纸钞似乎以对欲肉教首领的经典描述为特色。
+4. 译注 ：原文使用iterations迭代一词，可能指重复反馈过程，翻译可能欠妥，若有更好的解释请做改进。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            22 Nov 2019 05:53
+            
+            编辑
+-7)
+标签
+讨论 (15)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Coffeetime Extra
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Insurrection du Chaos
+                      
+              Branche Francophone.
+            
+          
+        
+              
+          
+            
+              
+            
+            MIS 213-2
+                      
+              Intro to IS
+            
+          
+        
+              
+          
+            
+              
+            
+            Pediatric Hematology  Oncology Certification Review
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,227 @@
+                        
+
+项目编号： SCP-CN-237
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-237-01和SCP-237-02须收容在Site-CN-20中。允许SCP-CN-237-01和和SCP-237-02在Site-CN-20的花园收容区中自由活动。不过必须在SCP-CN-237-01和SCP-237-02身上装上定位装置以保证它们处在基金会的监控之下。在非工作时段，允许非D级的人员接触SCP-CN-237-01和SCP-237-02，但是不允许向SCP-CN-237投喂任何非基金会承认来源的食物或者饮用水。任何有关于SCP-CN-237-01和SCP-237-02的建议请提交至凯易博士站长信箱。
+
+描述： SCP-CN-237-01是一只文昌鸡（原鸡属），性别为雄性。目前的体态和行为与一个月左右的文昌鸡幼仔基本一致。SCP-CN-237-01在任何时候都会发出有规律的，与其普通叫声一致的声音，经研究该声音符合摩斯电码的规律。经过解码得到的内容是一串数字，内容与圆周率π相同。尽管这种声音和SCP-CN-237-01的普通叫声一致，但是这种特殊的叫声不会影响到SCP-CN-237-01的普通叫声，而且经过测定，该声音是从SCP-CN-237-01的胸腔中发出的。在SCP-CN-237-01右侧翅膀的羽毛上，有一段通过高倍放大镜可观察到的小字，内容为赠与世界的礼物“目前，SCP-CN-237-01已经播报到了圆周率小数点后的██████位。
+
+SCP-CN-237-02是一只文昌鸡（原鸡属），性别为雌性。目前的体态和行为与一个月左右的文昌鸡幼仔基本一致。SCP-CN-237-02在任何时候都会发出有规律的，与其普通叫声一致的声音，经研究该声音符合摩斯电码的规律。经过解码得到的内容是一串数字，内容与自然底数e相同。尽管这种声音和SCP-CN-237-02的普通叫声一致，但是这种特殊的叫声不会影响到SCP-CN-237-01的普通叫声，而且经过测定，该声音是从SCP-CN-237-02的颅腔中发出的。在SCP-CN-237-01左侧翅膀的羽毛上，有一段通过高倍放大镜可观察到的小字，内容为赠与世界的礼物“。目前，SCP-CN-237-02已经播报到了自然底数小数点后的██████位。
+
+SCP-CN-237是在19██年█月由凯易博士移交给基金会收容。凯易博士在询问中声称SCP-CN-237是在█月的休假探亲时由亲戚赠与，基金会的特工时候根据调凯易博士提供的的信息进行了调查，没有发现附近地区同批出生的其他文昌鸡表现出类似的现象。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Oct 2018 06:59
+            
+            编辑
++20)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Dragon Trees
+                      
+              A Dragon Cave Fansite
+            
+          
+        
+              
+          
+            
+              
+            
+            The Sky Remains
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Terras de Portugal
+                      
+              Portugal em pormenor!
+            
+          
+        
+              
+          
+            
+              
+            
+            ΛΕΜΕ OΧΙ ΣΤΗΝ ΚΑΚΟΠΟΙΗΣΗ
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

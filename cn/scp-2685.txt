@@ -1,0 +1,247 @@
+                        
+
+人工制品：  SCP-2685
+
+人工制品等级：  In doubt（存疑）
+
+人工制品协议：  SCP-2685在加拿大安大略省的一座基金会财产的建筑内的一个房间被发现。没人有可能知道它的语言，没有D级进行实验。如果SCP-2685被激活，指挥部必须第一时间知晓。对于SCP-2685的转录必须避免使用特定符号，即2016年第五个盎格鲁-撒克逊文字1。
+
+报告SCP-2685：  SCP-2685是一本哲学书籍，于1966年获得版权，书名为抽象思维。SCP-2685如果有作者的话，作者未知。SCP-2685在写作中缺少第五个盎格鲁-撒克逊文字，后果是其在文体上十分不同寻常。
+
+任何知晓SCP-2685和使用第五个盎格鲁-撒克逊文字写就的项目的报告的人将会表现出反常的思维和行动（异常性质也会影响任何通过这个报告知道它的人）。个体将被迫以令人困惑的反常的方式来完成日常行为。以下是此类行为的记录（这一记录省略了使用第五个盎格鲁-撒克逊文字作为前缀的个体）：
+
+Mr. Ryan Chang ：他的午餐，一份披萨饼和一杯软饮，异常的漂浮在了半空中。Mr.Zhang只能站在椅子上吞下在轨道上的披萨饼。
+
+Mrs. Mary Johndottir ：所有Mary知道的小说与非小说书记，或者想要看的书，都以法西斯标志作为一个重点。马克吐温的苦行记，如果Mary能够理解它的话，就会变成有关一个激进的青年组织的部分，马克吐温是19世纪50年代的加州的一部分，这本书强烈的反对西班牙移民。
+
+Dr. John Griffin, MD : Dr. Griffin被发现拒绝了所有对于医院病人的禁令，而且他提倡在异教徒的祭坛上用色拉进献给奥丁来治疗便秘。
+附加记录：
+
+有关SCP-2685的文章不能包含任何使用了第五个盎格鲁-撒克逊文字的词语，但是，对于视觉而言，这种符号是不显眼的：转录必须符合语法上的声音不包含第五个盎格鲁-撒克逊文字，否则异常效应就会发生。SCP-2685中有一部分是非异常的，是书本的介绍部分。以下是介绍的部分转录：
+
+介绍 
+
+…人类是如此乏味。你不会想要遵守这一点的。就把抽象思考放进你的脑子里，放进你的灵魂里，你的每日的像编好的程序一半的刻板生活将会离你而去。你的头脑将会令人惊叹地挣脱锁链，就在那一瞬间
+
+…但是你必须知道”我对你做了这件事，自愿的或者非资源的。你必须采取激烈的行动，走上我曾经走过地路。你的头脑，将会允许你把思维不受限制地应用于你的周围，将会真正的意识到它地能力。它会知道通往隐藏世界的一扇窗户在哪里
+
+作为一个开始，你不会知道这本书押了“B”的韵，如果你这么做的话，坏事可是会悄悄发生的哟。2
+附加记录：
+
+Footnotes
+1. 译注：即英文字母“E”。
+2. 译注：原文全篇没有出现过字母“E”
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Jul 2018 08:53
+            
+            编辑
++2)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            RedPlay Wiki
+                      
+              redplaywiki
+            
+          
+        
+              
+          
+            
+              
+            
+            DDSCAT
+                      
+              Light Scattering Code
+            
+          
+        
+              
+          
+            
+              
+            
+            Karma-Lab
+                      
+              KARMA Technology and the products incorporating it
+            
+          
+        
+              
+          
+            
+              
+            
+            Epitome City
+                      
+              Hero or Villain? You decide.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

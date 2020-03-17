@@ -1,0 +1,225 @@
+                        
+
+项目编号： SCP-063
+
+项目等级： Safe
+
+特殊收容措施： SCP-063一直都被安放在████博士位于Site 19的个人专区的私人浴室里。它每24小时至少要被用于使用一次，否则它将放出一种未知的特殊射线，这种射线能够使半径0.6m以内的物体或材料缓慢扭曲并最终化为灰烬，此射线对生命体的影响实验还未被监测。
+
+描述： SCP-063的外表是一个普通的淡蓝色牙刷。刷沿一侧写着“The World's Best TothBrush [原文如此]”。很显然，这个词“toothbrush”被拼写错了，至于这是一个无心之过还是创造者有意为之已经无从考究了。SCP-063有一种能够毫不费力地穿透任何一切已死亡的物体或无机物的能力，此能力集中于它的刷毛上。触及刷毛的物体不会像被刀划过的物体一样被切裂，而是完全消失，不留任何痕迹。此种模式让人联想到SCP-2207，表明俩异常的共同连接或由相同实体（们）所造。此外，有使用过SCP-063经验的实验体都反映他们的牙齿明显洁白了。尽管SCP-063有这些非凡的能力，可是经过试验分析它却是由普通塑料制成的。
+
+附录： SCP-063最初在圣彼得堡被发现于一名来自█████████，正用其能力打开保险柜的小偷身上。每当被问到关于SCP-063的事情，对象都表明自己毫无所知并声称他只是在某一天单纯的“发现了”SCP-063。对对象的审问一直持续到他结束了自己的生命为止。到目前为止，他自杀的原因仍未明了。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                放射性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Nov 2017 11:00
+            
+            编辑
++5)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP繁中沙盒2.0
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CUNEF Group C2
+                      
+              For Your Work, Opinions and Discoveries!
+            
+          
+        
+              
+          
+            
+              
+            
+            Intro to Creative Writing
+                      
+              Professor Gabriel
+            
+          
+        
+              
+          
+            
+              
+            
+            Space Epic Untitled
+                      
+              From KUMA Games
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

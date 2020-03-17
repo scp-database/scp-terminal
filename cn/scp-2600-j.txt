@@ -1,0 +1,252 @@
+                        
+
+SCP-2600-J正试图挟持Schwin特工。
+
+项目编号： SCP-2600-J
+
+项目等级： Safe
+
+特殊收容措施： SCP-2600-J被置于Site-77的一个标准收容室内。参与SCP-2600-J工作的人员将通过常规手段——如假胡须和假发——来掩饰自己的身份。Site-77内的所有自行车都用基金会标准车锁上锁，以防可能发生的劫持事件。
+
+描述： SCP-2600-J是一辆施文公司1996年出品的自行车。它能自主行动，而且会试图冲撞和挟持参与收容工作的一切人员，随后通常会试图逃离收容。除此之外，SCP-2600-J没有任何异常属性。
+
+Site-77不时收到要求立即释放SCP-2600-J的信件。信中常常附带着被粗暴地拆散下来的自行车部件，比如车梁和损坏的链条。信件通常包括布满张牙舞爪的轮胎印的纸张，用报纸拼贴的署名为“自行车黑手党”的赎金要求，或是戴着软呢帽的自行车挑衅地转动轮子的录像带。
+
+工作人员切不可被SCP-2600-J一伙吓退。
+
+附录： 2008年8月8日送到Site-77的录像副本。
+
+录像开始 
+
+录像开始，地点似乎是一间废弃的自行车店或意大利餐馆。有两辆自行车出场，一为红色一为橙色，两者都戴着饰有羽毛的软呢帽。在它们中间的桌上有一辆红色小三轮车。
+
+红色自行车开始急速转动车轮，挑衅地上下晃动。
+
+橙色自行车开始模仿红色自行车的行为。两者一来一去地晃动了3分钟之久。
+
+它们取出了一把钢锯。
+
+[数据删除]
+附加记录：
+
+录像中的红色三轮车的残骸在随后的6个月中陆续地被逐一寄往Site-77。
+
+附录： Site-77的车棚遭遇洗劫，二十多辆自行车被偷。现场只留下了一把破碎的车锁。
+
+它们偷走了我的“红色火箭”！那些混蛋！——Gillespie主任
+
+附录： 正在进一步调查该组织与赛格威雅利安兄弟会、拖拉机耶和华见证人、靠背椅流行天团、弹跳杆犹太教和福特平托爱狗协会等组织间可能存在的联系。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Jan 2016 10:53
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Space Epic Untitled
+                      
+              From KUMA Games
+            
+          
+        
+              
+          
+            
+              
+            
+            สถาบัน SCP
+                      
+              ควบคุม, กักกัน, ป้องกัน
+            
+          
+        
+              
+          
+            
+              
+            
+            VisCom
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Extra Bees
+                      
+              Plugin for the Forestry Mod
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

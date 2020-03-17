@@ -1,0 +1,236 @@
+                        
+
+项目编号： SCP-675
+
+项目等级： Safe
+
+特殊收容措施： SCP-675应放置在一间黑暗的房间中，该房间所有尺寸皆为2米，并装入一台电子摄像机始终对项目保持观察。虽然并不禁止与项目的接触，但仍然不鼓励任何不必要的访问。且在任何时间内都不得敲击SCP-675。
+
+描述： SCP-675是一个标准窗户及其框架，装有双层玻璃，并用螺栓将框架固定在墙上。窗户已从其位于████的█████████，███房子内的原始位置移走。最早的[数据删除]报告起初并没有引起基金会的注意直到其房主[数据删除]。基金会从地产物业处购买了此处房产，并将有问题的窗户移走以进行进一步研究。一个外勤小组将继续在其原始位置驻扎6-13个月，以确保只有SCP-675有异常属性而不是这处地点本身。
+
+当收容室的吊灯打开时，SCP-675似乎是一扇随处可见的普通窗户。尽管如此，当灯关闭时，可以看见窗户发出微弱的光，就像窗户的另一面有一个间接光源一样。若穿过窗户看出去则没有任何异常影响，除了有点眩光；房间内的其他物品似乎可以普通的穿过窗户。
+
+尽管如此，有时会出现一个影子形状的物体，并打破灯光。为了协助调查和记录异常现场，一个棉质的暗幕被安装在开口前。帷幕做得相当薄以仍旧可以观测到周围的光，而且它可以为出现的影子物体提供更好的对比。
+
+影子出现的几率或多或少是随机的，尽管非常可能在任意一天内发生一到两次事故。而形状本身几乎每次出现时形式都不一样，有时只是一闪而过，有时像脚步声那样移动，有时在没有任何地面支撑的情况下凌空飞舞。在数次场合中，一个图形“接近”了窗户并做出一个试图穿过窗户的姿态；因此建议只进行遥控观测。
+
+打开窗户不会发生任何事情，目前正在对生成的阴影的记录进行形状建模。应通过安全的方法向██████博士发出任何非破坏性测试的请求。
+
+附录： 尽管项目的预计威胁级别相当低，某些形状物体显出的好奇心仍旧可能造成威胁。因此，一支装入了一发双当量铅弹1的12号口径散弹枪允许被执勤的研究员携带；若物体的行为显然偏离其原来的轨道（例如试图打开窗户以产生某些效果），授权可以根据研究员的判断进行摧毁。
+
+Footnotes
+1. 譯註：double-ought buckshot
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 12:37
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Steel and Stone
+                      
+              Wagering Lives to the Blade
+            
+          
+        
+              
+          
+            
+              
+            
+            RetroWIKI
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            International Translation Archive
+                      
+              of the SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            Wayward Society Sandbox
+                      
+              Even secret societies need to draft.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

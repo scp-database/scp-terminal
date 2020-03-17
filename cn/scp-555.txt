@@ -1,0 +1,239 @@
+                        
+
+项目编号:  SCP-555
+
+项目等级:  Euclid
+
+收容的SCP-555
+
+特殊收容措施:  事件555-1后被修正。
+
+SCP-555应被罩在一个5x5x3米的混凝土罩内，在罩壁内侧应装有磁场强度总和在3特斯拉之上的电磁体阵列。在一个中空隔间里，一组现今最强的永磁体应被隔离在电磁体阵列之外，并在电力中断时由自动装置送入SCP-555所在地。由于强磁场和SCP本身所带来的危险，SCP-555所在隔间应和设施其它部分保持20米以上的距离。任何尸体都不能被带入隔离区内。一台HEPA（High efficiency particulate air Filter，高效空气过滤器）空气过滤系统应被安装，以防SCP的堵塞。SCP-555绝对不能和SCP-447被收容到同一个site里。
+
+描述:  SCP-555是一个带有圆型两端的金属筒，直径1.25厘米，长8厘米，与一般喂给牛以防hardware disease（由误食异物引发的牛创伤性心脏周围网状组织炎）的磁铁类似。它散发出一种性质未知的力场，该立场对死亡或坏死的人体组织有吸引作用，包括从身上掉落的头发、尸体、脱落的皮肤细胞，以及在极端情况下，人的皮肤表层。该力场似乎并不遵循平方反比定律，同时也不和任何物质及电磁场发生与已知的“力”相类似的相互作用。该SCP本身似乎是不受外力影响的，对无论是集中加热、加压还是冲击都毫无反应。
+
+该力场产生的吸引力随被吸引到SCP附近的坏死组织量线性上升。当超过一定程度（大约是在SCP两米范围内的坏死组织达到295千克）之后，这个关系转为指数的，力场的强度与影响范围也开始迅速增加。
+
+该力场似乎对永磁体也有某种效果：在SCP-555附近的永磁体磁场将随时间逐渐减弱，其减弱速度和SCP-555的力场强度成正比。
+
+SCP-555是在19██年在█████ ███, 加利福尼亚州的一处公墓内由基金会特工发现的。基金会是在一口要被埋起来的棺材被从护柩者手里拖到某个叫███████ ███████的家伙（卒于1948年）的墓上之后接到疑似SCP警报的.
+
+███████ ███████的尸体被转到了基金会的法医学专家手上，他们发现这具躯干看起来是被向内压扁了，但却没有任何皮肤损伤。SCP在尸体的胃部被发现。尸体被认定没有其它异常属性，并被重新埋葬。
+
+对该墓地的透地雷达探测显示在半径12米范围内的所有棺材都在地下发生了朝向SCP原放置地点的位移。
+
+附录： 参见事件报告555-1。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Apr 2018 06:50
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Raven Marches
+                      
+              OpenRPG Dungeons and Dragons 3.5
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP基金會
+                      
+              控制 收容 保護
+            
+          
+        
+              
+          
+            
+              
+            
+            Killing Floor Map Database
+                      
+              KFMapDB.com
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP-JP環境再現サイト
+                      
+              実験、実験、爆発
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

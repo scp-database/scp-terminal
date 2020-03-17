@@ -1,0 +1,258 @@
+                        
+
+SCP-773，準備進行測試
+
+項目編號： SCP-773
+
+項目等級： Safe
+
+特殊收容措施： SCP-773現時沒有特殊收容措施，現時收容於Site-██的安全箱中，直至另行通知。
+
+描述： SCP-773是一個直俓451毫米的標準英式飛標盤。它被分成二十個標準分值區和內外中心圓。還有標準的雙倍區和三倍區。 SCP-773是██████特工從████████先生於英國格洛斯特的寓所中獲得。一份異常的警方報告引起基金會的注意，此後， ████████先生被發現因數處血管破裂，以及致命的心臟衰竭死在自己家中，警方無法辨識致死的原因。
+
+██████特工其後調查其死亡原因時， 發現該飛鏢盤是從被稱為MCDark有限公司的組織處獲得，在三個星期之前死者將一筆鉅款匯至該組織。在回收對象後，從飛標盤後的鑲板發現一系列的指引，以及一套鑽石錶針飛鏢，飛鏢內有可以插入小紙卷的空間。這些指引是手寫的，並由███████████先生簽名
+
+根據指引，當一隻寫有某人名字的飛鏢從至少三米外射中標靶時，該人會受到傷害，傷害情況由飛鏢射中標靶的位置決定。分數越高，傷害越大，小至肘關節扭傷，大至動脈破裂。指引明確說明飛鏢上所寫的人名必須書寫清晰，才會遵從以上規則，否則負面效果會發生在投手身上。與標準英國飛鏢組織的規則一致，在另一投手選擇另一人作為傷害對象前，需要投擲三次。 。雙倍區或三倍區所引起的效果會跟據分值區的分數而加乘。
+
+在大量的實驗中，基金會職員通過D級人員已確認所有的影響。同時發現，飛鏢盤無法影響在半徑30米外的任何人員。
+
+附錄： 
+
+在大量的實驗和使用機械手投擲後，各飛標盤上各分段會產生下列的傷害：
+
+右手有輕微的手指痛
+立即的肩膀肌肉緊張
+輕微頭痛
+左腳踝有輕微的皮疹，可用普通的皮疹藥膏治療
+右膝抽筋
+幾個月的嵌甲
+[數據刪除]
+左手輕微腫脹
+發燒數日。治療無效
+靜脈竇血管破裂，引起嚴重的鼻衄(流鼻血)
+胸部上方血管破裂
+阿基里斯腱拉傷
+食道裂傷
+椎間盤脫出
+右肩關節脫位
+部分肺被肋骨刺傷
+陰囊腫大
+脛骨斷裂
+複合型頭蓋骨骨折
+不嚴重的動脈瘤
+嚴重的心臟衰竭
+咳嗽導致的喉膜破裂
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                游戏
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 May 2019 03:04
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Scala Geography Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            iaac emergent culture glossary
+                      
+              words, words, words
+            
+          
+        
+              
+          
+            
+              
+            
+            Contraptor
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Soymilk Linkshell
+                      
+              Professional, drama-free dynamis since 2005!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

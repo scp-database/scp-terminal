@@ -1,0 +1,271 @@
+                        
+
+项目编号： SCP-3561
+
+项目等级： Safe
+
+特殊收容措施： SCP-3561-1至-6就地收容在气候控制收容库内，由一名基金会艺术管理员监督。将对其采取维护以最小化灰尘和生霉。
+
+每周一次，每个个体将被取出检查是否变化，之后由持证油画保护师进行清洁。
+
+描述： SCP-3561是一系列共六张油画(SCP-3561-1至-6)，由Theodore Holdstock在1905年到1907年间创作。每幅画都描绘了 Holdstock住家（位于德国萨克森法兰 Bautzen外)内部的一个视角。
+
+每幅画的视角在每次观看时保持不变，但其画中细节会定期变化。这包括（但不限于）家具位置、门扉开闭、光线和人影的存在。经过反复观看，研究员确认特定时间不会有多于五个人影可见。
+
+附录3561.1： 描述
+
+标题
+描述
+重要形象
+
+SCP-3561-1：《楼上.走廊》
+一条走廊，摆着椅子、两幅画、有三扇开启的门（一扇在观看者右侧，两扇在左）。可透过其中一扇门看到一个窗户。
+有时会有一个人影站在隔壁房间的阴影部分中，面朝角落。
+
+SCP-3561-2：《老火炉》
+铸铁的烧木火炉在左侧，前方有一通往走廊的门。
+一个人影站在走廊里或火炉旁。
+
+SCP-3561-3：《女孩的卧室窗户》
+一扇开启的窗户在前，有一椅子放在其下方。右侧有一床，左侧有一化妆台。
+一个人影坐在椅子上，转身去面对窗户，头低下作祈祷状。当其不在场时，椅子消失，且窗户是关闭的。
+
+SCP-3561-4：《起居室》
+左侧有一门径，通往一间起居室，内有一幅画，小床、桌子和一个瓮；右侧有一橱柜，上方有一面镜子。
+人影有时坐在小床上，低头作祈祷状。另一人影的映像出现在镜中。
+
+SCP-3561-5：《餐厅》
+一间昏暗的房间，有一张桌子，其上放有一个烛台。
+至多五个人影会坐在桌边，低头作祈祷状。
+
+SCP-3561-6：《前厅》
+左侧有一桌子，放有两个烛台；前方有一扇窗户，旁边有一门。画面正处在夜晚。
+一个人影坐在桌旁，低头作祈祷状。当全部5个人影出现在SCP-3561-5中时，可见有一只手按在窗玻璃上。
+
+附录3561.2:： 历史与发现
+
+Theodore Holdstock和家人（妻子，三个女儿、两个儿子）在1902年搬迁至Bautzen，理由未透露（可能是因其妻子的心理状态恶化）。Theodore 及家人起初受到良好对待，但逐渐与邻里疏离，且有关于其妻子疾病的流言传开。
+
+1904年，Adelaide Weber (前一年搬入镇上的杂货店主之妻)在日记内记录到一户“奇怪的人家”从来不从住所内现身，除了丈夫-也只是在购买日用品时。对这家人状况的担忧于1905年达到顶峰，当地警方被要求介入干预。没有关于此次初步对峙的记录留存；然而Theodore Holdstock此后继续住在家中，直至1909年自杀身亡。
+
+邻居曾多次报告看到他的家人站在窗边，但无法找到Theodore Holdstock妻子及子女的任何踪迹。Mr. Holdstock的财产（包括SCP-3561）之后被全部拍卖，画作最终由Basil Ottinger (一位瑞士银行家、异常艺术收藏者)获得。在1985年基金会对瑞士罗曼迪的一次突袭中，SCP-3561连同其他多件异常作品被发现。
+
+于1987年对Holdstock家地产进行翻修时，发现了一此前未知的地下室。警方在此发现五具保存完好的尸体，年龄和描述与Holdstock的两个儿子、妻子及两个女儿相符。
+
+每具尸体都被黑色兜帽、围巾紧紧包裹，遮住了面部特征；其双手被绳索捆绑为祈祷姿势。尸体经化学处理，防止腐坏并压制了异味。有一可调节姿态的粗糙铜框架被手术嵌入每具尸体内，令其可被摆弄为各种姿势。
+
+截至目前，Marie Holdstock (Theodore Holdstock的长女)依然下落不明。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                观察影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            31 Aug 2019 03:34
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            wikihandball
+                      
+              La wiki de Mundohandball.com
+            
+          
+        
+              
+          
+            
+              
+            
+            Join this Site!
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            PassatB5
+                      
+              Do It Yourself information for Passat Repair!
+            
+          
+        
+              
+          
+            
+              
+            
+            Psychology Job Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

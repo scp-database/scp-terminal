@@ -1,0 +1,247 @@
+                        
+
+收到广播
+
+协议紧急性： 即刻
+
+威胁等级： Aleph
+
+协议对象： SCP-1654
+
+协议指示： SCP-1654的特殊收容措施需以非加密波长广播至所有剩余站点。鼓励接收到本信息的平民以力所能及之方式协助基金会。未能遵守协议的基金会成员将面临即刻处决，此为最低限度。未能协助的平民将不会知晓回收工作。
+
+至少13座基金会前哨应沿每个剩余站点的外圈区域设立，距离该站点至少20千米。每座前哨应具备以下条件：
+
+至少3个单独的房间，包含有少量（至少4mg）站点主任的视神经。
+一堵外墙，连同三名3级人员的尸体，每日更换。
+地下一层的底部应包含至少3kg原产自怀俄明州的土石。
+配备于前哨的人员必须未被回收。
+前哨某处必须藏有各监督者的71 ml血液，以防SCP-1654发觉。
+
+上述前哨将负责形成一防御SCP-1654的保护屏障。此外，任何进入的平民需首先由此类前哨处理，此后方可送至站点以供进一步行动。不允许配备于这些前哨的人员死亡。未能在3周内达成以上条件的站点应引爆所有的站内核弹头。
+
+所有拥有在世亲属的人员应向基金会回收办公室投降，以被立刻处决。未能遵守的人员应被尽快处死，其尸体添加至站点食物供应中。
+
+回收的个体需被送至Lunar Area 32以供即刻开采。一旦抵达Lunar Area 32，他们将被用于奇术仪式C3-37。
+
+该仪式之生成物将由位于轨道内的基金会Seraphim Array发射至任何主要的平民人口中心 (现为SCP-1654-1)，其废墟将被认定为六翼天使区。
+
+应重复该过程，直至所有已知的SCP-1654-1个体均被转化为六翼天使区。若当前的拥有在世亲属的人员供应耗尽，则需使用来自邻近区域的平民。若此方式亦被耗尽，将指示人员开始自行制造合适的候选人。
+
+一旦所有可能的候选人皆被耗尽，将指示剩余的基金会人员在任一六翼天使区内集合，并开始处决SCP-1654。
+
+此事件前会给予进一步指示。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                机密分级
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            06 Mar 2019 06:01
+            
+            编辑
++2)
+标签
+讨论 (8)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Sygnus Figment Registry
+                      
+              Where Writers Share Their Characters  Worlds
+            
+          
+        
+              
+          
+            
+              
+            
+            Metrix Create:Space
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Celtic Heroes Wiki
+                      
+              A Wiki for the iPhone/iPad MMO Celtic Heroes
+            
+          
+        
+              
+          
+            
+              
+            
+            Echo Bazaar
+                      
+              Come to Fallen London
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

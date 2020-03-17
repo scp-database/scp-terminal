@@ -1,0 +1,526 @@
+                        
+
+项目编号： SCP-3629
+
+项目等级： Euclid
+
+特殊收容措施： 依据平行文明程序8—C10和基金会与S’kakithi公国间的条约规定，人类-S’kakithi间的SCP-3629互动被准许继续。为减少保密风险或类似事故3629-1的情形，这些会见将通过基金会指定服务安排，并以秘密监控软件侦测和干预任何试图将S’kakithi相关信息公开的行为。
+
+描述： SCP-3629是纽约市一个人类社群与该区地下S’kakithi种群1间的互动方式。双方会自愿在约会应用（最常见是Tinder）上寻找彼此以进行倒错性行为。
+
+和许多小型蜘蛛类似，S’kakithi的雌性体型远大于雄性，其雄性没有智能，时常会在交配过程中或之后被雌性本能性地杀死吞食。为降低这种风险，雄性会用蛛丝缠住雌性，如此在至少70%的自然配对中雄性能够存活。作为其交配过程的一部分，S’kakithi雌性对被捆绑感到高度愉悦。为避免耗竭本族雄性，部分S’kakithi开始与人类进行性行为，SCP-3629即是指称此种跨物种合作。人类的体型与雌性S’kakithi相当，在生物化学上与其猎物或雄性不相似，也对S’kakithi的毒液有抵抗力，甚至会在被注入毒液时经历欣快幻觉。
+
+为促进这种遭遇、会见熟练且对此有兴趣的人类，S’kakithi会在约会应用上创立档案，约有2100份档案在Tinder上创立，也有约150份分散于OKCupid、Fetlife和ChristianMingle。由于S’kakithi知晓人类整体上并未察觉其存在，它们的档案中不会明确表明自己为S’kakithi。
+
+参与SCP-3629的人类主要来自从纽约市的束缚爱好者中。这些人员会受到S’kakithi和社群内既有成员的审核，并被告知S’kakithi非人形生理的相关信息。确信有90名人类参与到了SCP-3629中。
+
+SCP-3629在2018年2月的事故3629-1中被基金会发现，在事故3629-1中，S’kakithi调查者就一起牵涉人类的案件联系基金会，有S’kakithi在参与SCP-3629后失踪。部分相关文件见下。
+
+采访3629-3： 为从人类角度了解SCP-3629，于2018年2月16日，Sebastian Allen特工采访了Manny L。此人被S’kakithi辨识为SCP-3629的稳定参与者。他被认为并非失踪案嫌疑人，也不知道SCP-3629以外的异常。采访过程中，此案件的S’kakithi联络员、调查官Chisithrita也在场陪同。由于其无法说出英语，S’kakithi是以文本交流。
+
+特工Allen： Mr. Li，很高兴你能接受。我们想问你些关于丝主社群的事。
+
+Manny Li： 这个……呃，抱歉，警官，我不能说这个。
+
+特工Allen： 是在担心报复吗？我这部门在NYPD专门联络和处置那些纽约市里……不太常规的居民，包括S’kakithi。我们有理由相信发生了罪案，你说的一切都能提供帮助。
+
+Manny Li： 好吧，所以你知道，但她们知道你知道吗？我还从来没听说过特别犯罪记录处。她们知道你们吗？
+
+特工Allen： 我想我能解决你的顾虑。
+
+Allen离开房间，和Chisithrita调查官一起返回。
+
+特工Allen： 这位是Chisithrita，我们在此案中的S’kakithi联络人。她可以在我们聊天时陪看，确认我不会问些它们不想让我们知道的事。
+
+调查官Chisithrita： 😀😀😀你好Manny！😀😀😀
+
+调查官Chisithrita： 我差不多是蜘蛛这边的警察🕵️‍♀️🕷️
+
+调查官Chisithrita： Sebastian和他的人是好人，他们会协助我们调查。和他解释下你和我族的幽会吧。
+
+Manny Li： 行吧，既然Chisithrita都说了，我—那，你们都知道多少了？
+
+特工Allen： 只有基本的事，但我们想了解关于此团体的更多情况，还有你是如何参与进来的。我们和它们有长期联系，但S’kakithi一般只在它们认为有关系时分享情报。
+
+调查官Chisithrita： 😉我们喜欢隐密。但给他们说说。
+
+Manny Li： 好。我参与这个怪癖社群有段时间了，在这里还有在波特兰。Tom和Diane为本地圈子组织了很多事，然后大概是一年多以前，有一次Diane要我去陪她试一个玩法，把她按照非常详细而且古怪的指导捆起来，然后让大概是几十只狼蛛在我们身上爬。审查级，你看。
+
+特工Allen： 请原谅，调查员，但是Manny，我想很多人都会在面对S’kakithi时候遇到问题吧？狼蛛还是有点太小了。
+
+Manny Li： 对，有些人在见到S’kakithi后就翘掉了，但到这会儿他们也都发誓保密。这其实是我被调查的另一种途径。Tom给我说了什么——其实都是假的——但是劲爆，告诉我不要和别人说。
+
+特工Allen： 有道理。所以在他们决定加你进来后发生了什么？
+
+Manny Li： 好吧，首先要明白我以前参加的场子都是为某人专门定制的。但也有些通例，模式——怎么捆人不会妨碍呼吸不会有关节问题，约定安全词，那些材料和玩具，场子怎么结束。和S’kakithi都不一样。Diane用一个志愿者给我展示各种捆法，我觉得是叫Irishis，还有怎么用网，怎么从性奋的S’kakithi那里更安全的来一口毒液。这对她也更好，这样她就不用呆坐着被捆很久了。
+
+调查官Chisithrita： 哦哦哦，Irishis！她有点😘😘😘
+
+特工Allen： 抱歉，来一口毒液？这怎么安全的？
+
+Manny Li： 很安全，绝对值得。那东西简直无与伦比。对，让一对几尺长的牙插进你是有风险。但她们会补上刺孔，就像从来没有留过。
+
+特工Allen： 调查官，你们把你们的药品用给随机的平民？
+
+调查官Chisithrita： 我很抱歉。我们是该放着他们全身漏眼吗？或者你们希望我们把他们吃了？
+
+特工Allen： 你很清楚怎样更好的……
+
+调查官Chisithrita： 😛
+
+特工Allen： 这个先不管。Manny，Mr. Li，告诉我你怎么安排这些会面。
+
+Manny Li： 用Tinder。
+
+特工Allen： Tinder？面向公众的Tinder，随便哪个完全没被审查过的人，都可以和S’kakithi聊上话？
+
+Manny Li： 大概是，但它们又没有真正的照片或者直接说“你好，我是一只大蜘蛛”。
+
+调查官Chisithrita： 我们也有我们的法律。
+
+调查官Chisithrita： 若她们遵守Chalt’tiri之道，我们也会遵照Tinder服务条款的说。
+
+Manny Li： 有其他提示，比如带蜘蛛纹身的女人，或者蜘蛛爬在身上-有些是场子里来的，Diane发了一堆—最近她们一般会在档案里写上“丝女”。我想这就是社群的名字由来吧，丝主和丝女，不过我想你们也知道了。对我们，有时候是说“丝主”，但个人来说我会在刷普通人的时候找到关注的问题，然后用聊天让她们知道我是圈内的。不过我会声明我绝对是主动方，让S’kakithi选的对，避开不匹配的人类。
+
+特工Allen： 我明白了。你一般都能找到对象吗？
+
+Manny Li： 总是能。这在S’kakithi里是真很流行，有成吨的对象给我们选。
+
+调查官Chisithrita： ☝️你打住，我们才没有。
+
+调查官Chisithrita： 我们已经很满足了。你们人类才真是欲求不满！😘
+
+调查官Chisithrita： 整个种族就是一堆Irishis。
+
+Manny Li： 好了，是，这到削弱了不均衡。每个我见过的S’kakithi都会扔掉Tinder，但最后也还是会回来，但可能要隔一年多。
+
+特工Allen： 你有和某个对象保持接触、继续发展社交关系吗？
+
+Manny Li： 没，我上Tinder又不是为这个。
+
+特工Allen： 所以这些约会，都是在哪里进行？
+
+Manny Li： 一般是她们的地盘。
+
+调查官Chisithrita： Sebastian，我们带他们下地不比你们远。
+
+Manny Li： 对，有个电梯或者消防员滑管之类的。她们到处都藏有暗门。我会和夜伴儿在这些地方见面，她抓住我，然后我们就往下掉掉掉。那下面也不黑，但我不知道光从哪来。警官，真是很大。
+
+特工Allen： 请继续。
+
+Manny Li： 她们的家。我理解的那种。我以为有大蛛网之类，但其实和我们的家更像，都是在洞里。我认得大部分东西。我想如果你都能用tinder，那你也可以用亚马逊。我和对象搞一场一般会用一晚上，因为毒液要过些时间才过劲。早上，她会把我扔到我想去的随便哪里。方便上班。
+
+特工Allen： 如果你想可以在地上见面吗？
+
+Manny Li： 在某些地方可以。第一次我见到S’kakithi是在工作室，在那做了一两场。我记得Leo的地下室有个隧道。但我的公寓是绝对不可能的——我在六楼，S’kakithi对隐私非常严格。Diane会确保我们不做出可能招惹他们找我们的事。我们在社交媒体上加了她，共享我们的Tinder密码，在任何关于场子的照片上传前及时删掉。但这要好过S’kakithi做的事—抱歉调查官。这就是为何我不想和你们说这些；我听说有分享图片的人失踪了。她们说我们甚至连家人都不能透露。
+
+调查官Chisithrita： 这是不能允许的。
+
+调查官Chisithrita： 不过他们还活着啦。我们又不是妖怪。👿
+
+Manny Li： 警官，你说有罪案发生。是怎么回事？
+
+特工Allen： Mr. Li，你认为你可不可把一位S’kakithi带出她的家到地面上？
+
+调查官Chisithrita： 没可能。
+
+Manny Li： 我同意。也许如果她已经被捆绑的很好了，我可以带走她，但上那个垂直通道？我觉得我自己一个人爬都爬不上，就算我知道方法。
+
+调查官Chisithrita： 会不会是开捆或者睡觉时候被偷袭呢？
+
+Manny Li： 在我大部分的场子里，我的对象会反抗被捆，但这只是玩乐，半推半就的。我不可能制服得了一个完全不配合的S’kakithi。也许是朋友？有武器？但我看过她们蜕掉的外骨骼板，真的非常硬。就算是有枪，我不觉得我拦得住她回地下。有S’kakithi失踪了？
+
+调查官 Chisithrita： 是😠😢
+
+特工Allen： 行，我们告诉他。所以剩下还有……除非，调查官，她们可能还在你们的城里吗？
+
+调查官Chisithrita： 这我们会知道的。
+
+调查官Chisithrita： 如果这是人类所为，你们逃不过我们的路。
+
+特工Allen： 那就先按这种假设来。Mr. Li，看起来唯一的薄弱点是在地面上的场次中。你知道有谁喜欢在上面约会吗？
+
+Manny Li： 可能。如我所说，有些家住底层的有通道——Leo、Colleen、Muhammed，可能更多——我想Benjamin K有幽闭恐惧症，所以他一般是在工作室见面。啊对，就他。但基本上我们都会下地去。你看，这档子事气氛环境很重要，在这里不一样。
+
+特工Allen： 我想我明白。你最近有没有发现朋友做出反常举动？
+
+Manny Li： 他们没什么反常的。
+
+特工Allen： 那我想就这些了。调查官，你还有问题问Mr. Li？
+
+调查官Chisithrita： 😁感谢你帮了这么多忙，Manny！😁
+
+调查官Chisithrita： Sebastian可能还要再审下你。
+
+调查官Chisithrita： 我也许和你可以在别的场合再见。😉
+
+调查官Chisithrita： 抱歉有点唐突，你的网名是？
+
+Manny Li： Tinder上吗？啊没问题。是“HungManny”。
+
+调查官Chisithrita： 我会关注哒！😁
+
+调查官Chisithrita： 👁️👁️👁️👁️👁️👁️👁️👁️ (🕷️)
+附加记录：
+
+采访3629-6： 2018年2月27日，依照采访3629-5的安排，IAC允许基金会查阅SCP-3629人类参与者与失踪S’kakithi的聊天记录。Sebastian Allen特工与S’kakithi调查官Chisithrita及Iskeran在2018年3月1日会面讨论发现。
+
+特工Allen： 早上好，调查官Iskeran，调查官Chisithrita。Tinder终于提交了记录。
+
+调查官Chisithrita： 很好！😃我们来看一眼。
+
+调查官Iskeran： 🕷🔎
+
+特工Allen： 好，我想我们从最后一个失踪者开始。如果你们看屏幕不方便就告诉我。这是K’taithar的记录。她和SeventhWalrus见了面—好吧，我想是为胡子——这似乎是某位Eric Thierse的账户。
+
+调查官Iskeran： 我见过这个名。
+
+调查官Iskeran： 但没见过人。
+
+调查官Chisithrita： 他看起来挺壮。💪他会是网吗？
+
+调查官Chisithrita： 我是说，饵？
+
+调查官Iskeran： 这个名字在这里很久了。
+
+特工Allen： 我不这么想。他似乎有段账户历史，我推测我们的绑架者还不能编辑Tinder的文件。
+
+调查官Chisithrita： 双方的联络人。我不认识这个SeventhWalrus，但我记得Aserak那时非常满意。🤪所以他是真的然后某天开始绑架⛓他的对象？有他的人类失踪吗？
+
+特工Allen： 我还不知道。我们可以查一查。回到K’taithar的最后一次约会。信息有没有奇怪的地方？
+
+调查官Chisithrita： 我看着没有。他表现正常。但所有掠食者都会取悦她的猎物。
+
+调查官Chisithrita： 他们在地上工作室见面。
+
+调查官Iskeran： 这有关系。我们不会从上路旅行。我们，那一定是K’taithar被抓走的地方。
+
+调查官Iskeran： 绝对的🔎。这是其他🕷被抓的地方？
+
+调查官Chisithrita： Sebastian，我们再看看。Espachia呢？
+
+特工Allen： 好，我们看看……她最后一次会面不是和Mr. Thierse。Espachia和叫做Tietan的人见了面。这里说她的真名是—
+
+调查官Iskeran： 😲😲😲😰🤯
+
+特工Allen： 呃，怎么了调查官？
+
+调查官Iskeran： 我见过她
+
+特工Allen： 何时？
+
+调查官Chisithrita： 和他们的雌性？🤢你觉得一边吃人一边做很OK吗？
+
+调查官Iskeran： 人类没有真正的性别。他们基本上是一样的。🚺和🚹都无视Chalt’tiri之道。我看着没差别。
+
+调查官Chisithrita： 他们有Tinder服务条款！如果你去了解下他们，你会明白的。
+
+调查官Iskeran： 你让他们绑你的那些不也是人么？你还说我堕落？
+
+特工Allen： 各位调查官！拜托，我不理解，这真的有关系吗？Iskeran，调查官Iskeran，你说你见过Ms. Willard-Neeson, Tietan。这是为，呃，SCP-3629？是什么时候？
+
+调查官Iskeran： 是。而我的调查官同事不可能对此在Chalt’tiri找到什么可谴责的。
+
+调查官Iskeran： 我和她四天前见过。
+
+特工Allen： Espachia失踪后。她看起来有不适或者别的吗？任何不对劲的表现，任何在地面上对你的过激举动？
+
+调查官Iskeran： 我不知道怎么分辨她不舒服，但她非常满足。
+
+调查官Chisithrita： 她怎么和Espachia说上的？
+
+特工Allen： 我找出来。啊又是在工作室见面。这肯定是主线。
+
+调查官Iskeran： 我们在她🏠附近的上路见面。
+
+特工Allen： 所有这些见面都是在工作室？我可以继续往下翻页吗？
+
+调查官Chisithrita： 🤔继续。
+
+特工Allen： Ikla’akti在会见RebelStar929后失踪……在工作室。Sichariti在会见LionManWaistDown后失踪……在工作室。Chik—
+
+调查官Chisithrita： 🔎LionManWaistDown的名字是Leo吗？🔎
+
+特工Allen： Leonel Simcoe，是的。
+
+调查官Chisithrita： 我们在Leo的家里修了条上路。他和地面贴着。他没理由去工作室见面。
+
+特工Allen： 似乎这是所有绑架发生的地方。我们可以搜查那里，但也许有什么必要的东西来制服受害者。
+
+调查官Chisithrita： 🕵️‍♀️我不觉得。Sebastian，Iskeran调查官，Leo和其他这些会不会是假扮的？
+
+调查官Iskeran： 欺骗吗？这不应该。Allen特工，回到Espachia和Tietan的谈话。
+
+特工Allen： 好。
+
+调查官Iskeran： 这没让你想起SeventhWalrus的方法吗？
+
+调查官Iskeran： Tietan不是这么跟我说话的。
+
+调查官Iskeran： 🕸🕷👿🕸
+
+调查官Chisithrita： 🧠啊，想得好，调查官！🧠把你和Tietan的对话给我们看看。😉
+
+特工Allen： 我们有书写鉴定专家，我自己不是，但我可以联系。
+
+调查官Chisithrita： 你是人类。如果Iskeran觉得她看出了不对，你肯定也行。
+
+调查官Iskeran： 我的个人通信不该牵涉到案子里！
+
+调查官Iskeran： 但我可以给Allen特工看。
+
+特工Allen： 好吧，对，这肯定和Espachia的对话不一样。除非她在你和Espahchia这段时间里忘了怎么大写字母。好了，我觉得这个猜测挺不错。某人以某种方式登录了Tinder上与3629有关系的人类账户，安排S’kakithi在工作室见面，在这……等下？Manny来的时候我们也是卡在这了，Chisithrita。受害者不是该发现对象不对就缩回地下吗？
+
+调查官Iskeran： 不。
+
+调查官Iskeran： 你们看起来一个样。
+
+调查官Chisithrita： 🤫
+
+调查官Chisithrita： 更外交辞令的说，你们看起来是人类。
+
+调查官Chisithrita： 当你们聚在一起，我能分辨出你们——你们有不同的衣服，皮肤，毛发，体型——但单独一个，就很难。特别是你们外形改变有这么大！
+
+调查官Iskeran： 她可能会让别的某人把自己捆起来。
+
+特工Allen： 然后当对方撕破伪装也无力逃脱了。
+
+调查官Chisithrita： 😥我们有这种故事。有些还很浪漫哒❤️主角发现她的捆绑者其实是盘亮丝多的雄蛛而非她巢穴周围的掉皮老跟踪狂。但真实生活里？被人类？🤢💔💔💔
+
+特工Allen： 所以我们要的是某个能接触工作室，能骇入别人的账号，还能有理由这么做的人。
+
+调查官Chisithrita： 😳😳我觉得我知道是谁。
+
+调查官Chisithrita： HungManny说由于害怕走漏风声后人间蒸发，他和其他丝主都是让BoundToPlease——Diane——监控他们的Tinder账户。当然她也能接触工作室。
+
+特工Allen： 对！我想我们最好找她来问问。还有她丈夫Tom也是；如果她是幕后主使，他也可能是一伙的。这两个可能比其他任何人都更了解你们，除了基金会。
+
+调查官Iskeran： 或者全球超自然联盟。
+
+调查官Iskeran： 或者大都会运输署。
+
+调查官Iskeran： 或者冬日叶。
+
+调查官Chisithrita： 🤫那什么，调查官，留点悬念让Sebastian自己去调查嘛。😉
+附加记录：
+
+附录3629-6： 采访3629-6后，基金会特工将Diane与Thomas Mallory逮捕。审讯后，两人供认绑架监禁了六名S’kakithi长达三个月。Thomas解释称他们在从受害者处收集毒液作为毒品贩卖。由于S’kakithi毒液不具异常性，Mallory夫妇也未透露其药品来源，无必要对买家进行追查。受害者在二人拥有的房产内救出，虚脱但仍然存活。在S’kakithi公国的坚持要求下，Thomas与Diane被押送给它们监禁。
+
+附录3629-7： 下面是部分Tinder上参与SCP-3629的S’kakithi档案。
+
+Footnotes
+1. 关于S'kakithi生态、社会和其与基金会间历史的更多信息，参见SCP-████。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                蜘蛛
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            22 Oct 2018 15:04
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Eat-Drink-Man-Woman
+                      
+              A hang-out place to relax and chit-chat about food and boy-girl stuff...
+            
+          
+        
+              
+          
+            
+              
+            
+            Logos Tao Deus
+                      
+              a slowschool
+            
+          
+        
+              
+          
+            
+              
+            
+            Math Aerobics
+                      
+              ADIDAS - All Day I Dream About Sums..!!
+            
+          
+        
+              
+          
+            
+              
+            
+            Smallworld GIS Wiki
+                      
+              Help and references for the Smallworld Community
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

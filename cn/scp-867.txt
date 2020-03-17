@@ -1,0 +1,233 @@
+                        
+
+一株被摧毁前的SCP-867植株。
+
+项目编号： SCP-867
+
+项目等级： Euclid
+
+特殊收容措施： SCP-867的样本应被储存于██号生物收容站点的E区之中，对于SCP-867的定期维护只能通过远程遥控设备和自动灌溉系统进行，且任何情况下人员进入该收容区域必须装备凯夫拉衬底全身NBC防护服。任何离开SCP-867收容区域的人员都应通过除草程序以及检查，并且任何发现了穿刺点的人员都应进行不少于15天的隔离。
+
+对于SCP-867的实验需要不少于2名3级人员的书面批准。
+
+描述： SCP-867是一种视觉上类似于Picea pungens，或称蓝叶云杉的针叶树，除了它那与众不同的通体红色，以及在它生命的任何阶段都没有出现球果这一现象。
+
+SCP-867的叶子是一种类似于皮下注射针的中空结构，其中包含着一些长而薄的种子，并且在叶子底端还有一个小气囊。当一只动物擦过叶子时，气囊将会炸开，并将这些种子注射进动物的皮下，就像是使用自动注射器的机制一样。由于种子本身较小的尺寸，并且这些种子还包裹在一层薄薄的具有麻醉和凝血作用的液体之中，导致了这一注射行为几乎不能被察觉。
+
+这些种子最多会在动物皮下保持2周的休眠，在那之后种子将会开始生长，向宿主的循环系统之中伸展它的根茎。这一过程将会导致宿主产生酷刑般的疼痛，最多持续24小时，最后无一例外地导致了宿主的死亡。新的SCP-867植株将会从宿主的身上生长出来，30天后成熟，在这个过程之中将宿主的身体彻底分解。
+
+SCP-867最先是在科罗拉多州的[数据删除]被发现的，那是在199█发生了一系列奇怪的登山者和公园游客失踪事件之后。基金会派遣了一个小队前往，并且以可接受的人员损失回收了数株SCP-867的幼体。所有SCP-867的野生植株（大约有███株）都被摧毁了。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                种群
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Jul 2017 21:14
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Wikistória
+                      
+              A enciclopédia de História feita por estudantes
+            
+          
+        
+              
+          
+            
+              
+            
+            Albums-template
+                      
+              Your pictures
+            
+          
+        
+              
+          
+            
+              
+            
+            C++ Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Himetop
+                      
+              The History of Medicine Topographical Database
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

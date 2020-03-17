@@ -1,0 +1,236 @@
+                        
+
+项目编号： SCP-2128046979-J
+
+女朋友等级： 真实
+
+特殊收容措施： 和初级研究员Jimmy一起被分派到Site 534或站外项目的人员应被定期提醒SCP-2128046979-J是真实的，且是他的女朋友。质疑此二条中任意一条者将被立即押送心理检查，且，若发现其受到SCP-2128046979-J的异常影响，应予以强化再教育，再确认其对SCP-2128046979-J真实性和恋爱关系的信念。若不能再确认对SCP-2128046979-J的信念，将可能对初级研究员Jimmy引起一次EXGF级关系告吹情景。
+
+描述： SCP-2128046979-J是初级研究员Jimmy的女朋友。SCP-2128046979-J确信受到一系列逆模因和因果类异常现象影响，使她无法和Jimmy研究员外任何驻扎534号站点的基金会人员产生物理互动，与她相关的大部分信息也被阻断。例如，和Jimmy研究员交谈的同事证实无法获得关于她所在位置的信息，只能感知到“她在其他站点工作”这一回应。
+
+虽然SCP-2128046979-J的逆模因性质影响了关于她的具体信息，但更不具体的信息似乎是不受影响的，程度当前有待测试。下列关于SCP-2128046979-J的事实已通过讯问初级研究员Jimmy（正在与她交往）而得到确认：
+
+SCP-2128046979-J和初级研究员Jimmy正在谈恋爱。
+SCP-2128046979-J为基金会工作，在某个不是534号站点的站点。
+SCP-2128046979-J非常有吸引力。
+SCP-2128046979-J和初级研究员Jimmy经常发生性关系。
+SCP-2128046979-J的名字是Monika或者Monica；不一致推测是其逆模因性质引起。
+SCP-2128046979-J没有手机或者邮箱地址，她工作的站点是超级机密所以没有地址可以给她寄信。
+
+附加记录：
+
+附录2128046979-J-1： 于██/██/2018，特工Marcos提出SCP-2128046979-J不是真实的指控，初级研究员Jimmy向其展示了一张她的照片以作回应。Marcos特工被押送心理检测， Jimmy研究员的手机被查收以供研究该图片。在更多调查后，确认该照片是cosplay模特████ ██████的图；确信这是SCP-2128046979-J的性质所致，只有研究员Jimmy才能看到真正的图片。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                逆模因
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Apr 2018 10:37
+            
+            编辑
++1)
+标签
+讨论 (12)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP Sandbox
+                      
+              of the International Translation Archive
+            
+          
+        
+              
+          
+            
+              
+            
+            Dragon Trees
+                      
+              A Dragon Cave Fansite
+            
+          
+        
+              
+          
+            
+              
+            
+            Generalia
+                      
+              your one-stop shop for all things generals.
+            
+          
+        
+              
+          
+            
+              
+            
+            AviationKnowledge
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

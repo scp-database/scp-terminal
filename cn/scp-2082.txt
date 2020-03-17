@@ -1,0 +1,244 @@
+                        
+
+与SCP-2082相关的设备
+
+项目编号： SCP-2082
+
+项目等级： Neutralized
+
+特殊收容措施： 所有已知SCP-2082的DNA样本应储存在Site-190的标准生化收容单位内。无异常的仿冒品应分发给那些认为自己持有SCP-2082部分的主要科学组织。所有试图在基金会之外创造在该科技的试图将由潜伏在科学家的特工阻碍。创造一个SCP-2082实体所需的装备应维持在分解状态并储存在Site-77。
+
+描述： SCP-2082已知是猛犸象（Mammuthus primigenius），一种已灭绝的动物。当活着时，其肩高在2.7到3.4米而重量在6公吨左右。其在4,000年前灭绝，其中绝大部分族群灭绝于约10,000年前。
+
+观测SCP-2082实体是受限的。由于SCP-2082在世界上的破坏性效应，至今没有其外形的精确数据。当一个SCP-2082实体被创造出来，其身体周围250米内所有空间的局部温度都会立即改变。表面温度会马上跌到零下10度，通常导致范围内所有生物的死亡。若SCP-2082实体开始移动，其效应将与其一起移动，而其原本呆过的地方的效应也将继续持续。
+
+一旦SCP-2082的效应覆盖了一片超过20平方米的区域，该区域周围将在所有固体表面上以类似SCP-649的方式延伸出大量的冰和雨夹雪。此外，SCP-2082的效应区域在到达此临界点后的4分钟后其范围将会扩大到半径1公里。SCP-2082产生的冰和雨夹雪将会持续加剧直到受影响区域产生类似暴风雪的天气。SCP-2082免疫于其自身效应产生的直接结果。
+
+导致SCP-2082被创造的科技研发开始于1962年，基金会当时试图通过使用从博物馆购买和从SCP-2706获得的组织和其他冰冻尸体来研发克隆科技并重建SCP-2082物种。该计划由Research Area 908的Ascher博士和一支研究员小组负责领导和管理。在1962年10月和1983年6月之间，他们试图通过技术方法制造一个SCP-2082的复制品。用于创造SCP-2082的技术并无异常，研究计划的目的是为了阐释克隆的过程。
+
+当前，由于事故2082-Prime造成的大量破坏，所有克隆额外动物种类的研究都已中断。
+
+附录： 文件2082-01：文件回收自Site-62-B外部，与事故2082-Prime有关。文件是自动备份，而所有原始数据都被摧毁了。
+
+最后测试条目：1983年7月4日。由研究员Stevens，高级研究员Boyd授权，特工Fredericks负责远程监督。
+
+克隆装置的初次测试完全一次灾难。测试设施变成了冰冻的粉末，所有主要研究人员都被假定死亡。Site锁死被启动，而残余的研究员小组假定若再出现任何损伤将会起爆site内的核装置。这被认为是合乎情理的处置。
+
+出现在测试隔间内的实体似乎是克隆物种，一个青年体（猛犸象属）。在打开隔间门的一瞬间，温度马上跌到零下10度，并从那开始迅速下降。当整个设施内的温度达到零下190度时，实验室，宿舍和内部隔间内所有的研究人员都被假定死亡。若此日志被基金会人员所回收，请注意该实体没有显示出任何明显的物理特性，除了免疫于它们自己的效应外。一个[数据中断]
+附加记录：
+
+在回收行动以及对Research Area 908的清扫完成后，SCP-2082的尸体发现在距site约1公里处。尸检指出其死因是由于不合适的克隆过程而造成的主动脉瘤。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自主
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Oct 2018 17:19
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            projects.wikidot.com
+                      
+              Wikidot Projects Forum
+            
+          
+        
+              
+          
+            
+              
+            
+            Tasker Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Solpadeine Help
+                      
+              Help and information about Solpadeine addiction
+            
+          
+        
+              
+          
+            
+              
+            
+            NYC: Veil of Shadows
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

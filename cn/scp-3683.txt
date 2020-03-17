@@ -1,0 +1,243 @@
+                        
+
+已呈分散状态的SCP-3683实体
+
+项目编号：  SCP-3683
+
+项目等级：  Keter
+
+特殊收容措施：  目前以为掩盖故事，在纽约州的雪城中进行隔离行动。一旦任何SCP-3683实体试图离开城市，需在视线内多次对其捕杀。其遗体将用于研究，或者应被焚毁。
+
+MTF Gamma-119 ()运营着前台公司，害物防治基金会，并负责除鸽器的维护。同时在城市内，强制进行适当的废物处理，且灭绝所有的鸽子，直到SCP-3683的种群数量达到完全可控的程度。
+
+该区域的主管拥有自由裁定权，可用异常科技和SCP项目来部分捕杀SCP-3683，以控制其种群数量。而在任何情况下，在雪城方圆100公里内，都不允许任何有知觉或携带异常的鸟类实体出现。
+
+SCP-514或者其他任何有知觉的鸟类个体进入该检疫区内时，预期在5年内会引发SK级“支配地位转变”末日情景。须不惜一切代价避免其发生。
+
+描述：  SCP-3683是种敌对的、异常的鸽子亚种(Columba livia anomalis) ，当前遍布于纽约州雪城。
+
+SCP-3683是庞大的、杂食性的鸟类，其翼展宽达1.5-7 米。SCP-3683稍稍近似于按比例放大的普通rock pigeons，但多个实例指出其羽毛样式随机与其他鸟类相同。 这些鸟儿的喙部与喉部，也排列有退化的牙齿。
+
+SCP-3683一般像普通的鸽子一样以垃圾为食。但，已知年长的或者身形庞大的事例会狩猎和抓走小型动物，如其他鸟类、啮齿动物、小型猫狗，等等。
+
+SCP-3683会在陷入绝境或将被杀死时，变成一群外观上看与普通鸽子无异的鸟类。若其能逃脱，部分个体会重组成新的SCP-3683实体。小鸽子们重组时并不需要来自同一母体，新实体的特征将会由其所有的祖细胞的特征混合而成。
+
+SCP-3683不能相互交配，但可与其他大部分的鸟类繁殖后代，无视生殖隔离和地理隔离。通过这种方式产出的卵会快速孵化，是其他非SCP-3683的普通鸟类速度的6倍。新幼鸟通常带有外来物种的特点、生物特征和本能。
+
+因SCP-3683分散与重组能力而带来的适应性，会在种群内快速扩散。例如，第一次已知的与蜂鸟交配的个体，导致了在一个月内，70%的SCP-3683实体可以在空中悬停和反向飞行。
+
+MTF Gamma-119的智能系统指出，SCP-3683实体已经淘汰了城市中的鸦科鸟类，并开始使用复杂的工具。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Sep 2019 12:43
+            
+            编辑
++2)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            PassatB5
+                      
+              Do It Yourself information for Passat Repair!
+            
+          
+        
+              
+          
+            
+              
+            
+            The World of Metamor Keep
+                      
+              Welcome to Metamor Keep
+            
+          
+        
+              
+          
+            
+              
+            
+            iaac emergent culture glossary
+                      
+              words, words, words
+            
+          
+        
+              
+          
+            
+              
+            
+            Great Hyderabad Adventure Club
+                      
+              Advenutre and Nature Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

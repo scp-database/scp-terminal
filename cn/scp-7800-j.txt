@@ -1,0 +1,240 @@
+                        
+
+SCP-7800-J正被研究員Boyd測試中。 要注意他的臉並沒有融化掉或發生了什麼。
+
+項目編號：  SCP-7800-J
+
+項目等級：  Euclid
+
+特殊收容措施：  受SCP-7800-J影響的食品對收容而言實在過多，已有部份被扣留於Site-76的休息室中。 沒有人員因受SCP-7800-J影響的食物而生病或死亡。
+
+描述： SCP-7800-J是一種影響已經跌落到地板上的食品的現象。在大約五秒的時間內，所有可能的污染物都不會影響到它。這種神奇的現象在Site-76的員工休息室中被研究員Boyd觀察到無數次。在實際表現上它也不算是十分不尋常。
+
+當被激活時，受SCP-7800-J影響的食物周圍的人員將會作出反應，彷彿受影響的研究員在進食他不會 吃的，來自垃圾桶的食物一般。研究人員會注意到，無論如何，在一個廚房櫃檯上有著更多的污染物。
+
+人員同樣注意到使用SCP-7800-J能為基金會節省更多時間及金錢以更好地用於收容上。由研究員Boyd獨自完成的研究顯示一個可能會發生的那幾秒時間異常有可能會暫時擴張，取決於對象的飢餓程度以及食物的價格。研究員Boyd列出了圖表：
+
+SCP-7800-J研究資料。
+
+超常事件7800-J-17，Jim Pepperoni的五起司餡餅事件，估計能節省基金會人員最少5.95美元。這5.95美元允許用於購買肉桂葡萄乾貝果，這有助於進一步提高站點士氣。 SCP-7800-J更有助於從異常5XJ9 - 手中保障站點物資。
+
+附錄： 實驗者承認SCP-7800-J在涉及液體的場合下有可能會失效，包括醬油，但對於超常事件7800-J-17沒有任何影響，因為研究員Boyd只用了兩口而且它們基本上都在頂部。
+
+事故報告： SCP-7800-J還顯示出對髒盤子的影響——研究員Darryl Jacobs在他喝了一碗湯後攜帶大量的盤子，並意外丟下了它們。研究員Boyd設法抓走了9個盤子，並開始把它們給了Site-77的狗，Sparky。它成功吃光了掉下的食物而沒有造成爆炸或任何事情。
+
+Footnotes
+1. 譯註： 即是吃牛油或果醬吐司的時候不小心讓塗醬那面沾到地下的慘事。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            02 Dec 2018 21:12
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            IS2216 - JAVA WIKI
+                      
+              Java for beginners
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiMechanics
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            pagi
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CCS Related
+                      
+              Malkavian guide to CCS life
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

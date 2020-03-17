@@ -1,0 +1,249 @@
+                        
+
+困倦的午前
+
+    
+    
+    
+    
+
+世界上还有什么事情比，不仅可以享受基金会的各种待遇，同时还不用和大怪兽拼命，不需要在什么大沙漠工作，甚至要看守的东西是一个Safe级，这一切加起来还要好的呢？
+
+啊，那就一定只有一件事了，恰好你还是站点主管。
+
+这个站点没花多久就落成了，因为原本就是别墅改装来的，实际上还有不少东西根本就没有动过。比如这个原书房，现站点主管办公室里的大沙发，更不必说这个整整40平米的私人高档办公室，甚至还有午休隔间了。以前在Site-CN-37的时候，可从来没有这么好的待遇。那站点虽然也没什么危险的东西，也在闹市区，不过总有各种严苛的不得了的条条框框，不允许做这个，不允许做那个。
+
+比如说，不允许坐在沙发上一边喝茶一边看报告。
+
+你悠闲的又喝了一口茶，然后随手在纸张下面漂亮的签上了自己的名字，又把它随手扔到桌子上，拿起了下一份文件。这是刚刚从Site-CN-37那里传来的项目收容措施启动许可，这一叠纸上书写的计划你也知道，虽然收容站点已经落成，但是实际上的收容还没有启动，而差的也就是这最后一份许可了。
+
+前面的具体事项你都已经不知道看过多少次了，你手一抖，直接翻到了文件的末尾，又签了一次名。没过多久，收容装置的实际负责人便来到你的办公室取走了那份文件。好了，这下许可已经有了，茶也快喝完了，只等最后一次装置检查结束，启动收容，万事大吉。
+
+不过说起来，这个项目还真是有趣啊。
+
+你这样想着，一想到那个奇怪的收容措施，还有什么“仙女”，就感觉越奇怪了。在基金会也工作了不少年，各种古怪的仪式你都见得太多，不过这种简直像是开玩笑一样的东西你也还是第一次见。虽然你完全不知道研究部那群人为什么会相信这样做就可以确保收容，不过这也和你没有关系了。
+
+你又倒出一杯茶，上午的工作还真是无聊，令你昏昏欲睡。虽然你努力的尝试找些什么事情做，不过还是感到人生如此空虚。你在电脑上翻来覆去找着各种东西，结果还是在连续第七次三维弹球开局坠毁后无力的关掉了游戏界面。
+
+你瘫倒在沙发上，两眼发愣的盯着屏幕，窗口开开关关后，剩下的只有不久前传来的那份许可的电子版，正翻到了那个异常本身的文档。
+
+SCP-CN-1993
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2019 04:34
+            
+            编辑
++33)
+标签
+讨论 (13)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Larpard
+                      
+              Vše nejen o larpech ve východních Čechách
+            
+          
+        
+              
+          
+            
+              
+            
+            Trading With The Flow!!!
+                      
+              The Art of Trading the NOW
+            
+          
+        
+              
+          
+            
+              
+            
+            ASP.NET Wiki
+                      
+              This website is no longer actively supported
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiEthica
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,231 @@
+                        
+
+项目编号： SCP-365
+
+项目等级： Euclid
+
+特殊收容措施： SCP-365被储存在Site-23的储存箱中，除实验目的外SCP-365必须远离任何水体。SCP-365随时保存于一个实验池中，通往水池的门需要上锁并有一名安保人员看守（见附录365-02）。对其进行实验需要对至少3级研究员申请。
+
+描述： SCP-365是一个由聚乙烯泡沫制成的绿色泳池浮条。外观上并无特殊之处，并且和同尺寸的常见泳池浮条并没有物理上的区别。只有被置于水体中时，SCP-365才会显现其特性。当一名测试者完全潜入SCP-365所在的水体中后，其将变得无法逃出水体。
+
+测试人员报告说在实验过程中有一种恐惧感，称感觉他们自己身处于无尽的深海中，他们不停朝着一个方向游去，却发现不论如何都只能看见更多的水（见音频记录365-03）。水池外的人员注意到重要的一点，测试人员仅仅只是在原处划动自己的手臂。
+
+将水里的人救出的唯一方式是将SCP-365从水中移出，之后它的影响便会消失。其余任何救助方法均被证明无效：缆绳和绳索在水下会受到一种超自然的抵抗，并随之断开。排水系统亦毫无作用。人为进行介入的行为将导致[数据删除]。
+
+附录 365-01： SCP-365与19██年██月██日在████，████被发现。特工在████公共泳池内██名市民的尸体中找到了它。由于当时SCP-365的特性并不为人所知，██名基金会特工因此丧生。SCP-365最终被找出并移出泳池。基金会以从维修不当的热水器中泄漏的一氧化碳事故为托辞掩盖了真相。
+
+附录 365-02： 20██年██月██日，█████研究员发现Site-23收容区的19号走廊洪水泛滥，该研究员随后发现水从SCP-365的收容器中以5L/min的速度溢出，她迅速通知了Talon博士。博士打开收容器后发现SCP-365正从气孔处向外喷水。SCP-365被转移到实验池后，水流便停止流出。自此，SCP-365的收容器被更换。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Apr 2018 11:59
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Zombie Cafe Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Darksouls3
+                      
+              Your trusted source of information for Dark Souls 3
+            
+          
+        
+              
+          
+            
+              
+            
+            WoW-Arrakis
+                      
+              Clan Hordeño de CThun
+            
+          
+        
+              
+          
+            
+              
+            
+            CUA SLIS Comps Study Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,243 @@
+                        
+
+项目编号： SCP-2986
+
+项目等级： Safe
+
+特殊收容措施： SCP-2986收容于Site-88九楼的2986收容间内。使用SCP-2986须至少一名2级以上权限人员批准。SCP-2986内找到的任何物品都将被存放于收容间一旁的安保锁柜内。
+
+描述： SCP-2986是一纸板箱，最初是被用于运送一台惠而浦制冷机组（地址为佛罗里达州朱庇特市）。若进入SCP-2986内并将其封闭，其内部将会表现为一艘宇宙飞船的船舱。舱内的技术超过人类当前发展水平，似乎是为供人形个体使用而设计。
+
+船舱后部有一手动操控的减压舱作为出口。飞船的外部为真空。在飞船观察位置没有可见星体，故无法定位。飞船一侧上写有“航型家（voyajer，错误拼写的航行家）”字样。飞船可以超光速前进，似乎有着无限的燃料。尽管已进行多年测试，从未在SCP-2986内发现其他物体、生命、星体、流浪星体。
+
+在发现项目时有三具尸体在其中。依照记录此飞船的船员分别是“海贼Jimmy Billings”（殁年55岁）、“Sara Ackerman”（殁年55岁）、“船掌（原文如此）Billy Abraham“（殁年56岁）和“Mary Jones”（失踪）。由这些人员留下的文字记录显示该飞船在被他们使用的前20天内遭遇了各种生命形式，但在接下来的7年里此种遭遇变得极其少见，剩余的43年里没有遭遇记录。
+
+Sara Ackerman和Jimmy Billings似乎死于头部遭近距离枪击。Billy Abraham似乎是在这之后自杀。三具尸体上没有搏斗的痕迹。
+
+飞船的操作系统使用一种由西班牙文和中文融合而成的变体文字。在飞船电脑系统中找到了数份由死去船员留下的英语文字、音频记录。电脑记录中没有Mary Jones的音频记录。下面是最后一份提及此人的记录：
+
+海贼Jimmy Billings的记录：第4958天 
+
+要是我们转过头也许就能再找到Gorblaks，或者Pufferkins。我快记不得它们了，但我知道它们存在。Billy说那些都是梦。现在还是梦。有天我们会醒的。他说我们只需要继续前进。
+
+Mary同意我的看法。她说她明天要和Billy谈谈。
+附加记录：
+
+附录A： 
+
+佛罗里达州朱庇特市的失踪人员报告显示Billy Abraham在1965年失踪。然而，学校记录显示其他几名人员一直出席到1977年。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                门径
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Apr 2018 02:21
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP基金會
+                      
+              控制，收容，保護
+            
+          
+        
+              
+          
+            
+              
+            
+            Generalia
+                      
+              your one-stop shop for all things generals.
+            
+          
+        
+              
+          
+            
+              
+            
+            Chaos Insurgency
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            AdventRO Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

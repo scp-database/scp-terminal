@@ -1,0 +1,241 @@
+                        
+
+項目編號：  SCP-2559-J
+
+項目等級：  Keter
+
+特殊收容措施：  此時SCP-2559-J被收容在Site██的底部,但當它最終突破Site██的頂部溢出時，收容將迅速變得不可能。
+
+描述：  SCP-2559-J是SCP-████的應用和一名不小心的研究員交互出來的結果而且可以作為沒遵守研究方法時會發生什麼事的反面教材。
+
+SCP-2559-J是██████博士切過運行中的SCP-████時出現的空間。SCP-████使用者能隨意切開現實並創造一個能讓物質通過的傳送門。在SCP-2599-J出現的時間點，██████ 博士本來是要調查一個和我們世界平行存在的所謂“naziverse”。
+
+當切口創造出來並開啟的時候，安全日誌顯示有大量不同品種的貓填滿了傳送門並以巨大的力噴出並瞬間殺死了██████博士和他的助手團隊。不久房間被小貓填滿並對周圍的門施加大量壓力最終沖破門戶並開始填滿Site██。
+
+幸運的是Site██建於Site██的陷坑內，該站點原本於數年前為了避免一場可能XK級收容失效而被摧毀，所以傳送門是坐落於地面下5.6公里(3.5英里)。自SCP-2559-J開啟以來，小貓以每秒11.31升(每秒3加侖)的恆定速率伴隨巨量壓力蔓延出來。
+
+基金會研究員試圖消滅小貓以接近並關閉SCP-2559-J，但發現小貓，或通稱為貓團，似乎免疫常規武器而且可以在巨大的壓力或溫度下不受損傷地生存。
+
+任何小貓個體自貓團中移出後從各方面看都變得平平無奇，而且放回貓團裡時又能完美契合。基於這種原因SCP-2559-J已接受Keter分級而且除非儘快找到解決方法不然將會變得無法收容。
+
+附錄： 
+
+根據Rights博士這名被很多人認為是基金會最重要的小貓專家的說法，SCP-2559-J顯然是一個通往＂無限小貓位面＂的傳送門。顯然這位面什麼都沒有就只有一團無限大的貓團而且所有小貓可能都是來自這個地方。這能解釋為什麼小貓會以如此力量自SCP-2559-J噴出的同時貓團在的任何位置中施加的壓力能達到天文數字的原因。
+
+由於貓團對所有試圖進入的人施加了使他們除了蜷縮起來睡覺以外什麼都做不了直至他們沈到能被大量小貓的壓力壓死的點為止的昏沈效應，接近傳送門的嘗試至今仍未成功。
+
+請記住，對於Right博士和特工Tam來說，任何及所有對貓團和Site██進行大規模處決或破壞的嘗試都已達到大規模非理性暴力的水平。試圖尋求解決這個問題的方法的時候，應該特別注意。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                门径
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            17 Apr 2017 04:35
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Space Epic Untitled
+                      
+              From KUMA Games
+            
+          
+        
+              
+          
+            
+              
+            
+            สถาบัน SCP
+                      
+              ควบคุม, กักกัน, ป้องกัน
+            
+          
+        
+              
+          
+            
+              
+            
+            VisCom
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Extra Bees
+                      
+              Plugin for the Forestry Mod
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,244 @@
+                        
+
+固态下的SCP-4394-A。
+
+项目编号： SCP-4394
+
+项目等级： Euclid
+
+特殊收容措施： 当前SCP-4394-A的库存储存于无菌的200升圆桶中。
+
+SCP-4394和SCP-4394-B分别收容于单独人形生物收容间。
+
+描述： SCP-4394是Joaquin Marquez，一位前钢琴演奏家，血液被异常黑色粘液（SCP-4394-A）替代。
+
+SCP-4394-A主要以蛋白质和有机聚合物构成。当SCP-4394-A冷却至其冰点（1.19°C）以下时，一些液态的SCP-4394-A将结晶为一台大小成比例的、可运作的三角钢琴。举例而言，将几滴SCP-4394-A冻结会产生一台约1cm宽的钢琴。
+
+摄取SCP-4394-A时，其会不变地通过消化道，但可能引起轻微恶心。然而，SCP-4394-A通过静脉注射时具有麻醉和突变源性质。
+
+在SCP-4394-A的影响之下，对象的创造力及生产力会有显著提升，且听觉变强。SCP-4394-A有中度成瘾性；其效应在稳定前会逐渐增强，并随着身体耐受性的发展逐渐减弱。
+
+当通过静脉实施注射时，SCP-4394-A会在6-8周的时间内逐步把血液、淋巴及耳蜗流体转变为自身。持续的注入能加速转变过程。在流体完全转变后，SCP-4394-A对象报告有持续钢琴音乐以及一种难以辨认的男性人声的听觉幻觉；除此之外，SCP-4394-A的功能与原先体液无明显分别。
+
+SCP-4394被发现在Mackenzie Lawrence（现SCP-4394-B）的地下室被束缚着，其已经提取并注入SCP-4394-A估计七个月。在地下室发现的其它物品包括：
+
+由SCP-4394撰写的原始和未完成乐谱。
+SCP-4394在其一生中所拥有或使用过的全部乐器，包括一架盖上刻有SCP-4394面部的三角钢琴。
+数千张SCP-4394的相片，年代跨度19年。
+SCP-4394的高中音乐老师的尸体。
+
+SCP-4394和SCP-4394-B随后被收容并执行了精神病治疗。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                音乐性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            22 Nov 2019 11:49
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Green House Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Surreal64 CE
+                      
+              Nintendo 64 Emulation for XBOX
+            
+          
+        
+              
+          
+            
+              
+            
+            Connors Campaigns
+                      
+              My dashboard for RPGs, Music, Sports, and more.
+            
+          
+        
+              
+          
+            
+              
+            
+            lostwhat的私人沙盒
+                      
+              A quick start for your SCP-Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

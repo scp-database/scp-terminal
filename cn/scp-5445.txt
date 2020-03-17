@@ -1,0 +1,237 @@
+                        
+
+威胁等级： 黄色
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特殊收容措施： 中东/北非(MENA)地区的餐馆应定期检查是否存在SCP-5445，应特别注意在已知受感染餐馆10公里范围内的餐馆。受感染的餐馆将以违反卫生法规为由关闭。在埃及和阿尔及利亚政府的要求下，关张餐馆可能会在菜单中加入有效的抗生素后重新开张，然后仔细观察。
+
+餐馆关闭后，应检查餐厅账户的SCP-5445-1的销售情况。被发现订购了SCP-5445-1的人将被机动特遣队Lambda-14(“Manhunters”)找到并扣留，并转移到Site-98的站点餐厅。被扣留者将被强迫以任何必要的方式订购两个疗程的固定价格的抗生素治疗，完毕后将对他们实施A级记忆消除并释放。
+
+SCP-5445的一个培养基被保存在斯科拉克斯咖啡馆进行学习研究，其为基金会一个位于南极研究区Area-1483的可控安全区内的餐厅。
+
+描述： SCP-5445是一种可在人与餐馆之间传播的细菌感染病。在人体内，SCP-5445完全没有症状。被SCP-5445感染的餐馆会经历大约两周的潜伏期，之后才会出现最初的症状。早期感染的症状是餐馆卫生条件和食品质量的突然增加，以及食品价格和等待时间的减少。因此，受感染的餐馆的订单业务会普遍增加。一至三周后，SCP-5445-1将毫无征兆地被纳入菜单。
+
+SCP-5445-1是SCP-5445的主要传播媒介，其在指定的粮食储存区内密集生长。SCP-5445-1看起来像一个主菜，由一个浸在血中的人颅骨组成1。受感染的菜单大多将SCP-5445-1描述为一种“平价的美味佳肴”，食用SCP-5445-1可以带来各种身体和心理上的好处。餐厅工作人员普遍认为，SCP-5445-1是一道纯天然的美食，尽管“很新颖”。
+
+感染SCP-5445的餐厅通过售卖SCP-5445-1发生餐厅-人类的传播，而人类通过货币交换发生餐厅-人类的传播。虽然抗生素治疗可以99%有效消除SCP-5445，但治疗必须在该餐厅售卖食品范围内进行。
+
+1998年7月31日，███餐馆和​███人类被发现感染了SCP-5445。其病原体感染社会结构（如餐馆）的过程还不清楚；在Dr. Guy Echo的监督下，对于其感染过程的研究正在进行中。
+
+SCP-5445-1不具有已知的难以控制的性质。
+
+Footnotes
+已编辑]
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                细菌
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Feb 2020 06:41
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Хроника Убийцы Короля
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Language Arts (8)
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Foundation
+                      
+              Underrepresented Languages Incubator
+            
+          
+        
+              
+          
+            
+              
+            
+            Wiki Code Snippets
+                      
+              Snippets
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

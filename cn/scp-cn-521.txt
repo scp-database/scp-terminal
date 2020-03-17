@@ -1,0 +1,244 @@
+                        
+
+项目编号： SCP-CN-521
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-521目前被收容于Site-CN-34的二号收容间，任何基金会员工对于SCP-CN-521-1的申请将由三级权限研究人员审核后批准发放。对于项目的实验由Site-CN-34工作人员主导进行。
+
+描述： SCP-CN-521是一高20厘米瓶口直径五厘米的宽口玻璃花瓶，对于项目材质的分析显示构造仅为普通高分子透明材料的有机玻璃。瓶身印有一行英文字样：
+
+An aspirin a day, while she is away.（当她离开之际，每日一片阿司匹林。）
+附加记录：
+
+处于收容状态下的SCP-CN-521
+
+当一人类个体触碰瓶身时，瓶内将产生一朵普通蔷薇科落叶灌木的红色玫瑰，和约100ml清水。玫瑰花蕊内有一未知材质的白色药片（编为SCP-CN-521-1）。服用者表示“幸福感极度提升”，这类心理效应将持续约3个自然日。精神分析测试显示，SCP-CN-521-1能一定程度地缓解人格障碍、轻度到重度抑郁症等精神疾病带来的器质性反应。
+
+同时，SCP-CN-521-1被证明具有轻微治愈服用者所受物理伤害的效应和强于任何已知止痛药品的止痛效应且长期服用SCP-CN-521-1并不会产生戒断反应，普通软组织挫伤在得到合理治疗的情况下需15-20天能被治愈，在SCP-CN-521的异常效应下，这个周期将被缩短至10-15天。在SCP-CN-521-1被接触者服用后15分钟，玫瑰将以枯萎形态与瓶内清水同时消失。
+
+SCP-CN-521-1仅对触碰瓶身的人类个体产生效应，因此来自基金会总部的的大规模使用SCP-CN-521-1来替代市场常见抗抑郁药物及止痛药物的提案被否决。
+
+查看SCP-CN-521后续申请记录获得后续有关SCP-CN-521测试的资讯。
+
+事故记录-521-1： 于2017年6月20日，完成执行涉及SCP-CN-███项目的keter级别任务的MTF-庚午-01“唯有暗香来”全体成员被批准使用SCP-CN-521-1。
+
+初级特工N████在触碰瓶身后取得一片SCP-CN-521-1，监控显示在三分钟的犹豫后，N████特工将SCP-CN-521-1放入SCP-CN-521瓶内，SCP-CN-521-1迅速融化于瓶内清水中。经过15分钟后SCP-CN-521中的玫瑰并未消失，在从瓶中拿走该朵玫瑰后，SCP-CN-521重新恢复正常使用。
+
+在经受问讯时，N████特工表示“有些美丽比自我本身重要。”，N████特工被实行三级人事处罚后外调基金会██分部。
+
+对于事故中玫瑰的检测显示该朵玫瑰不受任何已知手段的物理化学损害，该朵玫瑰被放置于Site-CN-34三级研究员Hannah博士的办公室桌面一普通花瓶内，且始终保持盛开状态。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                玻璃
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Jun 2018 07:41
+            
+            编辑
++43)
+标签
+讨论 (18)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Nexus Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Roboticspedia
+                      
+              All that you want to know about making robots
+            
+          
+        
+              
+          
+            
+              
+            
+            www.schrijven.wikidot.com
+                      
+              Voor teksten, artikelen, verhalen en poëzie
+            
+          
+        
+              
+          
+            
+              
+            
+            Algadon
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

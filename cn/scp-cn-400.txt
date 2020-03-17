@@ -1,0 +1,309 @@
+                        
+
+项目编号： SCP-CN-400
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-400收容于一个标准收容保险箱中，进行实验需要2级以上权限。
+
+描述： SCP-CN-400外观是极为普通、没有装饰的玻璃饮水杯。在项目外部大约四分之三高的位置有一道突起的刻线，旁边印刷着极小的字：“悲剧啦”。该项目除了不可被破坏之外，材质上与普通的玻璃杯没有任何差异。
+
+当有液体注入项目内部并且达到痕迹高度，即大约一百九十毫升（190ml）时。项目内的全部内容物将瞬间转移到距离项目最近的人类（仅限人类）膀胱内。原理不明。
+
+20██年█月██日。██市██医院中心接受了一位下腹严重绞痛的病人，进行超声波检测后的开腹手术中发现其膀胱内填充满了[数据删除]。随后根据他的描述，基金会在该医院的线人迅速通知特工进行回收，相关知情人员已进行C级洗脑。
+
+实验记录： 
+
+SCP-CN-400-A1：
+
+对象：自来水
+
+实验人员：D-46213
+
+记录员：L██研究员
+
+结果：在到达刻线处的瞬间消失。D级人员报告“想上厕所”。申请被拒绝。
+
+SCP-CN-400-A2：
+
+对象：自来水
+
+实验人员：D-46213远程操作机械。
+
+记录员：L██研究员
+
+结果：在到达刻线处的瞬间消失。D级人员无恙，离项目更近的观察员报告了膀胱充盈感。
+
+离它最近的？——————L██研究员
+
+SCP-CN-400-A3：
+
+对象：热豆浆
+
+实验人员：D-46213，L██研究员远程操作机械。
+
+记录员：L██研究员
+
+结果：在到达刻线处的瞬间消失。D级人员露出痛苦的表情，并表示：“小腹很疼”。
+
+看来没错——————L██研究员
+
+SCP-CN-400-A4：
+
+对象：一大匙奶粉，用开水冲泡。
+
+实验人员：D-46213
+
+记录员：L██研究员
+
+结果：在到达刻线处的瞬间，内容物全部消失。D-48981被送往急诊室抢救，下腹严重烫伤，随后被处决。
+
+SCP-CN-400-A5：
+
+对象：液氮
+
+实验人员：D-47895
+
+记录员：L██研究员
+
+结果：在到达刻线处的瞬间消失。D-47895瘫倒在地。被送往急诊室后因内脏严重冻伤抢救无效死亡。
+
+只要是液态的东西就都可以吗。——————L██研究员
+
+SCP-CN-400-A6：
+
+对象：钢水
+
+实验人员：D-47943
+
+记录员：L██研究员
+
+结果：[数据删除]
+
+果然是这样。——————L██研究员
+
+SCP-CN-400-A10：
+
+对象：泡面，用开水冲泡
+
+实验人员：L██研究员
+
+记录员：████博士
+
+结果：[数据删除]
+
+虽然我不知道这家伙为什么会用杯子泡泡面，不过看你这么喜欢玩你就感受一下。————————████博士
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                容器
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Apr 2018 10:53
+            
+            编辑
++1)
+标签
+讨论 (28)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Ens Dictionary
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP基金會
+                      
+              控制 收容 保護
+            
+          
+        
+              
+          
+            
+              
+            
+            PyLint Messages
+                      
+              and what theyre trying to tell you
+            
+          
+        
+              
+          
+            
+              
+            
+            PhyloWiki
+                      
+              Assisting research and education in phylogenetics and evolution
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

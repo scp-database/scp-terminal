@@ -1,0 +1,227 @@
+                        
+
+项目编号： SCP-883
+
+项目等级： Euclid
+
+特殊收容措施： 进入SCP-883者需拥有2级及以上权限且不对蜂蛰过敏，所有进入SCP-883的人员需穿着标准养蜂手套和连帽套装，且需佩戴一条与蜂巢北侧外壁上的金属棒相连的安全绳。未经4级人员授权，不得进入SCP-883内部超过2公里，超过2公里的探索则需2人或以上人员组队。 未经██████博士授权，请勿取出任何蜂蜜和蜜蜂样本。
+
+描述： SCP-883是一个固定在棚屋内的大型蜂巢，棚屋高3米，宽1米，深约2米。SCP-883的内部比棚屋外部尺寸大得多，从蜂巢上方向内至少延伸了8公里之远。虽然迄今未曾遭遇死角，但蜂巢内部构造类似迷宫。SCP-883中的蜜蜂与现存任何一种品种皆不相符。更加令人不安的是，某些蜜蜂和普通蜜蜂有很大不同，深入1公里处的蜜蜂比正常蜜蜂多拥有一对翅膀，深入2公里处的蜜蜂则展现出了高度的攻击性，其毒刺尚无有效治疗方法。从7公里处发现的样本看起来并非昆虫，而是[数据删除]。
+
+从SCP-883中提取的蜂蜜的组成成分也不尽相同，这取决于它们是取自距入口处多远。1公里处的蜂蜜具有轻微麻醉作用，4公里处的蜂蜜则由于砷含量过高而对人体有害。无法确定这些蜜蜂是从何处得到食物和水，也不知道它们是从何种花卉采集蜂蜜。
+
+附录883-A： 由于[数据删除]事件，禁止进入SCP-883超过6.5公里。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Oct 2017 11:56
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            ВИК 
+                      
+              ​
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiEthica
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Psychotronics Division
+                      
+              Divided, we are One. One, we are All.
+            
+          
+        
+              
+          
+            
+              
+            
+            Psychology Job Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,303 @@
+                        
+
+项目编号： SCP-2527
+
+项目等级： Safe
+
+特殊收容措施： 除测试外，SCP-2527-1将被收容于强化钢制收容箱内，大小4立方米，位于Site-59测试场地一侧。测试仅可在站点主管指示下进行。
+
+SCP-2527-2被保存在操作间的电脑中，前有三道密码不同的安全门阻隔。除测试外严禁进入。在非测试期间，存有SCP-2527-2的电脑将关机并断电。
+
+描述： SCP-2527-1是一2米高的石制拉玛苏1雕像。它在一般情况下没有活动，然而根据输入到SCP-2527-2的指令，SCP-2527-1将能：
+
+凭空出现在其前方、后方、左方或右方一3m x 3m空间的中心、
+焚化有机物质、
+从未确认来源发出震荡波破坏墙壁和障碍、
+在3m x 3m面积的影响范围内产生出花朵或其他植物、
+令影响范围内所有可用的子宫受孕，怀上一个较小的拉玛苏石像。
+
+SCP-2527-2是一Commodore 64的文字冒险游戏，标题为《Massy的好机会》，可用于控制SCP-2527-1的行动。游戏的包装画上写有以下描述：“恭喜！！！你是MASSY而且成为了神。现在去要塞建功立业吧！！！”
+
+SCP-2527-2记录： SCP-2527-1对人类对象的能力2
+
+MASSY的好机会 
+版本1.02
+图特利软件集团
+
+Massy醒来发现自己在盒子里。
+有光从北边透过入口射进盒子里。
+Massy急切地想做神的事。
+做什么？
+
+ 去北边
+
+Massy去了北边！
+在盒子外了。
+看见有个D-3515和D-5992在北边。
+下面有玻璃。
+
+ 去北边
+
+Massy去了北边！
+Massy的体重压碎了D-5992。
+D-3515大声喊叫。
+可以惩罚D-3515。
+
+ 烧d-3515
+
+皮肤烧起来啦！
+惨叫声很大。
+MASSY万岁！!
+D-3515在地板上打滚。
+
+ 烧d-3515
+
+火的意愿！
+多重燃烧。
+D-3515疯狂惨叫。
+
+ 重击d-3515
+
+能量波！
+D-3515被击碎了。
+MASSY万岁！
+在你前方Massy看到了远处的墙。
+北边，东边，和西边。
+后面是南边的墙，还有盒子。
+做什么？
+建议，离开墙吧？
+
+ 去南边2
+
+Massy回到盒子。
+不推荐让Massy停着。
+神得要做事的。
+
+ 退出
+
+你确定吗你？
+
+ 是
+
+谢谢。进度已保存。
+
+3
+
+Footnotes
+1. 亚述神话中，狮身人面、长有翅膀的神。
+2. 两名D级人员D-3515和D-5992
+3. 译注：TOTLEIGH，英国小说家P.G.伍德豪斯笔下小说中的虚构地名
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                雕像
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2017 21:37
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CIN  7402 Editoração Científica
+                      
+              Disciplina na UFSC
+            
+          
+        
+              
+          
+            
+              
+            
+            מבני נתונים
+                      
+              סמסטר בע
+            
+          
+        
+              
+          
+            
+              
+            
+            Entity-Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            WIKEDUCAÇÃO
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

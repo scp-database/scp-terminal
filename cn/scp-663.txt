@@ -1,0 +1,234 @@
+                        
+
+项目编号： SCP-663
+
+项目等级： Euclid
+
+特殊收容措施： SCP-663被收容于Site 19的二层休息室。它被监控在一个处于洗涤槽旁显著位置的安保摄像机范围内，在处理（污水）期间，SCP-663不应被触碰。仅允许（用其）处理水龙头出水，每六小时填充一次储水罐。如果填充储水罐无法有效抑制SCP-663，它将被放置进一间隔音收容室内七（7）天。而干燥脱水的人类心脏届时由一名二级研究员从滤室内移出，并被予以保存，以供研究。滤芯则被装回SCP-663内，继而（把SCP-663）重新挪至二层休息室。倘若SCP-663在六小时内被注满两次以上，应立即由1级人员转移至一间耐热收容室中，并在热感摄像机监控下直至恢复常温。
+
+描述： SCP-663是一台█████牌净水机，序列码缺失且略异于其余█████牌产品。它表现出能够将任何含水溶液过滤至清澈的饮用水的能力，且几乎完全去除了离子。在过滤过程中，其滤芯内发出易于发觉的搏动1，且每过滤一克溶液会释放数卡路里的热量。如果储水罐在短时间内被不止一次填满，储水罐的整个外表面会迅速变得过热以至于无法安全操作。同时SCP-663也开始吵闹地汩汩作响，最终用人类的声音尖叫称它快要溺死了，别再加水了。
+
+如果SCP-663过长时间未被注满，它会开始发声表达对水的需求。届时，它以呐喊求助，声称陷入了困境，不知所措，且就快要因口渴而死了。重新注满储水罐能够使声音逐渐减弱平息。在数月后的一段时期，它将更为频繁地要求供水，最终不得不这样再三地注满它，以至于它时常加热过度。一旦到达此阶段，它的声音就将不断困惑且恐惧地响起，最终变得越来越悲痛和令人焦躁，直至声音的来源表现为因口渴而断气。一旦声音与心跳2皆处于停止，就会有一颗干燥脱水的人类心脏沉入储水罐底部。搏动将再次开始，继而与之前不同的一个声音从SCP-663内发出。
+
+附录： SCP-663对于声音的选择似乎并没有一个确切的模式，但到目前为止它们都与最终在容器内寻得的心脏情况相符。（如果）护理得当，它的平均使用期限可达6个月。似乎来自年老或非常年轻个体的声音和心脏并不会持续如此之久5。
+
+Footnotes
+1. 譯註：heartbeat
+2. 譯註：heartbeat
+3. 校對註：指之前的6个月
+4. 譯註：heavy water
+5. 譯註：isotopes
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生物性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 12:27
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Zombie Cafe Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            iRacing.com Wiki
+                      
+              Your one-stop-shop for all iRacing setup help and knowledge.
+            
+          
+        
+              
+          
+            
+              
+            
+            Intro to Psychology (PSYC 101)
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP技术部门
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

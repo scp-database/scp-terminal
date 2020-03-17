@@ -1,0 +1,266 @@
+                        
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4/4182
+CLASSIFIED
+
+项目编号: SCP-4182
+项目等级: Keter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+无效文件/名录('CAM-5.ogg') 
+
+特殊收容措施：  一台基金会运作机器人(I/O-SILVER)将审核IntSCPFN服务器内受SCP-4182影响的文件。这些文件将被隔离，报告给在岗服务器管理员进行复核与消毒。提醒人员Site-5不存在。
+
+描述：  SCP-4182是一异常现象，指基金会内部文件周期性被篡改为包含一不存在的站点（“Site-5”）。此现象的发生机制尚不明了。
+
+对Site-5的描述存在不一致，但一般将其描述为一座为存储危害性材料建造的人工岛。1
+
+自2018年被发现以来，SCP-4182的发生速率呈指数级增加。
+
+脚注
+1. 具体而言，是一座异常废料的收容设施。
+
+404 内部服务器错误
+
+服务器遭遇意外情况，无法完成请求：
+
+last): 
+
+respond 
+
+self.handler() 
+
+__call__ 
+
+**self.kwargs) 
+
+index 
+
+FileNotFoundError(obj) 
+
+'CAM-5.ogg' 
+
+备注：  本文件遭遇意外情况。点击jdavis@scp.foundation.int)获取详情。
+附加记录：
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Aug 2019 12:58
+            
+            编辑
++1)
+标签
+讨论 (12)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Nre509
+                      
+              Ecology: Science of Context and Interaction
+            
+          
+        
+              
+          
+            
+              
+            
+            張道士的私人沙盒
+                      
+              舊書 拍賣 中史
+            
+          
+        
+              
+          
+            
+              
+            
+            The Sky Remains
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Alfamedia
+                      
+              Alfabetización mediática para educadores
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

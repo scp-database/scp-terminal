@@ -1,0 +1,261 @@
+                        
+
+项目编号： SCP-568
+
+项目等级： Safe
+
+特殊收容措施： 对于SCP-568的收容不需要特别考量，项目目前储存在Sector 28的28-002号保险箱中，对SCP-568的试验需获得三级人员的授权。
+
+描述：SCP-568的外观表现为富伸缩性的白色皮带，尺寸为70*8*0.2公分。项目在一侧的中间有一条连接头尾的接缝，另一侧的质料相同且显得光滑。构成SCP-568的材料除了在性质上类似皮革，其他皆属未知。
+
+当SCP-568环绕于一件物体，且两端的长度皆不小于1公分时，物体可以从接缝处被一分为二。分裂时，必须将其中一半如旋出螺丝般以逆时钟方向旋转半圈。被分裂的部份并没有显示物体原本的横切.面，而是一层不透水的白色平面。连接两切.面并顺时钟旋转半圈可以重新接合物体。SCP-568处于分离状态时，无法自物体上取下。
+
+实验记录568-1： 由Dr.Weiss与J.Candle进行于██/██/20██。
+
+物件： 一根钢条
+
+结果： 物件被顺利地分裂与接合，物件本身没有检测出任何损伤。
+
+物件： 一根钢条
+
+结果： 物件被分裂，并旋转180°以后再重新接合。切.面顺利地接合起来。有趣的是，实验中SCP-568在两边错置的状态仍可取下。
+
+物件： 两根钢条
+
+结果： SCP-568被仔细环绕在两个物件上而没有留下空隙，无法分裂，SCP-568被取下。
+
+物件： 两个钢质方块
+
+结果： SCP-586被缠绕在两个物件上。无法分裂，SCP-568被取下。
+
+物件： 一个装满水的玻璃罐
+
+结果： 物件顺利分裂，拿掉盖子往内观测，无法看到白色表面，反而是罐子另一端的模样。倾斜任一部份皆能使水从罐中流出。而装水的动作同样能使水流进入罐底。物件重新接合。
+
+将SCP-568作为的提议正在考虑中。
+
+物件： 一个塑料桶
+
+结果： 物件顺利分裂，水、钢条、HB铅笔、Dr.Weiss的手臂、弹珠等物体皆成功通过，物件重新接合。
+
+物件： 对象D-1617
+
+结果： 将SCP-568环绕于D-1617的左下臂并分裂。对象回报没有痛觉，并在20米远处仍能完全控制他的手，对象的手臂重新接合。
+
+物件： 对象D-1618
+
+结果： 将SCP-568环绕于D-1618的左下臂分裂，旋转180°以后再重新接合。当SCP-568被取下的瞬间，对象完全失去对手臂的知觉，并抱怨被分裂部位的剧烈刺痛。虽然对象的手臂无缝地接合在一起，但随即产生严重瘀血。痛楚的激增使对象不得不施打强力镇静剂。对手臂的解剖发现，血管和神经末梢皆从身体整齐地分离，不复连接。D-1618被处决。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                时空
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 10:11
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Nre509
+                      
+              Ecology: Science of Context and Interaction
+            
+          
+        
+              
+          
+            
+              
+            
+            WWW 10
+                      
+              Wakacyjne Warsztaty Wielodyscyplinarne 9
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP日本財団中枢資料室。
+                      
+              収用
+            
+          
+        
+              
+          
+            
+              
+            
+            Bootstrap Playground
+                      
+              Because we all need a place to play
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

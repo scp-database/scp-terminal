@@ -1,0 +1,299 @@
+                        
+
+与SCP-3738形状类似的内旋轮线。
+
+项目编号： SCP-3738
+
+项目等级： Keter
+
+特殊收容措施： 汽车公司内部的特工应修改新生产的所有电子控制单元，使其无法画出SCP-3738图案。所有关于停车场内空间异常的报告都应被调查、追踪，造成该现象的个体应被记忆消除。
+
+描述： SCP-3738为以一对参数方程组表示的平面内旋轮曲线。1在停车场使用机动车辆画出该图案后，将会在司机直视范围内出现一处空置的停车位。
+
+SCP-3738确切的使用方式取决于使用该图案的停车场的情况。如停车场内有一空置停车位，阻挡司机直视该停车位的车辆及其他障碍将被移除。如无空置停车位，停车场内的三维空间将会缓慢延展，直到出现新的空置停车位。
+
+当触发SCP-3738效应的车辆离开停车场后，异常将会恢复原状。
+
+在车辆外部、停车场内部的观察者将不会注意到这些异常。但值得注意的是，一只王鹫（Sarcoramphus papa）（下文称为SCP-3738-1）总会在使用SCP-3738的车辆上盘旋，即使该车辆所在停车场未进入王鹫的自然栖息地。
+
+收容记录： SCP-3738首次出现于墨西哥的阿瓜斯卡连特斯中一大型购物中心的停车场内。那时，一名建筑工人报告说，在其工作地点中，存在着用仪器误差或人力过失无法解释的同样差异。当地特工调查了商场，但无法重现该异常现象。该事件被归类为一次不可复制的Extranormal Event，EE-11605。
+
+EE-11605被通过Minkowski时空检测仪检测至少6次，最后追踪到一辆车，其属于Mr. Rodolfo Marquez。其车与其一同被基金会人员捕获并收容。
+
+SCP-3738测试报告
+
+允许存取
+
+笔记：除另有说明，全部测试均是在一处拥有200个停车位的停车场内进行的。该停车场内停放着各种型号的汽车。
+
+测试序号： 3738-01
+
+程序： 199个车位被停放车辆。Researcher Eastman进入车辆，并启动。
+
+结果： 无异常。
+附加记录：
+
+测试序号： 3738-02
+
+程序： 199个车位被停放车辆。Researcher Eastman进入车辆，并启动，随后停放至空置车位。
+
+结果： 无异常。
+附加记录：
+
+测试序号： 3738-03
+
+程序： 199个车位被停放车辆。Mr. Marquez被要求像往常一样停车。他穿过一整排车辆，并在转弯前画出了SCP-3738。
+
+结果： 在大约9秒后，处于第八排末尾的车辆移动至无形的空地，其余车辆移动位置，直到空置停车位出现在Mr. Marquez的车前。在他停车时，一只王鹫（Sarcoramphus papa，后被指定为SCP-3738-1）被观测到在车上方大约20米处盘旋。Marquez被要求离开停车场后，车辆缓慢归位。
+附加记录：
+
+测试序号： 3738-04
+
+程序： 200个车位被停放车辆。Mr. Marquez被要求像往常一样停车。他穿过停车场，并画出SCP-3738。
+
+结果： 停车场内的空间明显开始延展。最后排的20个停车位开始扩张，直到第21个停车位出现在正中央。Mr. Marquez注意到了新出现的位置，并停放了进去。与之前的测试相同，SCP-3738-1在停车场上方可见。在Marquez停放车辆时，该停车位被测量，被发现其长度为2.3米。Marquez再次被要求离开停车场，空间延展在之后缓慢恢复。
+附加记录：
+
+测试序号： 3738-05
+
+程序： 200个车位被停放车辆。自动驾驶汽车被编程以画出SCP-3738。
+
+结果： 无结果。
+附加记录：
+
+测试序号： 3738-06
+
+程序： 199个车位被停放车辆。Researcher Eastman驾驶其私人车辆画出SCP-3738。
+
+结果： 车辆以类似于03号测试的方式进行运动，SCP-3738-1出现，降落在车盖上，并快速啄车窗。Researcher Eastman打开车窗，SCP-3738-1开始以西班牙语发声。由于Researcher Eastman不会说西班牙语，SCP-3738-1所说的内容未知。SCP-3738-1在两分钟后飞走，然后消失，留下了一辆玩具车。经检查，该辆玩具车是对Researcher Eastman私人车辆的精确模型，并以秃鹫及部分SCP-3738图案装饰。
+
+笔记：当Mr. Marquez被问到那辆玩具车时，其提到他同样持有一辆相似的玩具车，该物品原属其父亲。当问及SCP-3738的起源时，Mr. Marquez回答这是其父亲的一个怪癖，当其开始记事起，其父亲就在使用。
+附加记录：
+
+在这时，SCP-3738被正式确认。Mr. Marquez被记忆消除，并与车一起被释放。
+
+测试序号： 3738-07
+
+程序： 200个车位被停放车辆。Researcher Cisneros，熟练掌握西班牙语，使用其私人车辆画出SCP-3738。该车辆装有几个麦克风。
+
+结果： 与前几个测试一样，空间开始延展。SCP-3738-1出现，降落在车辆上方。其运动明显更加迟缓。Researcher Cisneros打开车窗，SCP-3738-1开始发出嘶嘶声，并小声说话。Researcher Cisneros试图与SCP-3738-1交流，但它向其扔出一辆类似的玩具车，然后飞走并消失。麦克风只摘取到几段片段的短语：“hijo”（“孩子”）、“aprendió”（“[他]学会了”）与“olvidado”（“遗忘”）。
+附加记录：
+
+在07号测试后，SCP-3738-1不再降落于画出SCP-3738的车辆上。试图诱捕SCP-3738-1或与之交流的尝试均被忽视，并恢复了SCP-3738的全部效果。
+
+Footnotes
+1. 原文：SCP-3738 is a two-dimensional hypotrochoid curve represented by a pair of parametric equations.
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Aug 2019 11:26
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Nirn
+                      
+              The Nirn Project
+            
+          
+        
+              
+          
+            
+              
+            
+            Computer Games Programming
+                      
+              CGP Students
+            
+          
+        
+              
+          
+            
+              
+            
+            CalU Secondary Education Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Microbiology@Morningside
+                      
+              The wiki for students in BIO 252 at Morningside
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,1271 @@
+                        
+
+档案管理员须知07/02/2017:  为正确遵守基金会测试协议，SCP-3301的所有活动状态都将被记录以便分析和归档。以下是正确的测试记录格式的示例，并且应在今后的测试记录中使用。
+
+档案管理员须知07/03/2017:  鉴于出现了一些草率冒进的不准确测试记录，严格的协议已被实施，以便审查被认为是夸大其实或完全错误的记录。若您有任何问题，请您联系您所在当地机构的档案技术员了解更多详情。
+
+[[collapsible show=]]
+
+ **Log ID:** 3301|XXX
+   
+ **参与者:** [各队中玩家的名字]
+ 
+ **游戏地图:** [游戏地图变体标题]
+ 
+ **胜利者:** [获胜队伍]
+ 
+ **胜利条件:** [胜利条件的名称]
+ 
+ **难度:** [Neutralized/Thaumiel/Safe/Euclid/Keter/Maksur/Apollyon]
+ 
+ **时长:** [游戏时间dms]
+ 
+ **奖金:** [以美元结算胜利者获得的奖金]
+ 
+ **游戏概要:** [激活SCP-3301期间的情况概要]
+
+**值得注意的卡图:** 
+
+ [在游戏中使用的值得注意的卡牌示例，请参阅下面适当的格式]
+
+**录音记录** 
+
+ [录音摘要]
+[[/collapsible]]
+
+-----
+
+卡牌格式 
+
++展示卡牌格式
+
+-隐藏卡牌格式
+
+绿色卡牌: 
+
+ **卡牌颜色:** 绿色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **副标题:** [卡牌描述]
+ 
+ **类型:** [地形/建筑/陷阱]
+ 
+ **效应:** [卡牌效应]
+
+蓝色卡牌: 
+
+ **卡牌颜色:** 蓝色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **副标题:** [卡牌描述]
+ 
+ **类型:** 同伴
+ 
+ **效应:** [卡牌效应]
+ 
+ **数值:** XX ATK / XX DEF / XX HP
+
+红色卡牌: 
+
+ **卡牌颜色:** 红色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **副标题:** [卡牌描述]
+ 
+ **类型:** [武器/能力 | 远程/近战/时间/模因]
+ 
+ **效应:** [卡牌效应]
+ 
+ **数值:** [修饰.可能适用或不适用]
+
+橙色卡牌: 
+
+ **卡牌颜色:** 橙色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **副标题:** [卡牌描述]
+ 
+ **类型:** [异常 | 感知能力/神器/未知 | 构装体/植物/动物/人形/生物/宇宙/神性/至高神性/其它等等]
+ 
+ **效应:** [卡牌效应]
+ 
+ **数值:** XX ATK / XX DEF / XX HP
+
+黄/白/黑色卡牌: 
+
+ **卡牌颜色:** 黄/白/黑色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **效应:** [卡牌效应]
+ 
+ **效果:** [卡牌效果]
+
+紫色卡牌: 1
+
+ **卡牌颜色:** 紫色
+ 
+ **卡牌标题:** [卡牌标题]
+ 
+ **副标题:** [卡牌描述]
+ 
+ **类型:** 神奇娱乐
+ 
+ **效应:** [卡牌效应]
+ 
+ **数值:** XX ATK / XX DEF / XX HP
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|008
+
+-关闭记录
+
+记录ID： 3301|008
+
+参与者： Dr. Avery Bone 和 Dr. Eila Harris， Dr. Owen Mars 和 Dr. Cotter Davis， Dr.  Francis LaFleur 和 主管Arnold Camp.
+
+游戏场地： 马里亚纳回响
+
+胜利者： Dr. Francis LaFleur 和 Director Arnold Camp
+
+胜利条件： 生还者先生
+
+难度： Apollyon
+
+时长： 0h 1m 21s
+
+奖金： $50
+
+游戏概要： 迄今耗时最短的一局SCP-3301。由SCP-3301研究小组的Avery Bone博士和Owen Mars博士在Apollyon2难度下进行的第一次测试.
+
+地图是马里亚纳回响.大家头顶暴风雨，三队人马站在海岸的悬崖边缘.一开局，Davis博士就脚底拌蒜，瞎目呵眼地一头栽下悬崖.LaFleur博士勇抽黄卡，他和队友Camp主管被授予$50.此外，Camp主管甫一开局就遭到了痘痘的沉重打击，LaFleur博士用手牌中的长生药去治愈了Camp主管的痘痘.
+
+Bone博士抽牌后，Harris女博士被三个非物质人形实体勾搭，开始向一栋小型混凝土建筑移动.那是被称为三兄弟的至高神圣实体在现实中的显现.因为Harris女博士没有护身道具，Bone博士也无卡可防御，Harris女博士迅速被三兄弟宰杀.游戏至此结束，LaFleur博士和Camp主管被宣布成为了生还者先生.
+
+附加记录：
+
+值得注意的卡牌 
+
+三兄弟卡牌
+
+卡牌颜色：  橙色牌
+
+卡牌标题：  三兄弟
+
+副标题：  爱赌博
+
+类型： 异常，感知能力，神圣.
+
+效应： 被命运绑架的受诅咒的三兄弟将离去的灵魂转移到超越生命的黑暗虚无之中，在途中某处染上了打牌的嗜好.
+
+数值： 29 ATK / 34 DEF / 37 HP
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+Mars博士: 好，让我们来踢得这个混小子满地轱辘.我来抽牌…这游戏有点不对劲！
+
+Davis博士: 噢老天哪！ 噢上帝啊！我看不见了，我瞎了，我看不见了！
+
+Mars博士: 啥Cotter？ 噢不，Cotter，挺住，我能我已经搞定… 呃… 噢 不.
+
+Davis博士: Owen？ Owen， 救我！ 我不能， 我不能— (一路尖叫跌落悬崖)
+
+Mars博士: Cotter？ Cotter！ 噢天杀的， Cotter.
+
+大家一片沉默
+
+LaFleur博士: 那么… 好 第一轮.
+
+Mars博士: 我…基督啊. 那谁是不是真残了？ 就像， 我以前没玩过， 这游戏真能伤人？
+
+Bone博士: 虽然当时挺煞有介事的， 但事后没谁会记得痛苦， 所以吧，不会有啥后遗症，没事.尽管听着挺瘆的慌.
+
+Mars博士: 耶， 我… 基了个督的.
+
+LaFleur博士: 甭管咋说， 该我了. 嘿你跟那玩啥呢， 老大？
+
+Camp主管: (语无伦次的嚎叫) 我的皮肤哦上帝我的皮！ 是痘疹！
+
+LaFleur博士: 喔. 这头一轮有点猛. 好家伙， 我抽到… “长生药”， 让我来一顿操作猛如虎… 然后我们就好得不能再好了！ 你感脚如何了？
+
+Camp主管: 呃. 吔， 好多了. 忒吓人了， 真不骗你. 然后呢？
+
+LaFleur博士: 喔… 我的选择看来很有限. 我在想有些事就像… 呐， 让我们把钱收好. (暂停) 好， 我们这么着. (收银机的响声回荡在 Dr. LaFleur头上)
+
+Camp主管: 妙.
+
+LaFleur博士: 你太他妈正确了.
+
+Bone博士: 好了， 该停止胡搞瞎搞了. 让我们严肃点. 你准备好玩这个了吗， Eila？
+
+Harris博士: 嗨呀， Avery. 开始吧.
+
+Bone博士: 完美 现阶段咱们装备有点匮乏， 所以让我们去… 查看一下那边的建筑.
+
+Harris博士: 收到. (跑步声) 喔. 路上好像有啥东西. 那是个甚？
+
+Mars博士: 啊. 橙卡. 那是啥？
+
+Bone博士: 它是… 呃… 叫什么 “三兄弟”… 是个神圣存在.
+
+Harris博士: 它能干点啥？
+
+非物质类人实体: 没好事.
+
+Harris博士: 哇- 哦上帝 要死要死！ Avery！ 救命—
+
+Bone博士: 什么？ 出什么事啦？
+
+LaFleur博士: 我以为你走丢了.
+
+胜利的音乐声，花火盛放的声音响起在玩家上空.
+
+Camp主管: 哦我艹， 我们赢了？ 这就完事了？
+
+Bone博士: 好吧， 那个… Apollyon 模式真操蛋.
+
+LaFleur博士: 随便你说. 我可是赚了五十大块呢.
+
+[记录结束]
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|012
+
+-隐藏记录
+
+记录ID： 3301|012
+
+参与者： Liam Deets主管和来自 MTF Tau-5的Irantu中士和Nanku专业军士
+
+游戏场地： 阿难陀舍沙之域
+
+胜利者： Irantu中士和Nanku技术军士
+
+胜利条件： 发现者先生
+
+难度： Euclid
+
+时长： 0h 45m 12s
+
+奖金： $602
+
+游戏概要： 游戏在一个严重程式化的基金会核潜艇SCPF Eremita号的复制品中开始.首轮Washington中士用现实扭曲能力改装了她的柯尔特AR-15军用步枪.然后对Nanku专业军士开火，Washington中士立刻因犯规被一把凭空出现的火焰天使之剑警告并阻止.尽管Nanku专业军士挨了几枪，但似乎不为所动.
+
+游戏正常进行到14轮，Shaw特工发现了有金色W标志的隐藏异常卡.但是被保护卡牌的一个认知危害暂时麻痹了.Thompson专业军士乘机将去拿金标卡.
+
+在Thompson专业军士成功得手前，Shaw特工缓了过来，她用了张红卡 的褪色人形附体，最终收容了该金标卡，拿下了这局.
+附加记录：
+
+值得注意的卡牌 
+
+海绵弹玩具枪
+
+卡牌颜色：  红色牌
+
+卡牌标题：  海绵弹玩具枪
+
+副标题：  一个不怎么上心的俏皮话
+
+类型： 武器，远程
+
+效应： 奇妙海绵弹玩具枪使一切更糟，尤其擅长在伦理学方面可疑的人状变形.用一次就作废.
+
+数值： 变形攻击 / - 10 ACC
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+Deets主管: 好了 Hannah， 如咱们计划的. 让他们瞧瞧谁才是给力的正牌异常收容部队.
+
+Washington中士: 是长官. 万事俱备， 让我们看看您多么喜欢趁热打铁！
+
+Washington中士: 您说什么？扭曲现实可是作弊， 犯规了！ 你他妈的肯定在开玩—
+
+Nanku专业军士: …所有桌面游戏都是这么开局的么？
+
+Irantu中士: 你太粗鲁了.
+
+Deets主管: 嗯， 抱歉. 为啥他们让你俩来玩这个？
+
+Irantu中士: 我被告知这是情感拓展培训的一部分. 队长觉着这是个好主意，自从我们俩因为头一次玩大富翁而情绪略微激动，以那时的极端暴怒状态作为参照，对我们互相理解彼此大有帮助.
+
+Shaw特工: 海绵弹玩具枪啊？ 我记得这货.早该如此，那些二逼拯救了俺免得俺变成个祸害.
+
+Shaw特工: 阿哈， 跟这呢. 我真想不到为啥一堆东西里只有它在床头柜上，呃，谁在乎呼呼呼-
+
+Merlo特工: 是啊， CLARISSA！ Wooohooo！ 干你老母Adams， 我的特工先找着这异常的！ 等等， Clarissa？ Clarissa！ 醒醒该起床了！
+
+Adams特工: 为啥我在这？ 我甚至根本不喜欢桌面游戏.
+
+Thompson专业军士: 是啊， 到手了！ 噢喔简直震惊. Andrea， 我有没有跟你说过勇敢者的游戏是我从小最爱看的电影， 就像美梦成真- OOH AAH
+
+Shaw特工: 抽什么风 Thompson， 刚刚是你在附近猴子叫？ 哦老天爷这真是句糟糕的双关语， 这小蠢枪必须得让我蹭一下了(双关=沾我的光了).
+
+Nanku专业军士: 所以， 我赢了？
+
+胜利音乐响起. 声音因周围的水体而失真扭曲.
+
+Nanku专业军士: 阿哈，我得说，你的努力多少还是有报偿的，就我所后知后觉，这是一场鼓舞人心的胜利.那么精确地说到底是怎么个鼓舞法？
+
+Deets主管: 喔…那个基本上没错.
+
+[记录结束]
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|017
+
+-关闭记录
+
+记录ID：  3301|017
+
+参与者： Dumas特工和Tucker特工， Perkins博士和Steele特工， 研究员Patel和政治犯Justice Locke， 研究员Dumas和D-101 (因表现良好获得游戏时间之奖励).
+
+游戏场地：  血池之下两万里格
+
+胜利者： Dumas特工和Tucker特工
+
+胜利条件： 种族灭绝先生
+
+难度： Maksur
+
+时长： 4h 28m 14s
+
+奖金： $100，000，000
+
+游戏概要： 开局时每个副队员都挨了一枪，Tucker特工伤在脚趾头，Steele特工伤在肘子，Locke脸部中枪侥幸存活.D-101报告说有东西穿过头发贴着他头皮飞过去了.
+
+开局后，玩家们出现在一片被血红太阳照亮的稀疏树林里.那树林错落地位于巨大的红色湖岸边上. 每队都全副武装，这得感谢Dumas特工，他出了张白卡-用10张红卡顶掉了每个玩家的手牌.
+
+玩家花了下几轮摧毁各种异常.研究员Patel牵头休战，试图让对手们奔着，这允许Tucker特工在游戏区域里无限自由游荡，无须投骰确定行动范围.
+
+根据Dumas特工的吩咐，这家伙早些时候发现了隐藏卡的线索，Tucker特工赶紧搜遍游戏里每个角落，以期让他们小队成为发现者先生.所谓隐藏卡守护着.得益于Tucker特工的神速，他得以携牌潜逃，避开各种来自实体的威胁，他们的回合结束于跨湖归老家途中，载具即夜间运输者卡车和隐藏卡通通落入湖心.
+
+轮到Dumas特工和Tucker特工出牌时，他们出了三打橙卡.其中四张都是神圣级或更高级神性卡.玩家们在地图南方的大墙附近集合.Tucker特工队在下一轮加入了集体，并用手头的卡牌抵御了攻击.他们的努力得到了研究员Patel的协助，Patel出了张蓝色同伴卡被撕卡了.
+
+在4小时27分的时间里，为了自保玩家们几乎全员空血，研究员Patel队继续领先.最后还剩下一个异常实体一举干掉了其它玩家，使其所在队伍成为了种族灭绝先生.
+附加记录：
+
+值得注意的卡牌 
+
+夜间运输者
+
+卡牌颜色：  绿色牌
+
+卡牌标题：  可疑蠕沙
+
+副标题：  那…那个沙丘是不是动了？
+
+类型： 陷阱
+
+效应： 他们动手时有种恶习-钻进泳裤玩弄那些沙滩男孩，这使得部署该卡时令人极为厌恶.
+
+卡牌颜色：  蓝色牌
+附加记录：
+
+卡牌标题：  夜间运输者
+
+副标题：  总是在路上
+
+类型： 同伴
+
+效应： 带上动量化身搭个便车！你可以免费在游戏地图上游荡，只要带着这张同伴卡甚至无须掷骰(每轮时限2分钟，别糟蹋在玩乐上)注意那些橙卡，Leroy！
+
+数值： 12 ATK / 4 DEF / 6 HP
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+S.D. Locke: [嘟嘟囔囔] …他们？
+
+Tucker特工: 最后一次了啊， 我们听不懂你说的那些该死的玩意！
+
+Patel研究员: 不怪他，他叫人一枪射脸上了.
+
+Dumas特工: 吔，哪个大神出主意让咱们玩Maksur模式来着？
+
+Dumas研究员: 我只是觉得这会好玩一些， 你自己可以玩安全模式玩到老.
+
+D-101: 那么，还有多少鬼东西？
+
+Perkins博士: 不好说. 我们已杀光了各路牛鬼蛇神， 是Locke放出来那个信息吞噬者…
+
+D-101: 洨！ 那边！ 侬看到了伐？
+
+Tucker特工: 啊！
+
+Dumas特工: 哦好吧. 嗯， 那玩意让我紧张到你不敢相信.
+
+Perkins博士: 他在那鼓捣个神马鬼呢？
+
+Patel研究员: 无关紧要. 有些人需要滚过去把事情了结一下， 所以我们可以结束这小小会议了.
+
+D-101: 你说你能赢的.
+
+Dumas特工: 喔， 轮到我们了. 让我瞧瞧… 十二点！妙不可言！
+
+Tucker特工: 甜心， 让我们把她带走 - 老大你给我整出个啥牛逼装备？
+
+Dumas特工: 呃…吔. 就是， 就是到最远行动半径边上巡一圈.
+
+D-101: 最后.
+
+Dumas研究员: 赶紧的干掉它呃，我已经感觉不到我屁股在哪了.
+
+Dumas特工: [戏剧性]我现在触发… 我的陷阱卡！ 哇哈哈哈哈！
+
+[可听到S.D. Locke， D-101和Steele特工的尖叫声. 胜利的音乐和烟花爆炸， 及播音员的祝贺 ].
+
+Dumas特工: 那就是你在[过]圣诞节时得到的！
+
+Dumas研究员: 什么？ 你 — 我不能— [叹气] 你是个遭天杀的令人难忍的肉中之刺，你知道不？
+
+Dumas特工: 令人难忍的肉中刺刚刚赢了一亿块钱！
+
+[在这一点上， 特工赢得的游戏币与通行货币等值兑换. 这是头一次也是唯一一次记录到在游戏中居然能玩出真钱来的实例]
+
+Dumas研究员: 我们正在办离婚.
+
+[记录结束]
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|021
+
+-关闭记录
+
+记录ID：  3301|021
+
+参与者 ：(S.) Kadowski中士和Winston下士，Chang特工和Arch特工，来自MTF Gamma-4， Wyte中士和(D.) Kadowski特工，Samson特工和Karlyle特工，来自DTF Sigma-6， Peterson特工和Quinzeen特工，来自MTF Eta-10非礼勿视， Pentach研究员和D-93017.
+
+游戏场地： 雨海火山口
+
+胜利者： 无.(详见概要)
+
+胜利条件： 无
+
+难度： Apollyon
+
+时长： 0h 10m 00 seconds
+
+奖金： 无
+
+游戏概要： 游戏设定在雨海火山口内，一个无人值守的设施大致位于地图中心.每个玩家的“收容设施”都连接到中央设施的高速铁路隧道的地下部分，他们彼此完全独立.
+
+游戏开始时，地图发出耀眼光芒，10m倒计时出现在每队的主玩家身上.副队员报告-太阳正在经历超新星爆发事件.所有副队员报告自身出现残障疾病情况.Arch特工，Quinzeen特工失明，Winston下士和(D.)Kadowski特工因恶心内部疼痛和移动困难.
+
+Pentach研究员给D-93017装备了蓝卡“████ ███”表现为一个虽然没有特殊机能，但在游戏进程中无法觉察且不会被记忆的男性人类实体.
+
+Pentach研究员指挥D-93017进入地下铁路隧道.D-93017因失明和发高烧晕头转向，不断迷路.在其回合结束时，Pentach研究员抽到了一张黑卡，这将迫使他每轮弃卡一张以换取D-93017存活，否则D-93017自动死亡.（剩余时间：9分27秒）
+
+(S.) Kadowski中士使用了黄卡其所在队伍获得$500，Winston下士被指挥去找件太空服，赶在(S.) Kadowski中士抽牌结束本轮前.（剩余时间：9分20秒）
+
+Samson特工给Karlyle特工装备了红卡，使该队的高速铁路永久失效.（剩余时间：9分11秒）
+
+Peterson特工给Quinzeen特工装备了红卡.
+
+Chang特工命令Arch特工寻找补给，因为盲目，他们遭遇了至高神圣橙卡.他们立即就义.（剩余时间：9分05秒）
+
+Wyte中士给（D.）Kadowski特工装备了红卡结果该紫卡宰了（D.）Kadowski特工.（剩余时间：8分54秒）
+
+Pentach研究员给D-93017装备了红卡“地图地图”.使他们能够看到(但不能识别)地图上的所有活动卡牌.D-93017通过地图导航看到了在第四轮中诞生的第二个至高神圣橙卡.Pentach研究员指挥D-93017进入地下铁路隧道，D-93017再次无法遵从指示.
+
+有鉴于此，Pentach研究员决定作弊，使用了游戏王卡牌强欲之壶，SCP-3301接受该卡，允许抽两张牌这两张卡都是黑卡的复制品.
+
+Pentach研究员的举止开始失常，如同精神药物滥用过量，在抽了256张卡牌后，Pentach研究员已经痴乜呆傻，丧失行为能力3，导致其它三队根本无法行动.因为Pentach研究员无法完成抽牌结束本轮，进程卡死.
+
+计时归零，地图上所有设施项目和玩家被汽化.游戏结束，无人获胜，没有奖金.
+附加记录：
+
+值得注意的卡牌 
+
+Mr.Redd卡牌
+
+卡牌颜色：  蓝色牌
+
+卡牌标题：  ████ ███4
+
+副标题：  ████ ██ ████
+
+类型： 同伴
+
+效应： ███████ ██ ████████， ████████ ███. ███ ████ ██ █████ ███████████ █████， ███ ████ █████ ██ █████████！ ██ ██ ████ ██ ██████ ████ ██ ███ ██ ████ ████████ █████， ███ ██ ██████; ████ ████ ███ ████ █████ ███████ ████.
+
+数值： ██ ATK / ██ DEF / ██ HP
+附加记录：
+
+卡牌颜色：  黑色牌
+
+卡牌标题：  大麻之壶
+
+描述：  这是在地狱里给作弊者保留的空位，一个为你量身而挖的地洞.尽管去抽两张牌吧，你会遭到恶报的.
+
+效果： 玩家抽两张牌，并开始体验精神药物的迷幻[旅程]，连续使用大麻之壶会加重药物症状.
+附加记录：
+
+卡牌颜色：  紫色牌
+
+卡牌标题：  Redd O.P.中止C.P.
+
+副标题：  深红之王
+
+类型： 神奇娱乐
+
+效应： Mr. Redd无可挽救罪孽深重！能远距离无视防御攻击目标，但其攻击力与目标距离成反比.能装备被其干掉的玩家身上的装备.最佳使用期限：遭遇后.
+
+数值： 40 ATK / 20 DEF / 60 HP
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+Chang特工: 我告诉你啊， 在我和子弹之间.你丫都是一帮怂货.
+
+Pentach研究员: 我怂的跟你似的. 咱们以前谁也没玩过.
+
+Kadowski中士: 这地图平的像家门口的草坪-低重力，真空.你们这帮旱鸭子就没受过这方面训练.
+
+Wyte中士:  那是因为你那队是以海盗命名的，可不意味着-
+
+Winston下士: (远远地) 拜托，我们能开始玩了吗？
+
+Pentach研究员: 好了好了， 我来抽牌 -
+
+Samson特工: 甜蜜的复活节啊， 那是什么鬼？ 你还好吗？
+
+Karlyle特工: (远远地) 我了个草. 我感觉被火车撞了，而且狗逼太阳爆炸了.
+
+D-93017: (远远地) 你坑死爹了！我连粑粑都看不见了！
+
+Samson特工: 操蛋 — 哦狗屎， 注意时间. 赶紧动弹 Pentach， 咱只有10分钟.
+
+Pentach研究员: 别管我叫Pentach. 叫我Kyle或Pentach研究员，或者干脆别 -
+
+Peterson特工: 闭上嘴赶紧干活.
+
+Pentach研究员: 我会用， uh… 这逼玩意能有用？ 这卡可真够黑的.
+
+D-93017: (远远地) 谁 — 谁在那？ 你丫谁？
+
+被召唤的实体: … 我不知道. 你是谁？
+
+Pentach研究员: 有东西奔你去了. 往西边走四 — 不，西，你个二逼 — 他妈的转过来！ 是他妈的另一条道！
+
+Chang特工: (大笑)
+
+Pentach研究员: 闭嘴， 你知道真根本他喵的不公平.
+
+Peterson特工: 太公平了. 你只是特别地不幸罢了
+
+Pentach研究员: 操他妈.
+
+Wyte中士: 嘿， 你不能那么干！
+
+Pentach研究员: 噢真的？ 那为啥它刚刚起作用了呢？
+
+Kaderowski中士: Pentach.那可是作弊.
+
+Pentach研究员: 亲吻我的大臀吧. 让我看看… 操， 全是黑卡… 等等… 为啥是这些黑卡？
+
+Chang特工: 它们都是个甚啊？
+
+Pentach研究员: 一样的， 两张;我每次抽一张. 但为啥…
+
+Samson特工: 神奇娱乐绝不会出错. 它们是黑卡肯定是有原因的.
+
+Pentach研究员: 呼， 拽过来… 四张这玩意了. 绝了.
+
+Pentach研究员: 嘿… 嘿这是… 更多这货…
+
+Kadowski中士: 你丫没事吧， Kyle？
+
+Pentach研究员: (嘟囔) 咦吔耶， 我是… 我是… 呜， 更多的壶… 呵呜壶…
+
+Wyte中士: Pentach， 住手. 那不是 — 不， 停下 -
+
+Pentach研究员: (严重地口齿不清) 滚犊汁… 老子的回合…呵呜壶， 嘻… 嘻嘻嘻嘻… 叶子. 咦吔耶叶子儿.
+
+Samson特工: Pentach， 停下吧， 那可不是…
+
+Pentach研究员: (各种口齿不清)
+
+Winston下士: (远远地) 那干嘛呢，还没轮到我们吗？
+
+Kadowski中士: Pentach刚刚有点… 来事了，看来他好像进行不下去了，我会—
+
+？？？: 请等待上一个玩家结束本轮.
+
+Kadowski中士: … 该死的.
+
+Chang特工: 开你妈玩乐呢. 他已经不能， 他他妈…
+
+Kadowski特工: (远远地) 爆发… 已经非常近了. 你们确定已经束手无策无事可做了吗？
+
+？？？: 请等待上一个玩家结束其轮次.
+
+Quinzeen特工: (远远地) 这可真热.你得知道.
+
+Wyte中士: 嗯， 三，二，一…
+
+Chang特工: 我们全都输了， 神狗逼队友Kyle. 完美的他妈的地图来决出谁最牛逼， 还有时间限制， 现在你把这些都毁了.
+
+Pentach研究员: (嘟囔) 嘿， 这个… 不是我， 不能赖我啊…
+
+Peterson特工: 闭嘴. 你他妈总能把一切事情都搞砸， Pentach. 滚出去.
+附加记录：
+
+附加说明: 
+
+Pentach研究员似乎已被禁止参加以后的游戏; 尽管Pentach屡次尝试成为主玩家或副玩家，SCP-3301统一将其视为已开始的游戏的观众.目前尚不清楚这个禁令是否会到期，如果真有期限的话.
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|028
+
+-关闭记录
+
+记录ID：  3301|028
+
+参与者：  King博士和D-93017， John研究员和D-85493
+
+游戏场地：  苹果籽
+
+胜利者： King博士和D-93017
+
+胜利条件： 苹果籽先生
+
+难度： Safe5
+
+时长： 75h 43m 29 seconds
+
+奖金： 400，000苹果籽
+
+游戏概要： 地图是一马平川的苹果籽平原，毫无特别之处，地面由压得很坚实的苹果籽构成，地面上覆盖着一层10厘米厚的松散的苹果籽.
+
+玩家的手牌全是各色卡牌的副本.
+
+King博士用了张绿卡.又一粒苹果籽出现在D-93017附近.
+
+John研究员给D-85493装备了一张蓝卡.
+
+连续七十五小时，没有任何值得记录的事件发生，因为抽到的和在地图上遭遇到的都是各色卡牌.尽管John研究员和King博士能识别含有橙卡和紫卡的地图块，但D-93017和D-85493都没法从那层松散的苹果籽里把那些[特别]的苹果籽辨认出来.
+
+游戏结束得很突然，当时King博士给D-93017装备了一张红卡卡牌的副本填满并达成了未知的所谓苹果籽先生的获胜条件.
+
+游戏结束后，玩SCP-3301的收容间被估计约40万颗苹果籽逐渐填充.
+附加记录：
+
+值得注意的卡牌 
+
+苹果籽卡牌
+
+卡牌颜色：  多种颜色6
+
+卡牌标题：  苹果籽
+
+副标题： 苹果的种子
+
+类型： 种子
+
+效应： 一粒苹果籽，无关个人，King博士-此乃规则是也.
+
+数值：7 00 ATK / 00 DEF / 00 HP
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+John研究员: 没关系的.不过是陪我们玩一把，好呗？
+
+King博士: 咱们心知肚明会发生什么破事.
+
+John研究员: 来吧， 只是玩个牌. 不可能…
+
+John研究员: 八十五， 什么… 你站在什么上面？
+
+D-85493: 苹果籽. 数英里的苹果籽.
+
+King博士: (语无伦次大喊大叫)
+
+John研究员: 冷静， 只是让你抽个牌然后我们会- 哦小哥.
+
+King博士: 苹果籽， 对不？ 所有牌都是苹果籽，难道不是？
+
+John研究员: 我非常抱歉.
+
+King博士: 我已经抽完手牌了.哦小盆友，让我寻思一下我要出哪张呢？ 让我绞尽脑汁考虑一下我要先出哪张牌？
+
+King博士: (咆哮中) 噢 我知道了，我要动用一粒他妈的苹果籽，！那绝逼会好使！太完美啦！完美的举措，在一处被那些他妈的-苹-果-籽填满到边缘满到溢出来的所在！
+
+King博士: (低声抽泣)
+
+[记录结束]
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|033
+
+-关闭记录
+
+记录ID： 3301|033
+
+参与者： Helen Zhao特工和Zoe Smith特工，来自MTF Eta-13
+
+游戏场地： Site-46下方
+
+胜利者： 平局
+
+胜利条件： 健忘先生
+
+难度： Keter
+
+时长： 1hr 48min 12s
+
+奖金： N/A
+
+游戏概要： 此重述的值得注意之处包括尚不为基金会所知的数个异常，目前尚不清楚这些是因游戏而产生的，还是未被发现或未来可能出现的现实世界中的异常.
+
+每支队伍都在一个地下基础设施中开始游戏，突然，收容突破的警报大作，所有队伍被一个巨大的人形实体和一头凶猛的犬科实体追逐.Candle军医退到一间仓室后把正在继续撤退的所有玩家锁在了外面.
+
+根据AIC-Glacon的建议，Pankin特工登录到计算机终端.激活了附加给Agarwal博士的效果卡 犬科新伙伴一起前进.Pankin特工和Smith特工向着站点出口狂奔.
+
+当Smith特工离开站点时，她受到阳光照射并因此触发了绿色陷阱卡，结果仅仅是将其润滑，延缓了它突入站点入口的尝试.Pankin特工最终被攻击并杀死，尸体融入了该液态物.
+
+该无定形生物与Agarwal博士谈话，称自己是她的伙伴，并撺掇她去加入它.Agarwal博士的异常同伴们对其发动攻击，但被其吞入. Igotta博士用了最后一张蓝色同伴卡，一个宇宙实体向上飞入大气层并消失.然后太阳熄灭了.
+
+该黏胶状生物崩解，失去了所有功能.然而之前被其融合的Pankin特工和Smith特工仍保持在零血量，且覆盖在其表面的绿色黏液忽然[数据删除].
+
+当其它剩余玩家陷入慌乱，离[数据删除]才不过数秒，Candle军医赶到，将红卡合成为新的武器，向上对着各队主玩家射击.
+
+所有玩家同时醒来，没有游戏事件的记忆，且不记得自己出现在游戏地图里的原因.没有奖金.
+
+参与游戏者们声称没有游戏事件可供回忆，尽管游戏中的事件已通过录音大致还原了.出于安全和心理原因考虑，这次游戏事件的重述对所有参与游戏者保密.
+附加记录：
+
+值得注意的卡牌 
+
+Avery卡牌
+
+卡牌颜色：  橙色牌
+
+卡牌标题：  Avery
+
+副标题：  有人要被剔骨了
+
+类型： 异常 | 感知能力 | 动物
+
+效应： 一头白色温迪戈流着哈喇子，有控制骨骼生长的能力，怎么能不招人爱呢？
+
+数值： 9 ATK / 5 DEF / 6 HP
+附加记录：
+
+录音记录 
+
+[记录开始]
+
+Zhao特工: 注意你的六点钟方向， Zoe！ 有某种狗在顶棚上！
+
+Pankin特工: 这边走， 上吧！
+
+AIC-Glacon: 我对那个方向表示异议.
+
+未知存在: 食物啊， 荣耀的食物！
+
+Smith特工: 那是个什么鬼？ 嘿 Candle， 跟这等着我们， 你要是敢不 -
+
+Candle军医: 我很抱歉！
+
+Agarwal博士: 懦弱的杂种. 让我们离开这.
+
+AIC-Glacon: 你渴望从这次经历中得出何种结果？
+
+Pankin特工: 喔我肥肠确定的是老子不想输， Glacon！
+
+AIC-Glacon: 我的计算表明此时使用此卡将确保您不会输掉.
+
+Pankin特工: 好啊， 登录 - 它应该能影响到最近的玩家. 抱歉了， Lakshmi！
+
+Agarwal博士: 我可啥感觉也没有.
+
+Pankin特工: 这什么情况， Glacon？
+
+AIC-Glacon: 我不能为该查询提供答案，特工. 不幸的是，您激活的程序中发布的大量数据将暂时超出我的处理能力，也许， 我应该，在提出建议之前，我应该提到这种可能性-性， -性， -性…
+
+Bell研究员: 我觉着他宕机了， Thomas.
+
+Pankin特工: 该死， 现在咋办？ 那些鬼东西可还在外头呢！
+
+未知存在:  Lakshmi， Lakshmi， 给我你的答案， 做…
+
+未知存在: 啊-露-噜-.
+
+Agarwal博士: 抱歉现在什么情况？
+
+Zhao特工: 继续前进， Zoe - 你差点出局了.
+
+Smith特工: 好滴， 我是- 啊啊啊啊啊啊啊！
+
+Zhao特工: Zoe！
+
+Igotta博士: 耶稣啊.
+
+Bell研究员: 哦老天， 那个 - 那个太恐怖了. James，你得做点什么. James？
+
+Agarwal博士: 犊子 - 它把我所有同伴都给吸收了.
+
+未知存在: 我是你的同伴， Lakshmi. 我们都是. 加入我们.
+
+Igotta博士: Lakshmi， 跑.
+
+未知存在: 你们都可以加入我们 - 我们聚堆以后将是多么漂亮.
+
+Bell研究员: 它 - 它在看着我们？ 我们能阻止这一切吗， 拜托？
+
+Igotta博士: 是啊， 这个已经不好笑很久了.
+
+Zhao特工:  我还能听见她.
+
+Agarwal博士:  绿色的是[数据删除]！ 它是[数据删除]！ Logan， 我不想死！
+
+Igotta博士: 我很抱歉， Lakshmi. 它 - 一切都会好的. 我保证.
+
+Agarwal博士: 这太黑了.
+
+Bell研究员: 我几乎看不到任何东西.
+
+Zhao特工: 太黑了.
+
+Agarwal博士: 求你了，我不想死.
+
+Candle军医: 你不想 - 至少不会独自死去.
+
+Bell研究员: James！
+
+Igotta博士: 到最后关头了！
+
+Candle军医: 好吧，这里什么都没有…
+
+[数据删除]
+
+Smith特工: 呃 - 我在哪里？我感觉不太好.
+
+Candle军医: 别起来 - 让我检查一下. 你能告诉我你的名字吗？
+
+未知存在: 啊， 恭喜，我猜？谁赢了？ 我们为什么在这？这是个球体吗，或许？谁是神奇娱乐博士 ？
+
+Igotta博士: 神奇娱乐- 呵， 那就能说明很多问题了. 但那也跟没说一样.
+
+Pankin特工: 呃， 刚刚发生了什么？
+
+AIC-Glacon: 尽管已经被激活，因此无法遵循随后的程序，我猜想我之前的计算是正确的，你的行动确保你没有输掉游戏.
+
+Agarwal博士: 我们在玩游戏？
+
+[记录结束]
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++3301|042
+
+-Log
+
+Log ID:  3301|042
+
+Participants:  Dr. Westrin and Junior Researcher Kim, D-1886 and Dr. Messer
+
+Game Board:  Dr. Jones' Locker
+
+Winner:  Dr. Westrin and Junior Researcher Kim
+
+Victory Condition:  MR. ESCHATOLOGY
+
+Difficulty Setting:  Maksur
+
+Runtime:  25h 17m 28s
+
+Payout:  $216,145
+
+Game Summary:  Each player received a gunshot wound upon entering. However, instead of a random location, each player was shot in their left eye. Eyepatches manifested near their vicinity, which they eventually put on.
+
+Each team started on a beach on an island in the middle of a large body of water. No other land is seen by the players. Dr Westrin draws the card , which allows him access to a secret area of the game board. A loud foghorn is heard in the distance, and a large sunken cargo ship appears at the beach.
+
+Dr. Messer immediately plays the card . Another foghorn, this time slightly louder, is heard in the distance, and two boats appear that try and attempt to hinder Dr. Westrin's advancement to the cargo ship.
+
+While this plays out, D-1886 plays green card , which allows the user to play two divine beings in one turn.
+
+With this, she summons the supreme divine card . The Eel and The Great Leviathan charge at D-1886 and the oil tanker, instantly annihilating them both.
+
+Dr. Westrin successfully makes it to the cargo ship, and finds a small lockbox inside. Opening the lockbox, Dr. Westrin discovers the supreme divine card , and immediately plays it. One last foghorn is heard in the distance, and a supremely large wormhole is seen at an unknown distance. A large metal spacecraft is seen exiting the wormhole. It is currently theorized that the spacecraft was approximately the size of Manhattan.
+
+An unidentified object around the size of a human is seen being detached from the spacecraft, which appears to be an escape pod. Once it lands on the island, an entity exits it. The entity appears as an extremely large orangutan in stereotypical sailor's clothes, smoking a pipe, and holding a finished Rubik's Cube in their hand. A necklace is seen around their neck.
+
+The entity speaks through American Sign Language, and speaks with the players for a short time. After 15 minutes, the entity reenters the escape pod. It begins to fly back into the spacecraft. Eventually, several large objects that resemble anchors are shot out of the spacecraft and begin to impale The Eel and The Great Leviathan, and begin to drag them up into the craft. Immediately afterwards, the game ends and Dr. Westrin and Junior Researcher Kim are rewarded the  win-condition.
+附加记录：
+
+Notable Cards Drawn: 
+
+Card Color:  Red
+
+Card Title:  The Wreck of the Edmund Fitzgerald
+
+Subtitle:  Do not come near, lest your boat be your own tomb.
+
+Type:  Structure
+
+Description:  A giant oil tanker, which instantly destroys all ships that come near it. Comes equipped with other weaponry for other types of enemies, such as harpoons, cannons, torpedoes, etc.
+
+Stats:  15 ATK / 85 DEF / 30 HP
+附加记录：
+
+Card Color:  Orange
+
+Card Title:  The S.C.P.S Midnight Jacket
+
+Subtitle:  The Terror of the Seas
+
+Type:  Supreme Divine
+
+Description:  Dead Foundations Write No Tales
+
+Stats:  ?? ATK / ?? DEF / ?? HP
+附加记录：
+
+Audio Recording Transcript Excerpts 
+
+[BEGIN LOG]
+
+Dr. Westrin:  Jesus Christ, I've gone blind!
+
+D-1886:  Ah, fuck! W-why the fuck did they have to shoot my eye.
+
+Junior Researcher Kim:  It shot my eye too. The hell..
+
+Dr. Westrin:  Look, here are some eyepatches.
+
+Dr. Messer:  Yeah, this was definitely done on purpose, especially considering we're on an island in the middle of the ocean. Yar har, I guess.
+附加记录：
+
+Dr. Westrin:  Damn, look at the size of that ship. I'm going over.
+
+JR Kim:  Er, did you just hear that lou-
+
+Dr. Messer:  (In the distance) Oh no you ain't. Take this!
+
+JR Kim:  Fucking shit, it's pitch black.
+
+Dr. Westrin:  I can still see the ship. Cover my back, I'm going over.
+
+(Two small boats appear on the shore. They begin to charge at Dr. Westrin.)
+
+JR Kim:  I swear I can hear something over in the dist-
+
+(One of the boats successfully rams Dr. Westrin, he is flung over near the cargo ship. The boats appear to face towards Kim.)
+
+JR Kim:  Shit.
+附加记录：
+
+Dr. Messer:  1886, do you have anything to destroy the cargo ship. I've distracted them for now.
+
+D-1886:  Yeah, hold on a sec. (Pause) Here we go.
+
+(D-1886 plays the card.)
+
+Dr. Messer:  Did you hear that? It sounds like a foghorn.
+
+D-1886:  Did ya say something, I was staring at the giant ass ship that just appeared in front of us.
+附加记录：
+
+JR Kim:  (Draws a card.) Oooh-ho-hoo, hope you guys are ready to get demolished.
+
+(The Great Leviathan and The Eel appear behind her)
+
+JR Kim:  Let's see you kill these guys.
+
+(Dr. Messer is seen quickly running away from The Wreck and D-1886)
+
+D-1886:  Shit.
+附加记录：
+
+Dr. Westrin:  I got it, I got the card. It's called .
+
+JR Kim:  Play it then, quickly, before Messer can attack back.
+
+(Dr. Westrin plays the card. The foghorn is head, and the wormhole is spotted in the distance.)
+
+Dr. Messer:  Er.. what did you do.
+
+Dr. Westrin:  I have no idea.
+
+(The escape pod from the spacecraft is seen ejecting, and lands right next to Westrin, Kim and Messer.)
+
+Entity:  (In sign language:) Hello. You are from the Foundation, correct?
+
+JR Kim:  You could say that, yes. Who are you?
+
+Entity:  (In sign language:) Names Bright. Was setting sail in case we ever found our target.
+
+Jr Kim:  Target?
+
+Entity:  (In sign language:) Yes madam. We call them the Woodpeckers. They've been tearing up the multiverse, and plundering everything in site. They've already plundered, what, 5 or 6 billion universes so far? We have been sent to destroy them.
+
+JR Kim:  Why do you need such a humongous spacecraft?
+
+Entity:  First off, it's not a spacecraft, it's a dimensional craft. Second off, the Woodpeckers ship is also extremely huge. (The entity takes a puff from their pipe.) Say, have you seen the Woodpeckers around here at all lately.
+
+JR Kim:  No sir.
+
+Entity:  Good. You got off lucky.
+
+(The entity returns to their pod, and begins to fly back up to the spacecraft. The Eel and The Great Leviathan are seen being pulled by the ship.)
+
+Dr. Messer:  Did that monkey just.. take the Eel and the Leviathan.
+
+Dr. Westrin:  Looks like it.
+附加记录：
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+脚注
+1. 关于卡牌格式-在一个抽卡实例中,“Mr.Scary”被作为的描述。
+2. 意指Maksur难度是未知的，并非被SCP官方正式承认的模式类别。
+3. 由于这个事件之外没遇到过“大麻之壶”卡牌，所以尚不知道这是否是游戏功能。
+4. 原先的无名卡片上的所有文字，除了类型-同伴，都被黑条覆盖了。
+5. 尽管设置为Safe，游戏模式更像Neutralized，所有暴露的血液都被等量的苹果籽替代，啊，没有遇到功能性异常。
+6. 虽然卡的颜色不同，但内容却相同。
+7. 苹果籽卡牌的数值只适用于蓝色橙色或紫色卡。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            17 Nov 2019 12:49
+            
+            编辑
++2)
+标签
+讨论 (5)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Albums-template
+                      
+              Your pictures
+            
+          
+        
+              
+          
+            
+              
+            
+            OzRadOnc
+                      
+              A collection of thoughts and notes
+            
+          
+        
+              
+          
+            
+              
+            
+            Metroplexity
+                      
+              Learn the secrets of Metroplex
+            
+          
+        
+              
+          
+            
+              
+            
+            zeromq
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

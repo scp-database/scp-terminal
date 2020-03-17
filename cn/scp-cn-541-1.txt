@@ -1,0 +1,250 @@
+                        
+
+前言： 鉴于目前机动特遣队 甲子-92“假药回收队”的回收SCP-CN-541-1的工作效果显著，基金会已经累计了高达[应站点主管██要求，数据已編輯]瓶的SCP-CN-541。目前██瓶的SCP-CN-541-1已经分配给了基金会中国各个分部常备。以及因为SCP-CN-541自身的高价值与可控性。项目的武器化文件与实验开放文件已经通过。目前任何拥有二级及以上权限的研究员都可以申请一定数目的SCP-CN-541进行研究。—站点主任████
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+实验格式： 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+试验编号： SCP-CN-541-C-(数字编号）
+
+实验监督人员： 
+
+实验对象： 
+
+实验内容： 
+
+实验结果： 
+
+实验分析（可选）： 
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+试验编号： SCP-CN-541-C-1
+
+实验监督人员： 研究员Notexam
+
+实验对象： D-10861与D-11233 曾因合伙连续盗窃罪入狱判无期徒刑。
+
+实验内容： 将两个实验对象分开在两个单独房间。对象D-10861第一次服用SCP-CN-541-1的黑色部分30mins后，再服用SCP-CN-541-1的白色部分。对象D-10862第一次服用SCP-CN-541-1的白色部分30mins后，再服用SCP-CN-541-1的黑色部分。
+
+实验结果： 对象D-10861的四肢缩小到原来的十分之一，对象倒地的同时发出惨叫，5s后失去意识，生命体征停止，验尸报告显示对象因手臂的肱骨与大腿中的股骨插入内脏而死。
+
+对象D-10862身体扩大到了原来的十倍，对象瞬间休克倒地，当场死亡，验尸报告显示，对象身体内部的重要内脏仍是原来大小。
+
+实验分析： 只要第一次服用SCP-CN-541-1之后再一次服用项目就一定会导致死亡后果，与前两次服用是否同一颜色部分无关。-研究员Notexam
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                补充材料
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Aug 2018 17:25
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            LGAM Knowledge Base
+                      
+              Local Government Knowledge Sharing
+            
+          
+        
+              
+          
+            
+              
+            
+            Music Industrapedia
+                      
+              A Legacy of your Working Life in the Music Industry
+            
+          
+        
+              
+          
+            
+              
+            
+            Larpard
+                      
+              Vše nejen o larpech ve východních Čechách
+            
+          
+        
+              
+          
+            
+              
+            
+            מבני נתונים
+                      
+              סמסטר בע
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

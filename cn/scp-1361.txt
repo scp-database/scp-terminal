@@ -1,0 +1,233 @@
+                        
+
+项目编号： SCP-1361
+
+项目等级： Safe
+
+特殊收容措施： SCP-1361的主样本被放置在一个室温被恒定在4摄氏度的封闭环境隔间中。SCP-1361被每天喂食一只1-5公斤重的小型哺乳动物，或根据需要将其质量维持在45-65公斤。若发生主要样本质量超过100公斤的情况，它的50%将被移除并焚毁。所有焚烧SCP-1361实体的行為都应在环境密封区域进行，空气在排放前需要彻底过滤。所有处理SCP-1361的人员必须使用手提式供氧器并穿戴适当的安全装备。
+
+SCP-1361的次要样本可以被制造以用于测试，将预定处决的D级人员用作种子材料。所有次要样本将和主要样本分开进行储存。
+
+描述： SCP-1361是一团无定形的动物组织，外观类似机械压出的肉糜。对组织的分析显示SCP-1361包含来自37个独特物种的DNA标记，包括原牛（Bos taurus），原鸡（Gallus gallus），野猪（Sus scrofa），家猫（Felis catus），灰狼（Canis lupus），金仓鼠（Mesocricetus auratus），原鸽（Columba livia）和智人（ Homo sapiens sapiens），其主要由肌肉组织，结缔组织和脂肪构成。SCP-1361同时含有高浓度的氢氧化铵且会腐蚀暴露的血肉。SCP-1316没有显示出感觉器官或内部结构，且似乎没有表现出智能以及对周围环境的反应。
+
+由于其缺少专门的器官，SCP-1316的一部分可以被随意移除或截断，其有机体不会受到伤害。SCP-1361有能力通过不断收缩和扩张自身在平整的表面上进行有限的移动。SCP-1361被观测到可以以每分钟1.3米的速度匀速移动而不受质量影响。许多不足5公斤的SCP-1361样本没有展示其移动能力。在不受外界刺激干扰的情况下，SCP-1361将沿直线移动直到遇上一个高于其当前高度的障碍物，之后它将开始朝不同方向移动。
+
+若SCP-1316在移动中遇上任何生物体，它会试图以自己包围目标并吞噬它。在吞没一个生物体15-30分钟后，SCP-1316将消化掉该生物体，其质量和容量将根据其所吞没的生物体的质量和容量而有所增长。SCP-1361已经证明可以吞没任何接触到的植物或动物，包括木头，衣物，头发，骨头，和那些无法用传统方法破坏的有机SCP的样本。被吞没物体内的非有机物质将不被消化并会无限期的留在SCP-1361的内部。SCP-1361在被喂食后不会排泄任何废物。SCP-1361每天损失1公斤的质量并必须吞没超过该重量的物体来维持其质量。若不喂食，SCP-1361将会持续失重到无法移动，此时它会开始腐坏并发霉；SCP-1361在此时可以视为死亡并不再需要喂食。腐烂的速度，以及所需喂食的相应数量，将在SCP-1361的温度超过20摄氏度时发生戏剧性的增长。
+
+若SCP-1361质量超过100公斤，它开始散发出高浓度的芳香，一个意外暴露于其中的D级操作员将气味形容为“比煎得嫩的牛排，酥脆的油炸培根，还有湿润的[脏话删除]揉在一起的味道闻起来还要好。”在此阶段暴露于SCP-1361之下的人类和其他肉食动物，将展现出一种极强的意愿去靠近并吃下SCP-1361，沒有煮過的，而无视这个过程对手，嘴和喉咙造成的腐蚀性损害。一旦吃掉，被吃掉的物质将从内部开始吞没测试者，消化并将其变成另一个SCP-1361的实体，过程大约需要4-6个小时。测试指出测试者需要食用超过自身重量0.5%的项目才能发生转化；然而，暴露于SCP-1361并被允许如此做的个体不停吃下远超该物种的标准分量和个体所能吃下的最大份量。除了其所吞噬的不同物种导致其DNA标记不同之外，SCP-1361的所有次要样本表现与主要样本一样。
+
+SCP-1361将一直保持该状态直到其质量减少到50公斤之下，这或是由于被食用，或是由于其一部分被移除，或只是因为没有吃到东西。测试指出SCP-1361的转化技能将不仅仅在如上所述的条件中存在，甚至在被烹饪后仍旧存在。被烹饪后的SCP-1361样本的气味比未被烹饪的要更加浓烈；暴露于其中的D级人员会做出非理性行为和身体暴力以企图获取煮熟的SCP-1361样本。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Dec 2019 05:19
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Communicating (in) the City, Spring 2010
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Isocentre Archive
+                      
+              Where ideas intersect
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiWealth
+                      
+              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
+            
+          
+        
+              
+          
+            
+              
+            
+            Bloodborne
+                      
+              From Softwares new dark fantasy project. (Project Beast)
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

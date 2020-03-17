@@ -1,0 +1,255 @@
+                        
+
+SCP-316
+
+项目编号 ：SCP-316
+
+项目等级： Safe
+
+特殊收容措施： SCP-316无需特别的收容措施，但需要防止被未授权人员滥用。操作SCP-316的人员需全身穿戴强反射套装以防意外照射。由于SCP-316具有能力使人进入易被暗示的状态，保有敏感信息的人员应远离SCP-316的光线范围。
+
+描述： SCP-316是一个古旧的铜制电石灯。其外壳与任何量产品均不匹配，似乎是人工制造的。灯泡没有异常，即使更换也不会影响SCP-316的功能。SCP-316的内部电路是由未知金属，而非铜组成。外壳具有一个电池仓，可容纳两枚一号电池。
+
+SCP-316仅在两枚一号电池以正极相对的形式置于电池仓中时才正常工作。当开关打开时，SCP-316的灯泡会放出一束几乎不透明的白光。与此光束接触的非反射性物体会发生分子结构重排，变成能够均匀反射光子的模式，且在可见光范围内的反射情况一致。在被有效照射合计6秒之后，被照射的表面会失去所有颜色，保持在阴影般的灰色，但反射度与原本表面一致。具有反射性的表面不受影响，但似乎并不反射SCP-316的光线而是将其停止。
+
+SCP-316对于存活或有感知的有机体的效果为暂时的，但更为剧烈。只要该生命体的部分被光照射，它的效果便会遍及整个生命体，包括其内部。效果在合计照射约27秒后生效，并会在接下来的24小时中逐渐消退。除失去颜色外，大部分被影响的生命体会有以下症状：
+
+色盲
+低温降低
+精力衰退
+动作缓慢
+说话单调而含糊
+分心
+短期记忆丧失
+情感淡漠
+不够积极
+情绪反应微弱以致可忽略
+对指示被动地配合
+相对不愿说谎或欺骗
+远见和创造性思维能力受限
+
+在从SCP-316的效果中恢复后，大部分的对象报告称有至多一周的恶心和抑郁症状。几乎所有对象在恢复后均主动表示对被SCP-316照射的不满，并可能暴力反抗再次被照射。
+
+SCP-316与不合作的活体SCP间出于安定目的的交叉实验已被批准。
+
+附录 316-a： 
+
+SCP-316是在一个因使用假钞而在德克萨斯，████被逮捕的色盲男性的住宅中找到的。据报告，该男子常食在一家便利店里用没有颜色的钞票购买物品。一个特勤局调查员指出钞票显然质量过关且是有效的，其墨水的化学成分亦与联邦使用的墨水一致，基金会调查结果也是如此。对象的住宅大部分均没有颜色，似乎他在夜晚曾使用SCP-316来照明。他的邻居报告称对象一向“孤僻”且“沉闷而迟钝”。对象被处决，他的房产被摧毁。
+
+附录 316-b 
+
+参见实验日志316。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Jul 2018 23:10
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP-JP環境再現サイト
+                      
+              実験、実験、爆発
+            
+          
+        
+              
+          
+            
+              
+            
+            Enchanted Bros wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Crosswindsgarou
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCPDeclassified Sandbox
+                      
+              Secure. Contain. Protect. Declassify.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

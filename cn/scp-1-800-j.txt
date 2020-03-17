@@ -1,0 +1,246 @@
+                        
+
+项目编号： SCP-1-800-J
+
+项目等级： 限时优惠！
+
+特殊收容措施： SCP-1-800-J可以轻松安全地存放在您家中的任何地方！SCP-1-800-J可以被家庭中的任何一位成员安全使用1! 无污渍！不脏乱！没有永久性的身体或精神创伤！
+
+描述： 您是否厌倦了异常物品一直不断地威胁着您的日常生活？你想快乐地生活，知道世界可以继续转下去而不被一个全能的实体摧毁吗？现在你可以了！感谢SCP基金会的全新SCP-1-800-J，只需点击一下即可享受正常的生活！SCP-1-800-J非常好用！只需将SCP-1-800-J指向有问题的异常，按下按钮，再按ZAP！异常将被收容在一间为它特制的收容室内，然后你就可以平均地过着你每天的生活！就是这么简单！不会有什么收容失效！每个收容室都是围绕实体的异常影响而专门设计的，以防止它毁你的一天！SCP-1-800-J适用于你能想到的每一种异常！从Safe到Keter再到Apollyon！从人形生物到信息危害再到逆模因和介于两者之间的一切！
+
+但是不要相信我们的一面之词！以下是我们满意客户的一些评论！：
+
+“多亏了SCP-1-800-J，我们现在有几个新的异常项目需要分类。别问我173收容室的墙上长了多少只眼睛。” -█████博士 
+附加记录：
+
+“尝试对682使用SCP-1-800-J。估计什么都没发生。” -███████博士 
+附加记录：
+
+“[咒骂]这东西是从哪里来的？” -███博士 
+附加记录：
+
+Marshall,Carter和Dark有限公司与Wondertainment博士等公司会向您收取类似产品的费用。但SCP-1-800-J仅售19.99美元！没错！SCP-1-800-J只需19.992美元！
+
+稍等，还有更多！
+
+在接下来的十分钟内拨打下面的号码，我们将给您发送一个二代SCP-1-800-J，绝对免费！你将以一倍的价格购得两个SCP-1-800-J！不要再等哪怕一秒钟了，这个优惠在商店里见不到的！现在就打电话！
+
+附录：  如需订购，请致电1-800-███-████。 对于因滥用SCP-1-800-J而导致的任何事故，损害或伤亡，SCP基金会概不负责。您的订单处理需要1-2个工作日，然后在6-8周内交付您的订单。必须年满18岁或以上才能订购。现在就打电话吧。
+
+Footnotes
+1. 甚至奶奶！
+2. 加上运输和处理
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                机密分级
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Jul 2018 09:13
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP Sandbox
+                      
+              of the International Translation Archive
+            
+          
+        
+              
+          
+            
+              
+            
+            Dragon Trees
+                      
+              A Dragon Cave Fansite
+            
+          
+        
+              
+          
+            
+              
+            
+            Generalia
+                      
+              your one-stop shop for all things generals.
+            
+          
+        
+              
+          
+            
+              
+            
+            AviationKnowledge
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

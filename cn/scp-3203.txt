@@ -1,0 +1,292 @@
+                        
+
+TO: pcs.noitadnuof|rellete#pcs.noitadnuof|rellete 
+
+FROM: pcs.noitadnuof|lenidregn#pcs.noitadnuof|lenidregn 
+
+DATE: Jul 082017 
+
+你好，Teller博士,
+
+还记得你几周前你和我说了有关资金的问题吗？为什么Site-19的大人物们好像有用不完的钱，而Site-17的我们只能靠残羹剩饭勉强度日？呃，你可能不记得这事了，毕竟我们每隔一周就会说差不多的事。
+
+但你让我开始想，这些钱到底他妈是从哪来的？你想，我们有大量资金来支撑一个既不盈利，又不是政府资产的组织，对吧？没错吧？是这样，我做了一件每一个新手侦探都会做的事：跟踪这些资金。我做了点挖掘工作，寻求了一些帮助（好吧，我只是问了Site-17会计组的Ed），然后我发现自己已经在查看基金会的银行账户了。这显然是基金会众多资金来源中的一个。幸运的是，我成功说服了银行职员，让他给我看了过去一个月的交易记录。不，我不会详细谈“说服”的细节的。
+
+正如所料，所有的转账都来自于基金会设立的虚假前台公司。这些公司的名字都是“Allison and Banks Investing”这类毫无特点的公司名，没人会多看一眼。但是，有趣的是，谁是这些公司的“客户”？当然，政府扔了小几百万到这些公司里，但80%的收入来自于一个瑞士银行账户。
+
+你可以想象我有多困惑。在我想象中，应该会有一个名单，上面有一连串的名人，或者其他地下组织。也许我们是由GOC秘密资助的。但是这个，这是其他东西。这个账户肯定是由基金会控制的。你猜怎么着？它是一个异常。我监视了它一个月，发现无论从里面取多少钱，账户里的资金从来没掉下过四万美元。妈的，也不会超过五万美元。它就是永远保持在四万多的水平线上。即使基金会上周取了两百万，账户里的钱也没变少。
+
+我准备提交正式申请，给这个银行账户一个SCP等级。我已经写好了一个文档放在下面，希望能找你批准。如果需要的话，也希望你修订它。
+
+对了，也许你可以拿这个找你上级来多要点经费。
+
+- Gerdinel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+文档撰写人: 初级研究员 Niklo Gerdinel
+
+日期:  07/08/2017
+
+项目编号:  SCP-3203
+
+项目等级:  Thaumiel
+
+特殊收容措施:  只有权限高于4级或与基金会财务运作有关的员工可以访问有关SCP-3203的信息。其他所有员工都应成为有关基金会资金来源的误导信息的目标。
+
+SCP-3203可以在任何需要的时候访问，但是，数额可疑的资金提取必须分次进行，以免SCP-3203引起关注。
+
+描述:  SCP-3203是一个瑞士银行账户（编号：011623852957）。无论何时，SCP-3203内均有整整四万美元（USD）。目前没有任何对此账户的存款被记录到。取款并不会减少此账户内的存款数额。超过四万美元的取款可以成功进行。目前，被记录到的最大一笔取款是两百万美元。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+你有一封新邮件！
+
+关闭邮件
+
+TO: pcs.noitadnuof|lenidregn#pcs.noitadnuof|lenidregn 
+
+FROM: pcs.noitadnuof|ehtnapc#pcs.noitadnuof|ehtnapc 
+
+DATE: Jul 092017 
+
+Gerdinel,
+
+Teller博士已经通知了我你的SCP分级请求。它被否决了。不是因为我们觉得它没达到SCP分级的标准，而是因为它根本不是异常。
+
+我要对你关于此事的研究表达赞赏。然而，基金会已经与银行达成协议，以掩盖我们的财务信息。我们要将我们的储备和资助者进行保密。就和你想象的一样，很多有权势的人资助基金会，而他们不想与我们有直接关联。这些人中的任何一个都会考虑要求处决知道了他们身份而没有合适保密权限的人。
+
+我建议你停止调查基金会的资金事务。老实说，你的薪水来源不是你这个工资等级的人该知道的。
+
+-站点主管 Charles Panthe
+
+需要四级保密权限
+
+登录请求已接受
+
+TO: pcs.noitadnuof|ruoF5O#pcs.noitadnuof|ruoF5O 
+
+FROM: pcs.noitadnuof|ehtnapc#pcs.noitadnuof|ehtnapc 
+
+DATE: Jul 082017 
+
+O5-4,
+
+沉默大提琴乐团已经遭到泄露。请求迁移。
+
+我也打算将工厂搬到阿根廷，以让它离基金会资源更远。这也可以把工厂放到离目标市场更近的地方，减少运输成本。我相信，在过去三个月里已经积累了足够需求来证明这一点。迁移工厂也可以提供防止被发现的额外保护。
+
+-站点主管 Charles Panthe
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                货币
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            14 Sep 2019 10:09
+            
+            编辑
++6)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Forteana: The Fortean Wiki
+                      
+              The World of Strange Phenomena
+            
+          
+        
+              
+          
+            
+              
+            
+            PEMARF
+                      
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Vakfı
+                      
+              Yakala, Sakla, Koru
+            
+          
+        
+              
+          
+            
+              
+            
+            uberOptions
+                      
+              Enable all options on all buttons in SetPoint
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

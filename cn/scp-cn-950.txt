@@ -1,0 +1,233 @@
+                        
+
+编号： SCP-CN-950
+
+等级： Safe
+
+SCP-CN-950
+
+特殊收容措施： SCP-CN-950目前位于中国收容于位于中国陕西省西安市的Site-CN-██的收容柜中。收容柜的周围需全时有两名全副武装的安保人员看守。由于项目本身的异常属性，在绝大部分情况下SCP-CN-950的收容措施与其他Safe级别的静物SCP无异。如果项目的异常属性不慎启动，驻扎在███的基金会人员需迅速前往项目的出现地点收回项目。
+
+描述： SCP-CN-950为一把长半米左右的中式长剑。项目剑身由灌钢铸造，剑柄则为有玉石装饰的紫檀木制成。碳-14测定显示项目铸造于公元8世纪末至9世纪初期间。尽管项目至今已有超过一千年的历史，项目的质地没有一点磨损或生锈。中华异学会对该项目有详细的记载，其文档显示【资料屏蔽】。
+
+项目的异常性质有两重。项目的第一异常属性包括数个方面：
+
+1.当任何人直接触碰SCP-CN-950时，项目会开始不断发热和发出强光，直到触碰者停止与SCP-CN-950触碰为止。实验发现项目的最高温度可达到50摄氏度。
+
+2.当任何人试图将SCP-CN-950移出西安市的范围之外时，项目会在移出西安市范围1-2分钟后开始自行高温燃烧，直到项目完全气化为止。此过程无法以任何手段阻止。同时，项目将重新出现在西安市的███历史遗迹处。只要项目依旧保留在西安市的范围之内，该异常属性便不会启动。研究人员认为该异常属性与【资料屏蔽】相关，是为了确保【资料屏蔽】。
+
+查阅关于项目的第二异常属性，需要三级以上的安保级别。如果您拥有以上安保级别，请点此处查阅解锁版本。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                武器
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Apr 2018 08:12
+            
+            编辑
++21)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Chrysalis
+                      
+              A Final Fantasy Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            AckySHINE MiniSites | Best of 2020
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Estudiantes de economía de la uned
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiMechanics
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

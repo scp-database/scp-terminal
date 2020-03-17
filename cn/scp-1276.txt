@@ -1,0 +1,236 @@
+                        
+
+项目编号：  SCP-1276
+
+项目等级：  Safe
+
+特殊收容措施：  SCP-1276被就地收容，并配备一队政府认可的由完整的研究和安全人员组成的考古挖掘小组。所有试图接近收容区域的未授权人员应被拘留和问讯后进行记忆删除，或由现场安保人员视情况处决。
+
+所有人员必须在激活事件发生前至少一小时内清除上层平台，并且在确认启动后至少30分钟保持上层平台的空旷。激活实验只能由D级人员进行，并且事前必须先得到至少两名四级权限以上高级研究人员的批准。
+
+描述：  SCP-1276是一个台阶金字塔，被推测为玛雅文明的建筑，高度为31米，宽度为68米，建造时长至今为止约为2700年，坐落于[已编辑]河流域的一偏远位置。项目被进行了繁复的雕刻，这一行为被认为是专门用于天文学和占星学的。SCP-1276的异常性质集中在建筑结构顶部的一个平台上，该平台上有一3.1米的成分未知的方形金属板。与建筑的其他部分不同的是，这个平台没有陈旧老化的迹象，平台上刻有大量的古代玛雅象形文字及被外界认为是神话故事中的人物和拜伏在他们面前的人形轮廓。
+
+每当出现金星凌日的天文现象时，SCP-1276上方的平台将会瞬间发出蓝色光芒，在那之后所有站在平台上的人类都会通过未知方式，在金星出现在地平线上的那一刻，瞬间以0.01c的速度加速进入大气层。基于地面和卫星观测站的跟踪，已证实所有个体都是朝金星方向发射的，除非有外界干预，否在这这些个体将在发射后3到24小时内进入大气层，这取决于地球与金星之间的相对距离。
+
+目前尚不清楚，在离开地球大气层时，个体会不会受到大气加热的影响。根据推测，所有未受保护的实验对象都将由于突然加速或者最终到来的窒息而死亡。目前正在研制一种能够使个体在发射过程中幸存的便携电子设备及星际通讯设备。
+
+SCP-1276于█/█/██被墨西哥考古学家发现，在突发的导致3平民死亡的激活事故后引起基金会的注意。幸存的考古学家被基金会反应控制小组拘留。
+
+附录 1276-001:  平台上题词的部分翻译
+
+在这个胜利的[日子？]，[无法辨别]向[无法辨别]献祭的，[无法辨别]在天空中，[无法辨别]将在[某一刻?]回来[无法辨别]
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                隔地促动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Aug 2019 06:37
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Great Hyderabad Adventure Club
+                      
+              Advenutre and Nature Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Digital Vomit Records
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            EIME Projects
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            RoaringApps - App compatibility and feature support for OS X  iOS
+                      
+              Application compatibility  iOS
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

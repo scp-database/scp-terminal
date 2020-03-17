@@ -1,0 +1,248 @@
+                        
+
+项目编号： SCP-124
+
+项目等级： Safe
+
+特殊收容措施： SCP-124应保存在其收容单元的一个4.2m的石坑之中。该石坑有1.5m深。在没有被使用时，一块塑料防水布应被覆盖在该石坑上。在没有被研究时任何生物学材料都绝对不能出现在该石坑1m的范围内。任何时候在该收容单元外都应该有1名武装人员进行守卫。
+
+描述： SCP-124是一份9m2面积或者说是14m3体积的泥土。它是在底特律的一个地下室之中被发现的，当时公众发现有2名少年正在大量种植大麻。
+
+SCP-124拥有着能够使任何生物学材料在极短的时间内生长到它的最大潜能状况之下的能力（时间长度取决于材料的复杂程度），在SCP-124之中生长的任何材料都不需要任何的外来的营养条件（例如，生长在其中的番茄不需要浇水和光照）。同样地，农药也是不必要的。因为SCP-124排斥一切不在它之中生长的昆虫和无脊椎动物。任何在SCP-124之中生长的食物都被报告有着极佳的质量、口味以及营养价值。这与该食物被种进SCP-124之前的状态无关。
+
+文档124-1：一份在SCP-124之中的种植列表： 
+
+以下是一份在SCP-124之中种植的项目的精选列表
+
+SCP-124的输入-产出表 
+
+番茄种子 - 完全长成了番茄植株。所有的番茄（一株上有12个）都熟透了并且饱满多汁，尝试者表示“十分美味”。
+
+小型西瓜（0.8kg） - 11.1lb）的西瓜，报告说“十分甜美并且口感极好”。
+
+草种（1） - SCP-124迅速地萌芽为了一片茂盛而翠绿的草坪，并且草叶上有微微的露水。
+
+小型的并且过度生长的树篱 - 一片树篱，明显修剪过并且成为了海豚的形状。
+
+小型的并且过度生长的树篱 - 一片树篱，明显修剪过并且成为了骷髅的形状。
+
+小型拉布拉多猎犬幼犬（黄褐色） - 一条完全长成的，在巅峰状态的棕色猎犬，现在正和Church博士住在一起
+
+小型的高加索人胎儿（男性）- [数据删除]在杀死了6名人员之后，该对象被SCP收容小队处决
+
+飞行幼虫 - [数据删除]，对5级以上人员开放。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生物性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            17 Nov 2017 06:44
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Eventide MUSH
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Design  Illustration
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Big Damn Gaming Page
+                      
+              So many games, so little time...
+            
+          
+        
+              
+          
+            
+              
+            
+            the Paperworks
+                      
+              codename /pw/
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

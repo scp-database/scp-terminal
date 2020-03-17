@@ -1,0 +1,235 @@
+                        
+
+位于Site-103的SCP-757，上面长出的是桃子。
+
+项目编号： SCP-757
+
+项目等级： Safe
+
+特殊收容措施： SCP-757 已被移植到生物站点（Bio Site）-103 的一块花园之中，并需要被持续保持监控。对树的接触需要有3级以上权限的研究员的批准。花园每两个月需要清理一次所有腐烂的SCP-757-1个体，并在站点内焚毁个体。
+
+描述： SCP-757是一株类似于Prunus persica（普通桃树）的果树，有3.63米高。它的木头的质地和其他属性与Malus domesticus（苹果树）相似；它很容易折断、损坏、或是燃烧。它的叶子与一般Prunus persica的别无二致。
+
+每个早晨，这棵树会长出新的果实，全部被指定为SCP-757-1。生长过程平均为5分钟，虽然果实的尺寸直接影响着生长时间。这些果实在这一天里都会保留在树上，然后在黄昏中掉下来迅速腐烂。SCP-757-1的腐烂时间与其尺寸直接相关。当SCP-757-1还在树上的时候，看到它的人会展现出较低的食用它的欲望。SCP-757-1个体被普遍报告为“很甜”和“好吃”。
+
+当一名对象食用了SCP-757-1个体的任何部分后，一个新的器官将会在食用者的腹部前侧长出。其过程被报告为非常痛苦。在一周的期间里，这个器官里将形成一个与被食用果实一致的果子，并将导致进一步的疼痛和可视的肿胀（如果是很大的果子的话，还将导致组织损伤）。当果实成熟之时，它将被从一个直连食道的管子向上挤出并从食用者的嘴里喷射出来，它所经过的的人体组织将被挤得扭曲。这一过程几乎总是会导致所经过组织的永久损伤，尽管果子本身也在喷射过程中被一定程度上的压扁了。被吐出的东西通常是一个普通的，完好的，和之前被吃下的果实同种类型的果子。它并没有SCP-757-1的异常特征。
+
+SCP-757已被发现长出以下几种果实，依照出现频率降序排列：桃子、李子、苹果、梨、西瓜、香蕉、菠萝、草莓、蓝莓、覆盆子、黑莓、金桔、猕猴桃、柠檬和（有一次）南瓜。
+
+SCP-757的效应目前是不可治愈的。如果在吐出果子之前手术切除新长出的器官，它将以和以前一样的速率重新长出。对这种效果的物理、化学、基因及外来原因的检测仍在进行之中。SCP-757-1的汁液已被测试证实具有果实原本的反常特性。SCP-757与SCP-1147交叉授粉的提议已被否决。
+
+SCP-757被发现于██████, ████████，在当地报纸刊登了数起关于人们吐出水果的新闻之后。最终SCP-757在一处废弃房屋的后院被发现。其基部堆满了大量的腐烂水果，还有数具（死于）营养不良的尸体。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 13:15
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Health and Environment
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Latin Dictionary
+                      
+              Where Latin meets English
+            
+          
+        
+              
+          
+            
+              
+            
+            Connors Campaigns
+                      
+              My dashboard for RPGs, Music, Sports, and more.
+            
+          
+        
+              
+          
+            
+              
+            
+            History in the New Media
+                      
+              Digital Project Design in Archives and Public History
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

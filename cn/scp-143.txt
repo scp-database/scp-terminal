@@ -1,0 +1,237 @@
+                        
+
+项目编号： SCP-143
+
+项目等级： Euclid
+
+特殊收容措施： SCP-143被收容于毗邻第生化研究Area-12（Bio-Research Area-12）的山谷中的一个面积超过2平方公里的区域。该区域周边方圆20公里的区域，以及附近所有可目视SCP-143的山顶均禁止公众入内。除非当地降雨量足够，否则SCP-143应每天通过一个大型喷淋系统定期浇灌2次。未经4级人员的许可，禁止人员进入围场内，此外建议任何进入的人员不要碰触SCP-143，或在未穿戴有恰当防护装备时站在它的下方。至关重要的是，在SCP-143的花瓣开始脱落时收容区域应保持无人进入，但是在该过程结束后，进入收容区收集脱落花瓣用于测试的工作已由项目主管批准（详见SCP-143测试记录）。
+
+描述：  SCP-143是一圃共300棵的树种独一无二的树木，外表上类似Prunus x yedoensis（日本樱花）。它们无法结出果实，而唯一已知繁殖方式是通过“根扦插”来从老样本上繁殖新树苗。
+
+其花瓣呈现为淡淡的粉红色，略呈半透明，并且具有光滑玻璃的质感。这些花瓣必须小心处理，由于具有锋利的边缘，人员操作不慎很容易切开肌肤。
+
+其树干呈现为浅灰色，并且有符合预想的木纹，虽然木纹摸上去非常光滑。
+
+然而，这些树木的木材和花瓣比绝大多数人造或天然物质坚硬，达到5000HB布氏硬度、可承受温度高达1800°C，重量强度比甚至超过钛，比铝轻15%。尽管达到这种硬度，这些木材和花瓣仍像大部分树木和花瓣那样十分柔韧。
+
+由于这两种材料的性质，它们异常的难以加工，然而在1500°C以上的高温下原先分散的碎片能够融合在一起。它们可以制成品质优秀的盔甲，盾牌和武器。由于此植物生长迟缓，这些材料的收集的相当缓慢，尽管花瓣很有规律地每年从植株上脱落两次。
+
+附录143-1： 当前被种植在站点的树苗是于1905年日本奈良县的一棵母树上获得的。这棵母树由一个日本刀匠家族持有，据这个家族自称，他们是一名名为“天国（Amakuni）”的传奇刀匠的后裔。他们将母树称为“刃木の木立（jinki no kodachi）”，即为“剑之森”。正是从他们手中基金会获得了如何切下木材，以及如何将收集到的木料与花瓣制成有用物品的方法。
+
+原树仍位于日本，由日本政府拥有，并仍由那个家族负责照料。然而，政府已经全盘否认了它的存在，还将这个家族制作的所有产品都保存于国内。
+
+文件143-A： 今天我们因为SCP-143失去了3个工作人员。他们前天去收集从树上掉下的花瓣，但在收集时突然刮起了狂风，有大量的花瓣被吹落，并且因为狂风而在空中盘旋。风刮了一整天。我会派遣一个清理小队过去，但现在风依然很大，而且那些奇怪的花瓣仍然在飘落。我们得等几天，等风停下来才能去回收他们的遗骸。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                种群
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            13 Aug 2019 07:15
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            TechnicalCommunication
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP繁體中文沙盒
+                      
+              發現，發掘，發佈
+            
+          
+        
+              
+          
+            
+              
+            
+            ASP.NET Wiki
+                      
+              This website is no longer actively supported
+            
+          
+        
+              
+          
+            
+              
+            
+            Emchina2010
+                      
+              Trip to China 2010 Groep T
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

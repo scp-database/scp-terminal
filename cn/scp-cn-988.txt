@@ -1,0 +1,264 @@
+                        
+
+项目编号： [待分配]
+
+项目等级： [待分级]
+
+特殊收容措施： [待制定]
+
+描述： [暂缺]
+
+注意： 请联系Site-CN-34三级权限以上研究人员以获得编辑文档权限。
+
+昨天睡得不错，今天也很顺利地来到了Site-CN-34，我知道我有工作要做。
+
+2018年5月24号
+附加记录：
+
+打开电脑前我看了一眼时间，这是平静的一天，天气很好，我的心情也很好，新收容的异常是个平平无奇的Safe级，我在这一如既往的平静中打开了文档编辑页面，想着风平浪静的完成今天的工作，下班，回家。
+
+平静似乎是今天的基调，我这么想着，随便挑选了一个空白编号，准备编辑文档。
+
+我看着眼前的一行蓝字：
+
+注意： 请联系Site-CN-34三级权限以上研究人员以获得编辑文档权限。
+附加记录：
+
+心里开始盘算了起来，作为一个新到Site-CN-34的初级研究员，我对于我并没有编辑文档权限这个事实并不惊讶。而现在我在想的是，去找谁？
+
+Site-CN-34的三级权限以上研究人员有很多，主管Hannah博士，Tictoc研究员，Svba研究员，Bread研究员，Prism研究员。
+
+如果可以的话，我当然也想去找Hannah博士，但我又担心，作为站点主管的她会不会有些太忙了，而我会不会打扰到她，从而在她心里留下不太好的印象？Tictoc博士作为从原组织叛逃的现任基金会工作人员，有些事还是需要提防着他。这是我调职来到Site-CN-34之前，我的前主管告诉我的。Svba研究员？他可能现在在哪个位面喝着钻石蜥蜴可乐也说不定，但是我总得试试？Bread研究员看上去很好说话，但是可能和我一样作为新人，不具备这样的工作权限。而Dr.Prism？我要不要去打扰老人家呢？
+
+我陷入了思考。
+
+这是平静的一天。
+
+去找Hannah博士吧。
+
+去Tictoc研究员办公室吧。
+
+去找找Svba吗？
+
+去Bread研究员办公室看看。
+
+去Dr.Prism办公室问询。
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精品
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Jun 2018 07:44
+            
+            编辑
++209)
+标签
+讨论 (119)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Insurrection du Chaos
+                      
+              Branche Francophone.
+            
+          
+        
+              
+          
+            
+              
+            
+            DarkSouls II Wiki
+                      
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+            
+          
+        
+              
+          
+            
+              
+            
+            美國城鎮旅遊網
+                      
+              美國城市旅遊逛街活動指南
+            
+          
+        
+              
+          
+            
+              
+            
+            Borradores SCP-ES
+                      
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

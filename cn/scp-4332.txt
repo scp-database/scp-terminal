@@ -1,0 +1,233 @@
+                        
+
+项目等级： SCP-4332
+
+项目编号： Euclid
+
+特殊收容措施： SCP-4332被保留于Site-11的指定牧场内。除了为SCP-4332提供其物种的非异常成员所需的照料外，无需进一步照料。
+
+描述： SCP-4332是一只完全由各种乳制品组成的乳牛(Bos taurus)。SCP-4332的大部分肉都由生奶油组成，牛奶代替了血液，每个器官都被一种不同口味的冰淇淋所取代。尽管如此，SCP-4332的功能和行为直至微观层面都与其物种的非异常成员几乎相同。
+
+SCP-4332在其身体部分被食用或移除时似乎不会感到疼痛。移除部分将在两小时内完全再生。此外，SCP-4332可以吸收外部乳制品进入自身，经由将其吸纳体内以增加或再生本身的质量。
+
+SCP-4332可以像非异常奶牛一样取奶。然而，当SCP-4332被“取奶”时，其提供的并非牛奶，而是一连串整块牛排。这些块状物的大小一般在1至20立方厘米之间。SCP-4332每次“取奶”所产生的肉量与从其物种的非异常成员中所获大致相同。
+
+所有试图繁殖SCP-4332的尝试都只生产出了完全无异常的奶牛。这究竟是SCP-4332异常性的结果，亦或仅仅是由于过隐性基因造成，无从知晓。参阅附录4332-A
+
+附录4332-A： 于5-28-2019，成功繁殖出SCP-4332的另一实例。生产过程正常进行，直至新实例（称为SCP-4332-2）自原始实例体内完全排出。当这两个实例相互接触时，它们相互开始吸收彼此。因吸收和同化作用相结合导致的不断再生致使一整环回馈奶油包围了整个设施。三天后，扩张停止，开始着手将奶油挖掘而出。当建筑物的奶油被完全清除时，只在内部发现了一个SCP-4332实例。
+
+关于SCP-4332育种的进一步试验已被推迟。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自我复制
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Dec 2019 12:50
+            
+            编辑
+0)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Borderlands Modding Resource
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP財団
+                      
+              確保、収容、保護
+            
+          
+        
+              
+          
+            
+              
+            
+            La Wiki de ManagerZone México
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BRTFF
+                      
+              Passion on the Top
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

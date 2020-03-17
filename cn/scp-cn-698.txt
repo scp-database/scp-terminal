@@ -1,0 +1,276 @@
+                        
+
+项目编号： SCP-CN-698
+
+项目等级： Euclid
+
+特殊收容措施： SCP-CN-698需收容于Site-CN-02的一间30m×30m×20m的生物收容室中，按各个体营养所需提供饮食，并每月提供与更换供SCP-CN-698书写用的纸张。
+
+收容室内需放置有一块上有由阿提卡希腊语1书写的“如需外出，请啄守门人手背三下，并根据地图告知其地点”字样的黑板，以及一份保持在最新版本的电子地图。收容室外需24小时由具有基本的希腊语语言能力的安保人员看守。
+
+当SCP-CN-698-a发生时，需由安保人员确认具体地点后通知机动特遣队 Theta-18“τυφλός ποιητής” -无目歌者，并由其将SCP-CN-698送至指定地点，驱逐周遭人员并在SCP-CN-698-a结束后对相关人员进行a级记忆删除。
+
+描述： SCP-CN-698为34只阿岛信天翁（Diomedea amsterdamensis）2的总称。生理指标和需求与一般阿岛信天翁无显著差异。SCP-CN-698拥有等同于正常成年人类的智力水平，能够读写阿提卡希腊语，同时亦能理解简单的现代希腊语。
+
+SCP-CN-698每1~24个月会进入一种被称为SCP-CN-698-a的异常状态。当SCP-CN-698-a发生时，SCP-CN-698由其中首领——代号为Sthenelus的个体领导，一同前往特定实体或其墓地（在实体已死亡时）所在地。处于SCP-CN-698-a状态下的SCP-CN-698拥有自由穿过物体，以及不受人为的外部阻力的能力，目前暂无可靠的对SCP-CN-698-a状态下SCP-CN-698的束缚方案。
+
+SCP-CN-698-a状态下的SCP-CN-698倾向于以不被常人发现的途径前往其目的地。当SCP-CN-698抵达目的地之后，会以目标的母语对其询问“你会后悔吗？”。在得到目标实体的回答或无回答10分钟之后，SCP-CN-698会回到其居住地，并就近寻找文字载体（如纸张、羊皮纸、丝绸、竹子等），并于其上书写。其书写过程不需要笔墨，在代号为Sthenelus的个体注视文字载体时，书写内容会逐渐浮现在载体上。书写内容为每行由两个人名（有时仅为一个人名）和一个时间构成的记录，根据人名的不同会使用不同的语言。每一次SCP-CN-698-a发生时，SCP-CN-698都会重新书写一遍，在书写完毕之后，SCP-CN-698会恢复为正常状况。
+
+SCP-CN-698书写内容破解结果（部分） 
+
+行数
+人名1
+人名2
+时间
+事件
+
+1
+狄俄墨得斯（Diomedea）
+涅斯托尔（nestor）
+BC1193
+于特洛伊战争中，从特洛伊军手下救下因战马被射杀而困住的涅斯托尔
+
+██
+D-14134
+无
+AD200█
+如你所见
+
+██
+█曳戎
+项██
+AD2011
+于[数据删除]中救出事故幸存者项██
+
+██
+张██
+█午
+AD20██
+于事故10██-a-███时将一名研究员从危险区域拖出，并因此感染[数据删除]，抢救无效死亡
+
+██
+█宏宇
+无
+AD2016
+于驾驶摩托车追截一名偷车窃贼时与其撞车受伤，最终抢救无效死亡
+
+分析
+相关情况，即使其本身并不具有读写这些语言的能力。
+
+Footnotes
+1. 又称雅典希腊语，是一种古希腊语方言，在以雅典为中心的阿提卡地区使用。
+2. 一种极危大型信天翁，原被视为漂泊信天翁（Diomedea exulans）的一个亚种，1983年被分离出来视作一独立种
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Sep 2018 08:09
+            
+            编辑
++186)
+标签
+讨论 (27)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            BATTLESTAR GENESIS MUSH
+                      
+              battlestar.isunlimited.net    3012
+            
+          
+        
+              
+          
+            
+              
+            
+            STARFIGHTER INFINITY
+                      
+              Open Source Website
+            
+          
+        
+              
+          
+            
+              
+            
+            क्षत्रिय राजपूत इतिहास
+                      
+              क्षत्रिय राजपूत
+            
+          
+        
+              
+          
+            
+              
+            
+            RSC Institution
+                      
+              Research, Secure, Contain
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

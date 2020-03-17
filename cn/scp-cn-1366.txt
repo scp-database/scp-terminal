@@ -1,0 +1,265 @@
+                        
+
+你打开终端，像平常一样浏览着邮箱首页：突然，有一个奇怪的标题吸引了你：
+
+根据[数据删除]协议被封禁
+
++您有一封新邮件！
+
+-邮件加载完成
+
+[数据删除]编号： [数据删除]
+
+[数据删除]等级： [数据删除]
+
+特殊收容措施： 根据Dr.Logic的研究，[数据删除]在[数据删除]外的任何地方不得被使用任何名字或代词2。掩饰文档中的[数据删除]允许拥有不同的含义。任何要求阅读[数据删除]真正文档的人应得到Dr.Logic的授权后前往[数据删除]进行阅读。阅读后如阅读人要求离开[数据删除]，应接受记忆删除以消除其关于[数据删除]的全部记忆。对[数据删除]的真实收容措施及[数据删除]的真实性质不得以任何方式在[数据删除]外进行描述，但可借助直接观看和分析得到。
+
+[数据删除]收容于Site-CN-55，允许3级以上权限人员进入收容室。
+
+描述： [数据删除]为[数据删除]。
+附加记录：
+
+来自Site-CN-55站点主管的附加留言：
+
+这是一项紧急收容任务，立刻赶往Site-CN-55。
+
+——基金会内部网络自动发送邮件，请勿回复。
+
+-邮件加载完成
+
+“这他妈是什么玩意儿。”
+
+看到这种烂文档，一贯温和的你也不禁爆了粗口。通篇都是[数据删除]？还找了这样一个冠冕堂皇的理由。况且还是第一次见到直接承认文档为掩饰文档的。
+
+不过你是个基金会人员。既然这篇文档发到了你的邮箱首页，你就必须想想这是为什么。先从这个东西本身开始吧。
+
+禁止使用代词，数据对于自己这种高权限人员也是高度隐藏，说明文档中含有有害信息。但是文档头部没有RAISA的提醒，RAISA不可能出错，唯一的可能就是这篇文档根本就没有过RAISA就到了自己的手里，而有权限绕过RAISA的部门也屈指可数：O5，伦理委员会，逆模因部，反概念部3，演绎部，超现实部和超形上学部。O5和伦理不可能给我发信息，逆模因部和反概念部早就完了，而后面那几个部门所收容的……都是高危SCP。
+
+这必然是个凶多吉少的任务，还是不能不去的那种，不去就面临被撤职的危险。
+
+尽管自己和那几个部门都没什么关系，但是还是走吧。查一下Site-CN-55的地址，过会去买机票。
+
+前往Site-CN-55
+
+脚注
+1. 包括[数据删除],[数据删除]和[数据删除]等常用代词
+2. 即本文档。
+见这里
+
+    
+    
+    
+    
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                门径
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Sep 2019 12:58
+            
+            编辑
++13)
+标签
+讨论 (29)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Benitachell Bowls Club
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Android Alchemy
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Dropsite
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Academic Writing
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

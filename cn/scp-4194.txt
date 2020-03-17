@@ -1,0 +1,250 @@
+                        
+
+项目编号： SCP-4194
+
+项目等级： Euclid
+
+特殊收容措施： 基金会内所有SCP-4194个体应圈养在在标准鸟类收容间内。由SCP-4194产下的卵将被冷冻并保存。
+
+描述： SCP-4194是一种鸟类，遗传特征上与旅鸽（Extopistes migratorius）相同。虽然它们的外观和行为与普通的旅鸽相同，但SCP-4194个体无法与其产生后代。
+
+SCP-4194不能感知人类。这种感知的缺陷的现象也扩展到对人类的任何描述上，包括照片、图画和人体模型。目前还未发现可能导致这种异常现象的任何基因或感官。
+
+由于它们的异常效应，SCP-4194个体在野外处于极端的劣势。虽然由于SCP-4194与旅鸽外观的相似性，很难估计其灭绝的原始日期，但有证据表明，它可能早在1898年，也就是普通旅鸽灭绝前的16年左右便已灭绝。
+
+该基金会现在收容的SCP-4194个体都是原始个体的克隆，这些克隆体都由一个对已灭绝的物种（如旅鸽）进行试验的组织生产。这些个体最初被认为是克隆过程中产生的未知基因缺陷造成的，但认知测试显示，当这些个体试图感知人类时，它们会产生上述异常效应。在发现这种现象后，基金会人员进行干预。
+
+附录： 2017年12月15日，在对基础数据库进行例行检查时，在SCP-4194文件的修订历史中发现了以下文件。文件已严重损坏。正在对其进行研究，以揭示该文件与SCP-4194之间可能的联系。
+
+项目编号： SCP-████
+
+项目等级： Keter
+
+特殊收容程序： 机动特遣队Epsilon-3(“Tyltyl and Mytyl”)将消灭SCP-████的所有个体。如果认为不可能消灭某一地区的所有个体，那么MTF-Epsilon-3将放弃该地区并消灭该地区存在的任何平民。当SCP-████个体数量达到一百万及以上时，视为一次收容失效，[数据损坏]。
+
+描述： SCP-████是[数据损坏]，外观类似于旅鸽（Extopistes migratorius）。项目存在一种集体意识，并且随着数量的增长，它们的智力也会随之增加。
+
+SCP-████的增长率与他们认识的人类或类似人类的事物（描述人类、人体模型等的照片和图片）的数量成正比，几乎是█3█。因此，一天之后，城市地区的每一组SCP-████个体都将对人类构成重大威胁。项目知道这一事实，所以它们正积极地寻找人类。
+
+足够数量的SCP-████个体有可能超过全人类的认知能力总和。同时[数据损坏]，一次SK级“支配转变”末日情景将发生。
+
+附录： 依照当前增长率预测，SCP-████将在█9天内发生收容失效。为防止出现这种情况，“p███o██lb██t”方案将被实施，这将破坏“[数据损坏]”，改变“人类”的概念。预计这将导致一次人为的IK级“文明崩溃”末日情景的发生。
+
+目前尚不确定该提案是否会无效化所有SCP-████。这次行动有可能会以一种无法预料的方式毁灭人类。不幸的是，基金会别无选择。只有我们能承担这个责任。[数据损坏]，我们再也不会错过它了。
+
+愿上帝保佑我们。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            13 Dec 2019 14:43
+            
+            编辑
+0)
+标签
+讨论 (11)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Estudiantes de economía de la uned
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Igor
+                      
+              Independent Generation of Research
+            
+          
+        
+              
+          
+            
+              
+            
+            Albums-template
+                      
+              Your pictures
+            
+          
+        
+              
+          
+            
+              
+            
+            DD Compendium
+                      
+              Compendium
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

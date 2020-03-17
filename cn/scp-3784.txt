@@ -1,0 +1,246 @@
+                        
+
+项目编号： SCP-3784
+
+项目等级： Safe
+
+特殊收容措施： SCP-3784需被保存在Site-76的高安全收容室内。任何对SCP-3784的实验都需要在装置有自动灭火系统的密闭室内进行。仅限D级人员与SCP-3784进行接触，其中优先考虑SEC1等级最低的D级人员。所有相关的试验提议须先提交道德委员会批准。
+
+描述： SCP-3784是一盏装饰华丽的小型油灯，其内永远盛满鲨鱼肝油4的持续视线内时，SCP-3784将在未点燃的情况下发生自燃，并引发一场梦魇事件。
+
+就外部观察者看来，经历梦魇事件的实验对象似乎呈现出睡眠瘫痪状态。SCP-3784的火焰将开始出现异常闪烁，其试图以投射出的阴影描绘实验对象睡眠瘫痪中的场景。这使得SCP-3784在梦魇事件期间具有严重的火灾隐患，并且已知对象可点燃120厘米外的易燃物体。
+
+基于SCP-3784所投下的阴影以及对经历梦魇事件后的实验对象的采访，一个由类人生物个体和非人生物个体组成的会议通常会围绕实验对象展开并开始进行某种荒唐的讨论。已知的第一个例子是以寻找出一种如何最佳地将人类作为食物的方法为主题，该方法导致实验对象身体的13个不同部分被取出并以不同的方式处理，紧接着对其强制喂食。其他例子包括重新排列内脏以衡量功能，测试消化系统的容纳能力以及用丝袜代替皮肤。
+
+经历梦魇事件的测试对象皆报告说，其在睡眠瘫痪中的经历与现实难以区分，因此都患上了严重的创伤后应激障碍和失眠障碍。
+
+回收： SCP-3784是在一场对苏格兰格拉斯哥的Marshall，Carter， Dark仓库的突袭中被发现的，同时被发现的还有被认为是Dark私人财产的其他物品。发现该物品时附带有以下注释：
+
+从这一片国土到另一片国土
+
+黑暗随时可引你到那不归路
+
+火把高举别烧到自己的衣物
+附加记录：
+
+正在研究与SCP-4116可能存在的联系。
+
+脚注
+1. 技能、经验与配合。
+2. 从灯中取出的油不会保留任何异常性质，可以安全地使用或处理。
+3. 译注：即快速眼球运动
+4. 对非人生物的实验尚无定论。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                阴影
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Jan 2020 08:40
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            System Restore Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Análise Matemática III
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            GameMaker: Studio Wiki
+                      
+              GameMaker: Studio Tutorials  Resources
+            
+          
+        
+              
+          
+            
+              
+            
+            Retro Legends
+                      
+              The Definitive Database for Retro Gamers
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,271 @@
+                        
+
+在被取得前的SCP-2458
+
+項目編號： SCP-2458
+
+項目等級： Safe
+
+特殊收容措施： SCP-2458要被保存在原本的盒子裡，放入標準收容櫃，它只能在進行實驗時被拿出。所有的實驗只能在一間隔音房內由D级人员进行。研究员必须在独立房间内执行所有任务和递送指示。禁止对SCP-2458进行現場直播。
+
+描述： SCP-2458是一把十八世紀的大提琴，與製琴師Giuseppe Guarneri的其他作品相似，除了年代和磨损度。這個樂器在近四十年有換過弦。
+
+當被演奏時，SCP-2458會使聽得到歌曲的人跟著節奏做出動作與依速度發音。每個曲子都有特定的動作，不過大多都包括點頭、揮手、和不连贯的低语。SCP-2458的演奏者不受此影响，还有其他所有合奏表演者。現場直播會有一樣的效果，但重播錄音則不會。长时或反复暴露于SCP-2458的效应后，会造成听者极度紧张，出现旋律恐惧症和刻板性运动障碍。
+
+附錄2458-1：實驗紀錄 
+
+實驗2458-A 
+
+演奏家： D-385
+
+聽者： D-296，D-4883，D-5019
+
+曲子： 《一闪一闪亮晶晶》
+
+結果： 聽眾依節奏點頭。D-385做出的錯誤會使聽眾抽動一下且中断了效应，不過不久後會繼續點頭。聽者报告因失去肢體控制而感到不安。
+附加记录：
+
+實驗2458-D 
+
+演奏家： D-7294，一位有精神病傾向的受训交响乐大提琴手
+
+聽者： D-296，D-385，D-4883，D-5019
+
+曲子： 《巴赫大提琴组曲1号》
+
+結果： 聽者表現出更複雜的動作，例如站著鞠躬，之後跪著，類似天主教徒的禱告。聽者在演奏時高唱「垂憐經」五次。聽者之後對失去肢體控制更加惶恐。
+附加记录：
+
+實驗2458-G 
+
+演奏家： D-7294
+
+聽者： D-296，D-385，D-4883，D-5019
+
+曲子： 《肖斯塔科维奇大提琴协奏曲》
+
+結果： 听者自测试开始就出现显著焦躁。當演奏開始時，所有聽者馬上停止動作且一同用手指輕敲額頭。到了06:17，D-7294违背测试协议，改開始演奏一首即兴的不协调曲目。D-385開始戳自己的眼球，D-4883與D-5019互相掐脖子。D-296將工作服移除後[數據刪除]。到了15:18，D-296，D-4883，與D-5019已經死亡，而D-385已經失明。研究員指示D-7294停止演奏，D-7294遵守。
+
+D-385在實驗2458-G後出现極端的旋律恐惧症，聲稱是音樂叫他傷害自己。D-7294不再参与更多测试。
+附加记录：
+
+附錄2458-2：回收记录 
+
+SCP-2458在意大利伊莫拉废弃的Osservanza精神病医院回收。清单记录显示此项目在1978年被遗赠给医院，并配有下列字条：
+
+致照料我挚爱Alessandra的善良医生们。愿这件乐器的旋律为你们的病人带来宁静和秩序，我本想把这送给我病痛的妻子却终于未能实现。愿我们都能像圣迪斯马斯那样，在各各他山上选择忏悔。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                音乐性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Mar 2018 10:26
+            
+            编辑
+0)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            iaac emergent culture glossary
+                      
+              words, words, words
+            
+          
+        
+              
+          
+            
+              
+            
+            Morphopedics
+                      
+              Where Technology and Orthopedics Collides
+            
+          
+        
+              
+          
+            
+              
+            
+            SERC Schools in THEP
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            www.schrijven.wikidot.com
+                      
+              Voor teksten, artikelen, verhalen en poëzie
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,240 @@
+                        
+
+特殊收容措施： 依据动物学研究部门的指导意见，SCP-4928应被收容于标准四足动物收容间内。
+
+SCP-4928-1所处设施现已使用混凝土密封。
+
+描述： SCP-4928是七只身着万圣节服饰的小猫的总称。所有的SCP-4928个体均佩戴着相同的项圈，项圈上以孩童的笔迹写有“Billy的小猫”的字样。所有尝试伤害SCP-4928个体的行为均宣告失败。SCP-4928个体的身体总是处于十分潮湿的状态，建议与之接触的人员随身携带毛巾以使身体保持干燥。
+
+SCP-4928-1是位于SCP-4928发现地点的持续性听觉异常：声音来源表现为一名哭唤着母亲的孩童。在其所处设施被密封前，上述声音每隔三十秒重复一次。
+
++SCP-4928-1音频记录
+
+-隐藏记录
+
+声音来源： Johnny？Johnny！让我出去。求你了，我不是故意拿走它的。求你了，让我出去。求求你让它们出去。我保证它们从来没伤害过任何人。妈咪？妈咪
+
+[水花飞溅声]
+
+[停顿]希望你们能成功出去。
+
+附加记录：
+
+回收记录： SCP-4928被发现于佛蒙特州乡村Hollingson农场内一口井底的麻袋中，同时被发现的还包括一具12岁男孩的骨骸，其身份后被确认为当地居民William Elliot。根据报道，William Elliot于1960年10月31日夜间被确认失踪，其所拥有的树屋也于同时被发现被洗劫一空。在对树屋进行的现场勘查中，当地警方在一个饼干罐内发现了一把弹簧刀。14岁的当地居民Jonathan Regis1作为该弹簧刀的主人，被警方列为失踪案的头号嫌疑人。水井内未观察到其它异常性质。
+
+脚注
+1. Johnny在英文中为Jonathan的昵称，上文中的Billy与William同理——译注
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                猫科
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            17 Dec 2019 14:53
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Steel and Stone
+                      
+              Wagering Lives to the Blade
+            
+          
+        
+              
+          
+            
+              
+            
+            The Arcana Wiki
+                      
+              Distilling the Real World for Gaming
+            
+          
+        
+              
+          
+            
+              
+            
+            IB Physics Stuff
+                      
+              - Wikified -
+            
+          
+        
+              
+          
+            
+              
+            
+            CEC Kharon
+                      
+              bsgkharon.com 5102
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

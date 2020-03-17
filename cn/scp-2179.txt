@@ -1,0 +1,279 @@
+                        
+
+项目编号： SCP-2179
+
+项目等级： Safe Euclid
+
+特殊收容措施： SCP-2179必须随时监控并用纸带进行记录以保证对2719-A事件的最高警戒；在此事件发生的10分钟内，基金会特工必须出现在2179地区。如果无法实现，至少要有两名机动特遣队队员立即向2179地区出发，并同时通知莱斯特郡警察部门以及国防部以防需要增援的情况发生。
+
+描述： SCP-2179是一个被改造过的火警警钟，目前处于Site18的观察室。接在这个装置上的是一个纸带机；警钟和纸带机的标签所标示的生产时间都为1927年。
+
+2179-A事件的出现的条件是在英国莱斯特郡基布沃思镇哈考特小学大门120米内（此后将以2179区代指）出现潜在的人身安全威胁，或是出现异常物品/现象（或两者皆有）。警钟会在5米范围内以75分贝的声音响起，一直持续到危险被收容或不再有影响。纸带机用于概括威胁情况。
+
+以下是一系列来自官方的事故记录的摘录；如需全部详情请参阅LOG-2179-INCD。
+
+事故-01 
+
+SCP-2179 威胁概括： 蔓延数住宅的大火
+
+备注：  电路系统错误接线导致小火，毁坏了由3b班搭建的纸制城堡。没有发现其它破坏。
+附加记录：
+
+事故-02 
+
+SCP-2179威胁概括： 汽车相撞 受害者数量为32人
+
+备注： 一辆校车在倒车时撞上了校长的本田思域。一名儿童遭受脑震荡；汽车后保险杆出现明显凹陷。
+附加记录：
+
+事故-03 
+
+SCP-2179威胁概括： 发现异常不移动物品
+
+备注： 一个果酱瓶盖卡住无法拧下。实地测试似乎证实了SCP-2179的概括，但在Site-18的后续分析中成功用洗碗布和暖水打开了盖子。
+附加记录：
+
+在事故01-08中没有实际威胁到人员生命的证据，也没有收容到任何异常物品；对2179-A事件的优先度设置为低 。
+
+事故-09
+
+时间： 13:45
+
+SCP-2179威胁概括： 数只不明异常犬类动物处于区域内
+
+备注：  未部署任何基金会资产。
+
+时间： 13:55
+
+SCP-2179威胁概括： 犬类动物对人类进行无由攻击
+
+备注： 未部署任何基金会资产。
+
+时间： 13:56
+
+SCP-2179威胁概括： 在犬类攻击中多人受伤。
+
+备注： 未部署任何基金会资产。
+
+时间： 13:57
+
+SCP-2179威胁概括：  犬类攻击造成死亡人数5+
+
+备注： 基布沃思镇哈考特区的官方来源确认了此概括；开始部署基金会部队，14:10分到达。发现并制服了数只无法辨认的犬类；平民伤亡数7死9伤。犬类生物的样本（还活着的和死去的）都送到Site-18作检验；实地报告描述其为120公斤，且外表颜色为斑驳灰色，但到了Site-18立即辨认其为两只死亡的约克郡梗犬以及一只被镇静制服的西班牙长牙猎犬。
+附加记录：
+
+在事故-09后，对2179-A时间的优先级设为紧急 ，并制定了目前的收容措施。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                预测性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            14 Apr 2018 03:51
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Himetop
+                      
+              The History of Medicine Topographical Database
+            
+          
+        
+              
+          
+            
+              
+            
+            lostwhat的私人沙盒
+                      
+              A quick start for your SCP-Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Metrix Create:Space
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            F650CS FAQ
+                      
+              Alternative / Supplement  to Black Belt Gang FAQs for the BMW Scarver
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

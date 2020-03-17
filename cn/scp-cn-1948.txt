@@ -1,0 +1,261 @@
+                        
+
+项目编号： SCP-CN-1948
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-1948应被收容于一个由至少两名安保人员全天候看守的保险箱中。涉及SCP-CN-1948的实验将在由三名4级及以上人员书面允许后进行。禁止长期使用同批D级人员参与实验，受到SCP-CN-1948影响的人员应在每次测试后根据参与测试强度每隔一定时间参与健康检测，受到影响过大或在一定期限内未消除异常影响的受影响人员应尽快处决防止意外。
+
+描述： SCP-CN-1948是一个塑料制软质杯具。杯子本身性质较为柔软，但无法受到任何物理破坏。SCP-CN-1948中装有澄清液体，经确认为大豆制品，编号为SCP-CN-1948-1。SCP-CN-1948-1无法自SCP-CN-1948中倾倒出，只可以装在SCP-CN-1948中被直接饮用，这是SCP-CN-1948-1从原容器中脱离的唯一途径。在一个人类个体饮用该液体后，其周围半径15~20米的圆形范围内人员将短暂昏厥并失去不等量记忆。范围内人员失去的记忆多数在一定时间内恢复。失忆量以及恢复时间根据测试者饮用量不同而不等，两项变量改变范围为1日~7年，7日~15年。失忆现象仅发生在测试者周围人员，测试者本人将不受影响。失忆的人员将会明确意识到自己失去了某一时间的记忆，但无法回忆起该时段的相关事件。SCP-CN-1948-1液体将在没有受到损耗的情况下经过约30分钟缓慢恢复完全。据推测，SCP-CN-1948-1液体是无尽的。
+
+测试记录CN-1948 
+
+测试对象
+事件报告
+附注
+
+D-10283
+对象饮用了整杯SCP-CN-1948液体。实验隔间外的两名安保人员即刻昏厥。约五分钟后，两名安保人员苏醒。
+在尚未理解SCP-CN-1948的特性的情况下对SCP-CN-1948的首次测试。报告称两人均声称失去约七年记忆。由于存在可能造成人员记忆损失的风险，未来进行实验的隔间将不配备安保人员并在隔间内额外安置D级人员。
+
+D-19203
+对象依照研究员指示尽可能少地饮用了SCP-CN-1948-1液体。实验隔间内的其余2位D级人员显现得站立不稳，随后立刻恢复正常。1名D级称其视线突然模糊，随后立刻恢复清晰；另一位则表示其“眼前一黑”，随即恢复正常。
+首次进行低剂量测试。两人均失去约1日记忆。本次实验记录将作为该项目异常性质的最低表现参考。
+
+更多实验记录详见附录CN-1948-D
+
+[附录CN-1948-D，需要4级权限]
+
+[已认证权限，文件传输完毕]
+
+附录CN-1948-D
+
+附录CN-1948-D 
+
+测试对象
+事件报告
+附注
+
+特工███
+对象依照研究员指示，使用多种冷兵器对SCP-CN-1948进行强度测试，一般刀具无法对SCP-CN-1948造成任何损害。大型钝器亦无法永久性改变项目的物理外形。
+首次对于SCP-CN-1948的强度测试。项目似乎拥有与其材质完全不符的物理强度。目前未知是否可以通过已知途径破坏。
+
+特工███
+对象按研究员指示，将SCP-CN-1948-1从原容器中饮用至口腔中。对象将SCP-CN-1948-1液体吐出至预备的烧杯内。目前仅有直接饮用的方式将SCP-CN-1948-1从SCP-CN-1948中分离。
+报告称提纯后的SCP-CN-1948的成分检测为大豆，水，以及白糖。再应用本液体进行异常性质测试时，液体没有表现出SCP-CN-1948-1的特性。
+
+目前实验中SCP-CN-1948的特性已基本解明，经测试，项目显示在不触发其异常性质时基本无害，关于本SCP项目的实验被批准终止。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                待删除
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Feb 2020 12:01
+            
+            编辑
+-10)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Neo Steam Wiki
+                      
+              May 2008 to February 2012
+            
+          
+        
+              
+          
+            
+              
+            
+            Soymilk Linkshell
+                      
+              Professional, drama-free dynamis since 2005!
+            
+          
+        
+              
+          
+            
+              
+            
+            World History/Physical Geo.
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

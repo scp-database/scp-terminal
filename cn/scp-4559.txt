@@ -1,0 +1,229 @@
+                        
+
+项目编号： SCP-4559
+
+项目等级： Thaumiel
+
+特殊收容措施： 对SCP-4559在科学机构和其他组织内的全部相关信息将以信息不准确为掩盖予以清除。
+
+描述： SCP-4559是一概率异常，与某一人员在大部分杂货店中是否索要收据有关。若存在规则要求必须为顾客提供收据，或是未经顾客同意直接向其提供了收据，SCP-4559不会触发。
+
+若以上情况都不存在，在向顾客询问其是否需要收据时，将无法预测对象会接受还是拒绝此收据。对象的心理状态、性别、财产状况都不会对结果产生影响，每种选择的几率完全相同。
+
+当前，SCP-4559在基金会已知宇宙中是唯一真正不可预测或“随机”的现象。例如，量子力学、天气、洋流、标准随机数生成算法都可得到有意义预测，唯独SCP-4559无法以任何有意义的方式被预测。
+
+附录： 根据O5议会指令，SCP-4559已被重分级为Thaumiel，因其可应用于许多需要生成随机数的异常收容中。Hensworth/Alice数字生成器从近20000个美国杂货店收集安保视频录像，并以从SCP-4559中收集的信息生成随机整数。当前，Hensworth/Alice数字生成器被应用于39个Safe级异常、21个Euclid级异常、8个Keter级异常和2个Thaumiel级异常的收容中。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                概率性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            02 Dec 2019 08:45
+            
+            编辑
++2)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Math Aerobics
+                      
+              ADIDAS - All Day I Dream About Sums..!!
+            
+          
+        
+              
+          
+            
+              
+            
+            Academic Writing
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Fairfield Project
+                      
+              The Delta Green wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Share Coke Codes
+                      
+              Sharing happiness by sharing Coke rewards codes.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

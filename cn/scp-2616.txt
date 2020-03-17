@@ -1,0 +1,241 @@
+                        
+
+SCP-2616-A 和 SCP-2616-B
+
+项目编号： SCP-2616
+
+项目等级： Safe
+
+特殊收容措施： SCP-2616收容于Site-18 的一间43.2 x 22.9 x 27.9的饲养箱中，一份蜂鸟食物足以供应其营养需求。已死亡个体将定期被清理并在有必要时进行检测。当前协议要求不将两个个体分开，伦理委员会正在对协议进行审核。未知分离后的结果是否是有利。
+
+描述： SCP-2616是两只昆虫，类似Anastoechus nitidulus 蜂虻。SCP-2616被确信具有智能。SCP-2616具有长期记忆并能解决复杂问题。项目会在其后代孵化后死亡。SCP-2616的后代与其亲代完全相同。
+
+SCP-2616-A和SCP-2616-B间仅有较小差异。SCP-2616-A的行为显示其保留有过往每一代个体的记忆。SCP-2616-B则能评判人类的意图。
+
+SCP-2616-A时常通过刮触SCP-2616-B与之发生身体接触。在将两者分离开测试时，SCP-2616-A会拒绝进食。在SCP-2616-B被放回收容间后SCP-2616-A会恢复正常行为。
+
+SCP-2616于02/16/04被发现在Site-18的自助餐厅中。研究员██████████发现项目正在附近的桌上进食溅出的酱汁。研究员对其行为产生怀疑并试图用报纸拍死SCP-2616-B，此时SCP-2616-A用力将SCP-2616-B 推到一边使其免受撞击。
+
+在对最初的两个SCP-2616开始测试后的第三天，两只雄性蜂虻被放入SCP-2616收容箱，同时也在收容箱内放置了共其幼虫寄生的虎蝇卵以鼓励其进行繁殖。SCP-2616-B最初表现出回避反应，而SCP-2616-A则立即与放入的蜂虻开始了交配。SCP-2616-A在这期间被认为通过一种不常见的翅膀扇动行为来与 SCP-2616-B进行了交流，这之后SCP-2616-B开始与放入箱内的蜂牤进行交配。SCP-2616-B 观察了SCP-2616-A储存卵的过程，在较长的一段时间后开始模仿。
+
+最初的SCP-2616-A被收容7日后死亡，其寿命叫同类物种较短。这被认为是营养不良所致。最初的SCP-2616-B在被收容8日后死亡。
+
+两个雌性Anastoechus nitidulus 在最初的个体死亡后不久从卵中孵化。新个体与原始个体有着同样的异常性质和生理机能。测试显示SCP-2616-B对过往每一代个体没有记忆，而SCP-2616-A则保留着记忆。
+
+SCP-2616-B最初并非是从卵中出现，而是由SCP-2616-A协助孵化。每一代的SCP-2616-B都会在其生命周期的第一天对SCP-2616-A做出回避反应。诸如行走、飞行等基础行为会通过观察来学习。
+
+SCP-2616当前已繁殖到了第958代。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                种群
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Jul 2019 11:38
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            ZODIAC Final Fantasy RPG
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            AM 055室
+                      
+              你進的來，但可能出不去
+            
+          
+        
+              
+          
+            
+              
+            
+            Obsidian Conflict Map Database
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Desenvolvimento de Jogos
+                      
+              Tecnologias para uso no desenvolver jogos
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

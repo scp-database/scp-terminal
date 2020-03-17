@@ -1,0 +1,235 @@
+                        
+
+在个体重新进入后拍摄的图片。前夜所受损伤造成眼压升高，引起了急性闭角型青光眼。
+
+项目编号： SCP-3316
+
+项目等级： Euclid
+
+特殊收容措施： 已安排定期散布关于新泽西州古腾博格市眼部损伤的虚假医疗数据。
+
+报告SCP-3316事件或受影响眼珠活动的人员将被施以3级记忆删除以防止公众知晓SCP-3316。基金会人员进出新泽西州古腾博格市需要SCP-3316计划领导人调控。
+
+描述： SCP-3316是发生于新泽西州古滕贝格市的一种事件，于1:43 AM，约3.4%市内睡眠居民的一只或二只眼珠会发生自发性剜出。这种切除非自愿、无痛，受影响人员不会知晓。大量眼部神经也会在此过程中脱离。在离体期间眼珠不会出现坏死，但仍易于受伤。
+
+在完全脱离眼眶后，眼珠会开始沿地面移动（用拖拽的视觉神经产生前进动力），以约每秒0.6米的速度去往一共同目的地。受影响的眼珠一般会避开人口密集或活跃区域，在行程中保持隐蔽避免被发现。
+
+受影响眼珠寻找的共同目的地皆为废弃或不活跃建筑，可能位于古滕伯格市内或市外。在有数百个眼珠到场后（至少需要362个眼珠才能触发此行为），眼珠会开始围城一个大圈，并随更多眼珠到来而扩大。在一定时间后（一般5-15分钟），会有两颗眼珠进入圆圈中心，开始对彼此展开一系列攻击性行为。
+
+这些行为包括快速戳刺对方眼珠，以及用拖拽的视觉神经抽打、缠绕对方眼珠。这些行为会持续到两颗眼珠中有一方或双方因伤无法继续。此时，多个其他眼珠会将两颗眼珠移出圆圈中心，两颗新眼珠会进入圈内开始同一过程。此过程会持续到4:35 AM，此时眼珠会开始返回原本所属的人员处。
+
+此过程结束时间不晚于5:13 AM，受影响眼珠会回到原本人员的眼眶内。这种脱离和重新进入不会对眼珠或人员造成持续损伤，但其他在事件中所受伤害一般需要紧急医护处置。受阻碍没有返回原主的眼珠会在5:13 AM时失去所有异常性质。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                睡眠
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Sep 2019 13:38
+            
+            编辑
++3)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            VisCom
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            免費電子書：C# 程式設計
+                      
+              作者：陳鍾誠
+            
+          
+        
+              
+          
+            
+              
+            
+            SCR公司
+                      
+              安全.收容.研究
+            
+          
+        
+              
+          
+            
+              
+            
+            Connors Campaigns
+                      
+              My dashboard for RPGs, Music, Sports, and more.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

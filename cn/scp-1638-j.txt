@@ -1,0 +1,254 @@
+                        
+
+项目编号： SCP-1638-J
+
+项目等级： 居安思危
+
+特殊收容措施： SCP-1638-J的收容措施是老生常谈：项目应收藏于SITE 21的36号低安全层级保险柜中。SCP-1638-J人畜無害。
+
+描述： 一言以蔽之，SCP-1638-J是一个长21公分，宽30公分的铅制印刷版，项目漆黑一团。版上的文字，简而言之，是对于四篇小说的英文广告，但实际情况仍未拍板定案。为了追根究底，SCP-1638-J的英文内容条列于下：
+
+洞中乾坤（Ace in the Hole） 
+
+Jerry是一位年事已高的高尔夫球选手，还没有赢过任何主要赛事；Geoff则是一名即将退休的资深员警。Geoff受命调查一宗谋杀案，死者是欢乐泉（Pleasant Springs）高球俱乐部的杰出会员。Jerry在这起事件中协助Geoff，条件是他们要一起组队参加一年一度的夥伴高球巡回赛。一向孤傲不群的Geoff勉强接受了，这对点头之交能放下成见，携手达成他们的目标吗？
+
+大苹果（The Big Apple） 
+
+Sarah是一个亟欲改变的城市女孩，她辞掉了高薪的职位搬到乡下，想在果园的粗活中寻求新的人生。Sarah很不能适应乡村生活，但Jim的出现让一切改头换面。Jim是一位经验老到的农夫，他对Sarah倾囊相助，当Sarah的前任雇主开出了更好的条件，她被迫做出抉择：回到都市或和Jim一起留在果园？
+
+才出油锅（Out of Frying Pan) 
+
+当Edward Blanc突然患上健忘症的时候，他的公司Blanc's Pans也随之岌岌可危。只有两个人知道如何制造举世闻名的Blanc锅；现在Edward想不起来，公司只能坐以待斃。唯独Edward的前合作夥伴Juan Estavo能拯救他们，但Juan却无端被卷入冤狱。Joseph Geldbaum，一位年轻的律师，要如何用非常手段解救Juan和濒临破产边缘的Blanc's Pans呢？
+
+梧鼠之技（Jack of all Trades） 
+
+Jack是一个农村出身的的年轻小伙子，地精（goblins）摧毁了他的家园，使他被迫逃难到帝国的首都。Jack在一个城堡的厨房里工作，直到时来运转。Jack从刺客的手中拯救了Anna公主，并因此被授与爵位。当Anna公主被巨龙抓走的时候，Jack和他爱讲俏皮话的弄臣朋友Albert必须踏上屠龙救美的旅程。
+附加记录：
+
+SCP-1638-J上头还有记载更多文字，但读之如鸿鳦满纸。
+
+SCP-1638-J的来源与时代神秘莫测，在████年██月██日一个月黑风高的晚上回收于维也纳的一处印刷厂。撰写关于SCP-1638-J的资料会让人使用多如牛毛的成语。这种影响神龙见首不见尾，且润物无声，对象不知不觉就改变了撰写方式。至于为什么SCP-1689-J会有这种能力，仍令人莫名其妙。
+
+顺带一提，截至██-██-████为止，SCP-1638-J所提及的小说仍毫无蛛丝马迹，由于研究徒劳无功，基金会无可奈何，再三考虑后决定束之高阁。
+
+天意如此，造化弄人。
+
+笔记： 
+
+关于SCP-1638-J的结果显而易见，此物并非高深莫测。我们现在捉襟见肘，一筹莫展。深入研究SCP-1638-J是多此一举。 Dr.█████████
+
+此言差矣，正所谓人不可貌相，海水不可斗量。 Dr.████
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Jan 2020 18:13
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            projects.wikidot.com
+                      
+              Wikidot Projects Forum
+            
+          
+        
+              
+          
+            
+              
+            
+            Thymio  Aseba
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The World of Metamor Keep
+                      
+              Welcome to Metamor Keep
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP-JP環境再現サイト
+                      
+              実験、実験、爆発
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

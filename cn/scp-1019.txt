@@ -1,0 +1,282 @@
+                        
+
+SCP-1019-A图案
+
+项目编号： SCP-1019
+
+项目等级： Euclid
+
+特殊收容措施： 由于SCP-1019现象的持续时间都很短暂，目前的收容措施旨在尽量不让公众知晓SCP-1019的存在。一旦确认一个SCP-1019的实体，应由1名3级或以上级别人员根据项目暴露在公众面前的可能性来决定是否记录该实体（或者让该SCP-1019实体自行消亡）。由于存在可能记录下SCP-1019样本的可能性，SCP基金会所有的文档在上传至主数据库前均使用启发式文字处理程序处理，以防无意中将上述样本无效化。
+
+一项旨在查明名为“WAW”的实体身份的调查正在进行中。
+
+描述： SCP-1019是基金会从2007年12月13日以来记录的73 多于100个有着松散关联的现象的总称。
+
+SCP-1019实体只有六处相似之处被记录在案，并在其他方面有著广泛多样的变化。
+
+1：SCP-1019总是出现在一个物体上或者不大于20平方米的区域内。
+
+2：SCP-1019不会对人类生命造成直接危害。
+
+3：SCP-1019有薰衣草、茶树油、“爱尔兰春天”牌的肥皂、青柠上述4种物体的气味之一。
+
+4：SCP-1019会让人类个体有左手手指指尖被刺痛的感觉。
+
+5：SCP-1019会在出现或被记录於基金会官方文件90天后失去异常特性或完全消失。
+
+6：SCP-1019的样本停止活动后，会在原区域产生一张3厘米x3厘米的纸，其一面为一个中间写有黑色“WAW”字母，与现代混沌魔法1有关的白色图案，其背景色为黑色。反面始终用白底黑字写有信息。这些纸条没有其他异常，被记为SCP-1019-A。
+
+很重要的一点是符合以上特征的现象本身并不是SCP；相反，它们显然是由不明实体，疑似为一名技艺高超的异常艺术家2创造的SCP-1019个体。
+
+SCP-1019的部分发现纪录：
+
+SCP-1019个例编号
+描述
+SCP-1019-A上的消息
+
+SCP-1019-1
+（前SCP-███）俄勒冈州，本德户外草地的一部分，不断将自己编成分形图案。于2007年12月13日记录。
+无3
+
+SCP-1019-12
+（前SCP-████）台北的一个广告牌，在任何人眼中均为其母语写就。于2008年1月12日记录。
+“有针对性的广告就像打鸟时用草地飞镖。”
+
+SCP-1019-20
+一个亚利桑那树莓冰茶罐子，在被踢后会像当地重力变为0.15G一样运动。研究员们发现了SCP-1019现象之间的关联，所有符合条件的SCP均被重分类为SCP-1019。未被记录，于2008年4月11日功能停止。
+“如果你的想象成为现实，那么童年会更加有趣。”
+
+SCP-1019-34
+一个只有在Site-19的214号房间才能听到的异常FM广播（频率103.5MHz）里不停播放着Dandy Warhols的。发现于2008年10月27日。没有主动记录，2009年1月25日自然消失。确认其（消失）间隔为90天。
+“这应该是你们的主题曲。我是认真的。”
+
+SCP-1019-50
+科罗拉多州艾米█████████女士的厨房里所有原来就在的或者带进来的纸制品自行撕裂，每个纸制品生成的碎块的数目是三位或更多位的素数。发现于2009年8月5日，没有记录。允许其自然消失。给其家人进行了记忆消除。
+“艺术不需要只创作单独一份。”
+
+SCP-1019-62
+在纽约地铁站的卫生间的镜子里的图像发生了左右翻转。为了防止媒体注意，于2010年1月1日记录。
+“每个人都应该偶尔花一点时间去真正地看看自己。”
+
+SCP-1019-112
+伊利诺斯州沃吉根一间星巴克的男厕所，会使其内部所有人在离开受影响的区域前忘记宗教、手动档汽车、华夫饼家和吉娃娃的存在。记录于2012年9月18日。
+“如果到处都能这样多好！”
+
+Footnotes
+1. 一个最近形成的魔法理论学派，将基于传统符号和材料的魔法与先进技术结合。
+2. 将异常物品或现象作为艺术表现创造出来的人。
+3. 此时还不知道SCP-1019-A的存在。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                隔地促动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Jul 2018 07:31
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            DarkSouls II Wiki
+                      
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+            
+          
+        
+              
+          
+            
+              
+            
+            Biblioteca Digital Curt Nimuendajú
+                      
+              livros e artigos sobre línguas sul-americanas
+            
+          
+        
+              
+          
+            
+              
+            
+            Samvedna Network
+                      
+              Collaborative e-learning for children
+            
+          
+        
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

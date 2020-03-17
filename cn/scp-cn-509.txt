@@ -1,0 +1,233 @@
+                        
+
+一個SCP-CN-509個體。
+
+項目編號： SCP-CN-509
+
+項目等級： Keter
+
+特殊收容措施： SCP-CN-509應收容於Site-CN-64中一處為SCP-CN-509打造的收容設施。該設施與其他設施分隔，建築由絕緣材質構成，設有獨立發電機。設施內部佈滿電線、電路以及電源插頭、插座，並且包含5-10座需插電設備，包括但不限於：檯燈、電風扇、日光燈管、燈泡等。如有設備損壞，將由一名穿著全身絕緣裝的D級人員攜帶新的設備進入更換。完成後，損壞設備將以3000度火焰進行直接銷毀。
+
+所有公眾關於SCP-CN-509的信息皆以掩蓋故事# 51（“蟲子誤入電器設備”）處理，並且對目擊者實行C級記憶刪除。基金會外發現的SCP-CN-509應將其趕入絕緣收容容器內回收，如有必要則連同其所在的設備一併隔離於絕緣容器來回收。
+
+描述： SCP-CN-509為一未被正式分類之生物，形態與索鐵線蟲屬（Chordodes）接近。SCP-CN-509個體長度為5-20g，通體呈灰褐色；其體表由銅構成，口部以及尾部具有三條細長突出物。SCP-CN-509大多棲息於傳輸電力的線路及以此連接電源的物體中。於極少數案例下，SCP-CN-509會存在非充電電池以及使用此類電池的設備中。SCP-CN-509個體壽命為10-30天。
+
+SCP-CN-509藉由取用棲息地的電作為能量來維持自身生命行為。其排泄物為球狀未知物質，帶電，約20攝氏度。通常SCP-CN-509藉由電流來傳導、移動，每次移動距離最低5m，最高█km。SCP-CN-509為無性生殖，具體以斷裂生殖及出芽生殖進行個體繁衍。在棲息處無電力供應的情況下，SCP-CN-509將減少活動，進入休眠階段；如棲息處超過5日無電力，SCP-CN-509將釋放自行電力傳入，並以此進行轉移棲息地的行為。
+
+通常SCP-CN-509的取電會使該處設備產生電壓不足/設備短時間無法運行的現象，但不會造成設備的損毀；位於非充電/充電電池的情況下，則造成電池耗電量增加，進而使電池續航力降低。
+
+基金會於19██年首次發現SCP-CN-509，學名暫定為Chordodes electricum。自發現以後，SCP-CN-509的尋獲數量每年平均增長5%。其中40%為SCP-CN-509的乾癟屍體，發現處皆在工廠或五金行。由於發現處的相關人員對此事皆出現斷片現象，因此無法得知確切來源。其餘50%個體發現於建築埋設電線、家用電器以及[數據刪除]等，其中25%為屍體，與電線內部形狀契合。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Sep 2019 13:11
+            
+            编辑
++19)
+标签
+讨论 (8)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            V-USB
+                      
+              A Firmware-Only USB Driver for the AVR
+            
+          
+        
+              
+          
+            
+              
+            
+            Game Design Novice
+                      
+              Learn to make video games.
+            
+          
+        
+              
+          
+            
+              
+            
+            보카로 가사 위키
+                      
+              Vocaloid Lyrics Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            uberOptions
+                      
+              Enable all options on all buttons in SetPoint
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

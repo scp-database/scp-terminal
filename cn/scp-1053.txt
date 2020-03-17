@@ -1,0 +1,241 @@
+                        
+
+项目编号： SCP-1053
+
+项目等级： Keter
+
+特殊收容措施： 由于SCP-1053的破坏性属性，它被单独封闭在Area 1053内。机动特遣队Omicron-7() 应随时保持警惕，并为了结束紧急事件而驻扎在Area 1053外。SCP-1053本身被包在一个铁盒子内，其下方放置了一个敏感比例尺(sensitive scale)以作为紧急事件发生时的早期预警系统。对SCP-1053进行的有目的测试已中止，因此，在平时禁止接触项目。
+
+描述： SCP-1053似乎是一张[删除]的街道地图，展现的区域类似于大部分大城市的中心部分一样。地图的日期（也是它的特征）与19██年一致。大部分情况下，地图都是正常的，除了其缓慢的再生属性（见下文）。地图由纸制成，其样本没有显示出任何异常属性。展开时，SCP-1053有0.25米X0.4米大，折起其时为8厘米X5厘米。
+
+周期性的2，街道名称，或社区都不存在；相反，是小细节（例如路灯，建筑风格，等等）拼凑出了这个新区域（称之为Ground 1053）。Ground 1053内的风景被描述为“及其城市化”或“街道组成的巢穴”，且测试者描述整个地方都充满了铺了沥青的曲折，肮脏的街道，狭窄的道路，和高耸的玻璃建筑物。
+
+Ground 1053的半径扩展的十分慢，由于Ground 1053事实上是一种空间异常，从外部是无法精确观测Ground 1053的。对它的外部区域得出的测量值仍旧是准确的。
+
+尽管如此，进入Ground 1053的测试者报告它内部比外部看起来大得多。通过计算得出其内部尺寸约是外部尺寸的███%，尽管其内部尺寸是不稳定并经常波动的，这使得估计的误差可能达到15%。
+
+Ground 1053内的天气与外部一致，尽管落下的雨滴和雪花在进入区域后会变得密集得多，但是其体积将会保持平常大小。其他自然现象也会影响到Ground 1053。尽管如此，自然现象例如闪电，下雨，下雪和风并没有表现出异常。
+
+没有在Ground 1053内部碰到任何生物。虽然发现了供人居住的住宅，例如公寓等。尽管如此，没有在这些住宅内发现任何随身物品；有梳妆台但是空空如也，墙上也缺少墙纸或图片等等。
+
+在事故10530-01后，推断对SCP-1053产生了足够的伤害，Ground 1053马上停止了扩张。整个区域只用了它创造Ground 1053时间的30%不到的时间就彻底破碎了。在恢复期中，SCP-1053通常通过未知方法被彻底修复。Ground 1053扩张前的SCP-1053状态没有影响到生长；相反，在Ground 1053扩张前的SCP-1053的不同状态会直接成比例的影响到为了使Ground 1053瓦解而必须对SCP-1053产生的伤害程度。根据推测如果SCP-1053如果能在Ground 1053扩张前承受足够多的伤害，阻止它扩张将是不可能的，并会引发CK-世界末日级情况。
+
+机动特遣队Omicron-7()的目标是在紧急事件中进入Ground 1053。快速反应是终结紧急事件的关键，Ground 1053扩张的时间越长，那么想要接触到SCP-1053而必须通过的区域将呈指数级增长。另外，技术能力在Gound 1054内被通过未知原因很有效的控制住了。到目前(██/██/20██)为止，Gound 1053对外部最远曾扩张到██公里。
+
+脚注
+1. 感谢██████博士的研究，基金会已经可以推断紧急事件会在[删除]国家的居民每次增长█0,000人时发生。当前已采取措施保持[删除]处于不景气状态。
+2. 这里指代当地特有的建筑物或自然风景，例如巴黎特有的埃菲尔铁塔。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                时空
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Oct 2019 12:03
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Pokémon Fan Club of UQ
+                      
+              Spoopy
+            
+          
+        
+              
+          
+            
+              
+            
+            Arlington, Mass.
+                      
+              The Arlington Wiki - Arlington, MA
+            
+          
+        
+              
+          
+            
+              
+            
+            Demons Souls English Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Collaboratory
+                      
+              at Colby Community College
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

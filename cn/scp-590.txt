@@ -1,0 +1,239 @@
+                        
+
+SCP-590第一次出现在基金会时
+
+项目编号： SCP-590
+
+项目等級： Safe
+
+特殊收容措施： SCP-590被分配到第7区的一个常规SCP生活空间。在上述空间内始终有一名警卫值班，以确保590不做出自残行为。SCP-590将配备一台只用于播放儿童节目的电视。在任何时候，SCP-590都不允许以任何理由离开第7区。实验对象只可喂食专为其制作的含有维生素的蛋白粥。任何试图喂食SCP-590的人将被降级。未经适当授权，不得对SCP-590做任何处理。
+
+备注： SCP-590除了590之外没有其他名称。他只是一件可以使用的工具，而不是任何人的朋友、兄弟姐妹或孩子。任何被发现对一个SCP产生感情的人都需转而执行人类联系更不密切的工作。
+
+描述： SCP-590看起来是一名约16岁的年轻男性。他从自己的力量中得到的唯一好处就是明显的长寿，因为自从他来到基金会后，他就没有变老过。
+
+虽然在所有方面都表现为一个正常的青少年，但当SCP-590接触到任何其他人时，他能够治愈他们所承受所有伤害和疾病，这种特性能够作用于身体和精神。作为一种奇怪的副作用，SCP-590会将这种伤害转移到他自己身上，他需承受所有的痛苦和后果。
+
+为表说明：在治疗物理伤口时，SCP-590不仅会感受得到伤口的疼痛，也会获得与伤口所在部位有关的疤痕。当治疗癌症病人时，肿瘤则会在他身体的不同部位出现，通常沿着他的胳膊或腿。任何精神治疗都为直接转移，这会导致SCP-590获得他正在治疗的任何精神失常。他利用自己的力量所受的创伤当前已日渐增多。
+
+SCP-590不能治疗由心灵感应引起的精神障碍，包括那些由某些改变心灵的SCP引起的心理障碍。
+
+████时，SCP-590由于累积损伤而卧床不起，无法离开他的房间。 ████时，SCP-590已需要生命支持，甚至无法自主呼吸。不久后，他服用了一剂SCP-500，这使他恢复了健康。
+
+在Bright博士的鼓动下，SCP-590立即被诱导治愈了几个智力障碍病例。由于这一行为，SCP-590永远处于一个三岁儿童的心理水平，并且非常容易处理。
+
+SCP-590目前保留供给研究员及更高等级人员使用。任何测试要求应经████████博士许可。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                活物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            13 Oct 2018 15:43
+            
+            编辑
++9)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            AM 055室
+                      
+              你進的來，但可能出不去
+            
+          
+        
+              
+          
+            
+              
+            
+            The Fairfield Project
+                      
+              The Delta Green wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Story Chip
+                      
+              Become a part of history, share your story.
+            
+          
+        
+              
+          
+            
+              
+            
+            CST 133 A
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

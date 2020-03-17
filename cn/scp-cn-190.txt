@@ -1,0 +1,237 @@
+                        
+
+项目编号： SCP-CN-190
+
+项目等级 ： Safe
+
+特殊收容措施： 因为SCP-CN-190本身的性质，已在其原始栖息地建立Site-CN-75-C█以收容SCP-CN-190；任何未经授权的入侵者，都必须接受审问并进行C级记忆清除，交付当地政府进行遣返；每两周根据情况对SCP-CN-190收容设施内的溶洞进行打扫，打扫工作由两名至三名D级人员进行，打扫前，应先清点出所有的SCP-CN-190个体（至20██年4月██日已发现1█只SCP-CN-190个体）并将其临时转移至溶洞30米外的一间5mx5mx5m的收容间中，打扫过程中所有人员必须配带一个S6防毒面具以及一个由钢特制的3cm厚的护颈，打扫过程中若出现芳香性气味或任何的人员伤亡则打扫工作立刻停止并对受伤的工作人员进行救治，打扫工作必须在2小时内完成，在结束时需要向洞穴内投放3kg的新鲜水果。
+
+描述： SCP-CN-190最初被发现于云南省昆明市███县山区的一个山间溶洞中，SCP-CN-190是一种类似于中国龙虾（Panulirus stimpsoni）的淡水类，软甲纲动物，成年个体体长可达到半米，常被描述为黑色或米黄色，SCP-CN-190的尾部肌肉及钳部收缩肌十分发达，这使其拥有了中国龙虾2倍的钳部咬合力及其他龙虾所不具有的跳跃能力。
+
+SCP-CN-190与普通龙虾主要的区别在于其具有一种改变光路的能力，在直视SCP-CN-190个体的情况下，SCP-CN-190处于一种类似于隐形的状态，但若将目光偏离SCP-CN-190个体██°以上时，SCP-CN-190个体将会在眼角处显现，SCP-CN-190的另一项不同在于其能从██部释放出一种对动物有迷惑作用的芳香气体，主要成分为：[数据删除]，这种气体具有很强的扩散性，一只SCP-CN-190所释放出的气体能在200米范围内发挥效果。
+
+SCP-CN-190为杂食性，但更喜欢肉类，在没有猎物的情况下SCP-CN-190可能会离开溶洞进行狩猎或以水果为食，在食物紧缺的情况下SCP-CN-190甚至可能以其他个体为食。
+
+SCP-CN-190通常表现为单独狩猎集体进食，在狩猎时，SCP-CN-190会先释放出气体将动物引入溶洞，之后，SCP-CN-190会从正面接近猎物并判断猎物大小，在SCP-CN-190接近猎物0.5米时，其会利用尾部突然收缩所带来的撑力跳到猎物身上，并找到猎物的咽喉部位将它钳断，等待猎物死亡之后进行分食。
+
+因为不明原因，离开原始栖息地的SCP-CN-190个体会在一周内失去其改变光路和释放气体的能力，失去能力的SCP-CN-190个体为灰白色，并且代谢和移动速度都会明显慢于其他SCP-CN-190个体，若将失去能力的SCP-CN-190个体重新送回到原始栖息地中，则会被其他SCP-CN-190个体所捕食。
+
+附录: 
+
+SCP-CN-190的发现：
+
+SCP-CN-190最早被发现是由于云南省昆明市常常会出现有关农民上山采药消失的新闻，这引起了特工李██的注意，在两个月后李██特工在██县的农民口中听说了[数据删除]的传闻，并在2周后找到了SCP-CN-190所居住的山洞，当时在山洞里发现了██具男性尸体，█具女性尸体，腐烂的水果，以及[数据删除]，1周后，SCP-CN-190被正式收容。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                视觉性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Jun 2018 04:40
+            
+            编辑
++13)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Ammon Allreds Online Classroom
+                      
+              University of Toledo Philosophy Professor
+            
+          
+        
+              
+          
+            
+              
+            
+            Stoff Kernewek
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BZHLab
+                      
+              Makers goes west!
+            
+          
+        
+              
+          
+            
+              
+            
+            CEC Kharon
+                      
+              bsgkharon.com 5102
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

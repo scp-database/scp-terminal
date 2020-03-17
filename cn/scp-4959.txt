@@ -1,0 +1,249 @@
+                        
+
+羽蛇神神庙
+
+项目编号： SCP-4959
+
+项目等级： Euclid
+
+特殊收容措施： 所有通往SCP-4959所在地下室的隧道都需使用加固的门进行密封。 每周需将一只大型活畜用特制轴承送入地下室中。
+
+描述： SCP-4959是一只已经解体但仍有生命力的翼龙，SCP-4959位于墨西哥特奥蒂瓦坎4。
+
+SCP-4959身上70%的肌肉均已消失，骨骼暴露在外肉眼可见。残余的肌肉也已坏死，但无腐化迹象。SCP-4959的身体极难被损毁，但其样本除铱浓度过高外并无其他异常特性。SCP-4959的眼窝是空的，但能发出明亮的绿光。此外SCP-4959的翅膀，头骨和颈部可能在激动时发出多种颜色的火焰。
+
+SCP-4959-A为分布在主地下室周边的数百个由骨头组成的人形或翼手龙形状可动构造物。SCP-4959-A主要由骨头组成，中心部位有一颗以不明方式固定的骨化心脏，且通常装饰有腐烂的织物、羽毛或布料。
+
+SCP-4959为肉食性生物。由于其体型无法离开地下室，SCP-4959-A会通过数个隐藏隧道外出为SCP-4959捕猎蜥蜴、鸟类或其他小型生物，并将存活的猎物带至SCP-4959面前。除了吞食SCP-4959-A带回的生物外，SCP-4959有时也会吞食SCP-4959-A个体。
+
+SCP-4959所在地下室的墙壁被严重焚毁，原本通往地表的通道也都损毁。新的通道似乎是由SCP-4959-A个体暴力挖掘出的。
+
+对房间内的壁画和雕刻的研究表明，羽毛蛇神庙是在该地下室的上方兴建的。 大多数壁画都已损毁或残缺，但均描绘了几个相同的主题：
+
+SCP-4959是羽蛇神或某个不明神灵的化身。
+在重要的日期，会对SCP-4959进行人祭。
+SCP-4959有一颗“心脏”，这颗心脏被描述为一颗巨大的宝石（“赤红如鲜血，灿烂如旭日”），并被供奉在神庙的顶端。
+
+基金会历史学家根据考古发现与历史传说推断。在公元六世纪时，发生了一起由于质疑SCP-4959的身份而导致的内乱。篡位者认为SCP-4959是伪神并试图杀死它，但付出了惨痛代价并最终失败。随后他们将SCP-4959封印在地下，并夺取了特奥蒂瓦坎城。
+
+此后，SCP-4959从历史记录中消失，但其宝石由于传闻能令人永生而受到追捧。
+
+脚注
+1. 译者注：墨西哥古城遗迹，曾是古代托尔蒂克人的宗教与政治中心。以城中的金字塔与神庙而闻名。
+2. 译者注：包含风神翼龙、哈特兹哥翼龙等巨型翼龙。
+3. 译者注：学名Quetzalcoatlus，生活在白垩纪晚期的翼龙，人类已知最大的飞行生物，翼展可能达到最大二十米。名字来源是阿兹特克神话中的羽蛇神。
+4. 译者注：学名Hatzegopteryx，翼展可达十二米的巨型翼龙。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                骨骼
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Nov 2019 17:37
+            
+            编辑
++1)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Emchina2010
+                      
+              Trip to China 2010 Groep T
+            
+          
+        
+              
+          
+            
+              
+            
+            Лекциите на ФМИ
+                      
+              За да изглеждаме умни пред другите
+            
+          
+        
+              
+          
+            
+              
+            
+            NYC: Veil of Shadows
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Foundation
+                      
+              Underrepresented Languages Incubator
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

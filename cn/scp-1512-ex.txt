@@ -1,0 +1,250 @@
+                        
+
+利用了SCP-1512-EX的技术实例
+
+项目编号:  SCP-1512-EX
+
+项目等级:  Safe Explained
+
+特殊收容措施: 所有SCP-1512的实例都应在修改后的P4环境下保存在Site-66（与SCP-1512有关的所有材料都应像P4致病材料一样处理，SCP-1512自身保存在ISO 1级的无菌室环境中。撤销，参见附录1512-03.
+
+所有与SCP-1512工作的人员都应参加每周一次的例行体检及实验室检查，以确保没有由SCP-1512造成的意外感染传播至收容/研究设施外。被SCP-1512的副产品感染的人员，将被收容并用有丝分裂抑制剂（长春碱或长春新碱）治疗不少于28天。如果在28天的治疗后SCP-1512的副产品没有从被感染的人员身体系统中清除，该人员将会被解雇。撤销，参见附录1512-02
+
+目前没有特殊收容措施。SCP-1512-EX将始终保存在ISO 1级的无菌室中，对SCP-1512-EX的研究请求将由项目负责人批准。在此文章编写时项目负责人为Dr.G.Hewlett。参见附录1512-04。
+
+描述:  SCP-1512是六台电子机械装置。可在提供了适当的细胞材料和生长介质的情况下，人工创建类似有功能的人体器官的细胞矩阵。
+
+所有取回的设备运作过程如下：
+
+细胞容器(胚胎干细胞在恢复时)保存在悬浮液中；
+这台设备，也就是改进了的数控铣床，移动到细胞所需的生长介质上；
+当设备头经过生长介质时，一台步进电机转动螺钉，使细胞材料在生长介质上挤出；
+完成一层时，一块支撑板缓缓降下，允许从活细胞中组成3D模型。机器在整个模型完成后停止。
+
+由胚胎干细胞产生的生物结构需要外界的刺激，以影响细胞类型，但成体干细胞似乎更容易被影响、操控，成为所需的细胞类型。细节参见附录1512-02。
+
+SCP-1512可运行数控语言G代码（RS-274），该语言用于操作大多数电脑辅助制造（CAM）的机器或设备。
+
+回收:  所有SCP-1512的个体都在Prometheus Lab倒闭后从其工厂回收。所有的设备、软件以及未完成的技术/测试数据都完好无损的被回收。所有的材料都被转移到Site-66进行处理和收容。
+
+附录1512-01:  由于胚胎干细胞的使用，对SCP-1512 产生的生物结构可能会造成潜在的有害物体的产生的担心产生。项目等级维持在Safe，但现在正式使用P4程序来处理SCP-1512的产品和副产品。
+
+附录1512-02:  作为取代特工[数据编辑]的食指指尖（在一次外派任务中失去）的实验提案的一部分，一个未被使用的SCP-1512的个体用从该特工的骨髓中提取的成体干细胞准备完成，一个人工骨骼及组织构造被创建了出来。由于成功的进行了连接/血管重建手术，且没有任何突变或有害副作用，SCP-1512的P4状态被解除。研究可在更低的保护等级下继续。
+
+附录1512-03:  根据生物医学研究公司Organovo研发了其自己的安全的生物打印技术（弗吉尼亚大学协助）的新闻，基金会特工获得了Organovo的笔记复印件去与SCP-1512比较。由于发现Organovo的笔记与由SCP-1512的研究结果撰写的笔记极为相似，O5议会决定将SCP-1512正式重分级为Explained，因为创造SCP-1512的技术现在已被认为是先进科学知识而不是反常现象。
+
+附录1512-04: 在2009年Stratasys Ltd.的FDM专利到期后，其他公司跟随着Organovo的脚步开始尝试使用熔融沉积建模技术（FDM）进行生物印刷。为应对这爆炸性的增长，基金会将SCP-1512-EX的前研究人员安插到不同的公司中。Dr.G.Hewlett，SCP-1512的前任首席研究员现在被任命为监察项目的负责人。基金会所拥有的生物印刷机器现在已被许可去在其他收容项目的医学及生物学研究中使用。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                电子
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            09 Feb 2018 07:35
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Anime Planet
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            מבני נתונים
+                      
+              סמסטר אא
+            
+          
+        
+              
+          
+            
+              
+            
+            RPC Authority
+                      
+              Research, Protection, Containment
+            
+          
+        
+              
+          
+            
+              
+            
+            Bloodborne
+                      
+              From Softwares new dark fantasy project. (Project Beast)
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

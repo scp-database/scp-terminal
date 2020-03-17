@@ -1,0 +1,253 @@
+                        
+
+事件记录CN-1499-2-B 
+
+以下用来记录因研究员不仔细甚至是不阅读SCP-CN-1499而导致的后果，希望大家引以为戒。——Dr.Legend
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+格式：
+
+受试者： 
+
+描述： 你是怎么发现的SCP-CN-1499，又许了什么愿
+
+结果： SCP-CN-1499是怎么实现你的愿望的。
+
+附录： 研究员想说什么，或是之后发生的事，可写可不写。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+受试者： 研究员Dr.T
+
+描述： Dr.T在员工宿舍窗外观察到SCP-CN-1499并向其许愿想要一根雪糕。
+
+结果： 随后Dr.T手中出现一根雪糕，在其吃掉后被传送至[数据删除]，经鉴定该雪糕为失踪的SCP-CN-434。
+
+附录： 目前Dr.T已获救，所幸其身体以及心理并未出现其他问题。
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+受试者： Dr.Pollux
+
+描述： Dr.Pollux在Site-CN-75-C1院落内进行梅西耶马拉松活动时无意观察到SCP-CN-1499并抱怨称“眼不见心不烦”
+
+结果： Dr.Pollux的近视度数上升到了1500度。在此事件之后，Dr.Pollux汇报了其身上出现的概率性异常：他的眼镜频繁地掉落，损毁，遗失；Dr.Pollux在大型网络游戏W████ O█ W███████中的游戏角色职业被修改为D████ H█████且无法恢复。
+
+附录： “这玩意不光弄瞎了我的身体我的███还有……现在的我？？！”——Pollux.aic
+附加记录：
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                补充材料
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Jun 2019 10:10
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Trumpet exercise database
+                      
+              for trumpet players, students and teachers
+            
+          
+        
+              
+          
+            
+              
+            
+            EIME Projects
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Managing Information Systems
+                      
+              BUA 581 - Rick Sprenkle
+            
+          
+        
+              
+          
+            
+              
+            
+            The Tales of Daeren
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,260 @@
+                        
+
+項目編號： SCP-1014
+
+項目等級： Euclid
+
+特殊收容措施： SCP-1014的樣本被保存在12m乘12m的房間裡，房間不可使用木頭建造。房間內必須一直保持是海灘的環境，海水使用泵裝置送到室內來模擬潮汐。SCP-1014的成員被放置在當海水到達最高點時只露出頭部的位置。如果有需要，須以浮游生物含量足夠高的鹽水替換。當水下降至樣本完全曝露狀況下超過六個小時，將啟動第二級生物危害協定直到水重新被補充。
+
+描述： SCP-1014是一種可以模仿人類外觀和聲音的被囊動物。儘管在幼蟲型態時非常近似於與牠相近的物種，成熟的SCP-1014外觀像是一個飽經風霜、衣衫襤褸的人類。這被認為是一種普遍覆蓋在被囊動物身上的一層囊包經大幅改造過後的結果。這層表皮不斷地射出惡臭的粘液，這可能是為了阻礙詳細的檢查。就像其他所有的被囊動物一樣，成年體是沒有固著點的濾食性動物，終其一生都在尋在高/潮線附近的岩石來固定自己。而幼蟲體則是掠食性的，並且會避免在有人類的地方或有其他成年SCP-1014的地方固定下來。
+
+當有船隻靠近附近時，SCP-1014的成員會捶打船隻的某處來吸引注意力。如果有人類靠近，牠會從石頭上的固著點離開，如此一來牠就有有可能被運走。由於牠看起來像海上的遇難者，許多船會把牠接到甲板上，因此而開啟了牠的繁殖週期。SCP-1014所分泌的粘液會產生變化，孳生可以快速腐爛木頭的共生菌，並且開始自體受精並育卵。當船沉沒時，SCP-1014的卵便會孵化成幼蟲，並消耗掉船上的內容物。如果船沒有沉，樣本不出一個月就會死亡。
+
+已知野外有SCP-1014的群落，雖然牠們已經因為汙染和木造船隻的數量大幅下降而減少。研究顯示牠們數量的高峰期是十七至十九世紀。
+
+值得注意的是，當被移出水面時，SCP-1014有能力模仿一些人類所說的單字或片語並且隨機地不斷重複，且表達這些詞語的能力會經由未知的方式代代相傳。與之溝通已經被證實是不可能的，也沒有跡象指出SCP-1014具有感知。
+
+附錄1014-3： 摘錄自SCP-1014在一個已排乾的實驗室裡的音頻記錄。括號內的部分已經翻譯成英語。SCP-1014表達內容的不協調據信是因為其所重複的單字片語是從多個來源模仿而來的。
+
+[1633]: 
+
+[1633]: 你怎麼了？老先生？
+
+[1634]: 告訴他們我愛他們。
+
+[1634]: 桶子！我們現在需要擺脫這個困境！
+
+[1634]: 為他所備的。
+
+[1641]: 你在說什麼？
+
+[1641]: 
+
+[1700]: 
+
+[1700]: 
+
+[1705]: 
+
+[1706]: 你把這東西帶上船，你這個帶狗屎運的瘋子。
+
+[1710]: 讓最深的地方升起，掃過岸邊，將人們所作所為化為塵土。
+
+[1742]: 你是什麼？
+
+[1742]: 
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                活物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Jan 2018 08:56
+            
+            编辑
++3)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            DarkSouls II Wiki
+                      
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+            
+          
+        
+              
+          
+            
+              
+            
+            Biblioteca Digital Curt Nimuendajú
+                      
+              livros e artigos sobre línguas sul-americanas
+            
+          
+        
+              
+          
+            
+              
+            
+            Samvedna Network
+                      
+              Collaborative e-learning for children
+            
+          
+        
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

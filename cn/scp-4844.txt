@@ -1,0 +1,253 @@
+                        
+
+What's The Deal?  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SCP-4844，拍摄于2012年，在其扬升7年后。
+
+项目编号：  SCP-4844
+
+项目等级：  Keter
+
+特殊收容措施： 当前没有已知办法收容SCP-4844。将展开研究和检验工作寻找收容或处决SCP-4844的方法。
+
+SCP-4844在洛杉矶的住所和里海海底的金字塔将被监控，以确认SCP-4844的活动。
+
+描述：  SCP-4844为美国演员、喜剧人蒂姆·艾伦，曾出演《玩具总动员》、《圣诞老人》、《家居装饰》等影视作品。SCP-4844具有现实扭曲能力，且强于北半球所有同类实体。
+
+SCP-4844能进行多种技艺，包括飞行、自发显现及消失、操控物体和物质、脱口秀等。这些活动能力的确切源头未知，但确信与SCP-4844在2006年电影《长毛狗》中使用了隐蔽且禁忌的表演技术有关。
+
+在《长毛狗》收到负面评价后，SCP-4844在公众中仍保持普通演员的形象，但暗中开始使用其能力开展多个娱乐性私人计划。这些计划的详细情况大多未知。
+
+SCP-4844已知最大的计划是在里海最深点修建了一座黑曜石金字塔。该金字塔为一团半渗透的可呼吸空气覆盖，内有无数由SCP-4844为娱乐、艺术表达或满足愿望而创造的器物。秘密探索中发现的重要器物列表如下。
+
+真人大小的大理石雕塑，描绘了SCP-4844曾扮演过的每个电影角色。人像彼此间进行着徒手格斗。雕塑底座看起来是由死去的SCP-4844复制品堆成。
+四十五个木制和骨制雕塑，形似曾与SCP-4844合作过的一些著名演员。他们被雕塑成受到各种重伤的状态。
+一幅巨大的壁画，描绘了SCP-4844得意地站在一辆被掀翻的M1艾布拉姆斯坦克上。坦克周围被一群哭泣的女人环绕。
+美利坚合众国微缩模型，没有佛罗里达州。中西部大部分地区被一幅蒂姆·“工具人”·泰勒1的版画覆盖。他在微笑着舞动一根拔钉锤。
+俄裔美国作家安·兰德的21米高雕塑。她在微笑着舞动一根拔钉锤。
+
+附录：  2016年，一群独立考古学者在古苏美尔城邦乌尔发掘出一块花岗岩石碑。报告称此石碑约有3000年历史，但描绘了某些当代人物，由此引起基金会关注。石碑被基金会取得，发现者被记忆删除。
+
+石碑上描绘了SCP-4844装扮为蒂姆·“工具人”·泰勒，位于巴斯·光年和圣诞老人一侧。碑上画面中SCP-4844正和美国脱口秀喜剧人杰瑞·宋飞在一座未知火山上展开搏斗。并不知晓杰瑞·宋飞具有石碑上描绘程度的异常能力。
+
+尚未进行对杰瑞·宋飞展开控制的行动。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What's The Deal?  
+
+脚注
+1. 译注：美剧《家居装饰》中由蒂姆·艾伦饰演的角色。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                _长毛狗
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Sep 2019 08:13
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            L4D Map Database
+                      
+              L4DMapDB.com
+            
+          
+        
+              
+          
+            
+              
+            
+            Trumpet exercise database
+                      
+              for trumpet players, students and teachers
+            
+          
+        
+              
+          
+            
+              
+            
+            Pofo MultiQuiz
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Bozic Nation
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

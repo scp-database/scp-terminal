@@ -1,0 +1,238 @@
+                        
+
+圖片已應 O5-██ 之命令移除，因為他導致全體員工發瘋…憑著牠的可愛！
+
+項目編號： SCP-2600-CU
+
+項目等級： 牠很，嗯，可愛。
+
+特殊收容措施： SCP-2600-J 應被…抱緊？抱緊。牠每天應至少被助理研究員 Betsy Stu 抱緊一次。所有擁有忍耐 SCP-2600-CU 的神祕力量可愛臉孔所壓倒。因抱緊 SCP-2600-CU 而導致器官衰竭或出血的員工顯然配不上牠討人喜愛的愛。
+
+描述： SCP-2600-CU 是最可愛的小東西。任何有關 SCP-2600-CU 的書面或口頭記事都是讚揚牠可愛的小…臉孔？身體其他部位也可在被察覺時加以稱讚。
+
+SCP-2600-CU 永遠都是最可愛的…生物！牠有六隻超級迷人的眼睛，由最可愛的美妙粘性液體構成！看看那可愛的觸手…wentacle？那粘液感覺就像…噢老天我要吐了彩虹！有時會漏出，但它會做個小小的聳肩/痙攣，讓你知道牠完全沒事！當牠移動時，牠有時可以彎曲穿過牆壁和聆聽每一個字，所以一定要確保你知道我們是這～麼愛它！
+
+偶爾，牠會噴出大量液體，這被稱為可愛液體。這通常發生在 SCP-2600-CU 的可愛斑點上，它們在可愛水平變得極強時會跳動和增大！也已知它們會在換殼時爆裂，需要經常由 SCP-2600-CU 所有最好的朋友來清理！
+
+任何不希望參與讚美 SCP-2600-CU 是如何可愛的員工可以參加其他活動，如在 Site-56 四處張貼牠跳的壯麗可愛小舞步的海報，或創作牠的記錄發送到其他設施。機動特遣隊 Psi-9 “那些可憐的混蛋 (Those Poor Bastards)” 已被安排為 SCP-2600-CU 尋找繁殖伴侶，讓整個地球都能陶醉於牠的可愛中！
+
+請救我 任何對 SCP-2600-CU 刻薄的員工會被強制停工或分配去清理自我反省區 (naughty corner)。
+
+附錄： 研究員 Boyd 正與 SCP-2600-CU 執行強制性互動，並錯誤地沒有依計劃行事，問牠“是不是個亂撒尿的傢伙！”，令牠激動起來。在向 SCP-2600-CU 保證研究員 Boyd 曾單獨行動後，研究員能以最少的人員傷亡來安撫 SCP-2600-CU，而他們全都非常喜歡牠。
+
+脚注
+SCP-006-CU-EX的效應。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生物性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Feb 2020 02:52
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            .
+                      
+              wqa wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Samvedna Network
+                      
+              Collaborative e-learning for children
+            
+          
+        
+              
+          
+            
+              
+            
+            ASP.NET Wiki
+                      
+              This website is no longer actively supported
+            
+          
+        
+              
+          
+            
+              
+            
+            Prämien teilen
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,286 @@
+                        
+
+Site-CN-03记录与信息安全管理部门的通知 
+
+您当前查看的是该项目的已归档版本，若要查看最新版本请点此
+
+ Site-CN-03记录与信息安全管理部门
+
+项目编号： SCP-CN-730
+
+项目等级： Euclid
+
+特殊收容措施： 鉴于SCP-CN-730出现的条件与性质，现阶段基金会无法对SCP-CN-730进行彻底的收容。机动特遣队Kappa-10“Skynet”将负责于网络上搜寻和删除所有涉及SCP-CN-730的内容。机动特遣队-丙寅-23“云消雾散”将负责监控所有受“标记”的人员并在SCP-CN-730现象发生后对目标人员进行记忆删除。在发生信息泄露的情况下，SCP-CN-730现象将对平民解释为小概率的随机事件。
+
+描述： SCP-CN-730是一种现象，有几率于1名人类个体处于至少1块玻璃附近，且该玻璃靠该人类个体的一侧凝结有水雾时发生，此时玻璃上的水雾会自发地形成一个手印的形状和一些文字，文字的内容多为一些带有责问和/或讽刺意味的语句。SCP-CN-730现象通常会在3-5分钟后或目标人类个体离开受影响玻璃至少5米时消失。
+
+2017-04-12更新： 当前认为SCP-CN-730在影响了一名人类个体后会对其进行“标记”，此后受标记者身边会相对更为频繁地触发SCP-CN-730现象。当前已确认的受标记者有15名，以下是部分受标记者名单。
+
++受SCP-CN-730标记者名单（节选）
+
+-隐藏
+
+受标记者姓名
+SCP-CN-730发生次数
+
+李██
+9次
+
+Franc████ Schet████
+6次
+
+张██
+7次
+
+Robe██ Kal███
+5次
+
+███
+2次
+
+2017-04-17更新： [数据删除]
+
+附录： 
+
++██博士的日志（节选）
+
+-隐藏
+
+2017-04-03 
+
+今天Oliva那个老混蛋把我任命为了SCP-CN-730的主要负责人，还说什么“提升能力”，“我们正在裁员，人手也紧张”。这种全球性的异常居然只分配我一个研究助理，简直是荒谬绝伦。好在基金会里也有一个触发过SCP-CN-730现象的人，第一手资料总是好的。
+
+2017-04-07 
+
+我今天去询问了2级研究员███，也就是那个在一个多星期前触发了SCP-CN-730现象的人。他提供了一些照片，还告诉了我一件有意思的事情；他说“在玻璃上出现字的时候，你只要在那上面写字，这些字就会变成别的词语”。这有可能是一种与项目沟通的方式，值得一试。
+
+2017-04-12 
+
+好消息，我查询了SCP-CN-730事件的发生记录，发现所有曾经触发过SCP-CN-730事件的人都在此后多次触发SCP-CN-730事件，就像项目会在被触发之后“标记”触发者一样。这下对项目的收容就要简单多了。我已下令将所有疑似受到“标记”的人类个体列为基金会监控网络的重点监控对象，并让丙寅-23对他们加强监视。通过伪造犯罪记录等途径将目标转移至基金会进行控制的提案已经提交。
+
+2017-04-13 
+
+不太对劲，我刚才又查询了所有被标记者的身份信息，他们全部都是沉船事件中的幸存者，这不可能是巧合……等一下。沉船事件的幸存者，那也有遇难者，手印，那些手印是水雾形成的，是水！船……那些船！我要去查询那些船的信息！
+
+2017-04-17 
+
+[数据删除]
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Sep 2018 05:46
+            
+            编辑
++32)
+标签
+讨论 (8)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Karma-Lab
+                      
+              KARMA Technology and the products incorporating it
+            
+          
+        
+              
+          
+            
+              
+            
+            Masonic
+                      
+              A Freemasons Compendium
+            
+          
+        
+              
+          
+            
+              
+            
+            BZHLab
+                      
+              Makers goes west!
+            
+          
+        
+              
+          
+            
+              
+            
+            STARFIGHTER INFINITY
+                      
+              Open Source Website
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

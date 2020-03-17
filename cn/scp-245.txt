@@ -1,0 +1,255 @@
+                        
+
+Hello. This is an SCP that is only describable using interactive media. I utilized RPG Maker to create this, and there are 4 endings.
+
+Spoilers on the discussion page.
+
+I got lots of help and testing on this. Pretty sure I dinged all the testers in the credits, but special thanks to Decibelles, TwistedGears, and Waterfire. Additionally thank you to SunnyClockwork for the beautiful artwork I used in the game.
+
+Note: My original SCP-245 was moved to the SCP-2623 slot with specific explicit permission from the administration given the nature of the project I put into the SCP-245 slot. It should not be taken as a precedent of any kind as to permission to do any such action in the future.
+
+Also! If you play this and spot a bug, mention it here. I'll fix it as soon as possible. I've run through this myself a hundred times or more, but I'm sure I or my testers missed something.
+
+And I've requested that the page be locked so no one can edit it and mess with the links. If you're wondering why it's locked.
+
+Edit: Until I was halfway through making it, I was unaware that this wouldn't run on Macs (or even that Macs can't run EXEs). Despite that, I have been told by other users that a windows emulator can run this program no problem. Suggested emulators such as  have been mentioned.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+其他语言
+
+    
+    
+    
+    
+
+常见问题
+
+項目編號： SCP-245
+
+項目等級： Safe
+
+特殊收容措施： SCP-245-1的副本被收容於氣隙電腦中。這些電腦被存放於Site-88的高價收容翼之中。SCP-245-1的各個迭代需被監視並定期完成以確保持續收容。
+
+SCP-245-1的遊戲世界中的重大改變需向計畫負責人匯報。SCP-245-1的主密碼不應透露給在SCP-245-1中遇到的任何實體。
+
+描述： 詳見SCP-245-1.zip以得到關於SCP-245的更多資訊。
+
+注意：SCP-245-1只能在裝有OSCP或Windows作業系統的系統上運行。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                游戏
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Jan 2020 15:47
+            
+            编辑
++20)
+标签
+讨论 (11)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Crosswindsgarou
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Hyper RPG FanWiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            ISTAR
+                      
+              International Society for Testate Amoeba Research
+            
+          
+        
+              
+          
+            
+              
+            
+            Лекциите на ФМИ
+                      
+              За да изглеждаме умни пред другите
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,264 @@
+                        
+
+项目编号： SCP-4977
+
+项目等级： 存在争议
+
+特殊收容措施： 为了避免相关记忆的复苏，William Kleiger的朋友和亲属在皆进行了记忆删除后已经被重新安置。相关人员正在监测Site-17是否有进一步的状况，但至今为止尚未发现任何异常活动的存在。若发现有关该异常的更多细节线索请立即转交给SCP-4977研究小组。
+
+基金会监督委员会目前正在就SCP-4977所具有的威胁性质和风险等级（如果存在的话）进行讨论，必须重视SCP-4977是Thaumiel类异常的可能性。
+
+Site-17，William Kleiger所在的最后一个已知位置
+
+描述： SCP-4977是William Kleiger在十二岁至十四岁之间所做的一系列噩梦，所有有关于SCP-4977的具体信息只能从Kleiger留下的日记中获取。另一方面，似乎每次发生的梦境都让对象在第二天按照某个未知实体的意愿生活——但具体的预知水平尚不得而知，可以确定的是，对方具有明显高于常人的预测能力。在大多数情况下，Kleiger总是在现实世界中不断尝试促进SCP-4977事件的发生，其原因可能是出于对如果不这样做时而有几率发生的未知事件的恐惧。
+
+有记载的第一例SCP-4977发生于1978年6月12日，这起事件则导致Kleiger永远离开了他的家庭——根据当时的日记记录，可以看出SCP-4977实际上最初开始于大约两周前。在接下来的两年里，Kleiger向着西北方向行进了250公里，靠从他人和商业店铺里偷来的食物和饮品为生(由SCP-4977提供部分帮助)。在此期间，他的精神和身体健康都呈现出明显下降的趋势，尽管搜救队伍组建寻找了许多次，但他们所有的行动都被Kleiger完美避开。
+
+SCP-4977事件最终于1980年02月04日结束，当时Kleiger到达并成功进入了基金会设施Site-17。当时的记录如下所示。
+
+Site-17 安保录像 [1980-02-04] 
+
+记录对象： “William Kleiger”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+
+03:54： Kleiger进入摄影机的摄像范围内。
+
+03:55： 他沿着走廊一直行走下去，在每个收容室的门外都稍作停留。他向身后看了好几次，似乎在数着门的数目。
+
+03:57： 他在第七道门外停了下来，把背包放在地上，随后将拉链打开。
+
+03:59： 他从包里拿出一些东西，包括剩下的食物、水瓶、一本日记和几件衣服。他打开那本日记，并把它翻阅到底。
+
+04:01： 他站起来，在门锁的键盘上输入了一串密码。
+
+04:02： 门开始滑动。它移动得很慢，但几秒钟后它被打开到足够让人进入。
+
+04:04： 一个不明身份的实体出现，并从开启的收容室中离开，将该实体命名为AE-4977-1。对象约有一个小孩那么大，由斑驳的灰色不明材料组成，并包裹在某种形状的僵硬骨架上，大致类似于形状模糊的人形。其具体特征尚不清楚，但看起来似乎穿着一条牛仔裤、一件染色的T恤衫和一顶棒球帽。
+
+04:07： AE-4977-1离开相机的视野，Kleiger转过身去看着它所离开的方向。
+
+04:07： Kleiger转而进入了收容室，把他的背包和里面的东西留在了外面。
+
+04:08： 收容室的门重新关闭。
+
+ 
+
+自此事后，AE-4977-1便再也没有被观测到任何踪迹，记录与信息安全管理部门进行的广泛研究表明，它从未在基金会的数据库中有任何正式或非正式的信息记录的存在。事件发生后，Site-17的所有工作人员都被发现在工作岗位上睡着了，但最终并没有受到谴责，需等待对SCP-4977相关能力的进一步调查。
+
+值得注意的是，安全录像中可见的收容室并不存在；虽然它的建造最初是计划好的，但为给休闲庭院腾出空间而取消了。SCP-4977此后未在其他任何人身上出现，William Kleiger的最终命运是未知的。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                预测性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Feb 2020 16:54
+            
+            编辑
++4)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Emchina2010
+                      
+              Trip to China 2010 Groep T
+            
+          
+        
+              
+          
+            
+              
+            
+            Alfamedia
+                      
+              Alfabetización mediática para educadores
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Vakfı
+                      
+              Yakala, Sakla, Koru
+            
+          
+        
+              
+          
+            
+              
+            
+            Story Chip
+                      
+              Become a part of history, share your story.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

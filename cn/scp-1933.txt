@@ -1,0 +1,233 @@
+                        
+
+项目编号： SCP-1933
+
+项目等级： Safe
+
+特殊收容措施： SCP-1933应被置于一间配备基本家具的标准低安保收容间内，每天应提供2升爱尔兰威士忌，500毫升浓奶油（脂肪含量不低于48%），25克糖粉和20毫升精炼植物油。
+
+由于SCP-1933不愿做基本的卫生工作，它应每周一次被3级人员强行更衣沐浴，它的胡子和指甲也应按月剃除和修剪。它的脏衣服被认为是高度易燃的，并应用火焚毁。
+
+描述： SCP-1933是一名时刻保持在中度至重度酒精中毒状态的肥胖的中年白人男性，SCP-1933的体液（包括细胞内液和外液）完全由成分与一种被称为百利甜的酒精饮料相同的物质组成。这种物质完全替代了SCP-1933的组织内液体的功能，尽管它不可能满足生命正常的基本生化反应。基金会的科学家们一直不能确定它是怎么做到这一切的。
+
+SCP-1933以奶油，爱尔兰威士忌，糖和精炼植物油——被商业化生产最多的百利甜的基本原料为食。项目喜欢用少量香草和“调味品”（通常是咖啡）来补充它的饮食，但这些都不是它生存所必需的。项目不能消化任何并非百利甜标准原料的东西，包括那些事先准备好的百利甜。如果SCP-1933的血液中酒精含量明显低于或超过15%-20%（百利甜典型的酒精含量体积百分比）项目会表现出急性营养不良的症状。
+
+SCP-1933的体液在24小时内被人体摄入25毫升或更少是安全的。如果一个对象超过此限制，他所有的体液会有全部转化为百利甜的严重风险。这种物质不会执行被它们所替换的液体的功能（就像它们在SCP-1933体内做的一样）；因此，这会马上致命。对象每额外摄入一毫升SCP-1933的体液提升大约5%对象体液转化为百利甜的几率。尚不清楚摄入SCP-1933的受害者的体液后是否会拥有与SCP-1933的体液相同的异常效应。
+
+在被收容之前，SCP-1933长期无家可归，在街上或废弃的建筑物里睡觉，任何时候都穿着圣诞老人的服装，偷钱来购买项目生存所需的特定食品和饮料并用瓶子收集它的体液。项目在12月24日（平安夜）23:00到12月25日（圣诞节）5:00会试图闯入人们家中把草草包装好的瓶子放在其他被包装好的礼物旁边，希望它们待会被打开然后被喝掉。
+
+SCP-1933声称这个行为是出于仁慈的想给予人们礼物的欲望，并拒绝承认它的体液如果被大量饮用是致命的。尚未确定项目是否真的不知道并不愿意接受这个事实，或者它只是在试图掩盖它的不良意图；然而，研究过SCP-1933的基金会员工普遍认为前者的可能性更大。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            09 Jan 2020 02:11
+            
+            编辑
+0)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CalU Secondary Education Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Chaos Insurgency
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            ISTAR
+                      
+              International Society for Testate Amoeba Research
+            
+          
+        
+              
+          
+            
+              
+            
+            The Sky Remains
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

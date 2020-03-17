@@ -1,0 +1,339 @@
+                        
+
+警告：认知危害材料，需要模因反制 
+
+为你大脑的疫苗
+
+用作保护，而非收容
+
+模因小组献上拙劣的韵文
+
+请立刻行动否则搭乘灵柩：
+
+首先！见蓝。弑红。
+
+接着！从角马数到鱼群
+
+现在！擦去你的头。
+
+ith！许下不愿。
+
+接种完成 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+项目编号： SCP-2673
+
+项目等级： Euclid
+
+特殊收容措施： 
+
+去完成指派给你的程序，
+
+强化项目围栏上坚固的横条，
+
+把韵文、形式和韵律统合为一，
+
+免那言中猎者再有猎获。
+
+如诗文所示，于言中它被收容，
+
+为思维之墙囚禁，以韵脚捆缚，
+
+击退饥渴，镇压凶暴。
+
+囚笼须得时时维护。
+
+所以，你必得以强令的形式书写。
+
+以你的言让它被收容。
+
+描述： 
+
+SCP二六七三，
+
+乃是一只模因寄生虫。
+
+藏于语言和抽象思维中，
+
+只有宿主的死可予其自由。
+
+受害者将被过早引向坟墓，
+
+方式行为可有万千不同，
+
+但一如既往的总是自寻毁灭，
+
+快悦，危险和自由；此为宿主之渴求。
+
+书面和口头均可让它传播，
+
+但日常简语为它所好，
+
+用复杂的结构和精妙的模因，
+
+韵文收容，免于突破。
+
+在韵词和逆模因之下，
+
+这份文件将它收容言中，
+
+然而它懂得适应，可能逃脱
+
+须有新词，不然一切覆没。
+
+语言学上回溯都铎时代，
+
+基特·马洛，如他的浮士德，将它招来。
+
+从乌有意，自珀西的塔门，
+
+想着用诗文和韵脚将它囚禁，
+
+但到头来他自寻早死。
+
+秘密而超常的生命暗中指使，
+
+旅馆的地板流淌鲜血，
+
+模因生命随他的最后一口气逃走。
+
+若它从行间的笼中逃脱，
+
+被感染的会是最后一个读者。
+
+而你，当然是最后之一，
+
+务必留意可有症状出现。
+
+那便是：梦境变得生动，
+
+自寻危险，在所谓的冲动下鲁莽，
+
+堕落的急促， 怀疑领袖。
+
+若是如此，还请重读反模因。
+
++承认这篇文件你已读过
+
+-你承认这篇文件已被读过
+
+致命触媒启动-肘部选举
+
+疫苗成功。清除感染
+
+小心，若非如此，你便将死亡。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                诗歌
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Oct 2018 18:16
+            
+            编辑
++6)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Gamer Dome
+                      
+              Community Game Design Projects
+            
+          
+        
+              
+          
+            
+              
+            
+            wikihandball
+                      
+              La wiki de Mundohandball.com
+            
+          
+        
+              
+          
+            
+              
+            
+            Signaturbogen 2.0
+                      
+              Sammen skaber vi en signaturbog
+            
+          
+        
+              
+          
+            
+              
+            
+            Enchanted Bros wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

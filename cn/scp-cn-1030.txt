@@ -1,0 +1,301 @@
+                        
+
+项目编号： SCP-CN-1030
+
+项目等级： Keter
+
+特殊收容措施： SCP-CN-1030应该被限制于Site-CN-21 SCP-CN-1030应该被收容于Sector-CN-66的标准人形收容间中，该收容间外部应该从基金会编外人员中选取3名安全信任等级达标，且对SCP-CN-1030毫不知情的工作人员看守。任何人不得直接或间接观察SCP-CN-1030，不得与其展开任何形式的对话且不得以“Dr.Nemo”称呼SCP-CN-1030。
+
+描述： 根据所有“目击者”的描述，SCP-CN-1030是一名名叫████████ Nemo的具有4级安全等级权限的基金会高层员工，通常情况下称其为Dr.Nemo。所有曾经见过SCP-CN-1030的人对其的描述均为：“身着净黑西装，打海洋蓝条纹领带，穿白色斜纹衬衫，佩戴银款欧米茄手表。”并且无一例外的，所有人对SCP-CN-1030颈部及以上外貌描述极为模糊1。
+
+在基金会员工████████ E██████于Site-CN-21遭遇SCP-CN-1030后，████████ E██████向主管Altare报告其位置，不同于此前任何目击记录，SCP-CN-1030主动表示配合基金会的调查工作。
+
+SCP-CN-1030经常出现在Site-CN-34 [数据删除] 等规模较大，员工较多，收容项目较多的基金会站点中，所有对SCP-CN-1030的名字和形象有印象的人均无法确定记忆中对其形象以及“Dr.Nemo”这一名字的获得方式。怀疑对象与SCP-CN-1030存在过言语交流。
+
+初步推断，在观察者的视线从SCP-CN-1030身上移除后，除其形象及名字外的任何外部信息，交谈内容均会遗忘，该过程不可避免。重新向对象提及“Dr.Nemo”这一名字时，对象注意力高度集中并声称SCP-CN-1030出现于此。5分钟内，对象报告称SCP-CN-1030离开。
+
+另一方面，基金会内部数据库中发现大量由SCP-CN-1030提起的项目使用申请与署名为“Dr.Nemo”的实验记录。根据记录，所有使用申请均获得对应项目负责人的批准，在后续的调查中，所有有关项目的负责人均表示并未收到并批准SCP-CN-1030的项目使用申请，同时档案管理人员无法确定所有与SCP-CN-1030有关记录的来源。对SCP-CN-1030进行采访后，SCP-CN-1030否认所有记录与自己有关。（详见实验记录SCP-CN-1030-B）
+
+鉴于由SCP-CN-1030导致的一系列异常现象涉及基金会内部数据管理，人事调度信息，重大收容项目及[数据删除]等高度机密的信息，该项目项目等级调整为Keter。为防止信息泄露造成的不必要麻烦，同时也为维持基金会正常工作开展，将单独控制SCP-CN-1030。该文档加密后保存于基金会数据库中，以供相应权限员工阅读并了解相关事宜。——O5-9
+
+此外，不建议使用记忆强化药物或通过刺激颞叶以及催眠的方式获得关于SCP-CN-1030的额外信息。
+
+部分与SCP-CN-1030相关的项目使用申请摘录
+
+-合上
+
+项目使用申请-7 
+
+日期： 6/7/17
+
+项目名称： SCP-CN-672
+
+项目负责人： Dr.Altale
+
+申请人： Dr.Nemo
+
+申请说明： 为进一步完善对其异常性质研究，同时出于回顾个人童年生活以满足内心情感需要的目的，现提出申请使用SCP-CN-672
+
+状态： 已批准
+
+项目使用申请-16 
+
+日期： 21/8/17
+
+项目名称： SCP-CN-521
+
+项目负责人： Dr.Hannah
+
+申请人： Dr.Nemo
+
+申请说明： 为稳定模因部门工作人员████████ E██████的心理状况，保证正常工作的进行，现提出申请使用SCP-CN-521。
+
+状态： 已批准
+
+项目使用申请-18 
+
+日期： 13/9/17
+
+项目名称： SCP-CN-052
+
+项目负责人： Dr.Tictoc
+
+申请人： Dr.Nemo
+
+申请说明： 首先我郑重申明，我和O5议会毫无瓜葛，我不是他们派来的。然后我申请使用一枚SCP-CN-052，配合我手上的其他硬币，应该足够使得[数据删除]的那台机器罢工了。说真的，那真的很烦。用完后我会还回来的，没错。
+
+状态： 已批准
+
+备注： 15/9/17，Site-CN-34发生大规模停电，本次停电并未造成重大收容失效，但是导致Site-CN-34正在进行的█个实验研究中断并失去研究资料。经过排查，在Site-CN-34的地下大功率发电机转轴中发现7枚硬币，导致发电机罢工。同时，处于收容中的SCP-CN-052数量未减少。
+
+浏览记录-█ 
+
+日期： ██/█/██
+
+项目名称： SCP-CN-001
+
+浏览者： Dr.Nemo
+
+状态： 已获得授权
+
+备注： 很好的，我确实了解了。
+附加记录：
+
+采访记录SCP-CN-1030-B
+
+脚注
+1. 如是否佩戴眼镜，瞳色，发型与发色等方面
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Jul 2019 15:14
+            
+            编辑
++12)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            批发V信:ccbb16688
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Fairfield Project
+                      
+              The Delta Green wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot URL shortener
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Harvey Capital Lectures
+                      
+              Crowdsourced Transcription and Translation Project
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,273 @@
+                        
+
+项目编号： SCP-CN-1606
+
+项目等级： Euclid
+
+特殊收容措施： SCP-CN-1606目前无法被完全收容。基金会机器人（I/O – GALLOWS）对疑似触发SCP-CN-1606异常效应的信息媒体进行全天候监视，一旦发现新的SCP-CN-1606-A个体出现，应立即将其实施收容。目前所有对SCP-CN-1606的实验已被禁止。SCP-CN-1606-A被收容于Site-CN-75的标准人形异常收容单元#5447-8154。
+
+初次收容SCP-CN-1606-0301时的情景，当时SCP-CN-1606-0301正处11级台风范围内。
+
+描述： SCP-CN-1606是一种出现在通讯设备上的异常效应，当用户尝试使用通讯设备寻求帮助或进行询问时，约有1.76‰的几率会触发SCP-CN-1606的异常效应。当异常触发后，用户将会听到一个性别特征不明显的声音使用该用户个体的第一语言说出“请稍等片刻”，此后用户被编号为SCP-CN-1606-A并表现出以下现象：
+
+一直维持使用通讯设备的姿态，无法使用任何物理手段使SCP-CN-1606-A将手或通讯设备放下；
+
+SCP-CN-1606-A拒绝将手或通讯设备放下；
+
+通讯设备将无法被目前基金会已知手段破坏，且会一直保持通话状态，此现象不会因通讯设备电量耗尽、信号完全被屏蔽或通讯设备被停机而停止；
+
+无法察觉其自身遭受的异常现象，向其询问时SCP-CN-1606-A会表现出疑惑和不在意；
+
+所有会导致通话结束的事件都会遭受现实扭曲而导致无法进行，例如SCP-CN-1606-A死亡、SCP-CN-1606-A受影响肢体被截肢、SCP-CN-1606-A失去语言能力等。
+
+在已有的历史记录中，曾出现过一次SCP-CN-1606-A个体自发性无效化的事件（详见附录 - 事件CN-1606-02），基金会尚不了解SCP-CN-1606自发性无效化的机制，目前假设此现象会持续到SCP-CN-1606-A得到通话对象的回复为止。
+
+到目前为止，基金会已发现并收容了2709名SCP-CN-1606-A个体，而根据基于对SCP-CN-1606-A的阻止通讯结束的现实扭曲能力阈值的项目实验结果表明，SCP-CN-1606-A个体避免通讯结束的手段包括：
+
+使SCP-CN-1606-A个体在受到物理伤害前变为具备体积和正常外形的外形体；
+
+在遭遇概念吞噬者的攻击时，使SCP-CN-1606-A暂时转变为概念空净体；
+
+内虚构分析显示为不可能；
+
+无法出现祖母悖论效应；
+
+使SCP-CN-1606-A具备轻度逆模因效应；
+
+使SCP-CN-1606-A无法被定义为人类生物；
+
+暂时性获得目前所有常规性武器的使用方法及肌肉记忆；
+
+无法被康德计数器侦测到；
+
+非自愿地变换其形状，质量，大小，密度，化学成分和声音；
+
+无法受到顶点型多功能实体的注意。
+
+在所有相关实验中，虽然SCP-CN-1606-A的现实扭曲能力上限不明且触发机制均为非主观能动性的，但仍然会将现实扭曲对基准现实的影响降低至最低，目前认为SCP-CN-1606-A不存在能力上限。
+
+附录 - 事件报告： 
+
+事件CN-1606-01 - 10/03/1876：基金会首次发现SCP-CN-1606。当时Alexander Graham Bell无意间撞倒了盛满硫酸的容器并导致其衣物遭受灼烧，为防止烧伤身体，Alexander Graham Bell使用其正在研究中的通讯装置向其助手进行呼救时说出了“Mr. Watson，快来呀！我需要你！”这一句话而触发了SCP-CN-1606的异常效应，而导致Alexander Graham Bell在之后的46年中一直维持手持使用该装置的姿势。Alexander Graham Bell因此被编号为E-0346而被收容观察。
+
+事件CN-1606-02 - 02/08/1922：Alexander Graham Bell向基金会人员报告称在其手持的接听器内听到了“听到了”的回复后，发现SCP-CN-1606的异常效应消失。Alexander Graham Bell于异常效应消失1小时27分钟后去世。
+
+此次事件是基金会发现SCP-CN-1606以来第一次也是唯一一次得到回复的情况，亦是SCP-CN-1606的异常效应第一次自发性无效化。基金会基于保密原则曾尝试将电话的发明者规定为Elisha Gray以转移公众对Alexander Graham Bell的视线，但由于其事迹传播过广而使此尝试均以失败告终，基金会已修改了所有与Alexander Graham Bell有关的图片和资料以防止公众发现SCP-CN-1606的异常性质。
+
+SCP-3797-ARC的武器以及高能时间位移装置时，意外导致了两个项目装置同时启动，该时间异常部武器的攻击被回溯到过去，并击中了整个意大利佛罗伦萨地区。在此次事故中，年仅27岁的SCP-CN-1606-0421个体的祖母在事故中意外死去，随后SCP-CN-1606-0421的现实扭曲能力开始对基准现实进行影响，并最终导致SCP-CN-1606-0421个体的祖母顺利存活下来并且高能时间位移装置及时间异常部武器无法顺利研制成功。基于对基准现实的严重影响，将SCP-CN-1606重新编级为Keter的申请已提交予监督者议会。
+
+事件CN-1606-04 - ██/██/████：基金会发现Elisha Gray、Antonio Meucci、Nathan Stubblefield以及盛宣怀本人及其子嗣触发SCP-CN-1606异常效应的几率略高于平均触发几率约2.77‰，原因不明。目前相关人员已受基金会监视控制。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2019 01:55
+            
+            编辑
++13)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Connors Campaigns
+                      
+              My dashboard for RPGs, Music, Sports, and more.
+            
+          
+        
+              
+          
+            
+              
+            
+            Living Through Technology
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP日本財団中枢資料室。
+                      
+              収用
+            
+          
+        
+              
+          
+            
+              
+            
+            zeromq
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

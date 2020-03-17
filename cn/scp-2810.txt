@@ -1,0 +1,229 @@
+                        
+
+项目编号： SCP-2810
+
+项目等级： Euclid
+
+特殊收容措施： SCP-2810样本收容于Site-42传染物实验室的真空密封玻璃瓶内。被捕获以持续研究的SCP-2810-1实体应收容于4级生物危害收容单元内，每个单元不超过1个实体。机动特遣队Beta-7（疯帽商）和Lambda-12（疫病控制）被指派调查并消灭所有野生SCP-2810-1个体。
+
+描述： SCP-2810是一种未辨识的病原体，首次发现于西伯利亚。该病原体感染多细胞生物，使感染生物的身体细胞变为一个细胞大小的该种生物（如，人类细胞将变为一细胞大小的人类，向日葵细胞将变为一株细胞大小的向日葵）。这些组成体生物会尝试以类似方式继续维持原本细胞的功能。例如，人类的肺将变成无数同时呼吸的小人，植物叶片将由更小的凋谢植物个体经排列包裹后暴露于阳光下的叶片组成。 显微镜检测显示这些微型生物本身亦是由指数级减小的生物个体组成并维系生命活动，以此无限类推。组成体仍会复制宿主的细胞信号，但不会对任何外来交流尝试做出回应。虽然组成体的大小使很多细胞功能难以实现（如气体交换），受感染生物（分类为SCP-2810-1）及其组成体仍能生存并繁殖，只是健康状况极差。
+
+SCP-2810以物理接触及体液交换传播。感染者不会察觉到身体细胞变化，并会在2周内被完全感染。尚未发现治愈方法。其他症状随不同SCP-2810-1个体而不同。
+
+受感染动物可能会出现自咬癖和搔抓癖，最后时常发展为食己癖，且伴随认知能力、体力、协调能力急剧下降。例如，人类个体能在疾病末期发现其病症，此后会无视之。动物会变得更为温驯和社会化，即便是独居物种也是如此。受感染植物结出的果实会变小，且较其他为感染植物的果实状况更差。受感染真菌及原生生物的细胞壁会变得更脆弱，难以繁殖。但是虽然生理及心理上的健康状态极差，SCP-2810-1个体将对其他一切已知病症、致病物质、毒素完全免疫，寿命也将大幅增加。
+
+附录：事故2810-2： 于██/██/██，机动特遣队Lambda-12在非洲发现一只翼展达10米的巨蚊正在捕猎斑马。常规灭虫手段对其无效，该生物试图猎食特遣队员。Lambda-12使用火焰喷射器消灭了该生物，之后发现其是由数百万SCP-2810-1个体组成。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生物危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Oct 2017 22:42
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Хроника Убийцы Короля
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            johnmerritt
+                      
+              social studies
+            
+          
+        
+              
+          
+            
+              
+            
+            Benitachell Bowls Club
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            NYC: Veil of Shadows
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

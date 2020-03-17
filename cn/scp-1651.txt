@@ -1,0 +1,250 @@
+                        
+
+项目编号： SCP-1651
+
+项目等级： Safe
+
+特殊收容措施： SCP-1651收容于标准收容锁柜内，位于Site-77中。不允许基金会人员物理接触SCP-1651，这将触发其异常效应。每年内批准进行常规测试，允许在展现额外异常效应的特定日期进行特殊测试。
+
+描述： SCP-1651是一外形类似风格化大象的填充玩偶。在其收容前遭到相当损毁并有6个洞缝在其上。其头部和一只腿似乎曾被蓄意撤下，而后缝回。SCP-1651的胸口缝有名称“SETH”。
+
+接触SCP-1651将造成异常发生。对象会将自身视作一中介，正在注视一年轻成年男性为一年轻女性赢得一嘉年华奖品。此事件中对象会以第三方视角观察，而非接受或给出礼物的一方。效应持续4分钟34秒，或者到对象停止接触SCP-1651为止。
+
+SCP-1651效应中描绘的年轻男女被识别为Lucy和Seth Bronson，一对曾经居住于佛罗里达州迈阿密的夫妻。Seth Bronson于5/24/1976在从未知地点返回的途中死于车祸。Lucy Bronson被报告于10/20/1976失踪。当前将其视作一关注人士。
+
+若在一年中的特定日期接触SCP-1651，其异常效应会显现出不同场景。一年中SCP-1651会有六天展现此效应，每一天均有不同视角。在SCP-1651被收容期间，这些场景没有变化。
+
+日期（月/日）
+SCP-1651效应
+
+05/24
+常规效应发生，之后突然切换到Lucy和Seth Bronson开车回家，讨论一场马戏。他们似乎在无声地交谈，一直持续到效应开始后5分23秒，此时会突然闪过一道亮光，并传来车祸声。
+
+06/03
+辨识为Lucy Bronson的对象似乎处在狂乱中，在一似乎是居所的屋门外紧抱着SCP-1651，持续10分钟。最初她似乎处于狂乱，5分钟后，她似乎开始受到SCP-1651影响，在保持坐姿的同时做出受到通常效应影响的动作。
+
+07/12
+从SCP-1651的视角观察，Bronson谈论了她日常的很多细节，似乎都是在家中，并提及她很高兴看到他的伤口痊愈了。值得注意的是，对象开始反复地称SCP-1651为“Seth”。在SCP-1651未对其进行回应后，她又变得狂乱起来，开始对SCP-1651喊叫攻击性语句。在7分钟后她撕掉了SCP-1651的头，效应结束。
+
+08/08
+9分钟里Lucy Bronson在重新缝补SCP-1651，期间一直道歉并称SCP-1651为“Seth”，值得注意的是，有几个新的洞被缝在了 SCP-1651上。这似乎是要和造成Seth Bronson死亡的伤口保持一致。
+
+10/09
+SCP-1651的静态视角，放置在一冰箱前。听到某人在挪动物品的声音，之后是撞门声。
+
+11/20
+Seth Bronson的头部视角，取代原头部缝在了SCP-1651的身体上。似乎是在对07/12的对话做出回应，在Lucy开始做出暴力举动后表现出困惑。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                视觉性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Jul 2017 00:40
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            ECA Initiative
+                      
+              Explore, Catalogue, Advance
+            
+          
+        
+              
+          
+            
+              
+            
+            Harvey Capital Lectures
+                      
+              Crowdsourced Transcription and Translation Project
+            
+          
+        
+              
+          
+            
+              
+            
+            Save Energy, Save Future
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CIN  7402 Editoração Científica
+                      
+              Disciplina na UFSC
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

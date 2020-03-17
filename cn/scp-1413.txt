@@ -1,0 +1,259 @@
+                        
+
+项目编号： SCP-1413
+
+项目等级： Euclid
+
+特殊收容措施：  与SCP-1413相关的信号应在播放时被截获，并从公众视野中屏蔽。所有被截获的录像都应被记录并存储在anomalous media wing。任何人员不得以非研究目的观看这些录像，如有发现，将受处分。
+
+目前对SCP-1413的来源正在进行研究。
+
+描述： SCP-1413为一异常电视节目，详细记录了以普通节目里的普通体育名称的变体命名的暴力体育赛事，通常加一后缀“-ball”。节目的播出时间大约长一个小时，通常以类似于奥林匹克运动会的风格来解说明显无关的体育赛事。每场比赛都附有实况报道。
+
+当一名受试者观看SCP-1413时，其会把其身体组织运动的任何感觉与SCP-1413中正在播出的运动联系起来。如果其完成了观看，其会对除SCP-1413中播出的体育运动外的所有运动失去兴趣。但这并不能增强受试者对运动的爱好，其也不会因此对体育更加热爱。
+
+如果受试者继续观看SCP-1413，所有其拥有的体育用品都会等价交换成SCP-1413中所介绍的体育用品。例如，与PUCKBALL BROADCASTING NETWORK 9.99有关的物品。当其他人不知道SCP-1413的存在时，受试者会显得很困惑，这是因为其相信SCP-1413与那些主要的体育联盟一样广为人知。在过去，这导致了出现更多受SCP-1413影响的人类。
+
+SCP-1413于2013年9月18日，在一名在佛罗里达州，盖恩斯维尔的男子试图向有线电视服务人员投诉SCP-1413时被发现。其试图订购一综合体育电视节目包，但随后，SCP-1413开始代替电视节目，向其家中播出节目。在基金会介入后，另外11起事件被定位并收容。SCP-1413随后被归为Euclid。
+
++播放记录
+
+-关闭记录
+
+比赛介绍
+解说记录
+
+赛前介绍
+解说员12，惯例为每一个Slorgtiboff都把一块砖砸到对方无保护的腹面上。
+
+描述了“Puckball”运动，规则是两支由五名队员组成的队伍需要将一个橡胶球通过击打的方式打入一个洞，并使其击中对方的队员。先做到的队获胜。
+解说员13： 快看头部的保护网。它防止了那个队员受到致命的脑损伤，反而是那个队员会因思想的慢慢腐朽而遭受一生的痛苦。
+
+该比赛无法被解释，具体包括两名人类在进行一种冰球的变体运动；变化包括网变得更大，冰球增多为两个，以及比普通的NHL4比赛更短的时间，在冰下放置的巨大的生物会毫无预警地把运动员与观众抓入冰层下。
+解说员1： 看来举杆过肩的处罚会延迟……抓住了，我们失去了裁判。比赛开始！解说员2： 今晚，Kópavogur有塞牙缝的东西了。
+
+该比赛未经确认，且无法被解释，比赛期间会有15名运动员试图爬上塔顶，如果无人摔下来的话。攀爬的障碍包括旋转的刀刃、野生动物、大到不切实际的粉碎工具以及其他的运动员。此比赛于地外举行，且不是所有运动员都是人类。当所有运动员全部死亡时，游戏结束。
+解说员1： 哇，看起来Tim处于领先地位……哦！Bjugstad的一记重击！这肯定会使他的母星遭受到报复。K'landu，你觉得呢？解说员2： 今晚，孩子们将沐浴在无用者的鲜血中，Steve。这一切都会迅速、无声地毁灭。解说员1： 那可太恐怖了。
+
+被描述为“Brickpuckball”；两名运动员被安放在一处圆形的小场地上，试图使用一块金色的砖块破坏对方的面部。尽管他们穿着护具，但对于明显伤害也只能起到几乎等于零的撞击预防。
+解说员2： 在这里，我们可以看到Slorgball是如何从基因库中剔除那些低能儿，破坏他们成功繁殖的机会的。我们可以看到，他第七至第九块胸椎被击中，包含他生殖神经中枢的脊髓被破坏，他的孩子将会畸形，并在成长为幼儿前死去，这全都要归功于他父亲愚蠢地参加了这种运动 。
+
+脚注
+1. 被称为Steve Tilken
+2. 原文：'SPORT' first originated with the Slorgtiboff Greeting Ritual 04
+3. 被称为K'Landu the Misshapen
+4. 国际冰球联盟（National Hockey League）
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Jun 2019 02:54
+            
+            编辑
++1)
+标签
+讨论 (6)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Chrysalis
+                      
+              A Final Fantasy Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+              
+          
+            
+              
+            
+            Arnwick Co.
+                      
+              我们致力于保持龙界的安宁
+            
+          
+        
+              
+          
+            
+              
+            
+            Nsb Notes
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

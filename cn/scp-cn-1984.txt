@@ -1,0 +1,273 @@
+                        
+
+被发现于一栋建筑旁边的SCP-CN-1984
+
+项目编号： SCP-CN-1984
+
+项目分级： Euclid
+
+特殊收容措施： 由于SCP-CN-1984难以被有效地收容，SCP-CN-1984目前被保留在其最初被发现的高速公路附近活动，并长期将其活动区域限制在游侠号的监视范围，将被视为SCP-CN-1984收容失效。
+
+描述： SCP-CN-1984是被发现于距离██市城郊高速公路19千米处的一个异常实体，其外观为一个破旧的橡皮轮胎。项目可以直立并以滚动的方式在多种地形进行移动，根据对其移动路线和行为模式的研究，SCP-CN-1984可能具备一定的智能，但尚未找到与其进行沟通的方式。项目的异常性质具体表现为：在项目进行短暂的小幅度震荡后，使范围十米内的一个任意实体从其内部引爆；作用于不同实体的爆炸，其爆炸当量不同，但足够将被引爆的实体完全摧毁。根据对SCP-CN-1984行为模式的研究，项目似乎更倾向于将包括人类在内的多种动物作为目标。项目已造成了其活动范围中一座小型城镇内的49位平民全部失踪，并有多栋房屋被彻底损毁。
+
+SCP-CN-1984可能存在潜在的认知危害，被投放至收容区域内的现实稳定设备尽数被毁，但前往收容区域进行调查的调查团队并未表现出受到认知危害影响的迹象。
+
+任务报告：CN-1984/9
+
+关闭报告
+
+前往进行调查任务的特工Winston曾报告在执行任务的期间曾出现了同行的特工变成轮胎的幻觉。经过调查，幻觉产生的原因为特工Winston在执行任务的过程中压力过大而导致。特工Winston在任务期间产生了严重焦虑、神经衰弱等多种不良心理状态。同行的人员为保证执行任务期间安全，对特工Winston进行了采访。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+
+特工O'Brien： Winston？你还好吗？
+
+特工Winston： 我没事你知道吗，刚才有一个瞬间，我把赵塞霆看成了那玩意。
+
+特工O'Brien： 没事就好，这种幻觉大概是什么时候开始出现的？
+
+特工Winston： 就在我们第一次见过那个项目之后，刚刚躲进安全区的时候我差点就朝他开了枪。
+
+特工O'Brien： 还好你没有这么做，一切都会好起来的，我们大概明天就可以回去了，另一个小组会接替我们的工作。
+
+特工Winston： 但愿如此
+
+特工O'Brien： 嗯？发生什么了？你看起来很怪。
+
+特工Winston： 你他妈就是那个轮胎！！！
+
+随后，特工Winston试图使用投网器射击特工O'Brien，但被其它成员及时控制住。事后，特工Winston承认他再次出现了幻觉；调查团队成员一致决定将其提前将特工Winston送回站点进行进一步的心理疏导。
+
+ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+后记： 2019年1月3日，负责护送特工Winston的车辆在离开SCP-CN-1984收容区域的途中遭到了项目的袭击，特工Winston在此次袭击中殉职。其余的调查小队成员于次日安全返回了站点。
+附加记录：
+
+讣告：悼念特工Winston在工作中殉职
+
+发布于2019年1月7日
+
+致全体站点职员： 
+
+沉重悼念本站特工Winston，他的牺牲是值得的，Winston平时一贯小心谨慎的行为作风在本次行动挽救了同行特工们的性命。对于异常项目的收容是永无止境的，我们将铭记永远铭记特工Winston的牺牲，并以此作为我们接下来前进的动力。
+
+——控制，收容，保护 
+
+全体SCP-CN-1984调查队的成员、特工Winston生前的同伴们的合影：位于合影前方的是特工Joseph、特工Nikita、特工赵塞霆、研究员王维森；在他们后面的是特工O'Brien、后勤人员Ecun和近日加入团队的新特工——其代号为Tyre附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Sep 2019 06:25
+            
+            编辑
++42)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            UTAU Wiki 2.0
+                      
+              Wiki for the UTAU voice synthesis software.
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Vakfı Sandbox
+                      
+              Atış poligonu
+            
+          
+        
+              
+          
+            
+              
+            
+            Spambot Death Wall
+                      
+              Fighting Spammers for Fun and Profit!
+            
+          
+        
+              
+          
+            
+              
+            
+            TI-Basic Developer
+                      
+              The TI-Basic Information Repository
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,260 @@
+                        
+
+項目編號： SCP-CN-172
+
+項目等級： Keter
+
+特殊收容措施： 當前SCP-CN-172處於未激活狀態。基金會宇宙觀測Site-Chi隨時監控SCP-CN-172，於任何可疑或是自地球發射的載具馳往SCP-CN-172或者即將朝SCP-CN-172方向行進時，將派出星艦對其進行阻攔並且勸阻，在必要時將進行拖移。
+
+當前基金會所屬的太空探測器將監控所有現存的SCP-CN-172-1，直到超出基金會可控範圍為止。如發現其開始回返太陽系，基金會宇宙觀測站 “星逢” 將依照O5指令進行後續對處。
+
+已歸檔特殊收容措施歸檔時間2030年9月██日
+
+關閉
+
+當前SCP-CN-172被基金會太空探測器“離陸”以約300km的距離監測中，以確定SCP-CN-172的移動方向。
+
+目前SCP-CN-172正逐漸遠離太陽系，速度已加速至1████m/s，預計在20██年將超出基金會可控範圍。如發現其出現回返變化，基金會宇宙觀測站 “星逢” 將進行後續對處。
+
+描述： SCP-CN-172為當前距離太陽約20天文單位1的巨型異常區域。其附近不存在任何星體、物質和光，在未激活狀態時性質近似黑洞，但引力較小。
+
+於激活狀態時，SCP-CN-172將出現性質逆轉——即從黑洞轉為白洞，接著持續釋放SCP-CN-172-1實體2。當前對激活期間的時間段未有確定；依照基金會現存SCP-CN-172-A成分分析，推定兩次激活的間隔為████年。
+
+SCP-CN-172-1為位於宇宙的一列異常星體，其中包含了許多不同類型的星體3。SCP-CN-172的總長度未知，且仍在增長；在接近地球時的速度為2███m/s。
+
+SCP-CN-172-A為列於SCP-CN-172-1首端的異常星體，星體形狀近似節肢動物唇足綱的頭部。當前無法確認SCP-CN-172-A屬於何種星體。SCP-CN-172-A為自體發光，具有實質核心，軌跡不定。SCP-CN-172-A的移動軌跡即SCP-CN-172-1的移動軌跡，其後的所有星體皆隨著SCP-CN-172-A的軌跡移動。
+
+SCP-CN-172-A具有不明強度之引力，能將其接近的星體納入SCP-CN-172-1中；SCP-CN-172-A的移動時常接近小行星、彗星以及人工衛星的殘骸。在數次觀測中，發現SCP-CN-172-A出現擺動“觸角”和“顎”的行為，且星列整體形似唇足綱。不排除SCP-CN-172-A為活體的可能。
+
+附錄1：發現 
+
+基金會宇宙觀測站 “星逢” 在2022年██月█日首次觀測到SCP-CN-172-1個體，當時僅被視為一種新類型的星體。地球上於2027年██月██日至2027年██月██日間觀測到SCP-CN-172-1。在基金會確定異常性質前，該個體被大眾和NASA視作名為“蜈蚣”的彗星。
+
+2030年9月██日，在觀測站發現了SCP-CN-172，當天同時為SCP-CN-172激活的最後一天。當時觀測到至少5000個SCP-CN-172-1顯現，並且以未知途徑憑空消失。在無人機的探測下發現，該區域出現了多個蟲洞現象的痕跡。
+
+附錄2：疑點 
+
+當前由於未知原因，所有的SCP-CN-172-1皆以遠離太陽系的方向行進。此外，在SCP-CN-172恢復為未激活狀態後，時常有不屬於地球上任何形式的太空載具出現於SCP-CN-172周圍；當基金會嘗試對其交流時，它們大致都在出現了攻擊行為之後消失；少數則是直接消失。當前由於對SCP-CN-172的相關資訊過少，提交在必要時對此類個體採取激烈手段，以獲取可能的情報。 - 研究員Harge，Site-Chi
+
+否決，不應再增加未知威脅。 - O5-█
+
+O5議會正商討下次SCP-CN-172激活時的對策。
+
+Footnotes
+1. 2,991,957,414,000公尺，即天王星與海王星軌道間的範圍
+2. 確切數量未知，推定約██████個。
+3. 當前已經觀測到包含█個恆星、█個行星、██顆彗星、███顆小行星以及不明數量的流星體
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                重力影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            09 Jun 2018 11:20
+            
+            编辑
++11)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Windycity
+                      
+              MUX
+            
+          
+        
+              
+          
+            
+              
+            
+            RightHand Robotics
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Schools - Teachers - Parents
+                      
+              Issues in Schooling
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Foundation
+                      
+              Secure, Contain, Protect
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

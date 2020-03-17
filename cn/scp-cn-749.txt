@@ -1,0 +1,279 @@
+                        
+
+项目编号：  SCP-CN-749
+
+项目等级：  Safe
+
+特殊收容措施： 项目被安放在Site-CN-██的低价值物品储藏区的保险箱内，未经3级以上人员允许不得进行实验/研究。
+
+描述： SCP-CN-749是一把温彻斯特M1894杠杆式步枪。项目可以像普通的单型号温彻斯特M1894步枪一样装填.357马格南弹药并击发，除了杠杆与扳机有长时间使用而略有磨损外一切正常，项目的木柄上刻有“REPEATER”字样。
+
+项目的异常性质表现在以下两点。
+
+项目可以起到网络中继器的功能，具体方式为将一根网络电缆从枪口塞入枪管并固定，另一根网络电缆从枪身背后子弹装填口塞入并固定。此时，项目将可以接收网络信号并进行再生和发送，大幅降低网络信号的失真度。在用作此用途时，项目内部将会有可探测的电流通过，由X光扫描结果，项目内部在塞入网络电缆时自行转化为了与普通中继器相同的结构，具体方式与过程未知。
+
+在使用项目进行射击时，若使用者在射击之前说出过有确实意义的句子，则在开火瞬间，周围半径说话使用任何形式的文字交流时，只会强制性复述使用者的话。这一效果在使用者说出下一句话后会随着使用者说的句子更新。
+
+使用斯克兰顿现实稳定锚可以有效压制项目的现实扭曲效应。
+
++回收记录749-a
+
+-隐藏
+
+项目于20██/██/██在一次混沌分裂者对某一站点的渗透行动的反击中回收。项目原持有人为金█（后被证实为混沌分裂者特工），基金会特工，被允许随身携带一把温彻斯特1894步枪，在一次外勤中其将该项目与其配枪调包，当晚便以项目作为网络中继器成功使得混沌分裂者网络攻击组入侵了基金会内网。在网络战的同时，金█被找到并就地处决，项目被回收。
+附加记录：
+
++事故记录749-b
+
+-隐藏
+
+前言： 在Site-CN-██的一次日常射击训练中，SCP-CN-749被一名特工错误地取出，并带到了靶场。同时，对SCP-CN-███的实验在附近楼层进行中。
+
+特工A： 哟，这么早来打靶啊？
+
+特工B： 还早，都八点了——你手上那把是……
+
+特工A： 经典老枪哦，听说手感很好，今天来试试。
+
+特工B： 那就来吧，刚好看看这枪什么样。
+
+特工A： 再往下一点……就这样……
+
+SCP-CN-749： 再往下一点！就这样！
+
+特工B： 再往下——（捂住嘴）
+
+特工A： 这是怎……
+
+勤务人员A： 这是怎！
+
+特工A： 哦哦！我这就去。
+
+特工A： ██！到底搞什么？
+
+特工B： 你摊上大事了，兄弟。
+
+后记： 特工A因为违反基金会安保条例被进行降级处分。在这场事故中，应急处理部门收到的消息为“哦哦，我这就去。”
+
+在现实稳定锚停止工作后，异常效应不再继续发挥。
+附加记录：
+附加记录：
+
+笔记： 
+
+以后禁止在基金会内部信息平台上面乱复述别人的句子，引起不必要的恐慌。对，我已经受够了，不管是哪个方面。——Site-CN-██主任
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                电子
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            02 Sep 2018 15:33
+            
+            编辑
++30)
+标签
+讨论 (21)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Trading With The Flow!!!
+                      
+              The Art of Trading the NOW
+            
+          
+        
+              
+          
+            
+              
+            
+            Portalul Seriilor de Informatica
+                      
+              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+            
+          
+        
+              
+          
+            
+              
+            
+            REACHA
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Sistemas Digitales
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,272 @@
+                        
+
+2/3472-J
+CLASSIFIED
+
+项目编号: SCP-3472-J
+项目等级: Safe
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特殊收容措施：  SCP-3472-J应被存放在Site56侧楼的高异常值物品储存室中一配有衬垫的带锁箱子内。不必要采取进一步收容措施。
+
+根据站点主管Agatha Drummond的指示，对SCP-3472-J的测试将无限期进行。
+
+描述：  SCP-3472-J是一个容积500mL的玻璃瓶，其中装满粘稠的半透明蓝色物质。当瓶子未被装满时，瓶内物质将以5mL/h 的速度将瓶子填满。外来物质被一种不可见的屏障阻挡，无法进入瓶中。
+
+个体摄入超过20mlSCP-3472J的内容物后，将进入2-5小时的昏迷。醒来后，受试者称他们以一个名叫“Jamison Maddox”的人（此处指SCP-3472-1-J1）的视角经历了生动的梦境。恢复的文档表明，这些梦境具有内在一致性，即使时间线错乱。
+
+SCP-3472-J是在对Annetta Maddox住所的搜查中发现的。在SCP-3472-J被发现前， Maddox女士一直在一本杂志上记录她对SCP-3472-J的使用情况。不幸的是，Maddox女士在搜查行动中丧生，因此无法接受讯问。
+
+Maddox女士的所有物中有如下信件，据称是由SCP-3472-1-J所写：
+
+文件3472-J-B
+
+已授权
+
+我亲爱的女儿：
+
+毫无疑问，总有一天，你会因我所做的事而恨我。我承认我的懦弱，我的愚蠢，以及那使我的罪恶愈深的令人生厌的人猿之心。
+
+我不会为自己的作为辩白。我只想让你知道我为什么会这么做。
+
+Jamison Maddox
+
+已授权
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+实验日志
+
+已授权
+
+实验001
+
+受试者
+Jeremiah Cimmerian
+
+实验步骤
+Dr. Cimmerian将摄入20ml SCP-3472-J内的液体，并记录自己的体验。
+
+实验结果
+当Dr. Cimmerian试图从SCP-3472-J中喝下液体时，他摸索着把瓶子掉到了地上。SCP-3472-J受到撞击时破碎，未保留任何异常性质。
+
+“如果我还有点用，我就不会在被降为D级的时候待在角落里生闷气了。” - Dr. Cimmerian
+附加记录：
+
+Footnotes
+1. 译注： 原文如此，大约是为和SCP-3472的内容对应。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                _长毛狗
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Aug 2019 04:47
+            
+            编辑
++3)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            2012hoax
+                      
+              Debunking the 
+            
+          
+        
+              
+          
+            
+              
+            
+            Right from 
+                      
+              Animation through Online Collaboration by students
+            
+          
+        
+              
+          
+            
+              
+            
+            Nexus Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Light of Andorra
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

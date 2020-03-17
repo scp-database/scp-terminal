@@ -1,0 +1,332 @@
+                        
+
+在特工██████激活下的SCP-1497
+
+项目编号： SCP-1497
+
+项目等级： Safe
+
+特殊收容措施： SCP-1497目前被收容在site-██的一个安全储物柜中。应避免与SCP-1497的视觉接触。测试之外出现的SCP-1497-1应当被给予A级记忆消除。
+
+描述： SCP-1497是一个悬浮在一个6厘米高的玻璃罐中心的小型人眼，由于SCP-1497无法被打开，它是如何实现悬浮还不得而知。因为巩膜完全覆盖了角膜以外的部位，SCP-1497缺少视神经和视网膜血管。该眼球能在所有三个轴上自由转动，并在有新的视觉刺激时会有规律地这样做。当一个人类与其维持3秒的视觉接触后，SCP-1497的虹膜会改变原色使其与观察者的一致，这将激活SCP-1497的认知危害特性。
+
+在激活的情况下，被SCP-1497模仿的人类（以下简称SCP-1497-1）开始经历视觉感知的转变。有SCP-1497-1报告说，他们发现以前在外表上令人不愉快的事物变得更加明显地吸引人，这已经被证实不是错觉导致，而是在SCP-1497-1身上发生的认知转变。最常见的影响是对他人吸引力感知的增加，从而导致（他人）性吸引力的提高以及在视觉美感上的全面提升。
+
+SCP-1497的影响也延伸至思想和环境，如SCP-1497-1无法依靠视觉识别威胁。当面对刀枪时，SCP-1497-1只能够去欣赏武器的美学设计，即使（武器）是以一种胁迫的方式呈现。测试总结SCP-1497-1不会对暴力本身或对他人的威胁做出反应，并且当目睹他人的暴行时无动于衷。然而，SCP-1497-1能够意识到他们正在被伤害，尽管他们无法通过视觉来得知伤害的来源，这让受伤的SCP-1497-1陷入恐慌，往往使他们无法对暴力行为作出回应，虽然他们有能力逃跑或寻求医疗照顾。由于SCP-1497与SCP-1528之间的类似异常属性，目前正在考虑对可能的连接进行调查。
+
+SCP-1497被发现于位于俄勒冈州波特兰的一家美术馆里，它被找到是由于安插在当地警察系统之中的特工在03/02/2013收到了有人在上锁的建筑物之中呼救的报告。SCP-1497被放置在一个底座上，并在其下方发现一张说明和一张照片（见附录1497-A）。底座上的标牌上写有“与其迷于美丽，不若盲目”(“Better Off Blind Than Beguiled bu Beauty”)。被困在美术馆的是十个失明的人，他们都声称在过去的一周中被绑架，经过问询后他们均被给予C级记忆消除并送回其居住地。
+
+附录1497-A： 以下说明和照片在SCP-1497下方被找到。
+
+这个世界是丑陋的（This world is ugly）
+
+用一些清亮的眼眸看看这个（Look at this with some fresh eyes）
+
+并见证完美（And see perfection）
+附加记录：
+
+照片的背面写着“完美系列的其它部分”
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+附录1497-B： 
+
++Required
+
+-Accepted
+
+Intake Statement, █████ ████████ (Person of Interest Designation 2-S TG473)
+
+On 11/04/2013, Foundation security personnel raided a warehouse belonging to Kappel Securities GmbH, a multinational financial firm specializing in assets related to private art collections. As expected by Site-██ intelligence analysts, items suspected to be related to SCP-1497 per Addendum 1497-A were present and seized by personnel. Three items were given provisional classifications [TAO-8211G, TAO-2167R, and TAO-5999I] and routed to Site-██ for classification.
+附加记录：
+
+These items, referred to in recovered documentation as the  were intended for display at a private showing, scheduled to take place at a residence in Saint Petersburg, Russia. Subsequent investigation identified several Persons of Interest believed to be responsible at least in part for SCP-1497, leading to the capture of POI 2-S TG473, a plastination specialist in Eindhoven, Netherlands.
+附加记录：
+
+After initial processing and detainment, researchers recorded the following intake statement from POI 2-S TG473. Research staff confirmed veracity of details of the following statement, and subject was treated with amnestics and released after 15 days.
+附加记录：
+
+Agent Navarro:  Please state your name for the record.
+
+POI 2-S TG473:  █████ ████████, resident of Geldrop-Mierlo, Netherlands. You'll find my paperwork in order, surely. No one's told me what's going on, what is this place?
+
+Agent Navarro:  You're at the Aarhus bureau outpost of Interpol. We just have a few questions related to an ongoing investigation. We have no plans to turn you over for criminal charges, Mr. ████████. We would just like to understand a little more about this item [Agent Navarro hands a photograph of SCP-1497 to POI 2-S TG473].
+
+POI 2-S TG473:  Oh. That.
+
+Agent Navarro:  So you're familiar with this?
+
+POI 2-S TG473:  Yes. May Imay I smoke in this room?
+
+Agent Navarro:  Certainly. [Agent Navarro signals to Site-██ attendant to retrieve POI 2-S TG473's personal effects, and returns package of Gauloises brand cigarettes and a disposable lighter to subject]
+
+POI 2-S TG473:  [Subject takes cigarette from package and commences smoking] I thank you. As you're doubtless aware by now, I am by profession a purveyor of anatomical models and medical teaching aids. Laboratory skeletons, preserved organs from patients who have died of rare diseases, things of that nature. Mostly mail order service to universities in the EU and Russia.
+
+Agent Navarro:  Any work on the side?
+
+POI 2-S TG473:  [Subject exhales deeply] . And I preserve them, mounted like some cheap hunting trophy, skinless while riding a bicycle, half of them hanging from a ceiling, other silly ghoulishness.
+
+Agent Navarro:  Why do they come to you?
+
+POI 2-S TG473:  [subject shrugs] Recommendations, I suppose. You preserve one Russian tycoon's circulatory system wearing a top hat, the rest come calling. Business is business.
+
+Agent Navarro:  So, the object in question.
+
+POI 2-S TG473:  Yes, that. I receive a phone call one night, telling me to expect some business. I received the call on my private cell phone, so it is of course an assignment of the nature we have just discussed. My contact tells me to expect an  client. If one were to ask me, anyone seeking these services is unusual, but I digress. I am told to be at my laboratory at midnight that evening to discuss the terms. This clientele is prone to unnecessary dramatics, so of course I think nothing of it.
+
+I arrive at the appointed hour, and I am met by a group of three men with a small suitcase. But these men, they aren't the types of people that I am used to seeing for this sort of arrangement. These weresoot, of some kind. Before I had time to be angry at being pulled away from my bed at an ungodly hour for a childish prank, one of the men hands me the suitcase.
+
+Agent Navarro:  Did any of the three men identify themselves?
+
+POI 2-S TG473:  No, and I did not ask. Force of habit.
+
+Agent Navarro:  Please continue.
+
+POI 2-S TG473:  The man who handed me the suitcase, he bade me open it. I am of course quite suspicious, and I begin to demand an explanation. These men, however, they were in a great deal of haste. The man on my left hands me a plastic shopping bag, and I can see there's more than a few bundles of currency in it. He tells me that there is one hundred thousand euros in it, which by its appearances was strangely plausible. At the same time, the man on my right trains a pistol on me. I was then more inclined to open their suitcase. [Subject pauses]
+
+Agent Navarro:  Do you need some time to collect your thoughts?
+
+POI 2-S TG473:  it gets rather strange from there.
+
+Agent Navarro:  I hear that a lot. Please continue, we're just interested in what you have to say.
+
+POI 2-S TG473:  I open the briefcase, and inside is a miniatureparts, of this, thing, preserved. And they wanted it tonight. They were willing to compensate me quite handsomely, but my participation was not up for discussion.
+
+Agent Navarro:  What parts were they talking about?
+
+POI 2-S TG473:  They wanted the left eye, the heart, a rear molar, and its brain. Simplicity itself, really, when you don't consider that a gun is being pointed at you and the specimen is something from a sideshow.
+
+I immediately set to work. I did not at the time stop to wonder why three vagrants would be in possession of thousands of euros and a tiny man, and honestly I have not stopped to think about it too thoroughly since. There was a problem, though.
+
+Agent Navarro:  Problem?
+
+POI 2-S TG473:  Yes, the foul abomination wasn't dead yet. I made the initial incisions to remove the eye, and it started shivering. Gods, it gives me goosebumps just thinking about that. The man who had done all the talking assured me that the thing wasn't alive in any real sense, and the man with the pistol encouraged me to continue. Continue I did, then, first removing the eye, then the heart. Despite assurances to the contrary, these things should not be beating when I receive them for preservation. All the while, thisthing, didn't bleed at all, but it trembled throughout. I feel sick all of a sudden.
+
+Agent Navarro:  Would you like to continue later?
+
+POI 2-S TG473:  thing. Do you happen to have any cognac on premises here?
+
+Agent Navarro:  What happened next?
+
+POI 2-S TG473:  Strangely, the profitable night left me feeling less than jubilant. It was almost dawn, I was quite tired, confused, and to be frank, frightened. I pondered the nights events, when the remains of the little man startedmoaning? It was likely moaning. I decided that my work day was at an end then and there, and I pitched the little man into my incinerator, turned it up high, shut the door and plugged my ears.
+
+Agent Navarro:  Justinto the incinerator, like that?
+
+POI 2-S TG473:  Yes. Just like that. What would you have recommended?
+
+Agent Navarro:  That will be all, Mr. ████████.
+
+End intake statement
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Jan 2020 05:17
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Science Online London
+                      
+              How is the Web changing science?
+            
+          
+        
+              
+          
+            
+              
+            
+            Nimin Wiki
+                      
+              The best text-based mature RPG database that anyone can edit!
+            
+          
+        
+              
+          
+            
+              
+            
+            CEC Kharon
+                      
+              bsgkharon.com 5102
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Field Work
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

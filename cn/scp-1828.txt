@@ -1,0 +1,235 @@
+                        
+
+项目编号： SCP-1828
+
+项目等级： Safe
+
+特殊收容措施： SCP-1828目前被收容于Site 17的专用检测实验室，并对整个室内持续录影。在项目产生任何变化之后立即以分析软件比对所有生成的副本与站点内人员，并通知在岗研究员与安保人员比对结果的不一致处。此外，应注意所有出现的SCP-1828-A的定位与位置，且发生交叉的位置将被分析有无异常。
+
+描述： SCP-1828是一个有可移除顶部的、形状不规则的木质容器，其内部包含其当前所在地点的1:12比例建筑结构副本。1在每小时内过去17分37秒后，SCP-1828将即刻转变成准确反映其当前所在建筑的所有物体和生物的组成及位置。尽管SCP-1828会扩大、缩小或进行其他形状变化以配合其内部的室内布局，它的外牆始终是由未上过漆且无装饰的连续木板构成，经过DNA分析得知该木板来自同一棵糖槭树（Acer saccharum）。
+
+出现在SCP-1828内部的副本是由无异常的软木、锡、塑料、纤维棉布和丙烯颜料组成，并且详细精确的模彷其代表的任何物体或者生物的外观。一旦复制品出现或者更新，其不会改变成分，也不会对于原物产生任何可查觉的影响。SCP-1828一律表现为3cm）的固体立方体，由构成SCP-1828外墙同样的木材所组成。在更新时位于半空中之物体的複製品不会保有原物的动量，并且会在複製完成的当下直接下坠。所有从SCP-1828移除的复制品或者材料样品在SCP-1828更新时消失。
+
+SCP-1828-A是间歇地出现在SCP-1828内部的，清晰透明的硼硅酸盐玻璃模型。这些模型经常与内墙或者其他复制品相交，且不能将它们分离。它们有多种外形，大小从0.3厘米到5.2厘米不等，主要由六足的猫形实体、浮空蠕虫或是似蛇生物、以及平均高度4.1厘米的，多个犰狳科中的物种2表现所组成。
+
+大约0.2%的SCP-1828-A实体类似Amphioctopus marginatus（条纹蛸），并且通常携带多个也由硼硅酸盐玻璃组成的物品。当这些实体出现的时候，它们通常处于一些明确显示正使用他们携带的物品来直接与存放SCP-1828的建筑中有感知生物交流的姿态，其目的不明。
+
+附录： 在最初两年的收容后，A. marginatus形的SCP-1828-A出现率于所有出现对象中增长到12.4%，并且约63.2%出现时在SCP-███、SCP-1182和当前SCP-████宿主的收容室内。首席研究员A. Bjornsen已提交了将SCP-1828转移至一个偏远的单个SCP站点，以最小化基金会资产潜在暴露给任何SCP-1828-A表现的实体。在审查这项要求的同时，安保主任要求额外资源，以更加广泛的监测上述的SCP项目。
+
+Footnotes
+1. 如果是一栋有多层或多楼的建筑，SCP-1828只会表现出其当前所在的那一层。
+2. 这20种犰狳是此科的仅有成员。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                雕塑
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Nov 2017 14:58
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Fondazione SCP
+                      
+              Branca Italiana della SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            Pokémon Fan Club of UQ
+                      
+              Spoopy
+            
+          
+        
+              
+          
+            
+              
+            
+            Right from 
+                      
+              Animation through Online Collaboration by students
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP-PL Sandbox II
+                      
+              Do pracy rodacy!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

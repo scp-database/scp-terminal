@@ -1,0 +1,232 @@
+                        
+
+項目編號： SCP-2010
+
+項目等級： Safe
+
+項目儲藏措施(Object Storage Procedures)：  除非用作測試之用，SCP-2010應儲存於Area-33的四號儲藏庫的第二層中。於測試中應只使用D級人員，而且不應有其他人員以任何理由前往觀察SCP-2010。
+
+簡介： SCP-2010是一部由蘋果公司製造的手提電話。屏幕被刮上了短語字異常地大。 SCP-2010上並沒有通常能於同型號手提電話上見到的標誌。SCP-2010亦沒有電池而且不能正常運作。
+
+當一名對象觸碰SCP-2010，由Walk Off the Earth翻唱的將會透過未知途徑播放。一旦項目播歌，SCP-2010 自對象手中掉落並總會落於揚聲器附近。 直到歌曲放完為止他們不會自那點進行移動。歌曲完結後，對象不會擁有眼睛的觀念。每當對象感知到一雙眼睛，他們都只會感知到一片虛無。所有對象皆不接受他們有眼睛的事實。
+
+附錄2010-01：  SCP-2010被回收於這張使條下：
+
+不要送到廠家去。項目不如預想中一般起效。我們必須解決同音字的問題。因為眼睛的緣故我們解決了問題，不是嗎? 這是一個必須更正的錯誤。我們只想那可惡的字母自我們所處的平面中被清除。這孤獨的音節是為我們的痛苦和動機不能停息之源。我們必須讓我們的敵人葬送於此並使宇宙不被侵蝕。弟兄，平和的慰藉近處咫尺。 世界應聽聽我們的抗爭之歌。四元音之秩序必將大興!
+
+-Prefect Crowley
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                触觉影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Nov 2018 10:33
+            
+            编辑
++1)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Anime Planet
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Bisgmit
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Energy Club
+                      
+              University of Alberta
+            
+          
+        
+              
+          
+            
+              
+            
+            Keramiker - fabriker - stämplar och signaturer
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

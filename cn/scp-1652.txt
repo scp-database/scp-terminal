@@ -1,0 +1,255 @@
+                        
+
+SCP-1652中的一个SCP-1652-1个体
+
+项目编号： SCP-1652
+
+项目等级： Safe Euclid (参见事故报告1652-1)
+
+特殊收容措施： 由于其不可转移性，SCP-1652周围30米被伪装为军事训练场地，并处于一道边界的保护之中。SCP-1652的边界被3米高的铁丝网围起。进入SCP-1652的申请必须经过4级人员授权批准。SCP-1652-1个体应当在经过适当的治疗后被释放。
+
+描述： SCP-1652是一处位于田纳西州德累斯顿附近，坐标为36.281238，-88.684582的空地。SCP-1652本身并没有表现出直接的异常性质。每天中有四个小时时间，在SCP-1652半径15米的范围内能够听到枪击声和爆炸声。那些声响没有一个可辨别的源头，也不能被电子设备捕捉到。
+
+SCP-1652中生长着茂盛的Lolium perenne(黑麦草)，那些植物并未表现出异常性质。将草的高度割至0.7米以下时，该区域的异常活动将会停止。从SCP-1652中移除并在其外部重新种植的草并未表现出异常性质。
+
+SCP-1652-1指的是生活在SCP-1652内部的各种野狗。任何试图寻找SCP-1652-1的行为都以失败告终，除非异常活动已经发生。SCP-1652-1个体表现出多种多样的品种，目前只有大型犬已被观察到。
+
+在周期性的四个小时枪击声和爆炸声过后，SCP-1652-1个体将会离开SCP-1652。在此期间被观察到的SCP-1652-1个体已多达十二个。离开SCP-1652的SCP-1652-1个体将会带有与第一次世界大战期间使用的武器相一致的症状和伤口。
+
+SCP-1652-1个体身上的损伤包括：
+
+从一个SCP-1652-1个体上取出的子弹
+
+内包子弹的弹孔
+铅中毒
+接触芥子气而造成的呼吸道炎症
+一些发炎的水疱
+与刺刀相一致的捅伤
+
+从SCP-1652-1个体内找到的子弹已被严重腐蚀，并且没有任何迹象表明其在最近被射击过。找回的子弹与第一次世界大战期间常用的弹药一致。
+
+SCP-1652-1个体并未表现出任何生物学上的异常性质，并且将会在SCP-1652中四处徘徊直到失血过多或者被提供治疗。伤口被治愈的SCP-1652-1个体将会试图逃回SCP-1652。
+
+对已死亡SCP-1652-1个体的尸检结果表明其与普通的家养犬没有区别。SCP-1652-1个体的平均年龄大约为六岁。
+
+处于SCP-1652外部两天后，SCP-1652-1个体将会开始腐烂，通常在15到21个小时后死亡。超过三天的腐烂状态已相当于经过██年后的状态。正在腐烂的SCP-1652-1个体表现出极度的不安，直到有机会能够返回SCP-1652。
+
+被发现██小时后的SCP-1652-2
+
+事故报告1652-1： 
+
+19██年██月█日，一个穿着英国式样军便装的男人从SCP-1652中逃出。这一个体被称为SCP-1652-2。SCP-1652-2携带着一把李-恩菲尔德Mk III短步枪和一把韦伯利左轮手枪。SCP-1652-2身上有多处损伤，包括骨折、枪伤和水疱。SCP-1652-2拒绝提供任何信息，但是透露了他曾被部署到法国██████地区。由于SCP-1652-2以比SCP-1652-1快█6%的速度腐烂，其健康状况开始恶化，并在被发现后的5小时内死亡。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                武器
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            27 Aug 2018 12:49
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            ECA Initiative
+                      
+              Explore, Catalogue, Advance
+            
+          
+        
+              
+          
+            
+              
+            
+            Harvey Capital Lectures
+                      
+              Crowdsourced Transcription and Translation Project
+            
+          
+        
+              
+          
+            
+              
+            
+            Save Energy, Save Future
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CIN  7402 Editoração Científica
+                      
+              Disciplina na UFSC
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

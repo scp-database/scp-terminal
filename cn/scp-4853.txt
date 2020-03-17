@@ -1,0 +1,304 @@
+                        
+
+项目编号： SCP-4853(1)
+
+项目等级： Keter(2)
+
+特殊收容措施： 可适用于SCP-4853的唯一称呼是SCP-4853。1对SCP-4853的其他引用仅可存在于本文件中，且不得超过十例。在每一现有引用第一次出现处均配有数字编号。
+
+表现出知晓SCP-4853的平民将被记忆删除。若需要，将执行标准经济补偿。
+
+描述： SCP-4853是一形而上概念(3)，具有高度信息惰性。(4)
+
+附录4853-1： 实验记录
+
+实验4853-1 
+
+程序： D-41562询问█████的性质
+
+结果： 收到信息，但变为无关联。
+附加记录：
+
+实验4853-2 
+
+程序： D-41562询问█████的性质。
+
+结果： 收到信息，但变为无关联。
+附加记录：
+
+实验4853-3 
+
+程序： D-41562询问███ ███████的性质。
+
+结果： 收到信息，但变为无关联。
+附加记录：
+
+实验4853-4 
+
+程序： D-41562将此前测试中的信息进行关联。
+
+结果： 引用被创造(#4)。
+附加记录：
+
+实验4853-5 
+
+程序： Dr. Archibald将███ ███████编为SCP-4853。
+
+结果： 引用被创造(#1)。
+附加记录：
+
+实验4853-6 
+
+程序： D-41562询问关于SCP-4853的收容策略。
+
+结果： 引用被创造(丢失)，部分信息被丢弃。
+附加记录：
+
+实验4853-7 
+
+程序： D-41562询问关于SCP-4853的收容策略。
+
+结果： 引用被创造(#2)，部分信息被丢弃。
+附加记录：
+
+实验4853-8 
+
+程序： D-41562整理关于SCP-4853的信息。
+
+结果： 信息聚合为引用(#3)。
+附加记录：
+
+实验4853-9 
+
+程序： D-41562询问SCP-4853和█████的区别。
+
+结果： 收到信息（见下）。收容措施完成。
+
+备注： 多余引用使用记忆删除销毁。
+附加记录：
+
+附录4853-2： 收到的信息
+
+您好，尊贵的客户！
+
+您已经使用了全部的█████份额！我们已自动从您的账户扣除$350,000,000，将您升至下一级套餐，给予您10个引用 。
+
+别犹豫，联系我们的帮助台，提出您关于订阅的任何问题！
+附加记录：
+
+Footnotes
+1. 禁用语包括“异常”、“项目”、“它/其”或“skip”等俗称。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                概念
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Oct 2019 09:41
+            
+            编辑
++2)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            specfreaks
+                      
+              brought to you by isunas garage
+            
+          
+        
+              
+          
+            
+              
+            
+            Iatkos
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CCS Related
+                      
+              Malkavian guide to CCS life
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiMechanics
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

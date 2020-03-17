@@ -1,0 +1,316 @@
+                        
+
+项目编号： SCP-CN-1802
+
+项目等级： Euclid
+
+特殊收容措施： 已与中国政府合作展开对项目的收容。确保普通高等学校招生全国统一考试（下称“高考”）英语作文试题有部分为以“李华”为身份写作。试题须经过审查以避免SCP-CN-1802-3的产生带来危险，经O5-9批准后方可投入使用。成立机动特遣队MTF-辛丑-14以处理SCP-CN-1802-1、SCP-CN-1802-2造成的影响。
+
+描述： SCP-CN-1802是一类与英语作文有关的异常。有确切的证据表明，大量学生进行英文写作导致了SCP-CN-1802的产生。
+
+SCP-CN-1802-1是一类异常信件和电子邮件，来源未知，最初被发现于1995年。主要特征如下：
+
+以英文写就，极少数夹杂汉语拼音，写作水平参差不齐，单词量在100左右。
+内容主要为邀请接收人参加一些活动、要求接收人提供一些建议、提供接收人一些建议、呼吁人们爱护自然或放下手机等。邀请、建议等均基于现实，署名均为“李华”。分析表明，其内容和写法与考场作文极为相似，绝大部分有三个段落，考场常用句型出现频率较高。
+信件的书写特征不尽相同，但值得注意的是部分信件的书写工整而不遵循常见的英文字母书写，与某种应试书写技巧1类似。
+通常接收人均以英语为母语，主要为报社编辑、在校生或在中国工作的其他国籍英语教师，有少部分为人事经理或某些组织的负责人。包括联合国与基金会在内的一系列试图改善人类生存现状的组织绝大部分都曾收到SCP-CN-1802-1，内容大多为呼吁该组织做该组织正在做的事。接收人均表示不认识信件署名，并认为提供的建议“都是废话”。
+
+统计显示，当超过1000名学生在2小时内进行以“李华”为身份的同一主题的英文写作时将有几率产生一份与该主题有关的SCP-CN-1802-1，大致代表该群学生的平均写作水平。部分SCP-CN-1802-1似乎与SCP-CN-1802-2有关，少量SCP-CN-1802应属自发产生。
+
++附录#CN-1802-1
+
+–收起
+
+此为一份发送至O5-9的SCP-CN-1802-1，，于朝鲜事件后回收。
+
+发件： 李华（moc.liaml|auhil#moc.liaml|auhil）
+
+收件： O5-9（pcs.noitadnuof|9-5o#pcs.noitadnuof|9-5o）
+
+主题： 收容异常，保护世界
+
+Dear Sir or Madam:
+
+I 'm writing this letter to call on everyone to pay attention to the present disaster caused by skip. As some of you may know, over the past years, ZK-Class, XK-Class, NK-Class, SK-Class and CK-Class Scenarios
+
+Above of all, a task of top priority for us is to contain skips as many as possible, especially in China. At the same time, we should stop making the Class D personnel sacrifice in large amount. And we can save our world through many other ways, such as paying staffs less wages and selling some harmless skips.
+
+So don't hesitate to act out these measures. Even a small action is meaningful to our world. Thank you!
+
+Sincerely yours,
+
+LiHua
+附加记录：
+
+SCP-CN-1802-2为一类自称“李华”的异常人形个体。该类个体的外观上均为亚洲黄种人，男女皆有，年龄约为16至18岁，衣着简朴，其身体结构与人类相同，对人类具有善意。个体通常使用英语进行语言交流，在某些情况下会使用汉语代替。部分SCP-CN-1802-2自称来自红星中学或育才中学，是一名高中生，有时自称是学生会主席或班长。SCP-CN-1802-2只在高考英语考试距结束还剩25分钟左右时出现于任一考场周围，似乎对出现位置具有选择性。SCP-CN-1802-2出现后将进行一些与考试中作文试题相关的活动，可能会使用异常手段。目前正在研究其异常能力的强弱与考试人数的关系。考试结束后SCP-CN-1802-2将消失，但似乎仍可产生SCP-CN-1802-1（见附录#CN-1802-2）。
+
+目前有少量类似SCP-CN-1802-1的异常信件出现，署名为“姚平”、“李津”、“李磊”等，正在考虑是否纳入SCP-CN-1802-1的范畴。截至文档上传前正在讨论压制SCP-CN-1802-2的出现是否必要。
+
++采访记录CN-1802
+
+–收起
+
+两名基金会英国籍特工Kalis与Nibelcole在执行任务遭遇了SCP-CN-1802-2，以下是对Nibelcole的采访记录。
+
+记录开始
+
+（部分内容省略）
+
+特工Nibelcole： 我和Kalis装成一对夫妻，正在跟踪一个AWCY的人员时那个异常出现了，自我介绍说他是红星中学高三一班的学生，然后他问我们是不是要去天坛公园，用英语说的。这时那位艺术家已经开始过马路了，于是我告诉他我们只是在散步，而且也不想去天坛公园。
+
+Dr.Lujeff： 然后呢？
+
+特工Nibelcole： 他看上去有点恼怒，骂了句“靠”，又问了一遍。结果不知为什么，我们竟然答应了，而且很奇怪的是我们突然变得只能使用英语交流，就好像从没学过中文一样。他十分高兴，问我们有没有地图，然后就给了我们一张。他帮我们在地图上标明了路线，还建议我们乘坐18路公交车，在第二个站下车。那时候我们完全忘了自己还有任务，好像我们本来就要去天坛公园一样。
+
+Dr.Lujeff： 有点强迫性的味道。
+
+特工Nibelcole： 是啊。我们在站牌下聊了一会，公交车到了，我们上了车，和他挥手道别。
+
+Dr.Lujeff： 最后你们就到了天坛公园。
+
+特工Nibelcole： 没有。公交车开到一半时我们突然清醒了。我看了看时间，刚好是5点。高考英语好像也是考到5点。
+
+（剩余内容省略）
+附加记录：
+
++附录#CN-1802-2
+
+–收起
+
+此为特工Nibelcole在遭遇SCP-CN-1802-2后收到的一份SCP-CN-1802-1
+
+发件： 李华（moc.liaml|auhil#moc.liaml|auhil）
+
+收件： Nibelcole （pcs.noitadnuof|eloclebin#pcs.noitadnuof|eloclebin）
+
+主题： 道歉信
+
+Dear Madam:
+
+I 'm writing to give you my apologies.
+
+I 'm so sorry that I am causing you much trouble. I feel terribly sorry about this. It is a thousand pities that you didn't hold the man. You and your campion are doing a great work, but my action stops you protecting the world. It 's all my fault.
+
+Once again, I 'm very sorry for any inconvenience caused. I will be really appreciated if you can accept my apologise.
+
+Sincerely yours,
+
+LiHua
+附加记录：
+
+脚注
+1. 通常称为衡水体。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                智能
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Feb 2020 09:40
+            
+            编辑
++41)
+标签
+讨论 (23)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Biblioteca Digital Curt Nimuendajú
+                      
+              línguas e culturas indígenas sul-americanas
+            
+          
+        
+              
+          
+            
+              
+            
+            RPC機構
+                      
+              研究、保護、収容
+            
+          
+        
+              
+          
+            
+              
+            
+            La Insurgencia del Caos
+                      
+              Creando la Lógica De lo Ilógico
+            
+          
+        
+              
+          
+            
+              
+            
+            Variable Thinking Wiki
+                      
+              Life is a word problem
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

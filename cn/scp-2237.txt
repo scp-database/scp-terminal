@@ -1,0 +1,248 @@
+                        
+
+档案员备注： 下列文件作为历史记录保留。要获取与你权限相符的最新文件，请联系你的AAC/HMC联络人。
+附加记录：
+
+本文件由美国安保收容倡议、女王陛下超常安保收容基金会（Her Majesty's Foundation for the Secure Containment of the Paranormal）、天皇超自然事务议会、沙皇先知会领导成员联合通过于1915年7月9日，作为由上述组织联合成立之新组织—SCP基金会的首篇文件，新组织将更好地控制尚不能理解之事物，收容威胁公众常态认知之事物，保护公众免受超自然或其他尚不能理解之事物威胁。
+
+项目编号： SCP-2237
+
+分级： Euclid (中等收容难度)
+
+收容之措施： 对象将由武装人员全天守卫，周围由强化围栏环绕。对象的真正性质、以及从中寻获物品将对各自组织中非最高级权限的人员保密，直至统一的权限系统生效。武装守卫必须为不列颠帝国公民，了解帝国军队习惯；同样，所军备须为不列颠生产，对平民掩盖为Hafiyan领土内的高安保英国军事设施。若有敌对人员将其占领，所有女王陛下超常安保收容基金会之同盟组织将展开军事行动夺回对象和周边设施，若有必要可用各自组织所属国家的人员加以重新配置。
+
+本收容之措施于1915年7月9日通过。
+
+对象描述： SCP-2237是一被埋于地底的未知城市废墟，位于北非Hafiyan沙漠中。SCP-2237在1890年代大英帝国对此地域的征服中为HMFSCP所发现。确信其与世隔绝要归因于Hafiyan当地居民对SCP-2237缺乏了解。
+
+对象被确认需要收容，在其中发现了尚不能让公众接触的多种技术形式。技术发现包括但不限于：投射未知形式能量的武器（推测是从别处收集）、没有放映机或胶卷却能展现活动图像的控制台、在强度和技术上超出当今最先进锻造及建筑技术的建筑用合金、不需胶片的自动记录设备、以及能说话而无实体的自动机。大部分设备都已因年久失修损坏或完全损毁。
+
+在城市中心附近的一座建筑内（确信为城中的图书馆）发现了书面记录，和从控制台中获得的记录一样是用多种语言写成，包括苏美尔楔形文字、埃及象形字、拉丁语变体、各种形式的日语、各种形式的中文、现代英语、现代俄语还有现代法语。这些记录中提到了美国安保收容倡议、女王陛下超常安保收容基金会、沙皇先知会和天皇超自然事务议会，使得HMFSCP有必要与这些组织进行接触。
+
+在城市中心，有一抽象设计的雕塑（确信是纪念碑），有以现代英语、现代法语、现代俄语和现代日语四种语言写成的铭文：
+
+“你们是战士，征服军之子。你们肩负人类种族的传承。切勿偏离此路。你们必得壮大，为死者，也未尚未在生者。我们相信你们。”
+
+铭文的含义未知。对从城中记录的分析正在继续。
+
+获取更多文件2237 Alfa。
+附加记录：
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Mar 2018 09:52
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            TI-Basic Developer
+                      
+              The TI-Basic Information Repository
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP繁中沙盒2.0
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            TalkingPad Project
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            VisCom
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

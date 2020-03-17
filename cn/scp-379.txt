@@ -1,0 +1,240 @@
+                        
+
+SCP-379于水晶瓶内的照片
+
+项目编号： SCP-379
+
+项目等级： Safe
+
+特殊收容措施： 当不使用时，SCP-379 须被保存在位于Sector-████-█的████号保险库中。因为项目易碎，在被运输时，它应被存储在上锁且完全填充的容器内，如一个有内垫的公文包。由于我们的物资有限，所有测试与实验必须先取得Dr. ███████的授权
+
+描述： SCP-379 是被装在一个小水晶瓶中的某种淡银色半透明液体。瓶子顶部有一个能喷出约0.5毫升瓶内的透明物质的喷雾器。
+
+瓶子本身没有任何值得提及的特性。然而，其中的液体（对普通人类无味且无效）有着能诱发电子元件和机械设备产生类似于人类热恋状态的奇特作用。当应用在个人或某些物体上时，附近所有机器和电子元件（除了那些已被应用SCP-379的）会开始在过热状态下运行，不能处理和往常一样多的指令且消耗更多能源。
+
+对于自动化系统或被认为有认知能力的电脑，对象看起来展现了更多人类典型的“热恋”的性质，包括：
+
+对接触SCP-379使用者或保持在SCP-379使用者的周围的偏好。
+当SCP-379使用者在场时，与房间内任何人合作的意愿增强。
+对机器的反应时间变慢。
+轻微升高的出现小故障和错误的几率。
+
+已经建议向有进攻性的几项SCP如SCP-███使用SCP-379以观察此信息素能否减弱其进攻性，或许能允许我们提出更多有关其机能的问题。同时建议在几项非机械且不存在于三维现实世界如SCP-732的SCP上实验项目能否影响他们；认为不可能。
+
+没有已知原因显示喷有SCP-379这一状态如何影响大多数机器，SCP-379没有向空气中释放出任何种类的气味或可探知的信息素。有意见认为SCP-379有着某种电磁频率，但是检测证明这一理论没有结果。在建立化学分析确定SCP-379能否被人工复制前，进一步的实验应被限制。
+
+附录379-A： 379与SCP-915的交叉实验显示有着充分的复杂性的纯机械设备可以被379影响。915的进气量增加了两倍，但并没有伴随着可探知的计算速度增长。已经申请检验915的内部移动是否受379影响而增加。由于379数量上的稀缺，与915的进一步实验被驳回。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                电子
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Dec 2018 03:43
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            免費電子書：C# 程式設計
+                      
+              作者：陳鍾誠
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiNorron
+                      
+              Almost as good as the guide, maybe better!
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            RSC Sandbox
+                      
+              RSC için Sandbox
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

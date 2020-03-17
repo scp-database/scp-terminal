@@ -1,0 +1,235 @@
+                        
+
+SCP-312伪装成一团不寻常的云雾。
+
+项目编号： SCP-312
+
+项目等级：  Euclid
+
+特殊收容措施： SCP-312须被保管于Site-19的大型仿生保管室内。因为不需喂食，所以只有研究者可以进入保管室内。向所有进入室内者提供宽边帽，并且告诫其不要看向正上方。
+
+描述： SCP-312是一个由极薄的组织层组成的有机物，内部充满构成与周围大气一致但是温度稍高的气体。它通常漂浮于地面███米之上，但是在捕食时也会变化以维持与猎物的相对位置。
+
+SCP-312可以通过释放水蒸气和操纵气流在身体周围创造小型荚状云，并以之为伪装。在云雾中SCP-312看起来像是一只巨大的水母，直径约2.5米的伞盖下拖着一丛约25米长的触须。
+
+SCP-312有捕杀大型哺乳动物的习性，尤其是人类。猎杀时，SCP-312会在正上方的位置追踪猎物，操纵身体周围的气流以维持相对位置。猎物可以以30千米/时以上的速度逃脱或进入人群中以迷惑SCP-312并使其变更目标。
+
+SCP-312的核心被大量眼睛占据。这些眼睛外形与人类眼睛相似，除了中心的大型球体。其他的眼球通过纤细的触须与中心球体相连。此核心可以被直接向上看的猎物或者猎物在自身正上方安置的摄像设备观察到。
+
+当核心未被观察到时，SCP-312会保持平静，而且不进食也可以无限期存活；不过进食之后其质量和移动速度会以[编辑]的数量增长。然而如果猎物与核心进行了目光接触，SCP-312就会被激活，生成一个狭窄的被控制的漩涡，看起来就像是一个连接着地面和荚状云的由云雾构成的管道。猎物会被漩涡内强烈的上升气流拉进SCP-312的触手从中，被触手上的毒刺麻痹，然后被消化。一周以后，消化残渣会在SCP-312消失的地方从天空中落下。成功捕食之后，SCP-312会漫无目的地飘荡直到另一个猎物接近。
+
+根据事故报告，基金会相信至少有三只不受控制的野生SCP-312个体。试图回收相当困难，因为SCP-312在捕猎条件被激活前常常会跟踪一个人月余甚至一年。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                肉食性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Mar 2018 23:10
+            
+            编辑
++5)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Language Arts (8)
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Health and Environment
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Join this Site!
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Story Chip
+                      
+              Become a part of history, share your story.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

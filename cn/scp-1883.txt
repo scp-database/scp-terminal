@@ -1,0 +1,259 @@
+                        
+
+SCP-1883的截圖
+
+项目编号： SCP-1883
+
+项目等级： Euclid
+
+特殊收容措施： 17个SCP-1883的拷贝储存在各种牌子的手机中，并储存在Site-76的翼楼D中。手机在未使用时应保持关闭，且只允许通过Site-76的安全数据链接连接到网络上。当测试SCP-1883的目标时，确保指令的目标是D级人员或依据Ludd Antitechnic Directiv的物品（附加）。
+
+所有现存的SCP-1883副本将在其来源确定后被抹去。█████和██████公司被指示提交任何SCP-1883副本给Sigma Computing  Programmatics，基金会的外围公司之一。
+
+描述： SCP-1883是一个“mobile app”或适用于安装了███或██████操作系统的手机的用户软件。SCP-1883的界面包括一个标题为“分数”和一个标题为“指示”的文本界面。
+
+当一台装有SCP-1883的手机连接到移动网络，“指示”界面将每5到9小时更新一次，给出一个新“目标”给手机持有者完成，并奖励“分数”。如果此指令在指示改变前被完成，“分数”界面的分数将会增加。目前未知SCP-1883是如何探测到指令完成的。
+
+有些指令要求使用者和其他人交流，通过电话或口头的（比如“给你最讨厌菠菜的朋友打电话并问好” - 3分）当此类指示被完成，SCP-1883会通过未知方法散布到受害者的手机上。
+
+SCP-1883对使用者有潜在的强迫效应，被使用者描述为“有趣”和“好玩”并试图完成该指令，即使这是无意义的，危险的或非法的。此效应在大量SCP-1883使用者同时使用时会增强，使用者会互相比较分数并根据分数形成一种非正式的阶层。
+
+SCP-1883在██/██/████的事故后引起了基金会的注意，在该事故中[删除]市的72人用各种家具物品对自己的左眼造成了永久性的损伤。他们中的大部分人被发现持有装有SCP-1883的手机。
+
+指令记录： 
+
+向太阳敬礼。1分
+找一匹马。盯着马看30分钟。7分
+买个冰激凌并让它融化。再吃掉它。5分
+用你的头撞墙。3分
+给你最讨厌菠菜的朋友打电话并问好。3分
+告诉一个陌生人你到底对他怎么想的。10分
+把金子变成铅。999分
+如果Babe Ruth那么厉害，为什么他还需要球棒？
+抢劫一所银行。只抢四分之一。150分
+说服其他人你已经死了。0.5分
+找一只黄色的狗并踢它。没有分
+吃掉墓穴中的某物。200分
+得到5分。5分
+无视此指令。21分
+在玻璃上走路。描述发出的声响。90分
+爱上某人。15分
+烧掉一个不可替代的物品。再换掉它。100分
+呼吸。-200分
+[数据删除] 300分
+[数据删除] 400分
+The real skeleton was inside you all along. Are we cool yet?
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Dec 2017 13:43
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Igen Weyr
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Metroplexity
+                      
+              Learn the secrets of Metroplex
+            
+          
+        
+              
+          
+            
+              
+            
+            Marble Hornets
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Interactive Media Design: Theory
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

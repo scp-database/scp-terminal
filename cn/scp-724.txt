@@ -1,0 +1,243 @@
+                        
+
+SCP-724-A，B，F和█
+
+项目编号： SCP-724
+
+项目等级： Safe
+
+特殊收容措施： 由于SCP-724不可移动的特性，SCP-724被收容于Site-54的中央保管库内。该保管库被一组铰接的屏蔽板包围，该板可以屏蔽并阻止无线电信号到达SCP-724以抑制异常。
+
+SCP-724-1标本可以被收容在标准尺寸的笼子里，目前正处于监控状态的标本至少应与外界的声音隔离。未受到监控的个体将被收容于经法拉第屏蔽的笼内。除非得到M███████研究员的书面许可，否则不得使用无屏蔽措施的笼子运送SCP-724-1标本。
+
+Site-54以基金会前台公司（S██████C██P███████，Inc.）的名义来对外保持其办公室或是研究机构的外观，其门厅内的平民接待员和保安人员均由基金会安保人员担任。
+
+描述： SCP-724是一种覆盖直径约8米的异常，其位于████████的██和Route█号交界处。这种异常只有当周围所有的无线电塔（这些电塔被指定为SCP-724-A至SCP-724-█）正在广播，并且来自这些塔的信号能够在没有明显干扰的情况下到达SCP-724所处位置时才会发生。
+
+当SCP-724的异常被触发时，任何穿越异常地带的浣熊属物种（北美浣熊）的个体都会以未知方式产生永久改变。改变的个体（统称为SCP-724-1）会开始发出包括人声、音乐、静态、调制/解调信号、[数据删除]在内的异常发声。被改变的个体似乎并不理解或无法控制这些发声的内容，其仅仅只是作为被动接受者。被改变个体发声的音量和清晰度随着SCP-724异常的活跃程度增加而增加。与未发生改变的标本相比较，SCP-724-1中没有发现任何解剖学变化或化学变化。
+
+这些个体的发声内容被发现与SCP-724周围的无线电塔发射信号内容相符。被捕获的SCP-724传输信号已被证实源于整个北半球的许多地点，并且频率涵盖整个RF频谱（在724-█号文件中可以找到已识别传输源的日志）。每个个体似乎都有一个固定位置、频率和协议的独特“接收者”。每个“接收者”的位置和调谐情况似乎取决于异常触发时的诸如振幅和频率等因素。
+
+附录724-1： 据信SCP-724最早发生于19██年，当时SCP-724-█（最近建造的塔）刚开始进行广播。该地区“有浣熊会说话”的报告使基金会对其进行调查，随后被发现的异常则是几个受到影响的个体。目前企图捕获所有野生SCP-724-1的努力正在进行中。
+
+周围的无线电塔之间的相互联系是在对SCP-724-C进行离线维修时发现的，在其维护期间异常效果因此而停止。在经过大量讨论后决定允许塔继续产生SCP-724信号并能够继续对其进行传输。
+
+附录724-2： 目前正在对SCP-724进行研究并确定其异常产生的相关原因，并避免由于意外导致更多异常造成。能够更好地理解各种促成异常的因素及其影响在监视和通信的实际应用中可能具有重要效用。
+
+附录724-3： 可以允许几个SCP-724-1与受影响及未受影响的标本交配，以确定SCP-724对后代的影响（如果有的话）。迄今为止，100％的纯种后代个体都是SCP-724-1，同时也发现大约有7█%的第二代混种个体很容易受到影响。
+
+假如亲代的“接收者”调频和方位已知，则其后代“接收者”的调频和方位可能位于亲代的调频和方位范围中的某处。M███████博士已经申请开始选择性育种计划[目前正在审查中]。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 13:00
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Android Alchemy
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            airchair-ultralight-gliders
+                      
+              Building and flying the Goat and Bug style of airchair ultralight gliders
+            
+          
+        
+              
+          
+            
+              
+            
+            International Translation Archive
+                      
+              of the SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            Data Structures
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

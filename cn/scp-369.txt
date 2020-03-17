@@ -1,0 +1,231 @@
+                        
+
+项目编号： SCP-369
+
+项目等级： Euclid
+
+特殊收容措施： SCP-369应由延时摄像机监视，并每24小时检查一次其异常行为。外围运动传感器警报设备应在每次SCP-369移位时布置到其新位置，在被观察时应至少有三名1级人员在附近装作半自主建设人员(semi-active construction crew)。在没有任何其他潜在观察者时，人员应避免直接观测SCP-369，但是通过摄像机和镜面来观测SCP-369是不影响其进行工作的。
+
+在任何情况下都不允许试图真的在SCP-369上进行建设工作，同时也不应试图使用其周围的设备。在SCP-369完成它的工作并失去接触时，站点监视人员应打包好设备并准备转移到一个新位置。在经过24小时后，所有周围75公里范围内的道路应被检查是否有不属于当地政府的建设工作。应只检查属于铺设阶段的道路，并从使用较少的道路区开始检查。
+
+描述： SCP-369是一块流浪的建设区，它会在没有建设人员的情况下修复延伸的道路。它会产生几辆似乎无法运作的道路建设车辆，类似于小型蒸气压路机和挖土机，以及从推土机到反铲装载机的各类其他车辆。其出现在影响范围边缘的道路桩是真正的道路桩，没有任何序列号或生产商标，且经常是至少用过好几年的样子。若从工地移走，道路桩将在没有被观测时消失。其机械无法被使用或维护，而尝试这么做是不明智的。
+
+维修进程会占用四天，在未被观测的情况下道路会处于半自动的修复进程下，导致道路被普通的修复好，但是可以看出修复品质十分专业。被SCP-369修复过的道路没有观测任何特殊属性；在SCP-369转移后，这些道路就像普通道路那样会被风化和磨损。
+
+试图帮助或中断SCP-369建造进城的测试都会导致每次项目都被液体柏油和[数据删除]所覆盖，直到骨头或坚硬的无机质被弹到路边。其影响似乎仅限于美国道路网，而且不会重新漆上道路线。
+
+附录： 2级研究人员试图将SCP-369重新指引到特定道路区的努力离成功还很遥远，不过在预测潜在转移位置的方向上有了一些进展。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自主
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            02 Oct 2019 05:18
+            
+            编辑
+-1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Pagan Michigan
+                      
+              News and Networking for the Pagan Community of Michigan
+            
+          
+        
+              
+          
+            
+              
+            
+            Forteana: The Fortean Wiki
+                      
+              The World of Strange Phenomena
+            
+          
+        
+              
+          
+            
+              
+            
+            specfreaks
+                      
+              brought to you by isunas garage
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Foundation
+                      
+              Secure, Contain, Protect
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

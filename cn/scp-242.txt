@@ -1,0 +1,343 @@
+                        
+
+项目编号： SCP-242
+
+项目等级： Safe
+
+特殊收容措施： SCP-242应被保持于位于████████，新墨西哥州的家中，该住宅已于██/██/████被基金会取得。原主人是一名位于美国国外的地产人，并且这间房子的出租情况总是不顺利。在退休之后，他回到这间住宅之中居住，但在居住了三天之后即告失踪。
+
+这间房子本身并无特别之处，并且现阶段已经由██████博士和██████████博士共同居住，他们扮演着一对没有孩子的夫妇。这间住宅的后院用高2m，与周围住宅差不多高度的的煤砖墙围起。 后院之中的游泳池随时由一名一级警卫看守（在事故242-1之后，增加了对人类活动的监测）。在该池中游泳或是涉水通过都是极为不推荐的行为，并且禁止除D级人员外的任何人员以实验的理由进入游泳池。
+
+描述： SCP-242是一个游泳池，其长为9m，宽为4.5m，两端深度为1m，中心深度为1.5m，总蓄水量约为53000升。该泳池还有着2个模拟瀑布装置、一个池内清洁装置，并且在池边还有阶梯。
+
+任何原本不在池中之后放入池中的物品最终会在池中被转化为无菌水，并且这些无菌水在被移出池子并且放入无菌环境之后也始终保持着无菌状态。从SCP-242之中取出的水样和已经滴入了红色食用颜料的水倒在一起后，会明显发现两种水样并不混合，而是以一种非混合泡沫的形态存在着。之后对这些水样的分析检查发现，这些水样仅仅是无菌的纯净水而已。
+
+在SCP-242之中发生的转化过程所需时间取决于放入SCP-242之中物质的原本性质。从新墨西哥州，█████████取来的河水样本仅用7分钟就完成了转化。从新墨西哥州，████取来的死水潭中的水在18分钟后亦是转化完成。50000L煤焦油在12天后也完全转化成了无菌水。
+
+当这个池子中除了无菌水之外别无他物时，该水池自带的装置并不会有任何反应。一旦非水物质被引入池中，喷水及瀑布装置将会自动启动，就算这些装置没有连接到任何电源上亦是如此。池底清洁器，如果被放置在池中时，将会一并激活并且沿着池边转动，就算池中的液体极端粘稠也不会对其运动有所阻碍。该池子的排水系统之中没有任何水流的出入情况出现。连接到排水系统上的管道已经全部移除并且其内部干燥无水，尽管此时池中水已经被完全转化。
+
+潭中死水，时间=0 min
+
+潭中死水，时间=9 min
+
+潭中死水，时间=16 min
+
+潭中死水，时间=18 min
+
+附录： 
+
+事故424-1： 在██/██/████，当时该住宅无人居住但被一隐秘摄像头监控着，一名男子及一名女子，很明显只有20岁出头爬过了围墙并且进入了SCP-242范围之中。他们开始脱掉衣服，并且开始攀着两只原本放置在SCP-242旁边小棚之中的乙烯充气筏游泳。在喷水系统启动之后，那名女子很明显是吓了一跳并且表示她要离开这里。但那名男子说
+
+“这只不过是定时清理泳池的时间到了而已，没什么好担心的。”这对情侣继续游泳并且开始做出一些亲密动作。
+
+在喷水系统启动24分钟后，女子说池中的水“十分温暖”而让她有些“刺痒”。男子对此表示同意，之后他们一起爬上各自的筏子，手牵着手睡着了。
+
+在喷水系统启动29分钟后，两只筏子在4秒内相继漏气了，这对情侣又一次完全浸没在水中。此时，在那两人所在的位置开始泛出深红色的泡沫。那对情侣高声尖叫着并且试图离开泳池。在他们尝试成功之前，这对情侣又一次沉入了水下，泡沫停止了，池水在接下来的48秒内都变成了红色。这让我们最终做出了在池边安排一名守卫的决定。
+
+在2个星期之后，我们泄露了一个描述这对情侣已经私奔到了墨西哥的某个地方的故事作为掩护。
+附加记录：
+
++expand)
+
+-#17
+
+Abstract:  What are the general properties of the water contained in SCP-242? Does the water retain any SCP like properties when removed from the location?
+
+Proposal:  Determine if the water is safe for human consumption both while in the SCP and outside of it.
+
+Required equipment/personnel: 
+
+Two (2) titanium Atmospheric Dive Suits altered to fit the testing criteria
+Two (2) Class D Personnel of like gender and race, age range to within three (3) years
+One (1) food grade titanium barrel, one hundred and ninety (190) liter capacity
+One (1) remotely controlled overhead crane capable of lifting twenty (20) metric tons
+One (1) automated titanium siphon system
+One (1) wireless communication system for separate links to and from both dive suits
+One (1) home fumigation tenting unit used to create a neighborhood subterfuge
+
+Estimated Budget:  [DATA EXPUNGED]
+
+Status:  Approved (██/██/20██; Drs. ███ and ████████)
+
+Results:  Transcript attached for review. Contact Dr. ██████ for a full Lab Report.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Dr. ██████: Alright, once you've entered the dive suit, we'll lower you into the pool. All you need to do is take a drink from the metal straw by your mouth when instructed to do so.
+
+Test Subject A: Uhhh, I can't see out of this thing. Shouldn't there be glass here? Why is it all metal?
+
+Dr. ██████: That's classified. Just get into the dive suit please.
+
+Dr. ██████: Is the barrel full yet?
+
+Test Subject B: Yep. All full.
+
+Dr. ██████: Good. Remove the siphon and get into the other dive suit. You will not be placed into the pool. Just drink from the metal straw fed from the barrel when instructed to do so.
+
+Test Subject B: So if I ain't going in the pool, why am I getting into that thing?
+
+Dr. ██████:  Again, that is classified. We went over this in the debrief. Just do as instructed please.
+
+Test Subject B: Damn it's dark in here. There's no light? How will I find the straw when Ithere it is.
+
+Dr. ██████: SCP-242, Experiment 17, time zero set. Test Subject A, please take a sip from the straw and tell me what you experience.
+
+Test Subject A: Ahit's pretty warm. There's a weird chemical aftertaste, but it doesn't last long.
+
+Dr. ██████: Good, thank you. Test Subject B, please take a sip from the straw and tell me what you experience.
+
+Test Subject B: Hmm. Its cool. Andnothing. It's good!
+
+Dr. ██████: OK.
+
+Dr. ██████: Test Subject A, what is going on? Please take another sip.
+
+Test Subject A: Wow. I've got lots of gas. Eeew! This stuff is really warm now. And it stings my mouth. How much longer is this test?
+
+Dr. ██████: OK. Test Subject B, please take a sip.
+
+Test Subject B: Yep. Same as before. No taste or smell at all. The wateris this water? It's cool and pleasant.
+
+Dr. ██████: Test Subject A, please repeat the process.
+
+Test Subject A: Ow! [REDACTED] this is really hot now! AndHEY! What the [REDACTED]?! Is that one of my fillings!? What the [REDACTED] is this [REDACTED]?!
+
+Dr. ██████: Please just report your experience as succinctly as possible. Fillings can be replaced. Test Subject B, please repeat the process.
+
+Test Subject B: This is boring, doc. Seems like a lot of hassle just to give us a drink of water.
+
+Dr. ██████: Test Subject A, please repeat.
+
+Dr. ██████: Test Subject A, please respond.
+
+Dr. ██████: Test Subject B, please repeat.
+
+Test Subject B: Ahh! Yep. Still nice.
+
+Dr. ██████: OK. Test Subject B, we're moving to the next phase which is a full medical analysis. But you'll need to uhhbefore you can exit the suit. It will take several hours, so get comfortable in there. Please take a drink every time the indicator light goes on and let me know if anything changes. Use the urination adapter as needed.
+
+Test Subject B: Understood. Damn, that was easy!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Testing was ended due to internal electrical and subsequent structural failure of Atmospheric Dive Suit A. Retrieval was not attempted; complete loss of Atmospheric Dive Suit A occurred after approximately 15 hours.
+
+Test Subject B was extracted after 17 hours. No physiological changes were detected. Subject B's urine was recovered and showed no extraordinary properties. Subject B has been released to the Class D Pool Group for future reuse.
+
+The water remaining in the barrel was left to evaporate and did so within the expected time frame. No residue of any kind remained.
+附加记录：
+
+备注： 利用SCP-242来处理一些有着非常“难”处理的材料的SCP的提议现阶段已经开始进行考虑。可以联系██████博士以获得更多细节和/或得到实验许可。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Jan 2020 01:54
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Crosswindsgarou
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Hyper RPG FanWiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            ISTAR
+                      
+              International Society for Testate Amoeba Research
+            
+          
+        
+              
+          
+            
+              
+            
+            Лекциите на ФМИ
+                      
+              За да изглеждаме умни пред другите
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

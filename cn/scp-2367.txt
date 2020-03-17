@@ -1,0 +1,247 @@
+                        
+
+项目编号：  SCP-2367
+
+项目等级：  Safe
+
+特殊收容措施： SCP-2367被就地收容于机库之中，采取5级安全措施，该场所被掩盖为一处高度戒严的德国军事基地。禁止对项目进行测试，直至██/██/████，2367-Sigma事件发生。
+
+潜伏于柏林进行应急工作的特工将通过无线电通信监控可能的SCP-2367-1现象，派遣特工进行回收，清理及必要的记忆消除。SCP-2367-1个体是非异常的，除回收外不需要额外的收容措施。
+
+当2367-Sigma事件发生时，需在全市范围内部署安全气囊，实行大规模记忆消除及紧急修复措施，以减少不利影响。
+
+描述： SCP-2367是一个直径为15米的钢制半球形物体，表面涂有迷彩伪装。物体南部位置装有一个小型控制面板，临近面板有一扇4 平方米大的门。装置内部为直径13米的光滑半球结构。建造该设备是为了移动对象（包括活人）时间与空间中的位置。在测试中，个体可以移动到几百米外的目的地上。并可实现“前进”和“返回”两种时间旅行的方式。在进行对它的操作过程中无需接通外接电源。
+
+scp-2367-1个体为在基金会收容scp-2367之前被传送的物品或者个人。 到目前为止，6个SCP-2367-1个体都已出现，列表如下:
+
+四名身穿士兵党卫军制服不明身份的男子（均在撞击事故中当场死亡）
+一支STG-44突击步枪（无载弹）
+一顶二战时期德国伞兵型降落伞1
+
+要了解所有SCP-2367-1的个体信息，请查阅相关外围文档。
+
+在Operation Hammer期间，基金会通过介入二战时期的德国政府回收SCP-2367。 回收过程中的文档中显示，SCP-2367(此处将其称为“Die Glocke”，意即“铃铛”) 在1945年5月之前被奥托·韦伯上将监督下构建完成。
+
+据目前所知，该仪器的制造者唯一一次启动设备时所传送的对象(不包括SCP-2367-1个体): 几名从红军手中逃离的NSDAP2高级成员，他们将预计再次出现，这一重新出现的现象被称作2367-Sigma 事件。 他们预期目标为：在2031年十月左右到达柏林附近。
+
+附录： 
+
+审阅回收过程的文件Operation Hammer中发现，SCP-2367可以被用来撤离比想象中更大数量的个体。粗略估计，在2367-Sigma事件中出现的个体有1400号人,其中包括一个设备齐全的野战炮兵团和12辆Tiger I型坦克。机动特遣队Psi-33“希姆莱的管家”已经部署，来保证最大限度地减少人员伤亡和阻止平民接触2367-Sigma事件.对于柏林的人员疏散以及伪造事实一事正在考虑当中。
+
+Footnotes
+1. 降落伞处于捆扎状态，而非整装待发或展开状。
+2. National Socialist German Worker's Party，通称纳粹党。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                时间影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Mar 2018 10:13
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Early Childhood Program Administration
+                      
+              Resources, Training, Best Practices, Sharing
+            
+          
+        
+              
+          
+            
+              
+            
+            The Exploring Our World Wiki
+                      
+              A Site for Everyone Interested in Teaching and Learning
+            
+          
+        
+              
+          
+            
+              
+            
+            Scala Geography Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Dragon Trees
+                      
+              A Dragon Cave Fansite
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

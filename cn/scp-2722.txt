@@ -1,0 +1,282 @@
+                        
+
+项目编号： SCP-2722
+
+项目等级： Safe
+
+特殊收容措施： 配给SCP-2722的挖掘人员将按照工作一天，休息三天的工作周期轮换。所有工作人员都要接受心理评估筛查，以发现精神状态异常转变的迹象。已证明抗抑郁药治疗无法抵消 SCP-2722 的精神影响，因此避免影响和恢复是最重要的。
+
+从 SCP-2722 下面挖掘出的物品将被运往 Site-21 在该物体的影响范围外进行进一步研究。
+
+描述： SCP-2722 是一块石墨烯石碑，高260米，宽55米，以37度的角度静立。该对象刻有约 100000 种不同文字和语言的文本，其中大多数与已知的地球语言没有任何相似之处。在这些可以阅读的语言中，文本主要由貌似随机的字母和音素组成，但下面的名称列表除外。
+
+Vladimir Komarov
+Georgy Dobrovolsky
+Viktor Patsayev
+Vladislav Volkov
+Gregory Jarvis
+Christa McAuliffe
+Ronald McNair
+Ellison Onizuka
+Judith Resnik
+Michael J. Smith
+Dick Scobee
+Rick D. Husband
+William C. McCool
+Michael P. Anderson
+David M. Brown
+Kalpana Chawla
+Laurel Clark
+Ilan Ramon1
+
+名单上的所有个人都死在卡门线2以上。他们按时间顺序列出，每个时间组内按字母顺序排序。地球语言互相比较表明，文本的所有片段重复该相同信息。
+
+不定期地，SCP-2722 上将出现其他文本，并同时发出短暂白光并按需求缩小文字大小。尚未发现其文本增加的规律(如有) 。
+
+一旦越过5公里的最低安全距离，个体将通过精神传递听到以下短语。
+
+我是所有逃离的死亡。没有人可以越至其上。
+附加记录：
+
+在2公里处，将传送第二个消息。
+
+现在听亡者的记录
+附加记录：
+
+当达到半公里的距离时，SCP-2722 将开始背诵被认为是其完整的文本内容。在这个范围或更接近的个体报告其抑郁症发作，自杀的想法和泛化的存在性畏惧显著增加。
+
+SCP-2722 将在个体重新进入半公里区时重新开始背诵。截至目前，没有一个人听过完整信息。
+
+附录： SCP-2722 基地附近的残骸在其被发现后不久就促成了挖掘工作。到目前为止，已经挖掘到了17吨以上主要是电镀船体外壳的材料。据信，这艘船的主要结构仍埋在 SCP-2722 之下。
+
+在已回收材料中，下列项目被认为值得注意：
+
+一个巨大电镀船体外壳碎片，上面用红色日本汉字写着“大队炮丸”3。
+33公斤超导超材料。
+一个六翼人形人物的琥珀金塑像，其眼睛被蒙住并拿着两把枪。
+包含512 PB 数据的数据存储设备，并用英语中标记为物种间色情制品。所有数据都已损坏。
+用广东话书写的货物清单，并以未知语言修改，详细地说明以葡萄糖-氨基酸为基础的食品摄入量。
+一个咸水水族箱，里面装满了高度分化的 Paralithodes camtschaticus4 后代。
+一瓶[已编辑]陈年梅洛葡萄酒.
+六具人形骨骼（1 具男性，5 具女性）。
+一个破烂不堪的旗帜，上面画着一只兔子挥舞着黑色木槌的风格化形象。
+
+Footnotes
+1. 译注： 全部为死亡的宇航员。
+2. 译注： 卡门线（Kármán line）是公认的外太空与地球大气层的分界线，位于海拔100km（330,000英尺）处，即上面提到人都死于外太空。
+3. 译注： 原文为Daitaihomaru。原作者解释“Daitaiho”大致为“大枪”（The Big Gun），按照评论区建议如此翻译。
+4. 译注： 堪察加拟石蟹的学名。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                黑兔公司
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Dec 2018 02:36
+            
+            编辑
++7)
+标签
+讨论 (14)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP Sandbox Wiki II
+                      
+              Sandbox Harder
+            
+          
+        
+              
+          
+            
+              
+            
+            Share Coke Codes
+                      
+              Sharing happiness by sharing Coke rewards codes.
+            
+          
+        
+              
+          
+            
+              
+            
+            OpenD6
+                      
+              The OpenD6 System Reference Document
+            
+          
+        
+              
+          
+            
+              
+            
+            KnightsWrite
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

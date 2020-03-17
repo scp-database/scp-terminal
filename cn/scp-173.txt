@@ -1,0 +1,246 @@
+                        
+
+收容中的SCP-173
+
+项目编号： SCP-173
+
+项目等级： Euclid
+
+特殊收容措施： 项目SCP-173应始终保管于一个上锁的收容间内。当必须进入SCP-173的收容间时，人员数目不论何时都不得少于三人且须将门重新上锁。至少须有两人全程与SCP-173保持眼神接触，直到所有人员都离开收容间并重新上锁为止。
+
+描述： 于1993年移动到Site-19。起源至今未知。它由混凝土和钢筋建造，并有Krylon牌喷漆的痕迹。SCP-173拥有生命且具有高度敌意。该物体在直接视线内无法移动。与SCP-173之间的视线时刻都不得中断。派往收容间的人员要在眨眼前相互提醒。据报告该物体的攻击方式为折断头骨底处的颈部，或是勒颈。在一起攻击事件中，人员应遵守4级危险物体收容措施。
+
+人事报告称，当收容间内无人存在时，其中会传出刮石的声音。这被认为是正常现象，并且该行为所发生的任何改变都应当向值班中的代理HMCL监督员报告。
+
+地板上的红棕色物质为粪便和血液的混合物。这些物料的来源未知。内部环境须每两周清洁一次。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+创作者信息 
+
+SCP-173中所使用的图像为山本桂輔所摄。原作者保留所有权利。
+
+提醒：SCP-173是对由加藤泉所创作的艺术作品《无题 2004》的二次使用。SCP-173的概念与该艺术家的《无题 2004》的原始概念没有任何关系。
+
+该雕塑，及其外形、照片都不适用于任何知识共享许可。仅有该文章的文本部分适用于知识共享。任何情况下都不得将该雕塑及其外形基于商业目的使用。加藤泉已慷慨地允许SCP基金会及其爱好者团体基于非商业目的使用《无题 2004》的图像。 
+
+1. 不要与加藤泉先生就有关“SCP-173”的任何事项进行咨询或协商。 
+
+2. 不要要求任何“对SCP-173图像的商用许可”。 
+
+3. 不要要求SCP基金会社群就《无题 2004》的商用许可与加藤泉先生进行协商。 
+
+4. 不得使用《无题 2004》开展任何与“SCP-173”相关的商业活动。没有任何例外。 
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                雕塑
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Jan 2020 02:51
+            
+            编辑
++385)
+标签
+讨论 (105)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            AQW
+                      
+              AQWorlds Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Windycity
+                      
+              MUX
+            
+          
+        
+              
+          
+            
+              
+            
+            A Barrel Full
+                      
+              A Barrel Full of information for Oil Industry Professionals
+            
+          
+        
+              
+          
+            
+              
+            
+            Eitrigg Crafters
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

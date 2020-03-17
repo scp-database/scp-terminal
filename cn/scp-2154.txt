@@ -1,0 +1,245 @@
+                        
+
+Dr Spencer正在使用SCP-2154
+
+项目编号： SCP-2154
+
+项目等级： Safe
+
+特殊收容措施： SCP-2154收容于安保区域DN-633内的天文台，限3/2154和4/2154级人员可以访问。
+
+描述： SCP-2154是一天文望远镜，位于加拿大[已编辑]附近的一座天文台内。详细检测显示其制作技术与1940年代的类似产品一致。关于其中导致异常性质出现的元素[数据删除]
+
+使用SCP-2154能无视光速限制导致的偏远太空视觉信息延迟，直接观察到天体的实时状况。当前正在将由SCP-2154收集到的数据与现有科学模型进行比对。
+
+4/2154级权限人员注意：阅读到本文本表示你的安保权限已被核实，可以阅读下列文件。 
+
+以SCP-2154收集到的数据与现代科学对宇宙的观念严重不符。具体而言，72%已记录天体在SCP-2154的观测中没有出现。对此有两种假说：
+
+麒麟座星团：第一张照片由████ 望远镜拍摄。第二张以SCP-2154拍摄
+
+因某种原因，在光线传播到地球期间，宇宙中的星体数量已急剧减少。
+某种不透明物体阻挡了对大部分天体的观测。
+
+无论哪种假设为真，从SCP-2154收集到的数据都使得现代天文学需要重大重审。
+
+附录2154-1:  ██/██/██ Dr Spencer发现处女座的M59星系、M60星系及M89星系可见度发生波动。据此，他推断在此区域由某种物质云团 (编为SCP-2154-A)在吸收光线，使得直接观测无法进行。SCP-2154-A出于持续移动中，其大小自首次观测以来增大了█%。这之后SCP-2154-A在宇宙中其他区域被发现。通过对该现象的力学分析及天体运动预测，结论显示仅以该物体对天体可见度造成影响仍不能完全解释现实和理论间的偏差。故，上述两种假设都得到证实，即部分星体因遭到不明物体遮挡而不可见，而另一部分天体则确实是消失了。正在这两个因素及SCP-2154-A的实际大小进行估测。
+
+考虑到在最近几年里该现象已出现在距地球仅3.6百万秒差距的星系1，SCP-2154-A重分级为一单独的Keter级项目。
+
+脚注
+1. 室女星系团的NGC 4458和NGC 4461。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 12:31
+            
+            编辑
++7)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Nirn
+                      
+              The Nirn Project
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP日本財団中枢資料室。
+                      
+              収用
+            
+          
+        
+              
+          
+            
+              
+            
+            Pagan Michigan
+                      
+              News and Networking for the Pagan Community of Michigan
+            
+          
+        
+              
+          
+            
+              
+            
+            Make Your Bot!
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

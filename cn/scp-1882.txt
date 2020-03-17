@@ -1,0 +1,261 @@
+                        
+
+項目編號： SCP-1882
+
+項目等級： Safe
+
+特殊收容措施： SCP-1882需被放在一隔絕所有電磁訊號的房間。試圖開啟SCP-1882外殼之舉動必須在遠離Site的地點進行，該地點不能被追蹤至任何與有關基金會之資源。每日至少需一名研究員觀測以確定SCP-1882-A之身份並記錄。
+
+可能的新SCP-1882事例必須在回收前先轉交至反監控程序L4（已附）。
+
+描述： SCP-1882是[已編輯]品牌的電木（做得像木頭的塑膠）電視組。該機之電源線已遺失，唯一可辨識之記號為底部的「037」。
+
+SCP-1882於███████ █████先生的住宅被回收，他坦承從Marshall, Carter和Dark公司購買此物品。四件類似物品在對其他MC推測為發出信號。
+
+每天的格林威治標準時間上午五時，SCP-1882自發性的開啟電源並開始播出一節目。節目之時間表固定，並如下所述：
+
+05:00 - SCP-1882自發性的啟動。MCD的標誌出現，伴隨著海頓的《C大調弦樂四重奏“皇帝”作品76 第三號》的第一、二樂章。
+
+05:03 - 一女性聲音朗誦出一串數字組成之清單。數字隨節目而不同，目前尚未解碼成功。
+
+05:15 - 場景轉換至一空房間，被一不可見的光源些微照亮。一人(每日不同，以下稱SCP-1882-A)躺在地板上，未著衣且失去意識。
+
+05:25~05:35 - SCP-1882-A甦醒。在接下來的17個小時，他們的反應因人而異，但和一般人被鎖進空屋剝奪人身自由時做出的反應無甚不同。攝影機保持在同一定點，且從未被談及。
+
+22:10 - 大多數情況下，SCP-1882-A表現出聽到房外出現聲音的樣子，儘管沒有一次被觀看電視的人所聽到。
+
+22:20 - 三至五個SCP-1882-B個體進入了攝影機的拍攝範圍，並開始[數據刪除]。
+
+22:45 - SCP-1882-B樣本離開，留下SCP-1882-A的屍體。
+
+23:00 - SCP-1882自動關閉電源。
+
+注意：儘管SCP-1882-A都是播出當時在世的人，卻沒有任何一人曾有消失之跡象。事實上，基金會觀察到數位「受害者」都從日常生活中隱退，與他的SCP-1882-A分身相似。基金會數次觀察到被幽禁的受害者的「本尊」仍然過著正常生活。目前認為SCP-1882-A只是人的複製品，創造他們只為了播出節目。
+
+值得注意的SCP-1882-A案例（基金會持有期間）：
+
+20/12/2010 - █████ ███████，有名的女演員及歌手。
+
+17/02/2011 - ███████ ██████，████████的前總統。
+
+06/04/2011 - 一隻成年的孟加拉虎。
+
+11/07/2011 - ████████博士，Site 75的三級研究員。儘管他對於SCP-1882並不知情，████████博士推測他曾被敵對勢力所擄獲並啟動太陽神協定3.3（Protocol Phoebus 3.3），導致[已編輯]。SCP-1882切換回MCD標誌直到正常的關機時間。
+
+09/09/2011 - D-99221，Site 65的D級人員。D-99221被帶至SCP-1882，但她無法對於她出現為SCP-1882-A一事提供任何資訊。D-99221的訪談與精神報告已附。
+
+SCP-1882-B樣本為[數據刪除]。有些能被辨認出曾是人類，並有三個被辨認出是曾出現過的SCP-1882-A。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 10:26
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            FreeSMUG
+                      
+              Free Open Source Software Mac User Group
+            
+          
+        
+              
+          
+            
+              
+            
+            EliteQuest Worlds
+                      
+              Eqwwiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot Themes
+                      
+              share your Wikidot theme with others!
+            
+          
+        
+              
+          
+            
+              
+            
+            Epitome City
+                      
+              Hero or Villain? You decide.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,380 @@
+                        
+
+Roelant Savery所绘的SCP-3758
+
+项目编号： SCP-3758
+
+项目等级： Keter
+
+特殊收容措施： 一份SCP-3758-A软组织样本存于Site-59的有机保存收容锁柜内，随需要补充。SCP-3758-A细胞培育只可在指定孵化场进行。
+
+SCP-3758-A种群将被维持在不少于三个分开的孵化场内并全天接受监控。当前，有30只SCP-3758-A个体位于Site-19， 17只个体位于Site-70，4只个体位于Site-10。指定孵化场将衬以3米的铅，装备永久封锁系统以防备Aonair事件。
+
+非经批准，禁止人员在任何情况下与SCP-3758-A个体尝试交流。
+
+若Aonair事件发生，受影响孵化场将被气闭密封，无论是否有基金会人员正处在区域内。若孵化场被突破，机动特遣队 Nu-7“落锤”将出动实施临时收容措施应对SCP-3758-B，直至两个新SCP-3758-A个体出生。O5议会已批准在Aonair事件中使用秘传手段加速克隆培育，包括使用SCP-████。
+
+若Aonair事件发生时无法以任何方式克隆SCP-3758-A，紧急程序Jamgeuda-9将立即启动。
+
+将采取掩盖措施维持SCP-3758-A已经灭绝的固有观念，且所有克隆SCP-3758-A的非基金会科学活动应被破坏或以其他方式阻止。
+
+描述： SCP-3758-A是一种鸟类，即大众认知中的渡渡鸟(Raphus cucullatus)。其种群原为毛里求斯岛特有，但在欧洲贸易者和入侵物种干预下数量快速衰减。SCP-3758-A在1681年被宣布已经灭绝，但有三只个体在事故-76728-Charlie中被发现（参见发现记录）。
+
+SCP-3758-A的异常性质会在其种群全球存活数量仅剩一只后显现。在倒数第二只SCP-3758-A死亡后，最后一只个体将发生快速而剧烈的生理结构变化（称为Aonair事件)，成为 SCP-3758-B。
+
+SCP-3758-B是一种两足行走生物，外形与白垩纪晚期的有喙恐龙二连盗蛋龙(Gigantoraptor erlianensis)极为相似。其体长约5米，体重1600千克。
+
+由于SCP-3758-B的皮肤每小时释放出12000伦琴的电离辐射，精准测量无法进行。
+
+在Aonair事件后，SCP-3758-B会寻找并靠近其他活体生物。虽然其存在本身即有致命危险性，但它所表现出的敌意并不超出其他大型陆行鸟类。
+
+发现记录： 于2/15/1998，基金会特工对毛里求斯岛上欲肉教徒的可能异常活动做出响应。调查发现有一小型独立派系“Hualiet觉醒”使用异常手段保留了三只活体SCP-3758-A，其年龄仍然未知。
+
+基金会特工试图强行夺取这些个体，造成其中两只意外死亡，并引发首次被记录的Aonair事件 (事故-76728-Charlie )，在初期收容建成前造成了约███起军民伤亡。
+
+日期： 5/12/2004
+
+采访者： Dr. Isaiah Henderson
+
+受访者： PoI-3758-27
+
+Dr. Henderson： 请说出你的名字以供记录。
+
+PoI-3758-27： Jack Sadhi，Hualiet觉醒的前领导。
+
+Dr. Henderson： 到底是什么？它和欲肉教到底有何联系？
+
+PoI-3758-27： 青铜时代的某种恐怖恶魔。名字可能有什么含义，但其语言已经灭绝，古代毛里求斯人也从未在石头上记下什么——总是叶子或泥土。至于欲肉教，我们很久以前就抛弃了大术士亚恩；我们只是借用他的法术来保全渡渡鸟，不让Hualiet归来。
+
+Dr. Henderson： 你们为何要抛弃 
+
+PoI-3758-27： 因为他是一根刺。
+
+[ 巨大的黑色恶性赘生物突然从PoI-3758-27的头皮上长出。 ]
+
+PoI-3758-27： …而且极易被冒犯。
+
+附加记录：
+
++需要4/3758级权限
+
+-密钥已接受。
+
+国王Uhr-Yin六世在SCP-3758-A文本中的名讳装饰，由SCP-3758-A-14绘制
+
+经过更多研究，发现SCP-3758-A的舌头厚度使其能够言语。虽然它很少用此模拟人类语言（如鹦鹉那样），SCP-3758-A使用一种物种专属语言Nal-ru-k'作为主要语言。
+
+事实上，5/12/2004采访中提到的“古代毛里求斯人”是一个具有智能的种姓制SCP-3758-A文明，名为Nal-ru-khuun，与世界其他部分长期保持着完全隔绝。
+
+其贵族种姓曾一度掌握现实扭曲能力，称之为或“神-药”，但其用途目前未知。基金会控制下的现存个体并无此种能力，推测其已经失传。
+
+SCP-3758-A个体都在出生时对其民族历史具备残余记忆。因此，在PoI-3758-27与Dr. Lisle Naismith的配合下，Nal-ru-k'语言得到翻译，基金会也得以了解到SCP-3758-A的文化。
+
+日期： 9/27/2013
+
+采访者： Dr. Lisle Naismith
+
+受访者： SCP-3758-A-14
+
+Dr. Naismith： 下午好，SCP-3758-A-14。
+
+[ SCP-3758-A-14整理羽毛。 ]
+
+[ Dr. Naismith以Nal-ru-k'语言继续。 ]
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+[ SCP-3758-A-14 坐下，这是服从的姿势。 ]
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+Dr. Naismith： 
+
+SCP-3758-A-14： 
+
+附加记录：
+
+自：Lisle Naismith [pcs.noitadnuof|htimsianl#pcs.noitadnuof|htimsianl]
+
+至：伦理委员会
+
+主题：SCP-3758-B
+
+基于SCP-3758-A-14提供的新信息，我建议在衬铅地堡内进行一次受控Aonair事件，与SCP-3758-B谈判。请求在我向O5提议时予以支持。
+
+- Dr. Naismith
+附加记录：
+
+请求拒绝。让一个古代殉道士的永恒受难继续，还是放出一头会走的切尔诺贝利，恐怕我们只能承担的起前者。
+
+- Dr. L'Orange，基金会伦理委员会
+附加记录：
+
++SCP-3758-B在事故-76728-Charlie中所发声音的翻译
+
+-密钥已接受
+
+[冗余部分已编辑]
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+SCP-3758-B： 
+
+[冗余部分已编辑]
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            12 Aug 2019 03:53
+            
+            编辑
++1)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            WikiEthica
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Prämien teilen
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CST 133 A
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Patriot Box Office Media Player (PBO)
+                      
+              More Than Meets the Eye
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

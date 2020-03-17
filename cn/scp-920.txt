@@ -1,0 +1,245 @@
+                        
+
+SCP-920（左）被特工 ██████（右）護送。特工 ██████ 最後已知圖像
+
+项目编号： SCP-920
+
+项目等级： Euclid
+
+特殊收容措施：  MTF Iota-1队（代号“猎团先生”）当前正在追踪SCP-920。 SCP-920的行动目前正由人造卫星监控。由空中和陆上跟踪SCP-920的行动已经终止。有效控制SCP-920的建议可能已被提交至█████████博士。
+
+任何与lota-1队成员接触的人员应立即联系O5-4。
+
+描述： SCP-920是一名无法确定年龄的亚裔男子。运送、移动、指导SCP-920到达一个确定的目的地在物理上是不可能的。SCP-920表现出没有能力控制自己的移动而取而代之的是“流浪”于各地，这种行为无法选择目的地。
+
+任何尝试运送SCP-920的行为将导致其丢失，任何尝试引导SCP-920的行为将导致其丢失，尝试跟踪SCP-920的行为将导致跟随者丢失。
+
+SCP-920的能力发动没有确定的时间点。看似随机的事件例如雷达系统和GPS系统的故障，地震，云层的形成，乃至严重的人为疏忽在过去对SCP-920进行运送的尝试中都有记载。
+
+SCP-920似乎有一种心灵吸力，导致与SCP-920接触的对象有一种“跟着他边走边聊”的冲动。与SCP-920交谈不被推荐，这种行为的典型后果就是对象将跟随SCP-920并丢失。
+
+不确定SCP-920是否有正常人类的需求。SCP-920的漂行能力可以穿越沙漠，冻土区和海洋而不遭遇困难。
+
+附录920-1： SCP-920被发现于Site-██的[已删除]入口。然而在护送其至██大厅的时候SCP-920逃离了保安措施。SCP-920后来在Site-██附近的一个小镇被发现，跟踪SCP-920的尝试在██名人员失踪后中止。
+
+附录920-2： “迷路先生，来自小小先生®Wondertainment博士敬上”这句话发现于SCP-920左小腿上的纹身。这个名称看上去有点档案SCP-909-a里的‘16’。
+
+SCP-920被发现时穿绿色连帽衫，白色T恤，牛仔裤，所有的商标上都缝着“博士的命令”字样。
+
+附录920-3： 对，丢失的意思就是走丢 了，错位、迷路、偏离航向，你爱咋称呼咋称呼，不不，没人被送去“无限之外的位面”。 —— █████████博士
+
+附录920-4： 在██/██/██SCP-920曾经被基金会人员控制住，同时Site-██被确定为控制他的地点。然而██小时后发现显然无法找到Site-██。在██天后由于严重的给养问题Site-██被放弃了。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                概率性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 14:32
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Game Design Novice
+                      
+              Learn to make video games.
+            
+          
+        
+              
+          
+            
+              
+            
+            Porphyra Roleplaying Game
+                      
+              Always a Work-In-Progress
+            
+          
+        
+              
+          
+            
+              
+            
+            Big Damn Gaming Page
+                      
+              So many games, so little time...
+            
+          
+        
+              
+          
+            
+              
+            
+            Eitrigg Crafters
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

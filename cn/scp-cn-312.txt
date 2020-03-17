@@ -1,0 +1,248 @@
+                        
+
+项目编号： SCP-CN-312
+
+项目等级： Euclid
+
+特殊收容措施： SCP-CN-312需被收容于Site-CN-21的第312号房间内，该房间本身并无特殊意义，当收容SCP-CN-312后即作为标准人形收容隔间存在。每日需从供应站点的物资中取得具有作为SCP-CN-312补给品的部分送往该收容隔间，每周应派遣特定人员与之进行访谈。
+
+描述： SCP-CN-312本身不具备任何意义，除非作为项目编号被赋予SCP-CN-312。SCP-CN-312是一名身高一百六十厘米，浅棕色皮肤的成年女性。她的异常性质在于所有与之有关的物品或资料在常人感官中皆拥有特殊意义。
+
+请注意，在写下这篇文档时，站点内并未发生收容失效或其他异常现象，此档案的编写方式、字数等不具备特殊意义，该站点任何员工皆并未与之交谈并发现其拥有某种悲惨经历。
+
+访谈记录： 
+
+笔记：本次访谈记录由恰好前往该站点的Koo博士进行。下列文档已经基金会自动筛查程序检验，删除不必要的信息。
+
+Koo博士： 你知道自己的异常性质吗？
+
+SCP-CN-312： 多少有所感觉吧。纪念日的时候。
+
+Koo博士： 你有什么办法对抗吗？
+
+SCP-CN-312： 我不知道，除了一遍一遍地强调我是一个普通人之外没有任何办法。
+
+Koo博士： 那你有过什么特殊经历吗？
+
+SCP-CN-312： 没有，我都跟人解释过多少遍了，我没打过胎，我也不知道他们都是哪听来的。
+
+Koo博士： 等等，你这句话是否意味着你知道其他异常的存在？
+
+SCP-CN-312： 我他妈最好知道啦。
+附加记录：
+
+后记：介于SCP-CN-312在谈话中透露的信息，有理由相信她知晓其他异常存在（包括本部收容物），谈话中疑似提到的SCP项目已以红色标出。将对象分级为Keter的提案正在审查中。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                原创
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Nov 2018 08:10
+            
+            编辑
++79)
+标签
+讨论 (13)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            WikiPlan
+                      
+              tools for participatory design of cities
+            
+          
+        
+              
+          
+            
+              
+            
+            Balchipedia
+                      
+              The Encyclopedia of Balch History
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP-JP環境再現サイト
+                      
+              実験、実験、爆発
+            
+          
+        
+              
+          
+            
+              
+            
+            The Sims Online
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

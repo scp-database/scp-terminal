@@ -1,0 +1,263 @@
+                        
+
+SCP-3961处于非活跃状态。
+
+项目编号： SCP-3961
+
+项目等级： Euclid
+
+特殊收容措施： 辛辛那提大学法学院主楼应在24时至5时上锁，任何试图在这段时间进入大楼的学生将被请离，并被告知在开放时间返回。
+
+每天24时，基金会外勤特工将在其台基上放置一个SCP-3961的仿制品，该仿制品将在凌晨5时移除，并放置在当地站点仓库中。
+
+任何一篇经SCP-3961修改的文章都要进行异常内容检查，然后放回原处。任何一篇SCP-3961的原创作品都要存储在Site-19的资料库里。
+
+描述： SCP-3961是美国第二十七任总统威廉·霍华德·塔夫脱的铜像，项目位于辛辛那提大学法学院大楼前方，2007年被安置在那里用以庆祝学院175周年，塔夫脱是该学院的毕业生。
+
+24时至凌晨5时，SCP-3961会进入活跃状态，尝试进入法学院大楼；其进入的方式未知，如果SCP-3961无法进入大楼内部，它将立即消失，并重新出现在院长办公室内部。任何试图在SCP-3961处于非活跃状态时将其从当前位置移除的行为，都将导致其在24时消失，并在5时在大楼前重新出现。
+
+在活跃状态时，SCP-3961将在大楼内部徘徊，偶尔会停下来写作。如果SCP-3961遇到任何学生的作品，它将拿出一支铜笔，并撰写对作品的反馈。SCP-3961具有学习能力并会积极寻找有关世界政事和法律程序的信息。
+
+如果SCP-3961在其活跃状态下遇到人类，它将尝试用一系列手势来欢迎他们；SCP-3961无法发声。项目会跟随任何表示需要或希望获得与法律有关的信息的人至学院图书馆，并协助他们查找相关的书籍或材料。
+
+每年的4月28日，SCP-3961都会在现任学院院长1的办公桌上留下一堆文件。这些文档通常会列出预期在该年度毕业的法学生，以及对象对每一个学生的毕业寄语。
+
+附录： 09/27/2010 SCP-3961活跃状态的记录
+
+24：00  SCP-3961进入活跃状态，然后从前门进入大楼，把门打开并等待基金会外勤特工进入，随后关闭了大门。
+附加记录：
+
+24：00-01：00  SCP-3961在走廊里徘徊，停下来查看威廉·霍华德·塔夫脱的肖像，偶尔对特定的雕像作出轻蔑的手势。
+附加记录：
+
+01：00-03：00  SCP-3961花费两小时撰写了《超越白宫：塔夫脱总统担任首席大法官》系列演讲，讨论塔夫脱担任最高法院首席大法官的任期。书面内容明显比SCP-3961的一般作品更具情感色彩。
+附加记录：
+
+03：00  SCP-3961阅读多本关于美国历史的书籍。
+附加记录：
+
+04：00  SCP-3961试图复印几份文件，但对复印机表现出明显的挫败感，外勤特工Baker协助SCP-3961复印，之后对象轻轻拍了拍Baker的后背。
+附加记录：
+
+05：00  SCP-3961退出该建筑并接近其台基。特工们拆除了SCP-3961的仿制品，对象取代了它。在SCP-3961进入非活跃状态之前，它向特工们做了一个轻微的鞠躬姿势。
+附加记录：
+
+附录： 2010年9月15日2，SCP-3961未按照其平时方式行动，而是试图进入最近的校园食堂。在外勤特工Baker和Pastor允许它进入之后，它开始收集配料，用来烤一个小巧克力蛋糕。完成后，SCP-3961将蛋糕切成两半，给每个特工一块。当外勤特工Baker试图给SCP-3961一份时，它重复了几次“拒绝”手势，然后指着自己的肚子。SCP-3961现在每年重复都这种行为。
+
+Footnotes
+1. 威廉·霍华德·塔夫脱（William Howard Taft）于1896年至1900年担任这一职务
+2. 塔夫脱生日
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                雕像
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Nov 2019 14:49
+            
+            编辑
++3)
+标签
+讨论 (11)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Game Design Novice
+                      
+              Learn to make video games.
+            
+          
+        
+              
+          
+            
+              
+            
+            AckySHINE MiniSites | Best of 2020
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Gamer Dome
+                      
+              Community Game Design Projects
+            
+          
+        
+              
+          
+            
+              
+            
+            PhyloWiki
+                      
+              Assisting research and education in phylogenetics and evolution
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

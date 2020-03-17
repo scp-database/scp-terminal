@@ -1,0 +1,247 @@
+                        
+
+项目编号：  SCP-876
+
+项目等级：  Safe
+
+特殊收容措施：  SCP-876-1到SCP-876-83，除了SCP-876-43和SCP-876-61，（这部分整体被识别为A群体）应被储存于一个大型储存保险柜之中，并且上两重锁。能够开锁的一把钥匙能被2级以上人员持有，但是另一把钥匙只允许3级以上人员使用，以防滥用。
+
+关于SCP-876-84到SCP-876-121、SCP-876-43和SCP-876-61（这部分整体被识别为B群体）的存放地点信息只能被4级以上人员知晓。当需要用到B群体的实验结束之后，应对人员进行B级记忆消除。每一个群体B之中的瓶子都应该有其单独的房间，并且每个房间要有独立的钥匙。这些收容地点要有1.5m厚的铅墙。
+
+所有的瓶子，不论是群体A还是群体B的，都必须要有自己的编号指示，标签不能放在瓶子上。
+
+描述：  SCP-876是一群传统的药瓶的群体合称，标签为[数据删除]。这些瓶子在视觉上都是相同的。如果一个瓶子被破坏，改变了标签，或是以其他什么手段进行了改变，它们将会在█秒之内恢复到原状态。如果它们之中有任何一个的内容物变空了，一片胶囊状药片将会出现在其中，这个胶囊有着2种不同的颜色，但是每一个瓶子之中的着色方式都是不变的——例如说，SCP-876-2之中的胶囊总是会表现出███和███的模式。
+
+观察到的颜色包括红色、透明、橙色、蓝色、绿色、白色、黑色、紫罗兰色、黄色、灰色和[数据被编辑]。
+
+当一片药片被吞服之后，不会观察到什么坏的效果。但是，当第二片药片被吞服后，一种未知的效应将立即开始将服用者体内的一种元素转变为另一种元素，这种转化取决于服用的药片颜色和服用顺序。这通常都会导致悲惨的反应（见实验文档876）。这种效应将不会受时间流逝影响而一直持续。对于透明的药片，能够观察到那之中有一小片被波及的元素的样本，除了那些放射性元素——在那种情况下，胶囊里没有样本。
+
+分析已经表明这些颜色遵循着一种简单的模式。如果该相应元素的原子序数（原子核中质子数目）除以11，然后取其余数，一个药片就会表现出符合得数和余数的两种颜色。例如，余数为6的药瓶之中就一定会出现一面是紫色的药片，也就是说，紫色代表着“6”。
+
+以下是颜色和数字的参考表：
+
+[表格数据删除]
+
+很不幸的是，一个红-白药片不能与一个白-红药片相区分。因为这个原因，必须记录该药片出自哪个瓶子。
+
+当一个替换相应产生之后，新的分子总是十分地不稳定。自发性氧化是十分常见的现象。对于那些能够避免这些问题的化合物（比如说，氮转化为磷），将会立刻导致死亡，死因为全身性的化学性崩溃。
+
+在罕见的情况下，这种效应是有利的，但是这往往是因为元素性毒素的被替换。
+
+新生成的元素总是会拥有最稳定的中子数：从测试对象尸体上提取的铀已经完全贫化了。
+
+附录：  见实验文档876。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自我修复
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 10:51
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP基金会小马国分部
+                      
+              控制 • 收容 • 保护
+            
+          
+        
+              
+          
+            
+              
+            
+            Wayward Society Sandbox
+                      
+              Even secret societies need to draft.
+            
+          
+        
+              
+          
+            
+              
+            
+            Great Hyderabad Adventure Club
+                      
+              Advenutre and Nature Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Chaos  Complexity Theories in Education Group
+                      
+              Also a Special Interest Group of the American Educational Research Association
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

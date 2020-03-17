@@ -1,0 +1,290 @@
+                        
+
+项目编号： SCP-023-DE
+
+项目等级： Safe
+
+特殊收容措施： 除SCP-023-DE-01戴着的那一副外，所有的SCP-023-DE样本都被存放在站点-DE6的07号室的标准储物箱中。SCP-023-DE-01安置于一个标准监室内并且无需特殊的安保措施。
+
+描述： SCP-023-DE包括了八副含有异常结构的隐形眼镜（共计16片）。每幅眼镜由三个单独 可调整的透镜组成，其中有六个微型蜗杆1以及三个内部定向传感器。
+
+当有人员佩戴SCP-023-DE中的一副时，在一段时间后（平均每屈光度三秒），除失明外，他任何潜在的或现有的弱视问题会得到自动矫正。一旦SCP-023-DE与佩戴者的弱视相适配后，SCP-023-DE便会开始显现其异常特性：佩戴者会注意到，其自身与其周围的人的皮肤上会显出大块黑色区域。仔细观察可以证实，那是一大群小蜘蛛，每只体型约为0.5mm左右。然而，经询问有关人员表示他们并未察觉此处有何异常。并且经过调查并未得到任何关于这些蜘蛛的线索。由此推断，这些蜘蛛只是由SCP-023-DE引起的幻觉，即使被拆解的SCP-023-DE样本似乎并不包含会引起这种幻觉的部件。
+
+发现过程： 首副SCP-023-DE是在维也纳被发现的，当时一名年轻的女子2在恐慌发作时撞向了一辆行驶中的车辆。她在医院中苏醒后表示她把自己和周围的所有人都看成了蜘蛛，之后她从一位朋友那里得到了“这副新的眼镜”。所谓的朋友已由特工Sprenger追踪并抓获关押。他表示自己发明了SCP-023-DE。此人自己戴着第九副SCP-023-DE，声称他并不知道为什么SCP-023-DE会产生这些幻觉（详见审讯记录023-01-02）。此人（记作SCP-023-DE-01）将被持续羁押直至幻觉的来源被查明。他拒绝交出自己使用过的这副SCP-023-DE ，基于其无害性，此事暂时被容忍。
+
+审讯记录 023-01-02，06.03.20██
+
+由Stein博士进行审讯 
+
+Stein博士： 早上好，023-01。
+
+SCP-023-DE-01： 你好。
+
+Stein博士：  今天过得怎么样？
+
+SCP-023-DE-01： 我想回家。
+
+Stein博士： 可惜，只要我们不知道你的眼镜为什么会产生这些幻觉，这就是不可能的。
+
+SCP-023-DE-01： 我也不知道啊。不过…
+
+Stein博士： 嗯？
+
+SCP-023-DE-01：  …我并不认为这是幻觉。
+
+Stein博士： 你是什么意思？我完全肯定我们的身上没有蜘蛛。
+
+SCP-023-DE-01： 但是，他们就是在那里。你只是看不见他们而已。
+
+Stein博士： 你是指那些蜘蛛是隐形的吗？
+
+SCP-023-DE-01： 我是这么认为的。
+
+Stein博士： 你的镜片又是怎么让这些蜘蛛变得可见的？如果镜片只是显示图像的话便毫无意义。
+
+SCP-023-DE-01： 我发明了这些镜片，可以自动匹配适应佩戴者所需要的视力。但是我肯定没装什么三维蜘蛛图（Spinnen-Hohlgramme）或者是别的什么东西！
+
+Stein博士：  你说了 三维 图。
+
+SCP-023-DE-01：  …我有点紧张，因为我被黑衣人抓住了。所以我说得可能 有点混乱。请您原谅。
+
+Stein博士： 没事。所以，如果蜘蛛不是透镜产生的幻觉，它们从何而来？
+
+SCP-023-DE-01：  …可能它们一直在我们身上。也许镜片不知何故绕过了蜘蛛的伪装。我不知道。
+
+Stein博士： 但你必须承认，这…听起来令人难以置信。几乎每一个人都随身带着数以千计的小蜘蛛四处走动而没有引起注意。
+
+SCP-023-DE-01： 我们还带着几百万细菌呢，也没人意识到…另外：我们注意到了蜘蛛，只是我们并不知道。
+
+Stein博士：  …你的意思是？
+
+SCP-023-DE-01： 在我被…呃…变成你们的客人之前，我问过或者只是观察过几个人，关于那些蜘蛛。他们都觉得痒，就是在蜘蛛待着的地方。
+
+Stein博士： 那听上去真的太不可思议了。
+
+SCP-023-DE-01： 真的吗？你的鼻子痒吗？
+
+(十秒钟的沉默)
+
+Stein博士： 这场谈话结束了，我得走了。
+附加记录：
+
+注：  Stein博士将对SCP-023-DE-01的审讯移交给了Klanic博士。
+
+Footnotes
+1. 译注：原文“Miniatur-Schraubgetriebe”意为螺旋传动装置，结构上与蜗杆相近
+2. 调查显示该女子患有严重的蜘蛛恐惧症
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                采访
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Dec 2018 04:28
+            
+            编辑
++1)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Software Craftsmanship
+                      
+              A conference all about building it right
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiRMAPhil
+                      
+              Community Site for UU RMA Philosophy Students
+            
+          
+        
+              
+          
+            
+              
+            
+            क्षत्रिय राजपूत इतिहास
+                      
+              क्षत्रिय राजपूत
+            
+          
+        
+              
+          
+            
+              
+            
+            Forteana: The Fortean Wiki
+                      
+              The World of Strange Phenomena
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

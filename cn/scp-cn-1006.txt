@@ -1,0 +1,247 @@
+                        
+
+项目编号： SCP-CN-1006
+
+项目等级： Euclid Keter
+
+特殊收容措施： SCP-CN-1006目前仅允许被1级人员持有。SCP-CN-1006的持有者应在24小时内将该项目给予一位不处于项目名单上的基金会1级员工，一个员工数据库应被建立以用于安排项目在不同员工间的转移顺序。
+
+当SCP-CN-1006的持有者开始寻找SCP-CN-1006时，他/她应被提醒SCP-CN-1006正处于其后背上。若SCP-CN-1006的持有者死亡，对项目的回收工作应被列为应急反应小组的V级优先事项。禁止在秘密站点工作的员工持有SCP-CN-1006。
+
+描述： SCP-CN-1006为一册用于记录员工身份信息的标准档案。档案可容纳的人员数量为1000人，其中记录的资料包括姓名，性别，身份职位，工作地点以及工作任务等。项目的封面上写有“击鼓传花，不要停下来啊！”，“你必须在24小时内把这东西送出去”，“Are we cool yet？”等字迹，推测为对项目异常性质的暗示。
+
+SCP-CN-1006始终附着于项目持有者（即SCP-CN-1006-1）的后背上。任何试图将项目从SCP-CN-1006-1身上移除的尝试均以失败告终：无论是将项目从SCP-CN-1006-1身上取下，还是将项目焚烧或粉碎，SCP-CN-1006总会在1分钟内完好无损地重新出现于SCP-CN-1006-1的背后。当SCP-CN-1006-1穿有一层或多层衣物时，SCP-CN-1006总会附着于SCP-CN-1006-1最外层衣物的外表面。
+
+SCP-CN-1006-1具有忘记项目所处位置的倾向；当SCP-CN-1006-1开始寻找SCP-CN-1006时，他/她常会因无法找到项目而表现出焦虑或困惑等情绪。但其他员工对SCP-CN-1006-1的提醒可使其迅速发现项目的存在。
+
+当一名未记录于SCP-CN-1006中的人员使用皮肤接触SCP-CN-1006时，该人员将成为新的SCP-CN-1006-1，其身份信息将被记录于档案列表的第一位；与此同时，位于列表最后一位的员工档案将被从SCP-CN-1006中删除，使项目中的档案总数保持1000不变。
+
+对D级人员、平民、以及GOC等其他相关组织员工的测试表明，只有具备基金会或GOI正式成员身份的人员才可能触发SCP-CN-1006的异常效应并成为SCP-CN-1006-1。
+
+██年██月██日，项目的异常性质更新： 
+
+若SCP-CN-1006的所有权连续24小时没有发生转移，项目将随机传送至一名潜在SCP-CN-1006-1个体的背后，并使其成为新的SCP-CN-1006-1。详见事故记录CN-1006-A。
+
+事故记录CN-1006-A： 
+
+SCP-CN-1006在一次意外事故中连续24小时没有获得新的持有者。在此之后，项目发出一阵白光并从Area-CN-07站点中消失。后续的搜寻行动未能在站点内重新找回SCP-CN-1006。
+
+一个月后，Area-CN-07的多个设施遭受了蛇之手的袭击，且两名4级员工在赶赴一场秘密会议的途中遇刺。此事件被定义为一起严重的情报泄露事故。
+
+██年██月██日，SCP-CN-1006被于一场GOC对蛇之手发起的突袭行动中缴获。在GOC反复试图摧毁项目未果的情况下，SCP-CN-1006被由GOC转交给了基金会。项目在转交时仍保有着5██名基金会员工的信息，除此之外，30名GOC成员，76名AWCY成员，以及███名蛇之手成员的信息也被于SCP-CN-1006中发现。
+
+由于SCP-CN-1006易造成严重的情报泄露且十分难于控制，项目被重新分级为Keter并制定了当前的收容措施。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                记忆影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Jul 2019 14:51
+            
+            编辑
++22)
+标签
+讨论 (20)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            UBMedicineFAQ
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Womens Film History Network
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            airchair-ultralight-gliders
+                      
+              Building and flying the Goat and Bug style of airchair ultralight gliders
+            
+          
+        
+              
+          
+            
+              
+            
+            HammerfallWiki
+                      
+              A Wiki for Hammerfall RPG on Facebook and Myspace
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,235 @@
+                        
+
+项目编号： SCP-4948
+
+项目等级： Neutralized
+
+特殊收容措施（失效）： 需将受SCP-4948影响的平民带到附属站点-494的127号测试间内。127号测试间的门应保持虚掩2分钟，直到确认个体康复，此后送返平民人群。
+
+描述： SCP-4948是一种现象，指对正在关闭的门突然产生的非理性恐惧感。未知SCP-4948的病因；高度怀疑其因素之一是接近受SCP-4948影响者。
+
+SCP-4948最初症状是在看到即将关闭的门时出现轻微的、无法解释的恐惧。最终，这会发展为全面的恐惧，以及一种需要尽快逃离房间的感受。
+
+如果受影响人员无法离开有着即将关闭或虚掩门的房间，他们会报告称房间里逐渐变暗，以及看到更为嶙峋、凶险的几何形状。在大约2分钟以后，对象会平静下来，且SCP-4948对他们的影响会停止。
+
+历史： 起初注意到SCP-4948是在它开始影响明尼苏达州夜福特(Nightford)镇的居民之后。这座林间小村因当地一户人家失踪而接受调查，发现该户房屋中所有的门都被移除，这家人踪迹全无。
+
+当地一家旅馆被改建为附属站点-4948以治疗开始出现SCP-4948症状的平民和基金会人员。在治疗过程中，大多数对象会躲在测试间的角落，直到SCP-4948效应消失。在这段时间里，记录设备捕捉到了几不可闻的低语，以及对象的呜咽声。自2018年8月31日到2018年9月20日，超过300人因SCP-4948接受治疗，且所有治疗均被认为获得成功。故此，宣布SCP-4948被无效化。
+
+需注意的是SCP-4948的最终无效化，即Warner博士的案例。此次无效化持续了5分钟而非2分钟，在结束时Warner博士接近门，双膝跪地并向门乞求不要“把它从[他]那里夺走”。接下来Warner博士经历了2小时的无意识状态，之后被报告治愈。
+
+附属站点-4948的人员报告称127号测试间有腐肉气味；发现这是由于房间内出现了多个由生物组织构成的门。将这些门从测试间内移除的尝试失败。此后以水泥将房间填堵至今。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                视觉性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Aug 2019 12:43
+            
+            编辑
++1)
+标签
+讨论 (14)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Arnwick Co.
+                      
+              我们致力于保持龙界的安宁
+            
+          
+        
+              
+          
+            
+              
+            
+            BlackBerry Storm Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            Radiohub
+                      
+              Lossless Radiohead Hub Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

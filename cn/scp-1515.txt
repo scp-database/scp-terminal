@@ -1,0 +1,241 @@
+                        
+
+项目编号： SCP-1515
+
+项目等级： Euclid
+
+特殊收容措施： 目前，唯一已知的SCP-1515个体被收容在site 32的扩展区——第12号自然保护区(Nature Reserve 12)。该设施位于澳大利亚 的Alice Springs以西24英里。任何在该保护区外发现的SCP-1515个体将被消灭。
+
+描述： SCP-1515外观上近似啮齿类的旧热带跳跃兔(学名，一种跳兔)。但是SCP-1515在生理上与普通跳兔有明显不同，包括拥有比一般跳兔更大，更长的爪子，更大的牙齿。SCP-1515表现出的行为也与普通跳兔不同，下文详细阐述。
+
+如果遭遇一只其他的怀孕前三个月哺乳动物，SCP-1515会发动猛烈的攻击。攻击的方式包括用牙齿撕咬对方的后颈来使对方脊椎断裂，从而导致受害者失去活动能力。1。
+
+SCP-1515通常以5个个体为一组靠近目标并将之包围，之后，其中一只会发出一声鸣叫。这鸣叫标志着攻击的开始。当使目标无力化后，SCP-1515会开始一种类似于剖腹产的行动，用那长爪子将胎儿从母亲的子宫中移到已经扩大的臀部。SCP-1515之后会把还活着的母亲身上的皮肤撕成厚的皮肤片。之后，SCP-1515会将这些皮肤片用削尖的骨头和筋缝合到一起(材料也是来自那名母亲)。当其成功缝制出了一个“育儿袋”，SCP-1515会把这个“育儿袋”的边缘缝合到自己的下腹部。
+
+之后，SCP-1515会离开这个区域。目前已知SCP-1515在将胎儿取出后，会在这个族群“分享”它。这一行为无论其雄性或者雌性都有，平均持续3个小时2。
+
+这一过程，胎儿已经死亡。SCP-1515会把腐烂的胎儿尸体留在“育儿袋”中，直到胎儿和育儿袋都彻底腐烂为止。已知有SCP-1515死于这个过程引起的严重感染。
+
+假如胎儿身上没有足够的组织给所有的SCP-1515 个体来“分享”，SCP-1515之间会展开时间或短或长的仪式化的搏斗。成对狩猎的SCP-1515很难出现这种情况，其会各抓住胎儿的一边然后开始拉扯直到胎儿被撕成两边或着其中一个SCP-1515放开。
+
+最早SCP-1515 个体被发现于Alice Springs附近的一个小殖民地。那里本不常有跳兔(一种南非本土种。)
+
+SCP-1515本身繁殖行为很正常。
+
+脚注
+1. 只有颈部静脉被截断带来的麻痹无力被怀疑是为了适应接下来的操作，这样可以使血液继续流向胎儿。
+2. 这种行为不是为了某种进化的目的，并且对其本身的生存也不利。目前真正的理由任然未知。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鼠类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Jan 2020 05:55
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Eitrigg Crafters
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            iSchool High
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP 재단
+                      
+              확보, 격리, 보호
+            
+          
+        
+              
+          
+            
+              
+            
+            Developer Help
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

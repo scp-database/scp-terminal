@@ -1,0 +1,241 @@
+                        
+
+SCP-586的图像
+
+项目编号： SCP-586
+
+项目等级： Scarf
+
+特殊收容措施： SCP-586被储藏于Salty-04的保险箱中，钥匙在Dr.████的许可下方能使用，除此之外项目不需要其它鞍泉措施。
+
+描述：  SCP-586是一个淡绿色的金属物件，项目的异常细琢在数名打字员对项目进行描述时才偶然地发现－特定的一或数个单字会被替换为另疑哥单字。
+
+实验记录586A  实验将本陈述的一部份[数据山廚]。
+
+实验记录586B  为了测试SCP-586的作用犯違，一名D级人员坐在项目前一米处，被腰酋写下句子：「The quick brown fox jumps over the lazy dog.」同时向位于[数据删除]的第二名D级人员展示项目的照片，要求他以一句话叙述之。
+
+结果1：「The quick brown fox jumps over the lazy dog.」
+
+结果2：「这看起来像个浇水的館子。」
+
+实验记录586C  10名D级人员被要求而且顺利写下短句「It is.」(它是)。随后向同一群人展示项目，并要求他们用鮮錢写下的短句重新描述项目。
+
+结果：。
+
+实验记录586D  要求四位分别以斯威士兰语、日语、鈣耳语还有阿拉伯语作为母语的人员，以母语叙述项目。每段叙述都至少包含一个不是撰写者原本想表达的单字。
+
+附录： 这是最后通牒，「我的办公室离586太近」不能当作一篇报告里笔误百出的借口。SCP-586没有“外流”效应，实验记录586B已经证实，只要不是在叙述项目，它就不会对你造成引想。要是再让我听到谁懒得校对然后把錯怪到项目身上，我就把他调去负责Kegel项目。 █████博士
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Nov 2019 07:08
+            
+            编辑
++6)
+标签
+讨论 (12)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Chemistry
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Ens Dictionary
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Data Structures
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Schools - Teachers - Parents
+                      
+              Issues in Schooling
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,254 @@
+                        
+
+项目编号： SCP-4389-J
+
+项目等级： Euclid 无
+
+特殊收容措施： SCP-4389-J应被储存于Site-19内的气密收容间。必须禁止人员出入其收容间，以避免收容失效。任何具有4级及以上权限的人员应保持对SCP-4389-J的存在一无所知以避免其逆模因影响显现。SCP-4389-J不需要收容，因为它并不存在。
+
+描述： SCP-4389-J是一个强大的逆模因异常，被认为具有中世纪火炮的外形。SCP-4389-J未显示出任何具有感知力的迹象，然而由于其逆模因特性，有必要将其分类为Euclid。
+
+SCP-4389-J的异常效应取决于人员被基金会雇佣的时间。初级研究员和D级人员无法观察SCP-4389-J，但在提醒后相信其存在。然而，站点主管和监督者议会成员不能意识到SCP-4389-J且拒绝相信其存在。因此SCP-4389-J的测试应只由初级研究员进行。
+
+您有（1）条新消息
+
+您没有新消息
+
+发件人： 
+站点主管Anderson 
+
+收件人： 
+初级研究员Rossi 
+
+主题： 
+SCP-4389-J
+
+日期： 
+2017年11月24日
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rossi博士：
+
+显然你（和你的几个同事）相信有一个逆模因实体被收容于Site-19。这并不正确。收容间里没有任何东西似乎被设计用于控制SCP-4389-J。对其他证实SCP-4389-J存在的人员的测试甚至表明，这个想法没有任何模因或精神影响成分，你完全是用自己的自由意志得出了这个错误的结论。
+
+那个收容间里没有任何东西，不管异不异常。这并不意味着SCP-4389-J已突破收容，因为如果某物实际上不存在，它就不能突破收容。我之前已经把这封邮件发给其他几位初级研究员，他们都拒绝承认SCP-4389-J不是真的。他们都忽视了事实，所以我打算在这条消息里说得非常清楚：
+
+这里没有大炮1。
+
+脚注
+1. 译注：“cannon”（大炮）在英文里与“canon”（设定）谐音
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                逆模因
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Jul 2019 00:36
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Science Online London
+                      
+              How is the Web changing science?
+            
+          
+        
+              
+          
+            
+              
+            
+            Therafim RPG
+                      
+              Epic Destiny Awaits
+            
+          
+        
+              
+          
+            
+              
+            
+            C++ Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Echo Bazaar
+                      
+              Come to Fallen London
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,255 @@
+                        
+
+——数据损坏——
+
+[10082957次]
+
+[程序失效][故障编号XK-001A:底层机能支持停止]
+
+[所选文件已损坏]
+
+[强制执行]
+
+SCP基金会跨宇宙广播
+
+SCP基金会全体 致启者
+
+当你读到这条消息时，我们的宇宙业已毁灭。我们将最后的信息封装入跨宇宙广播系统，以警示每个发现此湖的宇宙。这条消息以每25秒为周期循环播报，至所有供能手段失效为止。
+
+末日的种子在那恶物爬出湖面时就已种下。概念污染，认知危害，我们也曾如此将之定义。我不知道如果我们走向他途，结局是否会有不同；但当我们意识到危机时一切都已太晚。随后是无尽的反制，污染，斗争与牺牲。半个世界陷于血污与痂痕中，只有光焰暴起时才能看到撕破黑暗的一瞬。
+
+我们付出了无法想象的代价，却还是失去了一切。或许它苏醒时世界就已注定滑入那利齿交错的深渊，但我们的失败已既成定局。
+
+这是唯一的方法，这是唯一的可能。将它扼杀于未然之中。
+
+这是我们最后的信息：
+
+不要唤醒湖搴曠殑榛戠帇
+
+[10082958次]
+
+[程序失效][故障编号XK-001A:底层机能支持停止]
+
+[所选文件已损坏]
+
+＃错误：检查到新文本，您所查看的文档已被覆盖
+
+请按此以检索新文本
+
+    
+    
+    
+    
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            27 Dec 2019 14:15
+            
+            编辑
++196)
+标签
+讨论 (44)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Biblioteca Digital Curt Nimuendajú
+                      
+              línguas e culturas indígenas sul-americanas
+            
+          
+        
+              
+          
+            
+              
+            
+            Prämien teilen
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            PyLint Messages
+                      
+              and what theyre trying to tell you
+            
+          
+        
+              
+          
+            
+              
+            
+            Therafim RPG
+                      
+              Epic Destiny Awaits
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

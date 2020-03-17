@@ -1,0 +1,297 @@
+                        
+
+4252
+
+等級2
+
+收容等級：
+keter
+
+次要等級：
+none
+
+擾動等級：
+vlam
+
+風險等級：
+待观察
+
+备忘录链接
+
+SCP-4252-A1，无效化后（参见事故-01）
+
+特殊收容措施： SCP-4252-A存放于气闭、无窗的房间内，结构上与Site-96不相连。房间经过滤器连入站点下方埋设的200,000L滚筒内。
+
+每月第一日，将念诵发现于SCP-4252-B的SCP-4252激活语句。在SCP-4252显现后，所有在场人员必须鞠躬、称其为“尊主Jethusent”，然后背诵下列赞美词：
+
+赞美词表
+
+收起
+
+“你是何等睿智，尊主Jethusent”
+“你是何等勇武，尊主Jethusent”
+“你是何等仁善，尊主Jethusent”
+“你是何等小巧，尊主Jethusent”
+“你是何等纯净，尊主Jethusent”
+“尊主Jethusent，你为我们泼洒恩典
+“你的小是无比的大，啊全能王Jethusent”
+“我有幸能与你同在，尊主Jethusent”
+“Jethusent尊主万岁”
+
+SCP-4252下达指示后，所有人员应避开视线，所有摄像头在接下来的30秒内临时关闭，之后重新启动摄像头，所有活动照常进行。
+
+描述： SCP-4252-A是一共四件物品，编为SCP-4252-A1, SCP-4252-A2, SCP-4252-A3和SCP-4252-A4，它们全都被填满了烘豆。SCP-4252-A1是一台钟表，与Bernard Products牌石英挂钟相同。SCP-4252-A2是一棕色皮革公文包，制式不明。 SCP-4252-A3是一纸制咖啡杯，印有星巴克咖啡标志。SCP-4252-A4是一2015产丰田汉兰达。在事故-01前，所有四件物品都具有相同异常，但在该事件后，SCP-4252-A1已被无效化。
+
+SCP-4252-A2, SCP-4252-A3与SCP-4252-A4会通过未知方法无限量产出烘豆。探测其内部后未发现可令烘豆进入其中的物理通道，表明这些烘豆是直接显现在了项目内部。没有已知方法可以阻止烘豆的生产。若不使用SCP-4252，烘豆将在三月内突破收容。
+
+SCP-4252是一身高不足半米的人形实体。它穿着一件装饰有珠宝的丝绸长袍，头戴一顶铜王冠，中间镶有一枚红宝石。SCP-4252能突然显现或消失，但在事故-01前，它只被观察到会在SCP-4252-B上发现的特定语句被说出时出现。
+
+SCP-4252-B是一张来源不明的织物带。在其面上以金色亮圆片写有下列语句：
+
+全能王Jethusent
+
+请赐我们与你同在
+
+从你闪光的王座之上
+
+享用我们的泡冒耙豆泡宝
+附加记录：
+
+每月一次，当这些语句被大声念出时，SCP-4252将显现在附近，要求周围所有人向其鞠躬，对其表示服从。若这些要求未得到顺利满足，它会变得越发焦躁，若继续不顺从就会以消失离开做威胁。
+
+在SCP-4252满意后，它会找到SCP-4252-A，开始进食由其中产出的所有烘豆。不过，若人员试图监控此事，无论是直接观察还是摄像机录像，都会让SCP-4252要求停止监视，因为它“不能再被人盯着的时候做事”。因此，没有对SCP-4252消除烘豆的视觉证据留存，但音频记录到某种粘性物质被猛烈搅动的声音。在所有烘豆被移除后，SCP-4252将会消失并发出一道巨大的打嗝声，声音最大测量到超过120分贝。 若试图用激活语句再次召唤SCP-4252，只会遭遇一阵拨号音，然后是SCP-4252的一段录音，称“还没准备好，给我一个月我再回来找你们”。更多尝试后只会出现拨号音。
+
+事故-01： 
+
+▶播放视频记录4252.1
+
+∎结束视频记录4252.1
+
+22:02:19:0404-06-2019 
+
+一个大小与SCP-4252相近、但穿戴高尖帽和蓝袍的人形实体显现在SCP-4252-A收容间中。它紧张地环视四周，然后从长袍内拿出一根红色长杖。它把杖指向SCP-4252-A1，一团绿光从中飞出打中SCP-4252-A1。
+
+22:02:38:2704-06-2019 
+
+SCP-4252显现，与该实体打斗起来。双方扭打30秒，闯入者抓住SCP-4252的胳膊将之折断。SCP-4252大叫一声，敲打侵入者的头部，反复如此多次后对方不再活动。SCP-4252走开喘气，然后躺倒在闯入者前，开始粗重地抽泣。
+
+22:04:13:1004-06-2019 
+
+SCP-4252收拾了自己，靠在闯入者的尸体边。它小心地为尸体合上眼，低语了某些听不到的内容，然后抓起尸体消失。
+附加记录：
+
+备注：在事故后，SCP-4252-A1进入无效化状态。 SCP-4252继续照常显现，但右臂所在处被一机械臂替换。 由于SCP-4252出现自主显现的情况，已将其重分级为Keter。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Dec 2019 03:56
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Reactive Framework (Rx) Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            OpenD6
+                      
+              The OpenD6 System Reference Document
+            
+          
+        
+              
+          
+            
+              
+            
+            Evil Hat Productions Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Pieces of Our Minds
+                      
+              Creative Communication and Portfolio Development e-Learning Project
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

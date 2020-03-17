@@ -1,0 +1,270 @@
+                        
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-859应被收容于Site-CN-14的语义学物品标准收容柜中。在未进行实验时，禁止在SCP-CN-859上书写文字。经Dr.Y批准，研究员可指定一名D级人员与SCP-CN-859进行交互实验。
+
+描述： SCP-CN-859是于2001年4月10日发现于云南昆明市内一民居中的共200张210mm*297mm的纸。当一名现代智人在其上书写任何语义学上具有含义的表达式后，阅读者即可通过阅读这一表达式，清晰无误地获悉书写者在书写该表达式时所表达的准确含义。
+
+截至2001年4月11日，Dr.Y及其研究团队已对SCP-CN-859进行了数次实验，以研究其异常性质的具体细节。在下述研究记录中所使用的实验对象皆为D-15131。D-15131仅会读写中文，从未接受过物理学教育。
+
+实验语句
+对象反馈
+实验笔记
+
+“今天天气真好。”
+“天气预报说今天会有雨”
+研究员在思考“天气预报说今天有雨”的情况下写下此句句子。
+
+“今天天气真好。”
+“今天天气真好”
+研究员在思考“今天天气真好”的情况下写下此句句子。
+
+“今天天气真好。”
+“今天天气真好”
+研究员在“天气预报说今天有雨”的情况下写下此句句子。
+
+“实验明表，中文的序语不会响影解理”
+“实验表明，中文的语序不会影响理解。”
+的确影响不大。
+
+对象声称原句中的介词应为daran。
+
+“Ft=mv”
+“力乘以时间等于质量乘以速度。”
+被问及何为“力”时，对象无法给出一准确的回答。
+
+F
+“物体对物体的作用”
+Dr.Y备注：我建议你回中学重新学。力是从动量推导出的，而不是力推导出动量。
+
+一堆杂乱的符号
+对象称其感受到了强烈的困惑。
+令一智力有缺陷的D级人员在纸张上随意涂抹。
+
+一个标点符号
+“所有的火都熄灭了，所有的光都燃尽了。”对象沉默了3秒后，继续说道：“而只有它柔和的双手抚摸着我的胸膛。”
+研究员思考一话语的同时，写下来此符号。当对象被询问时，他声称他无法立刻在这么短的时间里完整地接受这段话。
+
+本文档的当前迭代版本更新于2001年4月11日。
+
+本文档的下一迭代版本更新于2001年4月13日。
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                语言
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Nov 2018 13:58
+            
+            编辑
++28)
+标签
+讨论 (18)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Marvel Revolution MUCK
+                      
+              Join the Revolution
+            
+          
+        
+              
+          
+            
+              
+            
+            Marvel Untold MUX
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Splinterverse
+                      
+              Ezboard Yuku Splinterverse Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            odriNET
+                      
+              Odrin Topluluğu Veritabanı v.4.0.4
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,232 @@
+                        
+
+SCP-765
+
+项目编号:  SCP-765
+
+项目等级:  Safe
+
+特殊收容措施:  SCP-765应用隔离护栏将其与Site-88的其他地方隔开至少4英尺。SCP-765-1的实体在该区域内是无害的，而SCP-765的影响在这个距离上可以忽略不计。指定于SCP-765的研究员和守卫应轮班工作。工作人员应每三到六天轮换一次以避免受到SCP-765的有害影响。任何研究员可以在离开SCP-765影响一个月以后再次申请成为其工作人员。
+
+描述:  SCP-765是一个鸭子池塘，发现于197█年的南加利福尼亚的█████████区域。SCP-765似乎能产生一种被研究员称为“宁静”的感情影响。处于SCP-765区域内的研究员，守卫和测试者报告觉得放松，并对自己的生活和自己生命中的选择感到满意。尽管如此，在七到十二天后，这些影响会转变为困倦，冷漠，无聊和抑郁。在此基础上的进一步转移效果的研究，正通过对处于███████ █████的影响范围内的测试者D-02841，D-02844，和 D-02851进行监视来进行。 参阅这些测试者的心理报告的申请需要G████博士的批准。
+
+由于其放松身心的特性，SCP-765一般会指派给处于压力和困倦中的研究员。这些影响似乎不会产生任何依赖性和模因效果。
+
+附录 SCP-765-1 , 197█:
+
+不出意料的，数只鸭科成员在今天出现，称之为SCP-765-1。似乎它们不会受到SCP-765的影响，工作人员报告欢乐效应的效果加剧，而其负面效应的转变速度变慢了。建议对其他种类的成员进行进一步研究。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 13:17
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Computational Genetics Project
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Big Damn Gaming Page
+                      
+              So many games, so little time...
+            
+          
+        
+              
+          
+            
+              
+            
+            fsfp
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Patriot Box Office Media Player (PBO)
+                      
+              More Than Meets the Eye
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

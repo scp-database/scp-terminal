@@ -1,0 +1,246 @@
+                        
+
+来自基金会记录与信息安全管理部的通知
+
+以下文档不是错误也不能被编辑。请不要把SCP-4787文件报告给RAISA。
+
+ Kitty Kearns博士
+
+我不应该在数据库上写这个的，但是有个你不记得的人，我会解释的。我不应该写这个的。但是去他的，我想知道发生了什么。如果我知道的话，我会的。
+
+你记得黑洞之路吗？
+
+2021年5月18日。我被派去调查新泽西州某个小镇的一个坑洞。有目击者报告说附近发生了奇怪的事情，因此我们中的一些人被派过去了。我就是这样认识特工Brooks Wall的——他是个好人；已订婚、通情达理，但不愿意受任何人的气。他是这次任务的负责人。
+
+然后我们到了。我们的掩护就是当道路工人被派去检查坑洞的时候想一下有没有合理的解释。但就跟你想的一样，没有。
+
+掉进去的东西就出不来了；反正不一样。花了点时间才把那部分组装起来。两种东西总会有相似之处。如果输入是塑料，那么输出也是塑料。如果输入是小动物，那么输出也是小动物。这不是那些高风险的异常。
+
+Brooks想要找到一种不用进去就能看到坑洞内部的方法；我们认为这是不可能的，但这对Brooks来说并不难。把他的头与一个手电筒一起卡进去；我们知道只有整个物体进去了那个坑洞才会有变化。他说这没用，他除了尘土之外什么都没看见。
+
+当我们去扶他起来时，他的态度发生了变化。他想尽量往坑洞里钻而不进入坑洞。这是个疯狂的想法——我们一口咬定，但他很坚持。他指示我们抓住他的脚踝，然后把他头朝下吊着。我们很犹豫，但Brooks坚称他“必须要看看下面有什么”。
+
+我们遵照他的指示，并等着。
+
+几分钟过去了。突然，要一直抓住他变难了。我们问Brooks他还好吗以及他有没有看到什么。要是问他有没有看到什么：有。但他到底看到了什么？“神奇的东西。我不能让它离开我，这玩意可以让我升职！”然后他没了。
+
+他真是个白痴，而我因为放开了他而变成了个更大的白痴。一部分自我知道这是一个陷阱，但我没听进去。这份工作太好了，不容错过——我甚至不记得我看到了什么。我只知道什么东西把我的生命偷走了。那个坑洞搅乱了我的记忆——我是在受到影响后才意识到这一点的。当输出是全新的东西——或是个坑洞的时候你不会记得输入是什么的。出来的是旧的，进去的是新的，没人提问。为什么没人提问？
+
+我只想要你像记住Brooks Wall一样记住我。
+
+基金会得出结论，基金会目前或过去都没有雇佣过叫Brooks Wall或Quinn Lake（附在这篇SCP文件中的人员ID）的对象。调查正在进行中。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                记忆影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            21 Jan 2020 16:45
+            
+            编辑
++3)
+标签
+讨论 (10)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Trumpet exercise database
+                      
+              for trumpet players, students and teachers
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            Corwyn
+                      
+              A Fantasy  Campaign Setting
+            
+          
+        
+              
+          
+            
+              
+            
+            C++ Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

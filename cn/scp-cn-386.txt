@@ -1,0 +1,250 @@
+                        
+
+一個SCP-CN-386個體。
+
+項目編號： SCP-CN-386
+
+項目等級： Euclid
+
+特殊收容措施： SCP-CN-386應收容於Site-CN-34中的一4m x 4m x 2.5m的獨立收容間，該收容間與其他收容間以20cm的間隔隔開。所有SCP-CN-386個體位於收容間中心的、以一塊20cm x 20cm的區域性磁浮力場所漂浮的、半徑10cm的黑色塑膠球體上；球體內部中央具有一塊3cm x 3cm x 3cm的立方體永久磁鐵。收容間的燈將全天關閉。
+
+每週一次，將提供大約50隻100隻體長大於5mm且小於8mm的無翅昆蟲給SCP-CN-386。負責提供的人員將穿著全密閉套裝。此時將開啟收容間的燈。
+
+在停電時，將以備用電源自動注入等同收容間容積75%的水；在恢復供電後，待球體回到中央後，將內部水以人工操控排出。
+
+野外的SCP-CN-386個體由MTF 甲子-12（“緋光”）回收。成員將穿著全密閉套裝。
+
+禁止人員攜帶任何透明物進入收容間。
+
+描述： SCP-CN-386為一種異常紅色光點，直徑約為3mm，基本照度為5勒克斯，只存在於物體表面上。依據目擊記錄，其只於夜晚的都市及光害嚴重區域出沒。
+
+SCP-CN-386具有可在固體表面移動的異常性質；其移動軌跡近似家蠅（Musca domestica），且偏好有可見光照射或活物停駐的表面。如有固體因接觸形成面與面相連，SCP-CN-386能以其性質於不同表面之間移動。如SCP-CN-386碰觸到液體，其將會暫時消失；將液體排除後，SCP-CN-386會於碰觸到液體時所在的表面重新出現。
+
+SCP-CN-386大多以10~15個一群來群體行動，少數情況下可見單個SCP-CN-386個體。SCP-CN-386可進行自我複製，於有光照射的區域停止5~10分鐘後，該區域的光將分出10~20個SCP-CN-386個體。照射光的顏色不影響SCP-CN-386產生。
+
+SCP-CN-386的主要異常效應為，當其移動到動物組織表面後，將立即發出類似單發C7突擊步槍射擊的聲音1；相隔一秒後，在發出聲音當時SCP-CN-386於該組織所處的位置會出現與該步槍相同的傷口。此種效應為連續性，每次發生間隔1~3秒；效應只會在該活物比SCP-CN-386面積大時產生。
+
+如SCP-CN-386無法進行上述效應超過一周，照度將會減半，且行動速度明顯下降；如超過兩周，個體將直接消失，且無法復原。於碰觸液體持續二周後也將導致上述結果。
+
+對SCP-CN-386的首次發現在201█/██/██，中國上海市黃埔區[已編輯]的防火巷。當時有一名流浪漢倒臥在地，有多處槍擊傷口；在檢查屍體周圍後，發現並無任何彈殼以及槍擊的痕跡，且血液僅直接從傷口處流下地面，並非如一般槍擊般血液噴濺到周圍；之後於解剖屍體時，發現其中並無任何子彈。潛伏於警局的特工於確認事件後斷定其為異常事件，立即向基金會回報。隔天MTF-甲子-12（“緋光”）出動，在損失一名成員後成功將SCP-CN-386回收。
+
+事件386-01 
+
+在202█/██/██，第██次回收SCP-CN-386後，由於研究員██轉交時的疏忽，使得一個SCP-CN-386移動到玻璃瓶上，造成[數據刪除]並且無人生還，該區域現今已關閉並以焊接永久封鎖。MTF 甲子-12重組。
+
+脚注
+1. 該聲音比C7步槍小，為20db
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                异常移动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Sep 2019 13:11
+            
+            编辑
++25)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Porphyra Roleplaying Game
+                      
+              Always a Work-In-Progress
+            
+          
+        
+              
+          
+            
+              
+            
+            Zagłębiowska Masa Krytyczna
+                      
+              Czwartek 3 Maja 2018 Godz.15:00
+            
+          
+        
+              
+          
+            
+              
+            
+            क्षत्रिय राजपूत इतिहास
+                      
+              क्षत्रिय राजपूत
+            
+          
+        
+              
+          
+            
+              
+            
+            Fundacja SCP
+                      
+              Polska Filia SCP
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

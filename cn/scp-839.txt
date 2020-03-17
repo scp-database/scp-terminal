@@ -1,0 +1,284 @@
+                        
+
+SCP-839-1
+
+项目编号： SCP-839
+
+项目等级： Safe
+
+特殊收容措施： 所有的SCP-839样本均应保存在收容柜839-1。每天向该收容室提供大约半（1/2）千克植物物质。SCP-839的交配应受到限制，任何额外SCP-839样本都应保存于基金会医药中心（Foundation medical centers）以研究患病个体的治疗方式。
+
+描述： SCP-839外观为由经调味与调色的糖构成的环节动物。在每一个体尾部发现了显微镜下可见的“糖果蠕虫”（“CANDIED WORM”）商标，后面有更小的商标注明了该个体的“口味”。每种已知“口味”被命名为SCP-839-x。
+
+SCP-839多发现于温带地区。SCP-839的食谱主要包含腐烂的生物组织，但当没有腐烂的有机物时SCP-839也可摄入活的植物组织。SCP-839为有性繁殖。交配时[已编辑]，随后卵孵化为新生的SCP-839个体。
+
+当SCP-839被任何哺乳动物摄入时，它将钻透胃壁，前往某一特定器官。器官的选择表现为由SCP-839的“口味”决定。到达该器官后SCP-839将钻进器官并缓慢地吞噬它。器官消失后，SCP-839将改变形态及化学构成来匹配该器官。SCP-839不能成为完美的替代品，也可能发生其他影响。整个过程的完成需要█到██天。1
+
+SCP-839拥有平均值为三年的生命周期。SCP-839的使用者被建议每隔两年替换一次新的个体。
+
+附录839-1： 目前已知的SCP-839“口味”
+
+“口味”
+颜色
+替换器官
+副作用
+命名
+
+樱桃
+红色（上图）
+心脏
+血糖升高，2型糖尿病
+SCP-839-1
+
+蓝莓
+蓝色
+肾（单侧）
+蓝色尿液
+SCP-839-2
+
+青苹
+绿色
+眼睛（单侧）
+温和的幻觉，浅色调“绿”
+SCP-839-3
+
+西瓜
+粉色
+大脑
+[数据删除]
+SCP-839-4
+
+柠檬
+黄色
+胃
+纤维含量减少，腹泻（注意：由于溃疡的产生，建议同时使用其他SCP-839个体）
+SCP-839-5
+
+葡萄
+紫色
+肺（单侧）
+呼吸时闻到“水果味”
+SCP-839-6
+
+橙子
+橙色
+肝脏
+血液酸度增加（不建议）
+SCP-839-7
+
+Footnotes
+SCP-1517的生命周期相似。正在调查两者是否可能有共同起源。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Jul 2018 17:52
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Marvel Revolution MUCK
+                      
+              Join the Revolution
+            
+          
+        
+              
+          
+            
+              
+            
+            AckySHINE MiniSites | Best of 2020
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Isocentre Archive
+                      
+              Where ideas intersect
+            
+          
+        
+              
+          
+            
+              
+            
+            ZODIAC Final Fantasy RPG
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

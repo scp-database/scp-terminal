@@ -1,0 +1,241 @@
+                        
+
+项目编号：  SCP-1064
+
+项目等级： Safe
+
+特殊收容措施： 当没有被要求进行实验目的时，SCP-1064应被储存在28区中一个上锁的保险柜之中。因为SCP-1064在没有被激活的时候被认为是无害的，所以在这个阶段不需要任何其他的预防措施。
+
+描述： SCP-1064是一个由粉色塑料制成，新奇的小戒指。这枚戒指被设计成可以支撑一支通常可以在生日蛋糕上见到的小蜡烛的形状。SCP-1064上没有任何制造者的标记或者突出的特征，并且看起来是由标准塑料浇模形式大批量生产的。
+
+如果没有一支蜡烛插入SCP-1064的孔中，它不会在被戴着或者是以其他形式被拿着的时候产生任何效果。测试者不会在戴上SCP-1064或者是将蜡烛插在它上面的时候感觉到任何强迫力。
+
+当一支蜡烛被插入正在被戴着的SCP-1064上并且点燃了，测试者将会体验到这两种现象之中的一种。
+
+对于80%的人，他们都表示这根蜡烛以某种方式和他们所剩余的生命发生了本质上的联系。被这种效果所影响的测试者将开始相信，一旦这根蜡烛融化，他们剩余生命的一部分将会被不可撤回地从他们那里取走。被这种方式感染的测试者将会以一切可能的手段来熄灭这根蜡烛，最可能的方法是将这根蜡烛吹灭，但是不会将它拿走。
+
+一旦蜡烛被熄灭，佩戴者将会感受到一股强烈的想要一直佩戴SCP-1064并且将那根蜡烛保持在指环上的欲望。如果这不能办到，他们将会想方设法地保存那根蜡烛，并通常都坚持这根蜡烛已经是他们身体本质上的一部分。
+
+在剩下的20%的情况下，佩戴者会声称他们的时间以一种不同寻常的步调推进，因为发生在他们周围的事件都变得比正常情况下快得多。被这种效应感染的测试者都会在戒指还在他们手上的时候以一种很慢的方式移动和交流。同时，在大部分情况之中，测试者都会觉得迷惑并且对重复这个实验感到犹豫，少数人表达了想要重复使用SCP-1064的欲望，因为他们错误地认为这是一只“时间旅行戒指”
+
+广泛的实验证明SCP-1064不会引起测试者身上的组织老化或是退化，而这通常被测试者认为SCP-1064缩短了他们的生命。所有的测试者，不论其经历，不论是实验前还是试验后看起来都以正常的速率生长，并且没有任何物理遗留效应被记录到。还有，对于那些经历了第二种效应的人，没有显示出对于其脑部组织的改变来曾经体验到时间以不同的速度流逝。
+
+对于曾经用在SCP-1064上的蜡烛实验证明他们没有发生任何性质上的改变，除了它们事前预估会被烧掉一部分。
+
+附录1064-A： ███████博士 - 在允许蜡烛被烧尽的实验中D-████████的死亡后，所有的SCP-1064的实验都被推迟了，直到测试者的死因被确定为止。
+
+附录1064-B： ███████博士 - 将一根蜡烛重新点亮插入SCP-1064之中而处于新奇的目的是不被推荐的，就我个人而言，看着D-██████以[数据删除]的方式用桌子边缘弄下了她的手指就是对这个实验结果的很好结论了。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                饰品
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Oct 2018 18:04
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CycloDS Revolution
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Forteana: The Fortean Wiki
+                      
+              The World of Strange Phenomena
+            
+          
+        
+              
+          
+            
+              
+            
+            Trumpet exercise database
+                      
+              for trumpet players, students and teachers
+            
+          
+        
+              
+          
+            
+              
+            
+            Fifth Sanctum School for The Supernatural
+                      
+              fun and friendship in a semi-serious roleplay about teens in a school for supernatural
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

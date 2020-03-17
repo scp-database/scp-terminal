@@ -1,0 +1,282 @@
+                        
+
+在管理者的命令下
+此文档已被列为
+最高机密
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+通用说明 001-Alpha： 为防止SCP-CN-001的真相泄漏，多份/零份伪造的掩盖文件与该份/多份真正的CN-001文件一并储存。所有涉及到SCP-CN-001本质的文件，包括一份/多份假文件，均由模因抹杀触媒保护，如有未授权人员查看，将立刻导致心脏骤停死亡。除非是受到████-███-██████的指令，否則将SCP-CN-001的内容透露给公众者将会被处决。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+警告：
+
+任何未经授权之人员访问该文档将立即被BERRYMAN-LANGFORD 模因抹杀触媒处决。在未接种合适模因疫苗的情況下向下滚动页面将立刻导致心脏骤停死亡。
+你已经被警告过了。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+模因抹杀触媒启动 
+
+检测到生命迹象 
+
+解开安全锁 
+
+欢迎，已获授权的人员。请选择您要看的文件。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+代号：Darkequation - 竹簡
+
+代号：Anglia - 龙脉
+
+代号：MScarlet - 諸皇之秘
+
+代号：Lomias - 阴阳
+
+代号：Blackcat - 天下
+
+代号：AIeditor059 - 剧本
+
+代号：Ravenfield - 大傩
+
+代号：Tictoc - 获麟解
+
+代号：QBLevi - 骑虎难下
+
+代号：Freedom Koo - 八荒
+
+代号：Asriel - 天命
+
+代号：fuban - 圣地
+
+代号：Veleafer - 演绎部
+
+代号：Tokitsuki - 复演论
+
+代号：monitor-256 - 石碑
+
+代号：QBLevi II - 苍穹之上
+
+代号：Ninth - 常风之地
+
+代号：Adamn Pluto - 鲨群
+
+代号：KirkeStein - 原典
+
+代号：Rigil Kentaurus/miku393 - 风雨再洗岳阳楼
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                中心
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Jan 2020 04:45
+            
+            编辑
++14)
+标签
+讨论 (32)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            International Translation Archive
+                      
+              of the SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            UBMedicineFAQ
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Biblioteca Digital Curt Nimuendajú
+                      
+              línguas e culturas indígenas sul-americanas
+            
+          
+        
+              
+          
+            
+              
+            
+            Roboticspedia
+                      
+              All that you want to know about making robots
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

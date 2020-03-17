@@ -1,0 +1,264 @@
+                        
+
+自然状态下的SCP-123-J。
+
+项目编号： SCP-123-J
+
+项目等级： Safe
+
+特殊收容措施： 任何SCP-123-J实体均应被收容于██号站点的员工用冰箱内。允许员工取用；但提醒员工，摄入SCP-123-J之后若了解到其成分信息可导致震惊、多疑以及更健康的生活方式。
+
+人员若偶然发现SCP-123-J实体，应将其买下，最好同时买下一些SCP-123-J-2实体。
+
+描述： SCP-123-J-1是一种盖上有“我不相信这不是黄油”品牌标签的塑料小食品盒。已调查“我不相信这不是黄油”的生产商Becel公司，但未找到其与任何超自然组织的关联。
+
+SCP-123-J-1中装有一种被命名为SCP-123-J的可食用混合油脂。实验者将SCP-123-J涂抹到任何谷物制品上食用后，会报告SCP-123-J和黄油口感类似。实验者被告知该物质并非天然黄油时一般表示无法相信。
+
+SCP-123-J在被暴露在超过室温的热源下时会融化。被冷藏的SCP-123-J将慢慢凝固为其原来的可涂抹状态。
+
+抹有SCP-123-J的SCP-123-J-2。
+
+SCP-123-J最初由C█████特工从马里兰州██████的一家Safeway超市购得。通过使用SCP-123-J-2的方式摄入SCP-123-J后，该特工立刻将SCP-123-J递给F███特工，极力主张其为黄油。F███特工食用了剩余的一份SCP-123-J-2后向基金会报告。虽然一开始这被怀疑为误报，C█████特工和F███特工还是在之后获得了晋升。
+
+附录123-J-A： 
+
+采访123-J-A 
+
+受访人： D-6539
+
+采访人： █████博士
+
+前言： D-6539刚刚食用了涂抹在一个SCP-123-J-2个体上的SCP-123-J
+
+ 
+
+█████博士： 你感觉如何？
+
+D-6539： 感觉我已经获取了我的建议摄入量那么多的营养素和维生素，而且价钱很便宜！
+
+█████博士： 如果我告诉你SCP-123-J不是黄油呢？
+
+D-6539： 真的？（转向监控摄像机1）我真不敢相信它不是黄油！
+
+█████博士： （轻声地笑）对，SCP-123-J实际上是由植物油混合而成的。没有了天然黄油里那些讨厌的饱和脂肪，你可以相信SCP-123-J味道和你习惯的一样，但是价格更低，对心脏更好！
+
+D-6539： 哇哦！
+
+ 
+
+结束说明： 虽然D-6539依然在月末被处决，但他死时相信，多亏了SCP-123-J，他将胆固醇摄入量降到了健康水平。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Aug 2019 10:47
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Επιμόρφωση Β  στο Ρέθυμνο
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            welcome
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Another Stage of History
+                      
+              A Character Creation and Edit Officer Site
+            
+          
+        
+              
+          
+            
+              
+            
+            Uniofbeds
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

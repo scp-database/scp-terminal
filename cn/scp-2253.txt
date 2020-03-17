@@ -1,0 +1,250 @@
+                        
+
+SCP-2253。
+
+项目编号： SCP-2253
+
+项目等级： Safe
+
+特殊收容措施： 呈现出SCP-2253异常现象的建筑现已被改建为一基金会研究站点。SCP-2253在法律上是一个啤酒厂，同时也是基金会的前台公司之一，在项目内部负责酿酒的工作人员均被给予二级权限。一个实验室被建造于SCP-2253的地下，用于研究先前在项目中生产的酒精饮料样品。任何由SCP-2253产生的异常酒精饮料应被储存于Site-77。
+
+描述： SCP-2253是一座位于美国的新泽西州斯普林菲尔德的异常啤酒厂。无论何时，在该啤酒厂酿造的酒精饮料都有5%的几率混有一种原生质液体。此外，SCP-2253中存在一个对周围环境拥有有限操纵能力的类人幽灵实体。
+
+该能够自由移动的无形实体（SCP-2253-1）据信是斯蒂芬·克莱恩，一位曾在1774年至1776年间担任大陆会议的代表的美国政治家1。该实体显然陷入了一种永久的醉酒状态。SCP-2253-1能够施加高达20N的力以及分泌出大量的原生质液体。这些分泌物通常会通过模拟身体机能的方式表现出SCP-2253-1的外形。
+
+含SCP-2253原生质液体的酒精饮料是无异常的，化学分析显示其与乙酸乙酯相同2。对这些酒精饮料的品尝发现，它们拥有比普通饮料更佳的口感与味道；尽管实验表明在食用炸鱼薯条，或是饮用茶等英国式食品饮料后饮用这些酒精饮料将会导致从轻微至严重的胃部不适的情况。
+
+SCP-2253-1乐于与基金会合作，鼓励研究员与其尽可能的进行交流以了解有关它的起源与性质的信息。
+
+历史： SCP-2253的异常特性最初因项目被一手工酿酒厂购买而被注意到。由于先前的各种相关记录在戴安娜飓风期间被摧毁，目前尚不清楚SCP-2253是否在此之前便已表现出异常性质。起初，SCP-2253-1试图恐吓SCP-2253的新住户，让他们从此处搬离，然而SCP-2253-1在得知了他们将要在此处酿造酒精饮料后停止了骚扰。在此之后原生质液体开始在SCP-2253中出现。
+
+由于酿酒厂的名字Marshall、Carter和Dark有限公司的特工认为这是一个基金会的前台公司，在啤酒厂开业后不久便开始对其进行调查。MCD在新英格兰商业活动的前线。
+
+MCD特工，有十五名当地的警官被施以B级记忆删除。
+
+████年██月██日，SCP-2253被分级为Safe。
+
+附录： 由于SCP-2253-1经常对斯蒂芬·克莱恩的人生经历做出错误的描述或是讲述一些不可能发生的事件，该实体与克莱恩先生之间的关系仍在调查中。SCP-2253-1将其归因于醉酒与年龄增长所导致的夸大倾向，但其他曾死在该工厂中的人员导致了这一现象也是可能的。
+
+萨姆森·克兰（Samson Crane） - 在1765至1781年间居住于斯普林菲尔德，在一间酒馆外被一头骡子踩踏头部致死。值得注意的是，当时的数份主流历史资料显示他与斯蒂芬·克莱恩至少有部分的相似之处，并且可能是他的表亲。
+塞缪尔·蔡斯（Samuel Chase） - 独立宣言的签署人。SCP-2253-1在与SCP-2253的所有者讨论法律程序与税收时，曾频繁的声称自己生前是一名法官。SCP-2253-1也曾多次自称为“Sam”和“Sammy”。
+身份未知的年轻人 - 一则1915年的讣告显示，有一名在该地上大学的年轻人在该地区举行的一场化妆舞会上因头部撞在混凝土上而重伤身亡。值得注意的是，这个派对是由当地的一个历史协会主办的。
+
+Footnotes
+1. 克莱恩在1780年被一名英国士兵用刺刀杀害。
+2. 一种能够产生苹果味香气的化学物质。
+Stephen Crane's Pub and Brewery。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                隔地促动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Sep 2019 11:46
+            
+            编辑
++3)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Arcana Wiki
+                      
+              Distilling the Real World for Gaming
+            
+          
+        
+              
+          
+            
+              
+            
+            Fallout Online: Requiem
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            보카로 가사 위키
+                      
+              Vocaloid Lyrics Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Story Chip
+                      
+              Become a part of history, share your story.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

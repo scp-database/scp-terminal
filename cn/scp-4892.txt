@@ -1,0 +1,315 @@
+                        
+
+项目编号： SCP-4892
+
+项目等级： Keter
+
+特殊收容措施： SCP-4892收容于Site-██的安保存储间内，由两名安保人员全天监控。所有负责处理SCP-4892的人应在到任前接受心理抵抗治疗，以确保无不良心理影响发生。
+
+对GoI-1999 ()及其成员的追踪将由基金会情报局进行。
+
+描述： SCP-4892是一具牛类尸体，处于高度腐烂状态，其中寄宿有一无形超维实体，能在极大范围内施加强烈心智影响。
+
+SCP-4892心智影响的可能范围目前不明，但确信至少包含了整个行星。SCP-4892的心智干预表现为极度生动且不安的梦境，受害者会在较长的一段时期里经历此梦，已知时间段从一周到六个月不等。
+
+尽管梦境本身令人不安，SCP-4892心智影响的受害者总是会将其视为一个友善形象，一般将此景象解释为必须摧毁当前宿主来解放这一超维实体。受影响人员相信这能使该超维实体将物理世界重塑为更理想的状态，但基金会分析学家确信这实际会触发一次XK级世界末日情景。
+
+绝大部分受SCP-4892影响人员已组建为一宗教团体，名为“腐神教团”，且频繁对基金会和其他异常团体发起攻击以找寻他们的神祇。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+附录4892-1 (取得的音频记录)： 
+
+下面是一段音频记录，于17/03/2020从腐神教团在纽约市的已废弃招募站取得。记录内容为一段对话，一方是GoI-1999领导人Carson Mackenzie，另一方被辨识出是新招募的当地超自然爱好者Daniel Boone。
+
+ 
+
+Carson Mackenzie： 好吧，我要感谢你，孩子，感谢你今天来见我。我知道你一定为此鼓足了勇气，毕竟我们的团体名声如此。
+
+Daniel Boone： 呃，是的，感谢您，先生。我只—
+
+Carson Mackenzie： 别这样，不需这么紧张的。(发笑) 我就是和你一样的人。我又不会咬你。叫我Carson吧—或者Mr. Mackenzie，如果这样会让你舒服一点。
+
+(停顿)
+
+Daniel Boone： 是的，感谢你，Mr. Mackenzie。
+
+Carson Mackenzie： 看吧？还不是那么坏对吧？让我猜猜你今天为什么要来，Danny小子。(发笑) 你做了梦，是不是？
+
+Daniel Boone： 是的，是的，就是如此。我的一个团友在我说起梦境后提到了你们。我已经做了，呃，两周了，每晚都有。真的很糟。
+
+(停顿)
+
+Carson Mackenzie： 是，是，我明白了你在舒服的床上闭上眼睛，然后你睁开眼，你来到了屠宰场。是这个样吧，对吧？
+
+(停顿)
+
+Carson Mackenzie： Danny，你记得屠宰场，对吗？
+
+Daniel Boone： 这这一点没错。
+
+Carson Mackenzie： 你记得它是什么样子吗？
+
+(停顿)
+
+Carson Mackenzie： 给我描述一番。
+
+Daniel Boone： 好，那是个—是个恐怖的地方。全是血和脏器，满墙壁都是，各种动物。
+
+Carson Mackenzie： 甚至有人类的。
+
+Daniel Boone： 对，还有人类。就是最恐怖的东西了。
+
+Carson Mackenzie： 然后还有奶牛。
+
+Daniel Boone： 奶奶牛？
+
+Carson Mackenzie： 在屠宰场中央。那个腐烂已久的，骨头都露出来了的。记得吗？
+
+(停顿)
+
+Daniel Boone： 当然。我怎么可能忘掉那东西。太可怕了。
+
+Carson Mackenzie： 好了，所有人在第一次看到的时候都这么想，但接着你再看仔细点—你就能看到它其实在注视你。你知道那，嗯，那个词——“善意”。好像一张大毛毯盖在你的身上。
+
+Daniel Boone： (发笑) 对。感觉挺好。
+
+Carson Mackenzie： 我对自己的经历有和你完全一致的感受，孩子—在我的团体里所有人都是如此。你感觉要是这头奶牛—要是它没有被困在这具腐烂的老尸上—能对世界带来更多的好，对吧？
+
+Daniel Boone： 对的。我一看到它就想到了。
+
+Carson Mackenzie： 但它在远方。被锁着。
+
+(停顿)
+
+Daniel Boone： 是真的？
+
+Carson Mackenzie： 当然是真的了，孩子。人类的心灵伪装不了这些东西。
+
+Daniel Boone： 你你知道它在哪里吗？我们要带它离开那里！我能不能帮忙，大人？求你？
+
+(停顿)
+
+Carson Mackenzie： 喔我肯定能给你找到用场的，孩子。
+
+ 
+附加记录：
+
+额外验证已接受。请继续，特工。
+
+    
+    
+    
+    
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                睡眠
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Feb 2020 06:15
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            iRacing.com Wiki
+                      
+              Your one-stop-shop for all iRacing setup help and knowledge.
+            
+          
+        
+              
+          
+            
+              
+            
+            Chancel Aleph
+                      
+              A Nobilis Fansite
+            
+          
+        
+              
+          
+            
+              
+            
+            Bozic Nation
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            ZODIAC Final Fantasy RPG
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

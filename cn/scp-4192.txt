@@ -1,0 +1,256 @@
+                        
+
+SCP-4192
+Safe
+
+NETHOZ Site-98
+Victor Henshaw
+Yves Tardtakovsky
+N/A
+
+3/4192 级
+机密
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SCP-4192。
+
+特殊收容措施： SCP-4192应被保管于一QED（量子电动力学）真空室1中，该真空室置于一高价值Safe级异常收容柜内。进行有关SCP-4192的实验须经Dr. Phoenix批准，且仅限科研需要。
+
+描述： SCP-4192为一氢原子核，能以不固定时间间隔发射无线电波。对SCP-4192的进一步分析表明，除上述异常特性之外，其行为与普通质子或强子一致：带有一单位正电荷，质量略小于中子。
+
+对SCP-4192构成的研究未有结论，但SCP-4192似乎不由夸克构成，而是由其他物质组成的整体。对SCP-4192所发射无线电波的分析记录到了15至18兆赫兹的宇宙背景噪声。
+
+附录 4192.1： 实验记录
+
+考虑到SCP-4192具有感知性，特此制造人工智能工作员Goliath.aic，用于操作仪器、进行收容、以及操作有关SCP-4192的实验。
+
++访问附录
+
+-关闭
+
+2021年1月4日，在Dr. Phoenix监督下，Dr. Tardtakovsky指导进行了确认SCP-4192物理性质的实验。实验开始前，将经SCP-914加工的皮下注射针头置于一机械臂装置上，以对SCP-4192进行操作。
+
+实验过程中，Goliath.aic在进入SCP-4192的原子轨道2时，检测到原子产生了斥力，且称该斥力类似于磁铁间的斥力。尽管如此，Goliath.aic被命令继续实验，将针头推入原子内部更深处。
+
+实验很快遭到打断：基金会人造卫星发出欧米茄一级警报，称有一巨大天体接近地球。卫星传来的图像显示其为一金属管状物体，即将撞击北美大陆。预计碰撞位置为费城，即Site-98当前位置。Goliath.aic立即从SCP-4192中抽出针头，使得大型天体立即掉转方向，直至超出卫星的探测范围。
+
+此后，有关SCP-4192的任何实验均已禁止。当前未有对SCP-4192的科研计划。
+
+Footnotes
+1. 该真空室中的量子均处于零点能的最低能态。QED真空室可用于分离物质中的基本粒子，或充当亚原子水平上异常现象的收容装置。
+2. 原子轨道俗称“电子云”，是原子核附近的某一区域，电子可在任一时刻同时处于该区域内的所有位置。该原理常与量子力学中的叠加原理和不确定性原理相关。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                通讯
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Aug 2019 12:23
+            
+            编辑
++2)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            iSchool High
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Części Fiat i nie tylko
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Naruto Mush Rivalry
+                      
+              Ninja of the world, REJOICE!
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Alapítvány
+                      
+              Magyarnyelvű ágazat
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

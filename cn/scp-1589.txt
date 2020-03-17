@@ -1,0 +1,256 @@
+                        
+
+项目编号： SCP-1589
+
+项目等级： Euclid
+
+特殊收容措施： SCP-1589被收容在一个15 x 15 x 7米的加固生物收容隔间内。隔间连接到一个空气镇静剂散布系统，并在其有暴力倾向时启动。列有简单命令词语的列表张贴在收容隔间外，观测间内，和主安保办公室内。
+
+SCP-1589在测试期间每天被提供90公斤的肉。所有废物将由一班D级人员在SCP-1590处于惰性状态时移走。
+
+所有与SCP-1589的物理接触必须在其处于惰性状态时进行。
+
+描述： SCP-1589是一个半双足生物，站立有5米高并有约7300公斤重。SCP-1589外形类似人形，有一个畸形的腹部和巨大的，充满肌肉的手臂。项目的皮肤厚且无毛，并生有一层保护性的脂肪。在下腹部和手臂上有严重的伤痕，整个项目的身体上嵌有39处箭头或武器碎片。SCP-1589可以在短时间内进行双足行走，不过更偏好膝关节行走（knuckle-walking gait）。
+
+SCP-1589没有头部：项目的眼睛，耳孔，鼻孔和嘴部都位于躯干上和腹部。应注意其面部没有鼻子或耳廓的存在。感官意识测试显示SCP-1589的视力十分低下，主要靠嗅觉和听觉行动。项目无法说出人类语句，不过显示出等同于类人猿的智慧水平，并有能力制造和使用简单的工具。SCP-1589有能力理解用拉丁文说出的基本命令：提议训练其听懂英文命令的提议正在等待批准。
+
+SCP-1589会下意识食用其周围任何存在的人类尸体，并移走任何存在于尸体上的衣物和物品。食用其他动物则需要下达命令。SCP-1589不会食用活物的血肉，并不会为了食物杀死动物。SCP-1589偶尔会吃下石头，并在没有肉的情况下会经常这么做。
+
+在食用的6到8小时候，SCP-1589将会从下腹部各个窍中排出各种物质，包括：
+
+一个可食用的面团。分析证实这是项目之前吃下的再造肉。
+有极高矿物含量的水。
+各种无机材料的小球，一般是铁或盐。
+皮革条或片。
+碎石。
+混凝土泥浆，在将石膏和石灰以适当的比例混合后喂食给SCP-1589之后。
+
+SCP-1589若在超过5天没有被喂食后将进入一个休眠状态。在此状态SCP-1589将不会回应任何刺激。SCP-1589将在周围有尸体存在，或被下令醒来后离开此状态。若SCP-1589被唤醒后没有喂食，它将在醒来的6小时后重新进入休眠状态。
+
+SCP-1589的身上有数个牌子，刺青和伤疤，全部都用拉丁文所写。值得注意的例子如下：
+
+Opus Officinae Magni Persapientis（Magnus工厂的作品是十分聪明的）-位于左臂锁骨处。
+IV (4)-位于左臂锁骨处。
+Legio II Traiana Fortis（第二图拉真勇士军团-Second Valiant Trajanic Legion）-位于右小腿。
+Noscendus est Lucius hac nocte multas pulchras feminas futuit.（让它知道：卢西乌斯这晚又上了很多漂亮女人。）-位于左腹部边上。
+Ecce Elephantus cibicida merdae vir viri.（注意！大象，食屎者，人类的英雄！）-位于胸口，脸部上方。
+Ptolemaeus hic erat （托勒密曾在此）-位于左脚。文本还附有一副描绘了戴皇冠的人的简笔画。
+Stylized representation of a man wearing a lion skin and wielding a club(大力神，第二图拉真勇士的象征）-位于背部。
+
+还有其他标志和文本，但是因为损坏和年代久远无法辨识。
+
+附录-01： SCP-1589发现于1993年的一次在埃及[删除]的考古探险中。一个基金会回收小组接过了探险队的指挥权并安全的实施了反情报措施。SCP-1589在休眠状态中被回收并被假定为死亡。在运输中，回收小组被一个未知组织的成员所攻击。SCP-1589在攻击中进入了激活状态，并随后开始食用尸体。当攻击者朝它开火时，SCP-1589以暴力回应，杀掉了5名战斗员并伤到了另外3人。当前不认为该组织有回收SCP-1589的兴趣。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                语言
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Dec 2017 08:56
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Wiki.PKP.in
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Early Childhood Program Administration
+                      
+              Resources, Training, Best Practices, Sharing
+            
+          
+        
+              
+          
+            
+              
+            
+            ΔΗΜΟΣΙΑ ΚΕΝΤΡΙΚΗ ΒΙΒΛΙΟΘΗΚΗ ΛΕΒΑΔΕΙΑΣ
+                      
+              Levadia Library
+            
+          
+        
+              
+          
+            
+              
+            
+            Chancel Aleph
+                      
+              A Nobilis Fansite
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

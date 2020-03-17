@@ -1,0 +1,260 @@
+                        
+
+SCP-3287的气罐。
+
+项目编号： SCP-3287
+
+项目编号： Thaumiel
+
+特殊收容措施： 任何时候，不得有超过50个标准规格E级液态气罐的各类型SCP-3287存在。这些气罐存于112开氏度的真空密封间内，只可由配备气体防护材料服的人员处置。
+
+SCP-3287-0与将其发现时所在的密封容器的距离不超过一米，其斯克兰顿现实稳定锚应定期维护并在必要时替换。
+
+在测试SCP-3287个体的过程中，测试对象将被送入指定的真空密封测试区，SCP-3287将被注入区域内一分钟，而后回收。对象之后将被配备妥当的守卫送出测试区气闭锁，任何残余SCP-3287都将被回收收容。
+
+SCP-3287可在ΩK级死亡终结情景中经O5议会和伦理委员会批准而用于动物和人类群体。
+
+描述： SCP-3287是一种气态绝育剂，由基金会为减少和控制特定异常及非异常动物种群数量而创造。自为收容SCP-████而将其创造以来，已在██个其他异常和特定非异常动物上加以了使用。
+
+SCP-3287在室温下呈现气态，112K下呈液态，不可燃。其特征为亮蓝色和一种特殊香气，被对象描述为“类似欧亚甘草”。在接触活体对象后，SCP-3287会溶解，失去气态性质并被吸收。
+
+SCP-3287有三种不同类型，编为SCP-3287-1、SCP-3287-2与SCP-3287-3。所有类型的SCP-3287在化学成分上几乎相同，区分之处在于改变其效应的独特异常化合物。
+
+SCP-3287-1是第一类SCP-3287，也是文档信息最全面的类别。在被用于活体对象后，SCP-3287-1会令其完全绝育，使之无法繁殖。曾将其用于人工保护特定野生动物物种，绝育其天敌；也曾将如上所述地其用于阻止特定异常性动物创造后代。SCP-3287-1可被用于人类，但需要4级批准后才可使用。
+
+SCP-3287-2是第二类SCP-3287。其在成分上与SCP-3287-1相似，但其功能当前未知。虽然多次预定并尝试测试以确认SCP-3287-2的功能，但无一得以完成，因为所有随机选中的D级和动物测试候选者在测试开始前就已绝育。从未尝试过尽力只选择未绝育的测试候选者。
+
+SCP-3287-3是第三类SCP-3287。没有任何文件记录对SCP-3287-3的测试尝试。
+
+SCP-3287-0是记录SCP-3287创造工序的文件。SCP-3287-0在20██年9月28日于例行清洁检查中被发现于Site-██的一座安保基金会化学实验室内，当时其被封装在一个玻璃盒内，配有微型斯克兰顿现实稳定锚。
+
+该指导及其末页中发现的信息已被一并复制到基金会数据库中，信息抄录如下：
+
+SCP-3287-0上书写的信息
+
+关闭抄录
+
+我们搞砸了。
+
+ConProcs: -3只能在超烂的bad ΩK中用，其他的还好
+
+告诉我家人我爱他们。
+
+小Kaito Shoga博士
+附加记录：
+
+根据基金会人事记录，并无名为小Kaito Shoga的研究员被基金会雇用。在被问及时，Site-██主管Kaito Shoga称其从未有过子女，他已在和妻子多次尝试生育后发现自己患不育。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生物危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Oct 2019 13:57
+            
+            编辑
++1)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Intro to Creative Writing
+                      
+              Professor Gabriel
+            
+          
+        
+              
+          
+            
+              
+            
+            La Insurgencia del Caos
+                      
+              Creando la Lógica De lo Ilógico
+            
+          
+        
+              
+          
+            
+              
+            
+            Uniofbeds
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP基金會中文沙盒站
+                      
+              千仞高塔，筑基于此
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

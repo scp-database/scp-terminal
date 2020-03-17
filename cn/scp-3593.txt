@@ -1,0 +1,239 @@
+                        
+
+SCP-3593
+
+项目编号： SCP-3593
+
+项目等级： Euclid
+
+特殊收容措施： 将对英格兰海岸城市内的犬只失踪报告进行三角定位和调查，确认是否有潜在的未发现SCP-3593个体。若发现此类个体，将使用基金会训练犬作为诱饵加以收容。
+
+描述： SCP-3593是一只巨大的绿鸬鹚(一种海鸟，Phalacrocorax aristotelis)，居住在英格兰海岸的多个城市内。
+
+SCP-3593翼展约2米（约为非异常绿鸬鹚的两倍），捕猎家犬为食。在阴天，SCP-3593会发出尖锐叫声，引诱走失和宠物犬只来到海边隐蔽区域。SCP-3593会通过羽翼扇动形成一种全息图像，对某些犬只具认知危害性影响（但只会令人类产生轻度晕眩）。受认知危害影响的犬只会变得更加兴奋，且可进行极长时间的游泳。
+
+此时SCP-3593会飞离海岸，吸引受影响犬只在其身后游泳离开。迄今未找到任何此类犬只，无论是存活、死亡或其他情况。
+
+附录： 在排查出SCP-3593常用狩猎区域后，派出数只基金会测试用犬，配备微型摄像头、追踪设备、感应器等设备，用以引诱SCP-3593。
+
+K-9119是一条老年英格兰牧羊犬，受SCP-3593影响后开始跟随之。K-9119在离开六小时后安全返回岸边，未受伤害但精疲力尽，取回摄像机后对其予以标准照护。
+
+K-9119摄像头显示其向西跟随SCP-3593游泳约三小时时间，而后SCP-3593开始原地盘旋，发出响亮鸣叫声。一个发光传送门随鸣叫在 SCP-3593与K-9119身旁变大出现。透过传送门，摄像头短暂拍摄到了一条发着亮光的河流，两岸排有树木。
+
+摄像头显示SCP-3593继续扩大传送门，但一条路过的鲨鱼将SCP-3593吞食，打断了此过程。 K-9119随后游回岸边。
+
+SCP-3593被暂且重分级为Neutralized。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Aug 2019 04:47
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            projects.wikidot.com
+                      
+              Wikidot Projects Forum
+            
+          
+        
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP基金會中文沙盒站
+                      
+              千仞高塔，筑基于此
+            
+          
+        
+              
+          
+            
+              
+            
+            Benitachell Bowls Club
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

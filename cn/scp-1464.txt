@@ -1,0 +1,233 @@
+                        
+
+项目编号：  SCP-1464
+
+项目等级：  Safe
+
+特殊收容措施： 除经批准的试验外，禁止在日落至航海暮光之间，以及从航海曙光至日出的时段内，在自然光下观察SCP-1464;在这段时间内，对于SCP-1464的特性和含量的任何研究都必须在提供全光谱照明的1000瓦灯光下进行。SCP-1474周围34平方千米的地产被基金会前台公司所购买，被用以充当拦截区。平民将被告知一个动物研究的掩盖故事。
+
+SCP-1464周围的拦截区上方的空域将被限制。拦截区的卫星图像将被截获和修改，因此SCP-1464的图像不会暴露在公众面前。
+
+描述：  SCP-1464是位于[已编辑]处北部的森林中的一个水体，面积约82公顷。在与黎明或黄昏时段的照明条件下，SCP-1464是一种认知危害。受影响的个体会产生极为细致的有关在过去的某个时间点，于SCP-1464的所在地点进行了仪式性犯罪的错误记忆。受影响的受试者对参加仪式表示强烈的悔恨和内疚(不管这是否与他们的心理特征相符)，并将仪式描述为使受害者淹没在SCP-1464中的行为。受影响个体也会声称仪式是为了有效地防止XK级的世界末日情景所必要的，并指出仪式并未被正确执行且必须再次进行。
+
+受影响的受试者所描述的仪式的确切性质取决于若干影响因素，包括但不限于SCP-1464周围树木上的树叶密度、水面上有无漂浮的碎片，以及对SCP-1464水面的超过一米的浮动的变化(关于已知影响因素的完整清单，见文件1464-T17)。自引起基金会的关注以来，影响SCP-1464的异常性质的参数发生了多种改变，从而产生了85种新结构；除此之外，基金会也对新的改变因素进行了25次有计划的实验，和三次意外修正。
+
+所有在特定条件下接触SCP-1464的受试者都能描述出相同的仪式；此外，受试者对彼此的存在有着异常的认知。因此，如果三个单独的被试者暴露在同一个给定的条件下，然后被分别单独审问，他们都会报告仪式的内容涉及到三个参与者，并且能够相互印证对方的故事。仪式的细节从看似合理(1999年9月9日上午9点09分屠杀九岁的儿童)到荒谬(1974年6月第五十六天强奸并勒死一只绿色的1978年大众甲虫)；然而，在任何情况下都没有任何受影响个体表达出认知上的自我怀疑，不管所描述的情景与现实有多么不相符。
+
+对于SCP-1464的水下探测和声纳分析显示没有找到受影响个体描述的任何淹没的物体，也没有对应于仪式描述的失踪人员报告和牲畜盗窃报告。然而，在大约30%的情况下，这些仪式的场景据称是为了防止发生与已知的SCPS有关的最坏情况的。
+
+对于SCP-1464内的水源样本取样和水生生物群取样显示没有任何异常。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Jun 2018 09:38
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Exploring Our World Wiki
+                      
+              A Site for Everyone Interested in Teaching and Learning
+            
+          
+        
+              
+          
+            
+              
+            
+            kinDIY
+                      
+              for the DIY kindie community
+            
+          
+        
+              
+          
+            
+              
+            
+            ASP.NET Wiki
+                      
+              This website is no longer actively supported
+            
+          
+        
+              
+          
+            
+              
+            
+            Oracle Database
+                      
+              All things oracle...
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

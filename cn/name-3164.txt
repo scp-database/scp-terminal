@@ -1,0 +1,1 @@
+SCP-3164 - Character Test

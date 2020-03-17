@@ -1,0 +1,275 @@
+                        
+
+SCP-CN-260发生时的天空
+
+项目编号： SCP-CN-260
+
+项目等级： EuclidThaumiel
+
+特殊收容措施： 观测部门发现SCP-CN-260事件后应尽快向上级反映。对死亡人员的相关处理由后勤部门人员进行。
+
+所有收到SCP-CN-260-1的人员应尽快前往附近的高层建筑物顶部，在确认环境足以致死后跳楼自杀。
+
+描述： SCP-CN-260是一种局部CK级现实重构。通常为一次已发生的事件的瞬间逆向演变，在常态时空中观测的结果表现为某事件所导向的结果变化，没有观测到因SCP-CN-260事件引起的事态恶化。
+
+SCP-CN-260-1是一系列仅针对基金会员工的信息列。通常通过短信，通信，静态文档和视频传播。一个SCP-CN-260-1仅供一位人员查看，其他人员无法观测到该SCP-CN-260-1。
+
+一次SCP-CN-260事件发生的特征为一名基金会员工的死亡。死亡方式皆为从建筑高处坠落致死，尽管各个方面的调查表明死亡人员死于自杀，因SCP-CN-260的异常性仍应对死亡档案加以掩盖并跟进调查。
+
+几乎所有SCP-CN-260-1信息都向所查阅人员强烈暗示这一行为。而目前所发现的所有SCP-CN-260-1都导致了人员死亡。
+
+所有试图记录具体事件都因其现实层级的复杂性失败了，一次SCP-CN-260事件中涵盖的迭代通常不低于99层，对完整迭代的追查已无法进展。
+
+当一名受SCP-CN-260-1影响的人员死亡后，一次局部CK级现实重构将发生，表现为某一原本可能造成人类个体死亡或社会秩序混乱的特定事态的发展向好的方面发展。包括但不限于原本将死亡的人类个体得到救助，原本将发生的地质灾害和战争因某因素消失。
+
+SCP-CN-260的另一个影响在于，该人员死亡当日，其所在地区的天气将变为晴朗，没有出现过例外，尚不明了是因项目导致SCP-CN-260-1出现或是因SCP-CN-260-1导致的天气异常。项目的出现时间已不可追查，据信为项目所导致的死亡人数已达到109名。
+
+根据收到SCP-CN-260-1的人员在基金会内职位的不同，其死亡所带来的现实重构内容也不同。例如一名D级人员曾改善因车祸而死的男子的子女生活条件，而一名O5则足以影响第四次超自然大战的结果。
+
+——O5-6
+
+……
+
++来自O5议会的信息
+
+-点击以关闭
+
+你还在犹豫什么？
+
+假如你的死可以改变另一个远在天边的世界角落里的某个可怜人，你会怎么做？
+
+好人不一定有好报，坏人不一定有恶果。你是什么人，老天已经安排好了。
+
+但如果给你一次机会改变呢？
+
+就请静静的跳下去吧，不要跟任何人说话，就像往常一样，上到楼顶，然后跳下去。
+
+你的死为他人带来新生。夕阳为你喝彩。
+
+如果情愿呆在阴影下——也不会发生什么。你心知肚明
+
+跳吧，没什么好害怕的。跟云一般轻柔，平静
+
+ps.天气不错
+
+——05－C，此处
+
+附加记录：
+
+你感到你的身体与空气融为一体
+
+你看见了蓝天
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自主
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            14 Apr 2018 02:59
+            
+            编辑
++28)
+标签
+讨论 (8)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            BATTLESTAR GENESIS MUSH
+                      
+              battlestar.isunlimited.net    3012
+            
+          
+        
+              
+          
+            
+              
+            
+            Estudiantes de economía de la uned
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Porsche Wiki
+                      
+              Brought to You By RedLine Technik | RedLineTechnik.com
+            
+          
+        
+              
+          
+            
+              
+            
+            Virtual World Interoperability
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

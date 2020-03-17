@@ -1,0 +1,333 @@
+                        
+
+项目编号： SCP-CN-1106
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-1106现被收容在Site-CN-21的低度威胁收容区3级安保隔间中。在事故CN-1106-1后，尝试还原SCP-CN-1106营救Dr. Ecun的实验将由研究员Kycar负责。在实验5后，对SCP-CN-1106进行实验需持有3级权限并经由研究员Kycar批准。
+
+SCP-CN-1106的外观，由研究员Kycar使用手机拍摄
+
+所有SCP-CN-1106-C应被收容在Site-CN-21的低度威胁收容区3级安保隔间中。禁止任何试图拆解SCP-CN-1106与SCP-CN-1106-C的行为。
+
+描述： SCP-CN-1106现为一个三四阶魔方并无不同，但经检测发现制成SCP-CN-1106的材料为人类骨骼，并且在SCP-CN-1106中已检验出至少██人的DNA。
+
+当一个人类个体直接接触SCP-CN-1106时（称为SCP-CN-1106-A），SCP-CN-1106将随机打乱，而需要注意的是SCP-CN-1106仅能被直接接触其的SCP-CN-1106-A所转动，且同时仅能存在一个SCP-CN-1106-A。
+
+若SCP-CN-1106-A在1分钟内未还原SCP-CN-1106：
+
+当现存SCP-CN-1106-B个体数未超过SCP-CN-1106的块数时，该SCP-CN-1106-A将会进入持续性植物状态（称为SCP-CN-1106-B），同时此名SCP-CN-1106-B的头颅骨出现一块约1cm*1cm*1cm的缺失1，在此之后，SCP-CN-1106的块上将会多出此名SCP-CN-1106-B的DNA。
+当现存SCP-CN-1106-B个体数等于SCP-CN-1106的块数时，SCP-CN-1106将会抽取SCP-CN-1106-A的骨头作为材料，使SCP-CN-1106的阶数扩充1，同时此名SCP-CN-1106-A死亡。
+
+若该人类个体在1分钟之内将SCP-CN-1106成功还原。SCP-CN-1106将会返还一名SCP-CN-1106-B的颅骨，同时此名SCP-CN-1106-B将恢复意识，转变为正常人类。
+
+当拆解SCP-CN-1106后，SCP-CN-1106-A的骨头将被粉碎成粉末状，而其粉末将会组合成为多个与SCP-CN-1106具有相同异常性质的二阶魔方（称为SCP-CN-1106-C），随后SCP-CN-1106自行还原为拆解前状态。
+
+实验记录： 
+
++SCP-CN-1106\DataA1.data
+
+-读取成功
+
+实验 4 - 日期(20██/██/█) 
+
+项目： SCP-CN-1106
+
+方式： 研究员Kycar命令D-85762还原SCP-CN-1106。
+
+结果： 失败，SCP-CN-1106将D-85762的骨头抽出，使SCP-CN-1106成为四阶魔方。
+
+D-85762死亡。
+
+分析： SCP-CN-1106将会使用SCP-CN-1106-A的骨头作为材料扩充自身的阶数。
+附加记录：
+
+实验 5 - 日期(20██/██/█) 
+
+项目： SCP-CN-1106
+
+方式： 研究员Kycar命令D-734812还原SCP-CN-1106。
+
+结果： 因D-73481不慎将SCP-CN-1106摔落导致失败，在SCP-CN-1106中提取到D-73481的DNA。
+
+D-73481被编号为SCP-CN-1106-B-2。
+
+分析： N/A
+附加记录：
+
+实验 6 - 日期(20██/██/█) 
+
+项目： SCP-CN-1106
+
+方式： 研究员Kycar命令D-941283还原SCP-CN-1106。
+
+结果： 成功，SCP-CN-1106-B-2的头骨被返还，且SCP-CN-1106-B-2转变为正常人类。
+
+D-94128留作待用。
+
+分析： 应多次还原SCP-CN-1106以拯救Dr. Ecun。
+附加记录：
+
+实验 7 - 日期(20██/█/█) 
+
+项目： SCP-CN-1106
+
+方式： 研究员Kycar命令D-94128还原SCP-CN-1106。
+
+结果： 成功，SCP-CN-1106-B-1的头骨被返还，且SCP-CN-1106-B-1转变为正常人类。
+
+D-94128被B级记忆删除后留作待用。
+
+分析： 在此之后，对SCP-CN-1106的实验所需条件应当更新。
+附加记录：
+
+实验 15 - 日期(20██/██/██) 
+
+项目： SCP-CN-1106
+
+方式： Dr. Ecun命令D-82412拆解SCP-CN-1106。
+
+结果： D-82412的骨头被粉碎成粉末状，其粉末重组成为███个SCP-CN-1106-C。
+
+SCP-CN-1106自行还原为拆解前状态。
+
+三天后Site-CN-21中出现如下纸条：
+
+你们就应该知道不该乱动这东西的，一群蠢货。
+附加记录：
+
+分析： 禁止对SCP-CN-1106与SCP-CN-1106-C进行拆解。
+附加记录：
+
+事故报告： 
+
+事故报告 CN-1106-1 - 日期(20██/█/█) 
+
+项目编号： SCP-CN-1106
+
+事件： （SCP-CN-1106的首次出现）Dr. Ecun意外触碰SCP-CN-1106被编号为SCP-CN-1106-B-1，随后SCP-CN-1106被收容。开始尝试对Dr. Ecun的救援。
+
+在SCP-CN-1106附近发现如下纸条：
+
+PCS异度署放生的异常就交给你们了，Etis-87的各位，祝好运。还有，如果你们有最基本的头脑，就应该知道这玩意儿应该怎么收容。
+附加记录：
+附加记录：
+
+脚注
+1. 经测量，其误差不超过0.007mm。
+2. 原用时203秒，经训练后最长用时51秒，最短用时48秒。
+3. 原用时289秒，经训练后最长用时54秒，最短用时49秒。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                旧界遗物绝响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Feb 2020 14:35
+            
+            编辑
++15)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            RSC Sandbox
+                      
+              RSC için Sandbox
+            
+          
+        
+              
+          
+            
+              
+            
+            Fifa Be A Pro 360
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Developer Help
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Collaboratory
+                      
+              at Colby Community College
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

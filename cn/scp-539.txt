@@ -1,0 +1,239 @@
+                        
+
+SCP-539
+
+项目编号:  SCP-539
+
+项目等级:  Euclid
+
+特殊收容措施:  SCP-539将被保存在有衬垫的盒内，随时上锁，除非是有一名持有2级以上安保权限的监督员在场监督下对其进行测试。除非测试禁止与SCP-539发生物理接触。
+
+描述:  项目为一圆形碟状物，由某种未知材料制成。虽然其边缘部分出现些许腐蚀痕迹，测试显示这并非氧化所致。在被扔出时，一次随机事件将立即发生在扔出者附近。并将周围观察者的注意力从扔出者身上引走。这种扰乱事件没有任何可见共性，可确认的是事件的烈度会随注意力转移的难度而提升。由于SCP-539效应具有不可预测，当前建议测试者在将其扔出时尽可能地扔远。
+
+附录:  测试记录
+
+测试539-1:  安保人员被命令站成一行且可清楚看到测试者，所有人员被指示在任何情况下不得将视线从测试者身上移开。项目被扔出的瞬间，所有的安保人员突然感觉“自己一丝不挂”，所有人员的注意力都从测试对象转移到了自己的衣服上，气氛比真的裸体更加尴尬。
+
+测试539-2:  测试者身着亮色、显眼服装。测试者和安保人员单独身处空办公室内。安保人员被命令将视线维持在测试者身上。项目被扔出的瞬间，整栋建筑物的火警警报突然一齐响起，直到在项目被找回、电脑安保系统重置后才停止。
+
+测试539-3:  D级人员被要求并使用该SCP。D级人员打烂了一辆巡逻中警车的玻璃，遭到警察追捕。在其扔出项目后，一只Carcharhinus leucas (牛鲨)突然出现在警车面前，迫使警车停下调查。在D级人员汇报任务后，鲨鱼和项目被外勤特工带回。涉事警员自行将此事对其上级进行了隐瞒。
+
+测试539-4： 该次测试未经授权，相关人员已受到不同程度的纪律处分。为了可能说明动用动物是项目进行扰乱的常见方式。
+
+你看，我很荣幸给你们带来了乐子，但也许研究人员应该在得到允许之后再这么做。另外，我发现这种干扰手段总是会用到动物，毕竟它们本来就很吸引人注意。-Dr. ██████
+
+测试 539-5： 测试意在确认项目对间接观察者的效应。测试人员准备了一台摄像机，与另一栋建筑里的监控电脑相连。电脑能记录并向观察者展示拍摄视频。摄像机对准测试者，其余人员到监控电脑上进行观察。在项目被扔出后，电脑突然出现致命错误，摄像必备硬件被自行删除。视频记录遭完全损坏且无法恢复。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                概率性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 11:23
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Stoff Kernewek
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            specfreaks
+                      
+              brought to you by isunas garage
+            
+          
+        
+              
+          
+            
+              
+            
+            Alfamedia
+                      
+              Alfabetización mediática para educadores
+            
+          
+        
+              
+          
+            
+              
+            
+            Scion: Monsters and Mosh Pits
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

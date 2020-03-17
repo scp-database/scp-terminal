@@ -1,0 +1,233 @@
+                        
+
+SCP-1187的照片发布于商业网站上。
+
+███████高速公路，邻近最初的SCP-1187事件地点。
+
+项目编号： SCP-1187
+
+项目等级： Safe
+
+特殊收容措施： SCP-1187被储存在一个遥控的，位于Site 19上空5公里的一个围栏内，并有2名武装守卫和1名1级研究员执勤。SCP-1187在不进行测试时应在其运输拖车上保持颠倒。项目的启动钥匙，称之为SCP-1187-1，并储存在负责监督SCP-1187的Site 19的3级主任办公室内，可以在进行书面请求后使用。
+
+测试必须在远离任何基金会设施或人口中心10公里之外的地方进行。SCP-1187将从其拖车内卸下并在一片500米的清空圆形区域内由一名D级人员驾驶。所有安全和研究人员应留在区域的边缘，遥控观测和指示测试。
+
+描述： SCP-1187是一辆蓝色2006 Kazuma 150cc 全地形车辆（All Terrain Vehicle）。项目是通过一个匿名在线商业站点被出售并递送给南加利福尼亚的██████ ████的████████。仍未找到出售者。车主的初次驾驶测试导致了一场异常事故，被公众媒体怀疑是由一场强力但是封闭的地震所造成。
+
+当开始加速时，SCP-1187保持不动而其轮胎下的地面以不断增长的速度朝后退去。SCP-1187有能力以每小时40公里的速度拖动3米范围，15米深范围内的土地。其效应会影响到车辆前方约250公里和车辆后方约50公里的区域。不断运行将挖出项目之下顶层的大量物质，并最终在SCP-1187后方堆叠并沉积在一起。
+
+操控SCP-1187的操纵杆将使项目转向并转换所影响的区域。使用刹车将会拖慢并最终停止效应。在建筑物或任何地面设施以及物品的附近操纵SCP-1187是十分危险的，因为其上的物质不会因为刹车而停止。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                隔地促动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Jan 2018 03:06
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Steel and Stone
+                      
+              Wagering Lives to the Blade
+            
+          
+        
+              
+          
+            
+              
+            
+            Castle Age Wiki
+                      
+              Knowledge Database
+            
+          
+        
+              
+          
+            
+              
+            
+            Insurrection du Chaos
+                      
+              Branche Francophone.
+            
+          
+        
+              
+          
+            
+              
+            
+            張道士的私人沙盒
+                      
+              舊書 拍賣 中史
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

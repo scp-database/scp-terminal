@@ -1,0 +1,239 @@
+                        
+
+SCP-1489收容铁轨的一部分
+
+项目编号： SCP-1489
+
+项目等级： Euclid
+
+特殊收容措施： SCP-1489被收容在收容区域22内一条标准尺寸的，翻新的铁轨上，铁轨被铺成9公里长的环形。所有的轨道和钉子都是从不再使用的陈年的线路上拿到的，并必须用至少1860年前维护的铁路段进行替换。枕木和其他轨道结构零件不需要用陈年的材料。所有SCP-1489收容铁路的陈年组件将被涂抹一层聚合树脂以抵抗环境影响。额外类似的陈年材料将被维持在site用作修理用途。
+
+应注意所有收容铁轨用的陈年组件最好更换而不要修理。被修理过的陈年组件将不适用于SCP-1489的收容。
+
+SCP-1489收容铁轨必须每日进行步行检测以进行预防性修理。SCP-1489本身必须随时处于两名人类观测者的视线内，以防止项目在没有被看到的情况下突破收容。
+
+若发生收容失效，SCP-1489逃脱的轨道必须被记录并递交给机动特遣队Tau-2以让铁轨重新改道对准收容区域。
+
+描述： SCP-1489是一列无形的轨道列车。
+
+SCP-1489包含14节轨道车厢和一台蒸气机车，并都在地面始终保持每小时40公里的时速。SCP-1489在被人类观测时是可见的和可听的，但是所有形式的间接观测或记录观测都是无形的，即使是简单的镜面反射也不行。SCP-1489没有表面上的物理实质，并可以毫无影响的穿越其路线上的任何物质。唯一免疫此类影响的物质就是建造于1860和1870年之间未知日期的轨道组件。SCP-1489将作为一辆物理存在的轨道列车与这些轨道组件发生交互作用，并至今可以被强迫在这些陈年组件上行驶。这种交互作用似乎是单向的，因为SCP-1489在通过这些组件时不会施加任何力。
+
+当没有在此类轨道上行驶时，SCP-1489将平稳得像在轨道上行驶一样在地面上行驶，并将沿着地球的测地线路线（geodesic paths）前进，只有在遭遇和其道路近乎平行的陈年轨道时才会偏离路线。它将在此类轨道中断后恢复其原本行为模式。
+
+SCP-1489通常跟随地面轮廓前进，并会在越过高地时速度变慢，但是会直接穿越某些海拔高度的水体，就像在一条看不见的堤道上行驶一样。同样也观测到它直接穿越某些过于陡峭的地形，就像在穿越一条隧道一样。由于SCP-1489在人类观测下似乎是完全是固体并真实的，它在穿越居住区时总是导致对该地区的重大干扰。由于难以找出SCP-1489的目击者，基金会之前熟练的使用假情报作战，包括一系列“鬼魂列车”故事以让此类目击者对自己的经历感到怀疑。
+
+SCP-1489的机车头似乎是一节Minerva级水柜机车，一般用于伦敦和19世纪中期的东西交通轨道，但是缺少可以判断进一步信息的区别标记。SCP-1489的机车头和拖带的车厢似乎都适用于此时期，尽管项目只显示出了轻微的磨损。SCP-1489载有适用于此类规模机车的乘客和货物，这些东西也都分享了项目的属性和对间接观测的无形。使用和SCP-1489同步的车辆以和项目的乘客沟通，不过乘客在被用此类方式观测时似乎都中止了交谈，至今他们似乎都不愿意和研究员进行交流。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Jul 2017 11:47
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Harvey Capital Lectures
+                      
+              Crowdsourced Transcription and Translation Project
+            
+          
+        
+              
+          
+            
+              
+            
+            Twilights Failing
+                      
+              A World of Darkness Encyclopedia for Modern Nights
+            
+          
+        
+              
+          
+            
+              
+            
+            Astellia Tips
+                      
+              Astellia Tips  Tricks
+            
+          
+        
+              
+          
+            
+              
+            
+            Fire Emblem d20
+                      
+              A tabletop version of the RPG/Strategy game!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

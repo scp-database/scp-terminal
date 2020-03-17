@@ -1,0 +1,265 @@
+                        
+
+项目编号：  SCP-4046
+
+项目等级：  Safe
+
+特殊收容措施：  SCP-4046被保存在一个安全物品储存柜中。如需将儿童用于SCP-4046的相关实验，应提交申请给至少两名三级人员并得到批准。实验结束后所有受试者都需要进行记忆删除。
+
+描述：  SCP-4046是一款微型电脑套件，其外观与Telmac 1800系列相似，而键盘上的“W”键采用模式化草书衬线字体。在它的底部有一张褪色的黄色标签，上面写着“概念证明2的人员激活时，屏幕上会显示一条消息：“你长大后想成为什么样的人？”
+
+受试者会在输入答案并提交给SCP-4046后立即失去意识。醒来后，受试者们报告说他们经历了数十年自己选择的工作，通常从就业时刻开始至退休时结束。据受试者描述，这种体验非常生动逼真，但所有受试者都知道这是一次模拟。 此外，受试者报告说，他们在工作的同时也体验了个人生活（例如遇到重要的另一个人、抚养自己的孩子等）。
+
+目前尚不清楚SCP-4046传输的这种体验是否通过预测、模拟或推断来得到。
+
+观察结果： 以下是使用SCP-4046进行的实验列表。
+
+受试者
+职业
+批注
+
+Nathan
+医生
+受试者报告了45年的家庭医生生活。
+
+Alice
+巫婆
+在被唤醒后，受试者使用奇术将自己传送到Site-55之外。 其行踪仍然未知。
+
+Oscar
+摔跤手
+据受试者报告，在因脊柱受伤而被迫提前退休之前，其经历了24年职业生涯。在选择职业方面，受试者表示没有任何遗憾。
+
+Jasmine
+消防员
+受试者描述道他在未能救出几个人后暂时推迟了工作，但仍决定继续从事这一职业。
+
+David
+篮球运动员
+受试者在焦虑不安中醒来，报告称他的职业生涯在初期非常成功，但随后因酗酒和甲基苯丙胺成瘾而一蹶不振。
+
+Kelley
+兽医
+受试者醒来后不受控制地哭泣，并哀悼着无数动物的死亡。由于受试者的歇斯底里，立即对其使用镇静剂并进行记忆删除。
+
+Eric
+快乐
+SCP-4046的异常属性没有被激活。
+
+Footnotes
+1. 译注：概念证明是对某些想法的一个较短而不完整的实现，以证明其可行性，示范其原理，其目的是为了验证一些概念或理论。概念证明通常被认为是一个有里程碑意义的实现的原型 。
+2. 12-16岁之间的受试者的激活结果并不一致，而16岁以上的受试者一定不会使SCP-4046工作。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                记忆影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Oct 2019 13:20
+            
+            编辑
++2)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Dropsite
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Summer 3500
+                      
+              Engineering Communications
+            
+          
+        
+              
+          
+            
+              
+            
+            The Latin Dictionary
+                      
+              Where Latin meets English
+            
+          
+        
+              
+          
+            
+              
+            
+            Sukhoi Superjet 100
+                      
+              Реальность против домыслов
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

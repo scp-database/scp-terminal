@@ -1,0 +1,338 @@
+                        
+
+项目编号： SCP-3405
+
+项目等级： Keter
+
+特殊收容措施： 在所有旧金山范围内的刑事案件中，一旦发现存在符合SCP-3405相关描述的人员时，都将全权委托给MTF Iota-10（“该死的联邦探员”）。涉案的警察，私家侦探及其他调查人员将被秘密调离，以减少普通市民接触异常生物的可能性。
+
+所有可能为SCP-3405的人员都将经过两次审查以确认其SCP-3405的身份。
+
+描述： SCP-3405 是一个年龄，性别和外貌不明的类人生物。根据已有照片证据和直接目击证词可推测SCP-3405是一名大约三十岁的白人妇女，但是证据来源不可信。另一未经证实的报告显示SCP-3405有酗酒和极度情绪化的现象。
+
+SCP-3405 被怀疑参与了至少三十起谋杀案； 然而其中没有一起有确凿的证据能将SCP-3405定罪。虽然SCP-3405的作案手法可能是非异常的，基金会仍认为其有不可忽视的异常化倾向。
+
+附录 SCP-3405-1: 以下是SCP-3405可能涉及的谋杀案记录
+
++案件一
+
+-隐藏
+
+受害者：Tyler Denniber
+
+死因：蓄意车祸
+
+说明：这起事故发生于旧金山城郊的一家小型酒吧外。尽管有目击者，其中一些无法回忆起案发现场的细节，除外则是有信用污点的证人。以下是从调查记录中挑选出来的记录：
+
+两位警官在询问当时在案发现场的目击证人
+
+警官一： 据说案件发生时你在现场。
+
+目击者： 是的。案发的时候我正好在从外面路过。当时，呃，怎么说，非常可怕。我的朋友打了911。
+
+警官二： 你是亲眼见到案发现场的吗？
+
+目击者： 我觉得大概是这样的。我记不清楚了，但是我记得一些数字。
+
+警官一： 你没有拍照吗？
+
+目击者： 嗯没有。我当时被吓得根本就反应不过来。
+
+警官二： 好吧。你还记得什么数字？
+
+目击者： 我记得一开始是零，二，三。
+
+警官二： 好的。这就是我们想要的。
+
+两位警官都离开了审讯室。
+
+警官二： 这份证词符合其他证人的证词。
+
+警官一： 对啊，但是当时已经很晚了而且他们还喝醉了。他们说的话有多少是我们能当真的？
+
+警官二： 那倒也是，有的人还说他们看到一开始是“E”。
+
+警官一： 是啊，四舍五入就是没有线索了。
+
+附加记录：
+
++案件二
+
+-隐藏
+
+死者：Alex Johnson
+
+死因：刺伤致死
+
+说明：案发现场发现一把带有Johnson血液的牛扒刀。指纹和相关基因物已被提取。然而，由于所采取的法医检测准确性较低，且有可能牛扒刀不是凶器1，检测结果归为假阳性。
+
++案件三
+
+-隐藏
+
+死者：Gryffin Lirus
+
+死因：枪击致死
+
+说明：Margaret Theld因与前几例案件有不同程度的关联，以可能为SCP-3405的原因于05/17/2016被拘留。至此调查权归于基金会，因此由Tennison探员主导此次审讯：
+
+Tennison： 晚上好。
+
+Theld： 我的天啊，我就知道会有今天。
+
+Tennison： 的确。你知道Gryffin Lirus是谁吗？
+
+Theld： 嗯是的。我知道他是谁。他是我的一个同事。
+
+Tennison： 他是你的一个同事。Lirus先生已经失踪一个星期了。
+
+Theld吞咽了一下。
+
+Tennison： 我们已经和你的上司联系过了。显然，你们两个正在争取同一个升职的机会。
+
+Theld： 啊我跑到他的公寓里把他射死了，尸体被我埋到树林里了。第二天早上我才意识到我到底干了些什么，我就知道酒精会把我害死的。
+
+Theld垂下了头。
+
+Tennison： 噢。所以你是单独作案的？
+
+Theld： 对。
+
+Tennison： 我知道了。没用的。
+
+Theld抬起了头。
+
+Theld： 什么？
+
+Tennison： 你当我是智障吗？
+
+Theld： 但是我刚刚已经坦白了是我干的。我杀了他。
+
+Tennison： 那是凶手想让我们这样认为！
+
+Theld： 我——呃
+
+Tennison离开了房间。
+
+Theld： 操?
+
+附加记录：
+
+根据审查小组的指示，Theld女士于审讯次日被施行记忆消除后释放。已提升收容SCP-3405工作的力度。
+
+脚注
+1. 有推测是Johnson在当天早些时候不小心刺伤了自己。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                逆模因
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Jan 2019 10:06
+            
+            编辑
++1)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Virtual World Interoperability
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+              
+          
+            
+              
+            
+            Bidirectional Transformations
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            AM 055室
+                      
+              你進的來，但可能出不去
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

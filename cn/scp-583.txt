@@ -1,0 +1,249 @@
+                        
+
+SCP-583
+
+物品编号：  SCP-583
+
+项目等级：  Euclid
+
+特殊遏制措施：  SCP-583锁于一个重型铬合金钢保险箱内。任何3级或更高级人员均可以访问保险箱但只有O5级权限可以[数据删除]。一个致命的保安系统随时运行于包容SCP-583的房间。 SCP-583很脆弱，不应接近任何产生磁场的物品或设备。SCP-583的硬度仅和普通的标准录像带一样，必须格外小心对待。对[数据删除]的研究发现，SCP-583不应被摧毁。
+
+描述： SCP-583是一个索尼彩色系60-90分钟小型DV录像带(Sony Color Collection 60-90 min Mini DV video tape)，其外壳主要由绿色透明塑料组成。据测试对象描述，录像带的详细内容如下：
+
+0'00： 录像带前12秒没有任何内容。
+0'12： 开始播放“芝麻街”的录像，虽然没有声音。可以看到录像日期为[已编辑]。
+2'58： █████开始咳嗽并尝试从服装中离开。
+3'12： █████死于明显的窒息。在接下来的19秒内，另外三名角色([已编辑]，[已编辑]，和[已编辑])开始咳嗽并以同样的方式死去。
+3'31： 录像停止。录像带其余内容为空。
+
+任何观看SCP-583的录像的对象将会患上一种独特的感知障碍： 看见[已编辑]窒息而死后， 对象观看到的任何角色，无论是否虚构，无论是电视里的还是电影里的，还是从电台听到的，从书上看到的，乃至印刷的或电子格式的，都会以类似的方式死去。这种状况似乎是永久性的，直至对象死亡为止。
+
+进一步的信息请参看文档 583-T01 。
+
+文档 583-T01：  暴露于SCP-583的录像后，█████ ████的证词记录。这项纪录获取自介入-P12。从法语翻译。
+
+对象被给予一本精装的《冰与火之歌Ⅱ：列王的纷争》（A Clash of Kings）并被要求从书中任何一处起大声朗读。对象从201页开始阅读。
+
+一，二。这里是█████ ████，测试SCP-583的效果。我开始阅读了。 “第二个回来的是阿戈。他誓言西南地区烈日炎炎，一片荒漠。他找到了两座城市的遗迹，并且，他开始了咳嗽。” 好的，我看它开始生效了。我会继续阅读，他会挂掉，你们将会看到。继续这段文章。 “其中一座城周围有生锈铁枪环绕，枪尖挂着骷髅，所以他不敢冒进，但他仔细探索了另外一座死城，在他喉咙开始感到疼痛之前。 他向丹妮展示了在里面发现的一个铁手环，上嵌一个大如拇指的火红蛋白石，浑然天成，未经雕琢。她也病了，并且当他想到公主和他在遭一样的罪时，顿时心里舒坦了不少。此外他还找到一些卷轴，不过多半干燥脆弱，所以阿戈没有带回来。 他在他的帐篷里歇息，向他的坦格利安公主祈求晚安，并于该晚死去。”我跳过了几页直到丹妮也挂了。“‘我就在这里，要看自便……但请先报上名来。’然后她跌倒了。”我觉得，我需要一本有很多人物的书。 好的，我会继续读这个蹩脚幼稚的笑话1，使得你们可以看见它对什么都会生效。 那个废物还过路干嘛？鬼才管呢，它走到一半就咳嗽挂掉了。哈哈。
+附加记录：
+
+证词就此结束。
+
+附录1：  暴露于SCP-583下的D级人员将被移送，进行SCP-583所带来的长期心理效应的相关实验。这些对象的标准处决时间表可以在 ██████博士的授权下中止。
+
+Footnotes
+1. 原文Carambar joke：一个法国品牌的棒棒糖，在包装纸内部有些低俗笑话。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                记录
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Apr 2018 08:10
+            
+            编辑
++3)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The World of Metamor Keep
+                      
+              Welcome to Metamor Keep
+            
+          
+        
+              
+          
+            
+              
+            
+            System Restore Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Racing Cars
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            RoaringApps - App compatibility and feature support for OS X  iOS
+                      
+              Application compatibility  iOS
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

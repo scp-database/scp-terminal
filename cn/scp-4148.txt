@@ -1,0 +1,240 @@
+                        
+
+项目编号： SCP-4148
+
+项目等级： Euclid
+
+特殊收容措施： SCP-4148周边地区已被封锁，并且用危险蜘蛛入侵的新闻作为掩盖。目前未发现SCP-4148-1个体离开SCP-4148，因此没有必要建立进一步的收容措施。
+
+Lunar Area-32的基金会特工将在SCP-4148-2到达位置时将其收容。
+
+描述： SCP-4148是一座比例为1:240的肯尼迪航天中心的重建建筑，位于佛罗里达州奥西奥拉森林。SCP-4148主要由木材、岩石、树液和来源未知的机械部件组成。
+
+SCP-4148-1是指被引进SCP-4148的Coccinellidae（瓢虫科）的任何样本。一旦SCP-4991-1位于SCP-4991的5米半径范围内，将开始在SCP-4148内工作，包括维护、修理和组造部件。SCP-4148内有大约400个SCP-4148-1个体。即使被带出SCP-4148，SCP-4148-1个体最终也会自愿返回该地区。
+
+尽管资源有限，SCP-4148还是已经成功地发射了几枚载人火箭，并通过某些异常力量向空推进。大多数发射进程都以火箭坠毁或爆炸而告终1。
+
+事件-01： 在2018年10月13日，SCP-4148成功发射了一枚完全由塑料瓶和几根棍子制成的火箭。火箭向空中推进了15米。所有SCP-4148-1个体都停止活动并观看发射中的火箭。10分钟后，火箭爆炸，其残骸散落在SCP-4148所在的空地上。
+
+在这一事件之后的三天里，没有发现SCP-4148-1进行任何工作。进一步调查显示，他们似乎都停留在SCP-4148室内。然而，SCP-4148-1随后收集了火箭残骸，并开始进行修复。
+
+事件-02： 2018年11月19日，在修复完毕后，SCP-4148再次发射火箭。尽管之前的发射以失败而告终，这次火箭还是不断地加速上升，这时候正是SCP-4148-1的不常见的活动时期，据推测这是庆祝活动。
+
+这枚火箭，现在命名为SCP-4148-2，已于2018年11月23日脱离地球大气层。据估计，SCP-4148-2将于2018年12月4日到达月球。SCP-4148周围正在建造一个透明的有机玻璃圆顶，以防止来自SCP-4148的进一步发射弹造成损害或引起怀疑。
+
+脚注
+SCP-2849-A个体中观察到的行为之间的相似性。目前正在对这两种影响可能的共同来源进行调查。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                星际
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Jan 2020 01:37
+            
+            编辑
++1)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Wayward Society Sandbox
+                      
+              Even secret societies need to draft.
+            
+          
+        
+              
+          
+            
+              
+            
+            TalkingPad Project
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            O5 Command
+                      
+              This is not at all how I imagined this would all turn out.
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Alapítvány
+                      
+              Magyarnyelvű ágazat
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

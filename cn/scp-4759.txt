@@ -1,0 +1,239 @@
+                        
+
+SCP-4759-A中发现的甜甜圈
+
+项目编号：  SCP-4759
+
+项目等级：  Keter
+
+特殊收容措施：  基金会在州政府内的资源将监控SCP-4759显现，在研讨过程中对其进行失信化。受影响区域内的甜甜圈店铺将受监控，确认有无SCP-4759-A显现。
+
+自03/10/2017起，将调查州立法者是否与面包房和面包销售商存在任何关联。
+
+描述：  SCP-4759是州立法机构对现存法案构想的异常性增补。SCP-4759个例一般在10000到120000字，几乎完全是由无意义词语及句段组成，但有一单独段落会极为详细且专门地描述一种“甜圈税”。
+
+甜圈税法案推行对所有甜甜圈及相关食品、产品征收一种10-90%的销售税，且对出售甜甜圈的小型商业征收更高的利润所得税。审核SCP-4759的立法者会将此文件视为非异常，并如常讨论此税种。
+
+支持SCP-4759的立法者会出现失眠、持续噩梦，并演变出严重的面粉过敏。
+
+此外，有一个体会显现在支持者身旁地点并向其搭话。该个体编为SCP-4759-A，外形为一持长矛的骑马人形，全身完全由压缩甜甜圈组成。（在SCP-4759-A显现期间，有当地商铺报告称有大量甜甜圈突然消失。）
+
+SCP-4759-A 通过未知方式发声，并会对该立法者发起一次单挑决斗，条件是若SCP-4759-A胜利，立法者必须尽力阻止SCP-4759通过。若立法者拒绝，SCP-4759-A将在后续的时日中反复出现，直至对方默许。
+
+截至目前，基金会通过与SCP-4759-A的联合行动成功阻止了SCP-4759被通过为法律。
+
+附录：  于03/09/2017，SCP-4759-A试图对亚拉巴马州参议员Vivian Davis Figures发起决斗，因后者对法案进行了强烈声援。在被SCP-4759-A的矛击中后，Figures参议员的皮肤被刺穿；她将皮肤脱下，露出完全由面包圈组成的身体。Figures参议员赢得决斗并逃离现场，目前尚未将其找到。掩盖故事119-L () 被采用。SCP-4759-A在持续现身中。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Apr 2019 15:33
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Wiki for 
+                      
+              A Facebook Application
+            
+          
+        
+              
+          
+            
+              
+            
+            The Last Story
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Rock Bottom MUX
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            COSCUP WIKI
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

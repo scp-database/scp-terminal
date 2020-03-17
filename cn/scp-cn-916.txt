@@ -1,0 +1,243 @@
+                        
+
+被点燃的SCP-CN-916的巢壳
+
+项目编号： SCP-CN-916
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-916须被收容于Site-CN-16中由阻燃材料构成的二级生物收容室中，由D级人员每日进行喂食。二级及以上研究员可提出申请对项目进行实验，但不鼓励进行伤害性的测试。
+
+描述： SCP-CN-916是一种鳞翅目(Lepidoptera)蓑蛾科(Psychidae)昆虫的幼虫，体长在0.4m-0.9m间浮动1。与其他蓑蛾相似类似，SCP-CN-916会尝试建立与其体长相近的带状外壳并在其中存活。项目偏向于使用废弃的塑料产品构成其巢壳，在特殊情况下也会使用棉布等植物材料筑巢。
+
+SCP-CN-916的广谱食性4并在消化的过程中将摄入的材料转化为无害的纯净水和氢气。一只健康的SCP-CN-916一周通常需要进食约10kg的高分子聚合物，但在食物缺乏时一个SCP-CN-916个体能在不进食的情况下生存超过6个月的时间。
+
+SCP-CN-916会将消化产生的氢气储存于自身背部的囊泡中。当遇到威胁时，项目会打开背部的巢壳并挤破部分囊泡，发出尖利的声音使捕食者退却。若捕食者并未退却，则SCP-CN-916会挤破所有囊泡并点燃释放出的氢气。在其生境内，该种防御行为通常会导致局域火灾的产生，而项目个体通常会在巢壳被点燃前逃离。
+
+由于目前所收容的项目未有化蛹的行为，无法确认SCP-CN-916是否有成虫阶段。尽管取样显示所有收容的个体均为雌性且具有发育成熟的卵巢，无一个体表示出试图寻找配偶的倾向。
+
+由于SCP-CN-916的特殊食性和广谱的适应力，它们并不会只满足于我们生产的废物。假如这东西什么时候开始了繁殖，饥饿会驱使它们吞食它们所遇到的一切。在末日后，更可能生存下来的不是我们，而是它们。——Dr. Samuel
+
+回收记录： 
+
+SCP-CN-916因为多次在其栖息地引起小规模火灾引起基金会注意。在确认其异常性质后，Site-CN-16派出机动特遣队将项目收容并对相关人员进行了记忆删除。
+
+Footnotes
+1. 蓑蛾科幼虫通常体长为0.06-0.15m
+2. 指其所能消化的材料
+3. 常用于制造食品包装袋和餐具
+4. 常用于制造矿泉水瓶
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                节肢动物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Sep 2018 17:56
+            
+            编辑
++4)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Dyslexia Connection
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot Community
+                      
+              hints / tips / help / discussion
+            
+          
+        
+              
+          
+            
+              
+            
+            The Future of Energy
+                      
+              Analyzing The Options
+            
+          
+        
+              
+          
+            
+              
+            
+            Anime Planet
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

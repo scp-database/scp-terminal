@@ -1,0 +1,233 @@
+                        
+
+项目编号： SCP-2584
+
+项目等级： Safe
+
+特殊收容措施： SCP-2584的五个个体将被收容于Area-12异常动物学翼区一大小合适的温暖干燥收容区内。若SCP-2584发生分裂，其中一个后代将被施以安乐死后销毁。
+
+描述： SCP-2584是一种蛇，当前为其名为衔尾太攀蛇（Oxyuranus ouroboros）。SCP-2584与细鳞太攀蛇极其相似，从基因上看是在后者基础上发生了改变。SCP-2584身体呈深棕色，最厚部分约7cm-10cm。
+
+SCP-2584没有头部和尾部，其身体呈以不间断的环形。除此之外SCP-2584的组织和解剖学结构完全正常，但脊柱为环形、身体系统和消化道均为循环式。SCP-2584能自行活动，但没有大脑、视觉、听觉、味觉和嗅觉，因此其活动仅限于反射性地躲避威胁或是向温暖区域移动。除此之外，这些个体一般都保持静止或休眠。
+
+SCP-2584不能进食或呼吸，未知其能源为何。SCP-2584的消化道不断以相同模式循环，但每一次循环都能以未知方式在不消耗营养的情况下获得新陈代谢的能量。SCP-2584每周长长约1.4cm，其消化系统会同比例增大。
+
+当SCP-2584长长到220cm，它将开始无性繁殖。SCP-2584会痉挛着将其身体半扭曲，形成一个8字形。之后，在2-3日内，SCP-2584身上的重叠部分会在接触部分蜕下鳞片和真皮，最终彻底粘连在一起。最后，在7-9天内，粘连部分的内部结构将形成两个独立的循环，SCP-2584会分离成两个每个有原来一半长度的新个体。这一过程每隔约18周发生一次。由于这种繁殖方式中没有遗传变异介入，故所有SCP-2584个体均为克隆体。
+
+附录2584-1： 由于SCP-2584数量充足且完全无害，维持也十分便易，异常动物学部门决定有限地允许部分Area-12人员获得SCP-2584个体作为在站宠物。这些主人必须妥善收容监控自己获得的个体，每次仅可保留一个分裂后的后代，且须以最快速度报告任何反常活动。该特权可在任何时候不经提前警告地撤销。
+
+附录2584-2： 在2014年11月7日，Jept博士报告其宠物SCP-2584发生反常繁殖。该个体被送回异常动物学翼区以供观察。分离完成后，两个后代个体被发现在经历分裂后最终仍保持连体。这两个个体均被保留存活以供研究。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                蛇类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 12:01
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Windycity
+                      
+              MUX
+            
+          
+        
+              
+          
+            
+              
+            
+            Criminal Justice Collaboratory
+                      
+              Colby Community College
+            
+          
+        
+              
+          
+            
+              
+            
+            Nexus Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BRTFF
+                      
+              Passion on the Top
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

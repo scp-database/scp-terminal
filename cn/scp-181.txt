@@ -1,0 +1,240 @@
+                        
+
+SCP-181在其监管设施前。
+
+項目编号： SCP-181
+
+項目等级： Safe
+
+特殊收容措施： SCP-181住在第12生化研究区（Bio-Research Area-12）的D级人员宿舍中。不管怎么看，SCP-181都是没有任何权限的0级人员，却在没有被透露任何信息的条件下隐约知道一些SCP的性质。研究和监测人员奉命不将SCP-181从D级人员中孤立出来。只是在每月处决时将SCP-181从一个D级人员宿舍调换至另一间宿舍。SCP-181不允许同新发现的或Keter级别的SCP进行接触。
+
+给全体员工的备忘录： 
+
+鉴于最近新发现的SCP-181异常属性，181已被转移到Site 27-█单独监禁。要求该站点内所有员工在作业时应采取尽可能完备的防御措施。在没有充分确保安全的情况下禁止181和任何该站点工作人员交流。 - Knucklebone博士
+附加记录：
+
+描述： G████O██████，前编号D-87465，因在内华达州博彩委员会诈骗而被判处终身监禁。入狱18个月后，对象被秘密移至第2武装收容区（Armed Reliquary Containment Area-02），并成为一名D级实验人员。对象第一次接触实验是关于SCP-███的实验，结果同预期中一样血腥。但当另一名D级人员D-65468暴露在SCP-███下时，他横冲直撞并试图杀死它们，而SCP-181却因武装小组制伏了D-65468而幸免于难。
+
+SCP-███测试一周以后，SCP-181参与SCP-075被重新收容。
+
+能从两个Keter级试验中幸存下来，SCP-181确实是个特例。而他在第三周中从SCP-082魔爪下生存了七天，这引起了G███ D██博士的注意。
+
+G███ D██博士猜测：SCP-181能做到这些其实并非由他本人控制。经过诸如50次抛硬币、25次扔骰子、用一副没有红桃的扑克打牌等测试之后，G███ D██博士还争取到了使用SCP-███进行试验的许可。在摇出19个绿色圆圈并成功体验了4种艺术风格的经典名作之后，SCP-181还可以继续转动SCP-███。当最终出现红色三角的时候，SCP-███居然因为隔壁SCP-216关门引起的震动摇晃了一下，又显示出了绿色圆圈。G███ D██博士随即将D-87465重编号为SCP-181，并将其从每月例行处决的名单上删除。
+
+SCP-181并非通过自己的意志影响周围事件的因果概率。然而测试表明，若从一个事件中去除尽可能多的可能性，将会降低SCP-181对该事件的影响。
+
+附录1-A-07X█： 自20██年█月█日起，SCP-181已经被转移并加强监管力度。因为在███████博士最近的一次统计中，第12生化研究区的伤亡率在SCP-181被监禁的时间里增加了近████████████个百分点（███%）。据推测，SCP-181是通过[数据删除]混沌理论的特性来干扰事件概率的，这种干扰的潜在影响可能发展至[数据删除]界规模。更多信息仅限4级以上人员进一步查看，以应对未来可能的[已编辑]
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                活物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Mar 2019 12:30
+            
+            编辑
++21)
+标签
+讨论 (5)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Roboticspedia
+                      
+              All that you want to know about making robots
+            
+          
+        
+              
+          
+            
+              
+            
+            UBMedicineFAQ
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            Sufficiently Advanced
+                      
+              A Game of the Far Future
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

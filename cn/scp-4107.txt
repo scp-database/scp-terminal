@@ -1,0 +1,251 @@
+                        
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+项目编号： SCP-4107
+3/4107级 
+
+项目等级： Euclid
+机密 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+已知最早的SCP-4107尸体照片。
+
+已知最早的SCP-4107尸体照片。
+
+特殊收容措施： 二十四具SCP-4107已被防腐保存，展示于Site-14以供更多研究及未来版本的比对。若发现有其他SCP-4107出现，应分析其独特特点，若无则将其焚化处置。人员在从执法机构处取得尸体时应使用标准反情报程序。
+
+描述： SCP-4107是一系列人类尸体，表现为同一名美国女性的多具遗体。SCP-4107个体自20世纪早期开始在美国大陆地区被断续发现，均有相同的伤口、基因构成和死亡年龄。成功进行的鉴证调查中均会相近似的死亡情景。到2019年1月，已确认到311个版本的SCP-4107。
+
+目前，研究无法确认原本的死亡发生于何时，或这样一个原本事件到底是否存在。已知最早的SCP-4107记录来自一份1902年的亚拉巴马州验尸官报告，其中将死者列为女无名氏。
+
+在SCP-4107相关案例中未发现凶杀嫌疑人。对其中任何死亡均无可信目击证词，也未有人在死亡前见到被害人。SCP-4107的身份仍然未知。
+
+伤害包括如下：
+
+左前臂内侧有一用锯齿刃留下的切口。伤口长8.9厘米，一直延伸到尺骨深处。在暴露的骨骼上可见刮擦痕迹。刮擦与制造切口的刀刃不符，确信是由人类指甲留下。
+所有非外来牙齿已被强行拔除，但在下颌内仍有若干牙根留存，推测是在拔除时断裂。周边牙龈被锯齿刃片从上下颌骨上刮除。
+松散的乳牙和牙齿残片在其口中和食道内被发现。牙齿在基因上匹配SCP-4107，且在牙齿年龄上表现为从儿童时期就属于受害者。
+每根手指、脚趾的指甲基底处都有两道平行切口。外皮沿切口被剥去，指甲在根处被撕裂。
+大部分头皮毛发被编在一起缝在上背部，令其颈部和头部向后弯曲成固定姿势。缝合没有明显规律。
+
+死因被归为失血。所有伤口确信是在死前留下。所有案例中，证据均表明受害者在受到大部分伤害的时间到死亡时刻间曾更换衣物。偶尔也会在周边发现其他受害者死前活动的痕迹，诸如脚印和未吃完的食物。
+
+SCP-4107具有另一次要异常，其无法以任何方式与某一特定行动一同描述。在任何交流媒介、用以描述SCP-4107的专门术语、通过暗示和潜台词来进行的规避尝试中，此效应均会持续。因此，所指行动的具体性质在概念上与SCP-4107文件不相容，且无法在此处或其他任何文件中加以解释。
+
+鼓励指派到SCP-4107的人员从上文的特定信息缺失中对前述行动进行推测。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                逆模因
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Apr 2019 01:56
+            
+            编辑
++2)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            LGAM Knowledge Base
+                      
+              Local Government Knowledge Sharing
+            
+          
+        
+              
+          
+            
+              
+            
+            Ground Up Strength
+                      
+              A strength training site with lots of other stuff.
+            
+          
+        
+              
+          
+            
+              
+            
+            Performance  Philosophy
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Borradores SCP-ES
+                      
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

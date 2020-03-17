@@ -1,0 +1,240 @@
+                        
+
+事故3900 - 1的地点和“目标”
+
+项目编号： SCP-3940
+
+项目等级： Neutralized
+
+特殊收容措施： 在比利·维斯特死亡并1989年7月10日同时发生的第3940 - 1号事件后，未曾再检测到有关此异常的活动。
+
+此前的收容措施涉及关于受害者状况的假情报协议，以及追踪假定的弓箭手的指导方针。试图保护拟受害者的行动在连续14次失败后停止。
+
+描述： SCP-3940指1949年至1989年期间发生的一系列共56起谋杀案。在所有情况下，受害者被不明来源的一枝或多枝箭矢击中。不管所给予的医疗护理的速度和质量如何，所有目标随后均因身体创伤而死亡。受害者从最初受伤到意识丧失的时间从未多于5分钟。
+
+1938年到1944年间，SCP-3940所针对的所有个人都被里昂·雪利辛格制片公司2被谋杀。尽管目标当时位于Site-19的安全室中，此情况依旧发生。箭矢最初在3英里外被发现，在射中Monroe前，箭穿透了地面和几层基金会安全墙。
+
+这种异常最初在1949年里昂·雪利辛格死亡时发现的，其人躺在床上时被11枚箭矢刺穿。尽管下面的地板未被损坏，所有箭都射在雪利辛格的床上。一枝箭卡在雪利辛格的舌头上，其上一个附注写着“‘历代志’1:10。3 我不是Fudd。”该异常最初被怀疑是由一名有关人士所为的独立事件，但随着3个几乎相同的事件在第二年发生，它被标注并归类为3940。
+
+事件 3940-1： Mel Blanc 在1989年7月10日死亡, 从1940年直至其去世，他一直在扮演兔八哥这个角色，并最终被一共59支箭杀死。第二张纸条被发现附在一根箭头上，箭命中了Blanc的双颊，纸条上写到：“在亚述，我们用死亡惩罚诽谤。”与此同时，位于华纳兄弟工作室外的“兔八哥”雕像被将近4000支箭几乎完全摧毁。
+
+箭矢由全方位——包括地底射来。第二波的372支箭开始在雕像的残骸前拼出“这就是了，博士”。
+
+Footnotes
+1. 该公司后更名为华纳兄弟娱乐公司。
+2. 乐一通动画系列的原创动画师之一。
+3. 圣经中的一篇写到：“古实生宁录。他为世上英雄之首。”
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                武器
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            18 Sep 2018 08:44
+            
+            编辑
+0)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Game Design Novice
+                      
+              Learn to make video games.
+            
+          
+        
+              
+          
+            
+              
+            
+            AckySHINE MiniSites | Best of 2020
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Gamer Dome
+                      
+              Community Game Design Projects
+            
+          
+        
+              
+          
+            
+              
+            
+            PhyloWiki
+                      
+              Assisting research and education in phylogenetics and evolution
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

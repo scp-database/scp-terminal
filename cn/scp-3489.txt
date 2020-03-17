@@ -1,0 +1,262 @@
+                        
+
+项目编号 ：SCP-3489
+
+SCP-3489 处于非活跃状态
+
+项目等级 ：Euclid
+
+特殊收容措施 ：SCP-3489被存储在仅能通过双门气闸系统进入的无菌室内。一个封闭的监视系统将监视SCP-3489的任何位置变化，如果发现对象离开了收容区域，Site-37将进行紧急封锁，包括警告所有在场人员寻找避难所，以及激活机动特遣队以重新控制即将发生的收容失效。目前未发现任何可防止SCP-3489易位的方法。
+
+与SCP-3489进行互动的人员必须在互动前经过标准灭菌程序，并在每个测试结束后立即用微滤水（microfiltrated water）冲洗SCP-3489。在未进行测试时，紫外线灯应处于激活状态以净化收容间。
+
+描述 ：SCP-3489是一个立方的金丝雀采矿笼1（cubic canary mining cage ），外观上与20世纪使用的金丝雀采矿笼相似。一张卡片标签贴在其旁侧，上面写着“注意安全，亲爱的！〜妈妈”。
+
+光谱阵列显示SCP-3489由钢合金构成，然而由于其异常特性，获取样本的尝试没有任何结果。
+
+SCP-3489显示出一定的预知能力，使其能察觉到对自身和/或任何手持SCP-3489的生物（以下称其为SCP-3489-1)的直接危险。当一个真核生物（以下称之为SCP-3489-2)被留在笼中，笼门关闭，且预计将发生危险时，其次要效应将被触发。一旦上述条件被满足，SCP-3489将会连带着SCP-3489-1移动到其认为最近的安全地点。然而，在一些案例中，SCP-3489在未被手持或是占用2的情况下也发生了移动。且移动停止后，SCP-3489-2不再出现于笼子中。过往SCP-3489-2实例的位置仍然未知。进一步的实验表明SCP-3489-2与Serinus canaria（金丝雀）之间的基因相似度影响着SCP-3489预测和移动的准确性（见附录3489-1）
+
+附录-3489-1：实验记录 
+
+受试者为D-92826、D-45023、D-16123、D-98356、D-59265。D级人员因为彼此之间的相似处而被选中参与测试：每个人都在30岁左右且均为平均身材的白人男性，此外，均犯有与毒品相关的二级谋杀。实验于一个10m 的房间中进行，受试者们被命令手持SCP-3489并站在面朝北侧的特工████████北面5米处。特工████████在测试开始10秒后向北发射一枚手枪子弹。高速摄影机和GPS追踪装置被部署以确定受试者周围的活动并在测试结束后尝试定位SCP-3489-2。
+
+动物测试1 ：Serinus canaria（金丝雀）
+
+测试开始5秒后，受试者与SCP-3489均迅速移动至东边3米处，损失被成功避免。SCP-3489-2未能通过GPS定位或是高速摄影机进行定位。
+
+动物测试2 ：Serinus alario（黑头丝雀）
+
+测试开始后6.4秒，SCP-3489和SCP-3489-1移动至西侧1米处，未发生损失。D-45023清楚的描述了突然的移动。SCP-3489-2再一次无法被定位。
+
+动物测试3 ：Ouroborus cataphractus（犰狳环尾蜥）
+
+测试开始后8.2秒，SCP-3489和SCP-3489-1移动至东侧3米处。摄影机记录了受试者与笼子的运动，录像显示SCP-3489的反应速度减慢。受试者在受伤后被带往医务室。受试动物被观察到于移动开始前0.1秒消失。GPS追踪尚无定论。
+
+动物测试4 ：Bradypus tridactylus（三指树懒）3
+
+SCP-3489和SCP-3489-1在特工 ████████行动前，于9.89秒时移动。受试者被处决，笼子未受到损伤。从摄影机中观察到SCP-3489-2在移动前的0.5秒内消失，无法于测试后定位其位置。
+
+植物测试1 ：Micranthocereus auriazureus（米纳斯仙人掌）
+
+SCP-3489被位于██████-███附近的GPS追踪器定位。SCP-3489-2 [数据删除]导致特工 ████████，D-59265以及两名协助人员的死亡。4
+附加记录：
+
+Footnotes
+1. 译注：一种采矿用安全设施，金丝雀对瓦斯的敏感程度远超过人类，故可用于判断是否有瓦斯泄露。未找到标准译名，此为直译。
+2. 被记录的事例包括：尝试拆解SCP-3489,尝试从笼子中获取样本，以及威胁Site-37的收容失效。
+3. 译注：三指树懒共有3种，此处指白喉三指树懒。
+4. 基于安全考虑，植物不再作为测试对象，SCP-3489-2尚未被收容。如果你找到了那颗仙人掌，请慢慢退后并保持警惕。~Dr. Jilani
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Aug 2018 18:18
+            
+            编辑
+0)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            RPC Authority
+                      
+              Research, Protection, Containment
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiPlan
+                      
+              tools for participatory design of cities
+            
+          
+        
+              
+          
+            
+              
+            
+            final fantasy XIV wiki encyclopédie en français
+                      
+              FFXIV final fantasy XIV 14 fr wiki FF14 français
+            
+          
+        
+              
+          
+            
+              
+            
+            Half Moon Bay Weyr
+                      
+              Join us at paper.mudmagic.com Port:2211
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

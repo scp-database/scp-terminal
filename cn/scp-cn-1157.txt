@@ -1,0 +1,261 @@
+                        
+
+项目编号：SCP-CN-1157
+
+项目等级：Euclid
+
+特殊收容措施：SCP-CC-1157被收容于Site-CN-17的一个标准异常收容柜中，收容柜内应保证最大空气湿度低于20%，每周三应投入200g的鱼类供其食用，进行任何实验需要一名三级人员的允许及监督下进行。
+
+描述：SCP-CN-1157是一个瓷盘，其盛放的食物的一面绘有中国龙的图案，与之不同的是项目图案上的龙没有瞳孔，项目底部刻有记载中国神话马█的文字。在未激活的情况下，该项目的异常性质不会显现，经倾测碳14含量推测该图案于东汉末年至三国时期间绘制。
+
+SCP-CN-1157发现于洛阳市内的古物拍卖会上，因其异常性质在当地的拍卖会上展现并被当地SCP基金会潜伏在民间的便衣人员关注并收容。
+
+SCP-CN-1157的异常性质在于盘子上的龙图案在盘子盛放有鱼虾类生物时会使其异常性质激活，盘中的龙图案会开始食用盘盛有的鱼虾(投放供其食用的鱼虾重量不等，“龙”的活跃的时长不一)。
+
+实验记录
+
+日期:07/02/20██
+
+实验目的:探究该个体的表达方式
+
+实验结果:该个体以在盘面上留下墨迹作为表达方式，并且发现在该个体停止运动后的3到5秒内墨迹会完全消失。
+
+日期:08/02/20██
+
+实验目的:探究该个体是否具有学习能力
+
+实验结果:该个体表现出强烈对学习的渴望，拥有短时间快速学习的能力，并且对绘画方面有着极大的天分。
+
+日期:08/02/20██
+
+实验目的:关于研究该个体是否具有威胁性
+
+实验结果:该个体对无威胁的人类没有丝毫的兴趣，但是对于鱼虾一类的水生类动物有着极大的兴趣。
+
+补充:若人类企图攻击该个体时，该个体会以无法测量的速度及轨迹旋转以催眠人类，同时被催眠的人类会不停的寻找鱼虾以供该个体食用直至被催眠者死亡。
+
+日期:09/02/20██
+
+实验目的:探究是否可以为该个体点睛
+
+实验结果:实验失败，无法为该个体点睛。该个体对毛笔有着强烈的排斥，在未有食物激活的条件下，该个体开始活动，并开始躲避毛笔。
+
+当实验员实施强制点睛时，该个体开始催眠该实验员，并且带动盘子震动发出有节奏的带有催眠作用的声响，以至实验员将毛笔插入██导致死亡。
+
+附录:以下是SCP-CN-1157底部的文字
+
+“良画龙于盘，未点其睛，猝河没其村，良救人之时，坠者木磕杀良及其笔，故奉盘以纪”
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                待删除
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            09 Feb 2020 13:10
+            
+            编辑
+-21)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Retro Legends
+                      
+              The Definitive Database for Retro Gamers
+            
+          
+        
+              
+          
+            
+              
+            
+            Summer 3500
+                      
+              Engineering Communications
+            
+          
+        
+              
+          
+            
+              
+            
+            AnalyticsCamp
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Type Set Coin Collecting
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

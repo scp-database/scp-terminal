@@ -1,0 +1,240 @@
+                        
+
+项目编号： SCP-1923
+
+项目等级： Euclid
+
+特殊收容措施： 由于SCP-1923和地球之间的距离和重力隔断，收容当前被认为是不可能的1。除了███ ████████上的固定摄影机外，Luna-█将定期发射摄影机探针对SCP-1923进行观测。所有由外部机构拍摄的SCP-1923-Alpha的照片在投放给公众前应先进行修改。所有来自SCP-1923-Alpha的信号和传输信息应被记录和分析。
+
+在SCP-1923-Alpha（或任何带有SCP-1923的天体）显示出改变其轨道的事件，基金会将颁布[数据删除]措施。
+
+描述： SCP-1923是种树形的物种，发现于太阳系小行星带的小行星███ ██████（称之为SCP-1923-Alpha）上。照片显示一层浓厚的绿色天盖完全模糊了SCP-1923-Alpha的表面。将之前SCP-1923-Alpha的照片和现在的照片进行比较，估计一个单一SCP-1923实体约有95米高。对SCP-1923-Alpha的光谱分析显示其反射光谱与陆生叶十分相似，但是在光谱吸收上有微小但是重要的差别。
+
+由于无法精确的观测SCP-19232，一台固定摄影机被放置在与SCP-1923-Alpha处于同一轨道的邻近小行星上，称之为SCP-1923-Watcher。至今为止，基金会还没有办法取得SCP-1923或SCP-1923-Alpha的精确图像。因此，和SCP-1923有关的，用来进行调查的数据被认定是缺乏的。
+
+在SCP-1923-Alpha的两极，一支SCP-1923的“分支”伸出天盖约30米。外形类似于地球的棕榈树，这些实体4。基金会假定该过程是该SCP的自然繁殖过程。到██/██/████为止，对SCP-1923-Alpha的信息仍旧停留在“有SCP-1923存在”这一认识上。
+
+附录-1： 在01/06/20██，小行星███ ██████被报告发生了肉眼可见的反射率减少和轨道调整。对其轨道的预计显示该小行星曾经在SCP-1923-Alpha上的SCP-1923处于“脱落”期时位于SCP-1923-Alpha的“背面”。有理由相信███ ██████（称之为SCP-1923-Beta）也可能带有SCP-1923。申请对SCP-1923-Alpha和SCP-1923-Beta进行进一步研究。
+
+附录-2： 在01/10/20██，发现SCP-1923-Alpha上的SCP-1923有新变化。在其赤道，该无叶实体（结出了一个之前没有看见过的豆荚）被目击到每隔█到██星期对着太阳和地球进行自我调整。根据该发现，基金会人员注意到在该实体对准地球期间[删除]有轻微增长。至今为止，仍无法得知该[删除]代表一符合的生物途径、或是一种沟通形式、还是什么完全不同的东西。5
+
+脚注
+1. 译注：原文是de facto
+2. 有关收集和获取一份SCP-1923样本用于直接研究的可行性研究正在进行中。
+3. 由于SCP-1923的天盖，这些树是SCP-1923的其他部分，还是SCP-1923的一种独特变种当前未知
+4. 译注：原文是en masse
+5. 作为阐明：这方面并无已知使用[删除]的实际或虚拟通讯之例子。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                树木
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 10:11
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Latin Dictionary
+                      
+              Where Latin meets English
+            
+          
+        
+              
+          
+            
+              
+            
+            Marvel Revolution MUCK
+                      
+              Join the Revolution
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP-JPサンドボックスⅢ
+                      
+              a.k.a 下書きフォーラム v2
+            
+          
+        
+              
+          
+            
+              
+            
+            ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β Επιπέδου
+                      
+              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

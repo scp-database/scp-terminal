@@ -1,0 +1,242 @@
+                        
+
+一份SCP-3565样例的特写
+
+项目编号： SCP-3565
+
+项目等级： Euclid
+
+特殊收容措施： SCP-3565须被保存于Site-51的一处库房内。若有Site-51工作人员表露出SCP-3565的感知改变效应的相关症状，应立即被转移到站点外并接受记忆消除。每日一次，分配给SCP-3565的人员须将一瓶½升的瓶装人乳插入SCP-3565，待瓶中人乳流净后方可离开。
+
+事件3565-A发生后（见附录），分配给SCP-3565的Site-51工作人员应三周轮换一次。对SCP-3565-1收容措施的修订目前待定。
+
+描述： SCP-3565是重量为3kg的猪肉馅、牛肉馅及人肉馅混合物。约10％的成年人会认为SCP-3565是一个人类婴儿，其外貌不定。不过受影响的人类个体若身为父母，则通常会将SCP-3565描述为与自己的孩子长相相似。受SCP-3565影响的人会产生极度的强迫性，想要给SCP-3565喂食并照顾它，若不被允许与之接触则会感到痛苦。
+
+测试表明SCP-3565没有生命。尽管如此，SCP-3565有代谢人乳的能力，这样做可以延缓腐败过程并使SCP-3565产生有限的再生特性。SCP-3565每天需要约半升乳汁以维持这些特性。若喂给SCP-3565超量的乳汁，它会缓慢生长，新增体积与喂食量成比例，但如果喂食量减回原状，它会随着时间的推移恢复到原先的大小。
+
+若SCP-3565未被喂食，或喂食量未达到每日半升，它会如同非异常的肉馅般开始腐烂。此外，在它未被喂食时，在SCP-3565附近工作或工作直接接触SCP-3565的人报告听到婴儿的哭闹声，SCP-3565未被喂食的时间越长，哭闹的频率和剧烈程度越高。在此期间，把SCP-3565视作婴儿的人数将增加。
+
+附录： 
+
++事件3565-A
+
+-事件3565-A
+
+20██年2月5日，当时的SCP-3565首席研究员Javier Martinez博士抱怨腹痛、恶心，随后昏迷，被紧急送入医务室。对Martinez博士的检查表明，他的体内长出了具有生理功能的子宫和产道。此外，对器官的超声检测显示有一个看似4个月大人类胎儿的物体正在孕育。Martinez博士接受了紧急剖宫手术，从他的腹腔内取出重达1kg的肉馅（当前定名为SCP-3565-1）。此物质的组成和异常性质与SCP-3565完全一致。
+
+事件发生后，所有Site-51工作人员均接受了全面体检。在SCP-3565旁近距离工作三周以上的工作人员中有75%表现出与Martinez博士相似的身体异常，但无人的妊娠期超过一周。所有个体均被提供避孕药米非司酮，并接受记忆消除。已切除受影响的男性体内的外来器官。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Nov 2019 16:30
+            
+            编辑
++2)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CEC Kharon
+                      
+              bsgkharon.com 5102
+            
+          
+        
+              
+          
+            
+              
+            
+            Insu Sandbox
+                      
+              All you need is a shovel... and a sacrifice.
+            
+          
+        
+              
+          
+            
+              
+            
+            Marvel Untold MUX
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Insurrection du Chaos
+                      
+              Branche Francophone.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

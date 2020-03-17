@@ -1,0 +1,285 @@
+                        
+
+項目編號： SCP-CN-240
+
+項目等級： Euclid
+
+特殊收容措施： SCP-CN-240被收容于Site-CN-03的中等安全警戒区，并被安置于一个3m*3m*3m的钢化玻璃立方体内，温度保持在0摄氏度以下。收容设施20m内的水体体积不得超过60L，且所有工作人员的体重都应限制在60kg以下。未获得设施主管的特别许可的情况下，禁止任何人员触摸SCP-CN-240。私自将SCP-CN-240的组织碎片带出收容单元的员工将被立刻处决。
+
+描述： SCP-CN-240是一具长85cm，外观类似鲨纲（Selachii）生物的尸体。DNA比对表明该生物不属于地球上的任何一种鱼类。SCP-CN-240的口腔与鲈科（Perciformes）鱼类相近，这种特殊的口部结构可以在0.0█秒内增加3██%的容积，利用真空将猎物吸入体内。据Dr.Abigail计算，SCP-CN-240可以在1秒内吞入相当于自身质量██%的食物，后续的实验也证实了这一猜测（参见实验CN-240）。
+
+对SCP-CN-240的初步解剖研究表明，SCP-CN-240的胃中包含一条完整的鱼类残骸，大量未知生物的组织碎片，以及[数据删除]，占据了整个腹腔容积的一半。该鱼类残骸的胃中也包含有一更小的鱼类残骸。进一步的比较解剖研究表明几具完整的鱼类尸体与SCP-CN-240都系同一物种。
+
+SCP-CN-240的特性会在其与至少60公升水直接接触时表现出来。一条与SCP-CN-240同种的生物（SCP-CN-240-A）会从水中冲出，并立刻吞噬SCP-CN-240。SCP-CN-240-A与SCP-CN-240具有相同的异常特性，并应当被视为后者的一部分。SCP-CN-240-A的出现被认为是极度危险的，所以暂不考虑收容活体的SCP-CN-240-A样本（见事故CN-240-A调查报告）。
+
+附录： 
+
++实验记录CN-240
+
+-实验记录CN-240：
+
+实验记录CN-240-1 
+
+日期：██-██-██ 
+
+实验过程： 将SCP-CN-240浸入60公升汽油中。
+
+结果： 未出现任何异常现象。
+
+实验记录CN-240-2 
+
+日期：██-██-██ 
+
+实验过程： 将SCP-CN-240浸入60公升盐溶液中。
+
+结果： 一条长22cm的类鲨鱼生物（SCP-CN-240-A）出现于液体内，并在0.█秒内内吞下了SCP-CN-240。预先设计的安全装置立刻排空了容器中的液体，以防有更多的SCP-CN-240-A个体出现。该SCP-CN-240-A迅速死于窒息。
+
+笔记：可见液态水的有无，而不是纯度，才是使SCP-CN-240-A是否出现的关键因素。——Dr.Abigail
+
+实验记录CN-240-3 
+
+日期：██-██-██ 
+
+实验过程： 改用1克SCP-CN-240的组织碎片，灼烧至完全碳化。其余同上。
+
+结果： 实验结果同上，出现的SCP-240-A长45cm。
+
+附注： 实验结束后，Dr.Abigail提高了收容SCP-CN-240的安全标准。
+
+实验记录CN-240-4 
+
+日期：██-██-██ 
+
+实验过程： 同上，不过使用0.1克的组织碎片。
+
+结果： 未出现任何异常现象。
+
+笔记：这么看过小的组织碎片并不能让SCP-240-A上钩。——Dr.Abigail
+附加记录：
+
++收容突破事故CN-240-A
+
+-收容突破事故CN-240-A：
+
+记录人： Dr.Abigail
+
+事件概述： ████-3-21 ██:██，一名体重严重超标的D级人员违规触摸了SCP-CN-240，随后[数据删除]。SCP-CN-240-A在吞食SCP-CN-240█分钟后窒息死亡。这名D级人员随后死于大出血。
+
+新出现的SCP-CN-240-A尸体被迅速移往当前收容设施，随后安保人员用特制的真空吸尘装置完成了对现场的清扫收容。测量表明SCP-CN-240-A的长度已经达到了85cm。
+
+调查报告： 生物体液也会引起SCP-CN-240的收容突破事件。鉴于每一次出现的SCP-CN-240-A个体体积近似以指数级增长，如果该项目再发生██次收容突破，SCP-CN-240-A本身的体液体积就足以导致新的SCP-CN-240-A的出现。这很可能导致一场NK级的世界末日。新的安全措施必须被立即指定，并考虑向O5议会发出提升项目等级的提议。
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鲨鱼
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            28 Dec 2018 11:02
+            
+            编辑
++20)
+标签
+讨论 (9)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Corwyn
+                      
+              A Fantasy  Campaign Setting
+            
+          
+        
+              
+          
+            
+              
+            
+            PassatB5
+                      
+              Do It Yourself information for Passat Repair!
+            
+          
+        
+              
+          
+            
+              
+            
+            CST 133 A
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CaughtNotSleeping
+                      
+              Its just a game...
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

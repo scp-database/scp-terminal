@@ -1,0 +1,264 @@
+                        
+
+项目编号： SCP-037
+
+项目等级： Euclid
+
+特殊收容措施： SCP-037以磁场收容于被称作Site-22的复合地下室。物体的大小、光谱特征和温度被即时于现场和从Site-98进行远程监控。
+
+The primary containment chamber is lined with heat conducting, radiation-resistant NANOPEEK GFV polymer tiles and evacuated of any atmosphere. Heat from the object is radiated into the surrounding rock. Should enclosure integrity become compromised, the emergency system will generate a low power argon plasma shield. This is projected to provide a minimum of 4 hours for onsite engineers to effect necessary repairs before the object breaches containment.
+
+In the contingency that stellar evolution proceeds ahead of projections and a nova event appears imminent, or if containment failure is otherwise unavoidable, any remaining project staff are authorized to initiate the Pituaq Protocol.
+
+描述： SCP-037似乎是一颗直径约5厘米（2英寸）的恒星。具有太阳表面1*10-12倍的亮度，表面温度为5000K（通过UBVRI分析测定）。SCP-037的起源不明，然而，分析表明，除了其异常小的尺寸之外，它与典型的主序星有许多共同的属性。它理论上是通过地球的磁北极进入地球磁层的。
+
+该物体发现于19██年的波佛特海的地磁北极附近。加拿大军事站点（CFS）在警报中报告有强烈的电磁干扰，随后一个极其明亮的物体从天空降向大海。驱逐舰SCPS监护者号予以响应，并且发现对象在水面上以循不稳定的轨道不定地摇摆。收容措施规划完毕后，对象立即被送至Site-32进行研究。
+
+SCP-037之收容及运输方式可以通过强力的电磁铁来完成，设备的工件会通过自身的磁场自行排列整合。目前为止收容的主要挑战一直是其強烈的电磁辐射，其强到可以在地球高空轨道上以肉眼观测。它当前的圍阻體位于地下深处以防止被目击和促使辐射逸散到周围的基岩里。事实上，整个设施及其周围的岩层就是一个巨大的散热器。
+
+附录A：在过去██年的研究過程中，该恒星已經歷一次电磁辐射型態的变动，表明其正經歷大幅加速的恒星演化過程。如果参照标准恒星模型，这将很快導致其半径膨大100-300倍，並伴隨著辐射能量的增加。对于该可能性，正在研究紧急突发事件的控制。恒星生命周期进一步发展的结果很可能是一次新星爆炸，之後預計將生成███████████。外推法估計這可能在███████████之後发生。在此之前阻止该过程或将SCP-037运输到地球的安全距离外的研究已在進行中。
+
+PituaqProtocol
+
+Sent1977
+
+To:  O5 Council
+附加记录：
+
+From:  Dr. Innis
+附加记录：
+
+Subject:  SCP-037 Emergency Neutralization research
+附加记录：
+
+Body:  Sirs and madams,
+附加记录：
+
+The agents embedded with the US DoD have managed to alter the project requirement for the NASA orbiter program. The vehicle will now be designed with enough space to accommodate SCP-037 and a temporary containment apparatus in order to facilitate transport off-planet. However, I continue to have reservations.
+附加记录：
+
+Modern rocket technology simply is not reliable enough for the needs of this project. A single mistake could lead to launch failure and subsequent loss of containment, possibly catastrophically. Even a successful launch would have to proceed perfectly, lest the result be visible to observatories and instruments, and possibly the naked eye, around the world.
+附加记录：
+
+There are numerous artifacts contained by the Foundation which might allow us to transport SCP-037 safely and cost-effectively to an adjacent dimension, universe, or esoteric domain. SCP-███ in particular might prove especially convenient for this purpose, considering the outcomes of recent attempts to explore it and the difficulty of [[. Neutralization of SCP-037 might thus serve the added purpose of reducing or removing the threat posed by that anomaly, as well.
+附加记录：
+
+I implore you to reconsider the Pituaq proposal, submitted in light of these concerns.
+附加记录：
+
+END MESSAGE 
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Jan 2020 09:56
+            
+            编辑
++4)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Pediatric Hematology  Oncology Certification Review
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Balchipedia
+                      
+              The Encyclopedia of Balch History
+            
+          
+        
+              
+          
+            
+              
+            
+            Alfamedia
+                      
+              Alfabetización mediática para educadores
+            
+          
+        
+              
+          
+            
+              
+            
+            UTAU Wiki 2.0
+                      
+              Wiki for the UTAU voice synthesis software.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,240 @@
+                        
+
+项目编号：  SCP-1249
+
+项目等级：  Euclid
+
+特殊收容措施： 在这篇档案被写下时，SCP-1249被收容于Sector-██。主体被收容于一个配备两级密封舱，由闭路监控摄像头全天观测的6m x 6m规格的密封BSL-4级收容间。SCP-1249收容间内的气压应该被保持在70Kpa。收容间内将配有一张床，一个配备了受控制的管道系统的卫生间，一个空气过滤网和一个观察窗。收容间内的光线应被全天限制在30坎德拉以下。主体每天将被给予三次500克生肉，2公斤活体无脊椎动物和一公斤植物材料。SCP-1249收容间将被穿着A级危险品防护服的人员每天至少清洁消毒两次。
+
+描述：  SCP-1249是一个大约76公斤的人形实体，主要由许多种类的陆生无脊椎动物组成。尽管CAT扫描显示了实体内部有人体骨骼结构的存在，实体的皮肤和内部器官完全的由无脊椎动物群所替代。动物群完全的取代了实体的肌肉系统和器官的功能。任何被从动物群中移出的个体都不会显示出异常直到他们回到SCP-1249。实体可以在受伤状况下吸收正常的无脊椎动物进入他的身体。但是SCP-1249的人体骨骼结构不能从伤害下自愈。当实体被暴露在超过45坎德拉强度的光照下时，实体会失去人形，动物群将分散在大约三百平米的区域。
+
+SCP-1249以平均每小时30毫升的频率分泌透明粘稠液体。显微镜检测显示这种液体内含有多种微生物和病原体。目前确认的病原体包括重型天花， 麻风分枝杆菌， 鼠疫耶尔辛杆菌， 和 扎伊尔埃博拉病毒。SCP-1249液体表现出了能够维持微生物感染和能够仅通过短暂的皮肤接触就传染病毒的能力。
+
+主体不具有发声能力但是具有较好的读写能力，允许与其进行适当的沟通但由于其缺乏细小动作的行为能力所以往往使其笔迹难以辨别。SCP-1249主要以古典阿拉伯语书写，但是也表现出了一定的有关亚拉姆语的知识。
+
+附录-01：  SCP-1269是于██/██/20██，在北美的一个小镇附近，在一场类似英国出汗病的轻微疾病爆发后被发现的，紧接着又有经常被目击者描述为“一个用虫子做成的男人”的流言出现。实体在初次被目击后的五天被收容，记忆删除程序成功向每个目击者执行。
+
+附录-02： 下面是SCP-1249于██/██/20██第一次试图与基金会工作人员交流的翻译记录：
+
+我们经受了来自他的诅咒。
+
+他 [难以辨别] 发过誓
+
+[不可辨别]…ni Adam
+
+只有 [不可辨别]
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                群体性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Nov 2017 21:59
+            
+            编辑
++2)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Kingsway EAP
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiRMAPhil
+                      
+              Community Site for UU RMA Philosophy Students
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiNorron
+                      
+              Almost as good as the guide, maybe better!
+            
+          
+        
+              
+          
+            
+              
+            
+            PyLint Messages
+                      
+              and what theyre trying to tell you
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

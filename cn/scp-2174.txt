@@ -1,0 +1,240 @@
+                        
+
+一起SCP-2174事件
+
+项目编号：  SCP-2174
+
+项目等级：  Euclid
+
+特殊收容措施：  SCP-2174 目前无法被控制。 基金会的工作为尽量阻止人们对它的认知。机动特遣队Epsilon-5(“腐化”)被部署去调查可能为与SCP-2174有关的现象，如果必要的话，特遣队在当地的执法与媒体机构进行嵌入式代理工作，并根据协议KV-8699来散布迷惑性信息。
+
+描述：  SCP-2174的现象表现为一块在某个地点自发发生并有高度一致性的杀人现场3。 来记录受害者的身形。而像是人的血迹或者警戒带这种其他元素，偶然会掺杂其中。
+
+由粉笔轮廓所标志出来的身形，虽然一般为受害者被杀死或者被殴打致死的情况，但通常表现得不美观与不自然;一些姿势除非为受到严重骨折，否则无法实现这个样子;一些斗争与暴力的痕迹也时常出现; 更出乎意料的是，没有发现任何尸体被抹去的行为的迹象. 在SCP-2174事件中恢复的DNA证据尚未匹配到任何已知的失踪者或者死者.
+
+虽然没有一致性，SCP-2174事件中有一些元素多少会受到它们所处的地理位置的影响.例如, 所有在美国被发现的事件中,警戒带上写着 的其中一个. 随着事件的推移，可以观察到元素变化的趋势，在21世纪初，像是含血或者其他生物物质等元素的事件数目在逐年增长4。
+
+在与当地居民的访谈中显示，SCP-2174也可能含有影响思维的成分，即使案发现场没有尸体以及在现场的警方调查员，当地居民全部认为该地发生了一起凶杀案，并且警方正在对其展开调查。此外，现场会屡次被当做临时神社，人们会在这留下鲜花和蜡烛并在几个星期到几个月后进行打扫清理。
+
+附录：  比较所有已知的SCP-2174事件，发现谋杀场景中难以参透的人形粉笔轮廓引用于十七世纪欧洲记载的巫术/谋杀案5。根据这一点，在目前已知的SCP-2174的图像中，是否与历史上的画像相似，比如阿比斯巨人像，还在调查之中。
+
+脚注
+1. 基金会至今未观察到全部的SCP-2174，根据现有的证据来看，在此描述具有高度一致性。
+2. 文档中提到的“SCP-2174事件”均为被证实和断定的，对于疑似误判事件（匿名恶作剧的作品等等）的详细描述，请参阅文档Alpha-DXL的第F节。
+3. 在现实生活中，这样的行为会破坏现场，只能是对于正当程序一无所知的人员做的。
+4. 对于数据全面的统计，请参看文件 Alpha-DXL 第 B节。
+5. 请参看文件 Beta-DXL。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Aug 2019 11:19
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Ars Magica holy magic
+                      
+              Holy Magic covenant project
+            
+          
+        
+              
+          
+            
+              
+            
+            PhyloWiki
+                      
+              Assisting research and education in phylogenetics and evolution
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot - Free and Pro Wiki Hosting
+                      
+              your place on the web
+            
+          
+        
+              
+          
+            
+              
+            
+            สถาบัน SCP
+                      
+              ควบคุม, กักกัน, ป้องกัน
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,231 @@
+                        
+
+项目编号： SCP-403
+
+项目等级： Safe
+
+特殊收容措施： SCP-403将被储存在一个铁制保险箱内，其密码仅由████ ███████博士知晓。保险箱壁将由达到基金会C3/403标准的防火材料加固。两名守卫将监管该保险箱。
+
+描述： SCP-403为一个外表不起眼的石脑油燃料打火机，在Site-██食堂之一被发现。SCP-403在长久未被使用后打火会冒出一团普通的火焰。但是，当在24小时之内连续打火时，每一次打火都会造成火焰变得更大且更为强烈。
+
+在一次实验中，一名D级人员试图在两小时内第三次使用SCP-403打火，造成了一次由过热气体与等离子体组成的猛烈爆炸。该事件摧毁了实验间内的监视器材，并对墙上的防火镀层造成严重损害。尽管如此，实验对象和物品本身保持完好无损。无线电成像显示打火机周边存在磁场，其被研究员假设为该免疫伤害的原因。
+
+SCP-403造成这些爆炸所使用的燃料，甚至是否是在使用普通燃料目前未知。对物品的检查显示SCP-403内部的燃料箱已经清空；没有发现任何可燃物的迹象。考虑到此情况和其打火时能够释放的能量，SCP-403应当被视为一个实用上无法枯竭的能量源。确认其能量来源实际性质的实验目前正在进行。
+
+附录403-1： SCP-403被批准进行持续实验，并被批准了一块安全引爆区用于实验。在第三次打火之后，一名D级人员试图进行第四次打火，造成了一次最初被认为是热核反应的爆炸。对爆炸的分析显示其威力与一千万吨TNT相当，威力远远超出大部分战术核武器威力；该威力同时远远超出根据过去实验数据推断出的预计威力。对记录数据进行更多研究后显示该事件实际是由释放[数据删除]恒星材料而造成的。除爆炸造成的毁坏外，没有观测到任何后续异常效果。点燃SCP-403的实验对象又一次在爆炸中未受损伤。
+
+附录403-2： 因SCP-403可能释放的高能爆炸威胁过大，所有后续实验已被终止。目前来看， SCP-403的威力呈指数增长，第五次打火可能会造成一个与[数据删除]相当的事件。一个威力如此巨大的爆炸会造成大面积陆地毁灭，并对多个基金会站点具有严重的收容突破威胁，其中包括[删除]。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            27 Sep 2019 04:02
+            
+            编辑
++3)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            免費電子書：C# 程式設計
+                      
+              作者：陳鍾誠
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiNorron
+                      
+              Almost as good as the guide, maybe better!
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            RSC Sandbox
+                      
+              RSC için Sandbox
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

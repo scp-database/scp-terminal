@@ -1,0 +1,233 @@
+                        
+
+SCP-064
+
+项目编号： SCP-064
+
+项目等级： Safe
+
+特殊收容措施： SCP-064应被保管于一个合适的远程监控区域以供观察。目前的目标是建立一个关于此物体行为规律的几何模型并且观察这些规律根据地点和土壤成分不同而产生的变化。某些位于戈壁沙漠，澳大利亚腹地的地点以及数块分散在全球的盐碱地都被纳入考虑以期将来的实验。SCP-064的当前位置对所有持3级安全通行许可证以下人员保密。一旦生长结束，野外工作队将要把建筑物的尺寸，形状和成分归档，并且将对象转移至一个新的地区。
+
+描述： SCP-064是一块亮棕色的陶土砖，主要由硅氧化物和一些有机质组成。对象重1.6千克，尺寸量得为10cmX6cmX20cm。其表面光滑平整，有一些细小的碎屑。大体上对象看起来和用于建筑的固体砖块非常相似。
+
+当被放在一块平整开阔的柔软土地上时，SCP-064会开始通过未知机能自我复制。近距离观察发现有和原对象形状一样的不规则的硅纤维晶体形成，随后其以一种基于土壤的混合物填充并且固化自身直到达到一个合适的质量。这个过程和真菌菌丝体的传播有些相似，用微小的根部结构从紧邻的土壤里“发掘”矿物质。在最理想状态下（土壤成分约含90%的二氧化硅[SiO2]），需要大概七十分钟以产生一块完整的新砖。
+
+在一块广阔的土地上，SCP-064会建造一座非常复杂但是理论上稳定的独立砖石建筑，包括地板和天花板。过去的观察表明这些建筑可以达到十二角星的形状，直径10千米，高度可观。然而，这些都是推测，因为建筑一旦接触一个重大障碍物，据观察包括所有质量在10千克之上的固体物体时，生长就会停止。有趣的是，建筑的生长有一种特别的基本方向规律，那就是SCP-064总是在最北方并且在最底层。
+
+建筑必须在接连SCP-064时才会成长。一旦取走SCP-064，建筑会开始崩溃，所有的次级砖块都会以与出现时相同的速度崩碎成为尘土。在二十分钟内放回SCP-064可以阻止崩溃并且使成长继续；超过这个时限，崩溃过程就再不可逆。
+
+SCP-064是在20██年四月偶然发现的。当对安第斯山脉的一块高架高原进行卫星观测时，一个摄像机操作者注意到一座建筑正在明显的生长。从建筑的外部生长方向（当回收时生长已经停止）推断出了对象大约的位置后，野外工作队通过SCP-064和富含来自当地土壤中的氧化铁的次级砖之间颜色的不同发现了对象。对于原始地点的完整发掘工作正在进行中以确定对象的文化和技术起源。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                自我复制
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Jan 2020 11:01
+            
+            编辑
++5)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP繁中沙盒2.0
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CUNEF Group C2
+                      
+              For Your Work, Opinions and Discoveries!
+            
+          
+        
+              
+          
+            
+              
+            
+            Intro to Creative Writing
+                      
+              Professor Gabriel
+            
+          
+        
+              
+          
+            
+              
+            
+            Space Epic Untitled
+                      
+              From KUMA Games
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

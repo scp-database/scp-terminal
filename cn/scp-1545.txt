@@ -1,0 +1,300 @@
+                        
+
+SCP-1545
+
+项目编号： SCP-1545
+
+项目等级： Safe
+
+特殊收容措施： SCP-1545被放置在Site 40的一个收容保险柜1545内，严禁权限低于3级的人员接触。鉴于事故1296-1545，SCP-1545与其它异常项目的测试，应根据具体情况，由一名4级权限人员批准。当前不需要其他收容措施。
+
+描述： SCP-1545是一套两人用的羊驼戏服以及两双雨胶鞋。SCP-1545可以从中部打开。其内部与其他类似的戏服一致，有容纳两个人的空间，一个人在其后腿部，俯身在中部，另一个站在戏服的前腿处，并顶起戏服的脖子部位。在戏服屁股部位有一个牌子，上写着“可爱大羊驼拉里”。
+
+SCP-1545异常效应除非被穿戴起来否则无法察觉。穿着SCP-1545的测试者将变得极其“入戏”，前面的人员将用“可爱大羊驼拉里”的方式说话，而后面的人员将表演各种吉格舞。SCP-1545的表演方式极其温顺。
+
+除非被拉出来，在SCP-1545内的测试者不会离开SCP-1545，且也不会愿意这么做，尽管他们不会抗拒移除戏服的行为。除非强行从SCP-1545中移出，不然测试者将会继续像“可爱大羊驼拉里”那样表演直到死亡1。若同伴死去，另一名测试者也将继续用另一半表演直到他们也死去为止。被移出的测试者拥有他们在SCP-1545内部的记忆；尽管如此，他们没有有关该项目异常属性的知识。测试者对他们在SCP-1545内的时间没有表现出消极情绪，并取而代之的认为那是普遍行为。
+
+SCP-1545被当局发现于[删除]的一间废弃的郊区屋子内。受害者死于脱水。尸检指出后面的扮演者在1天前就死去了，并因为被前方作为伙伴的家庭成员拖行而有多处严重挫伤。SCP-1545在其异常效应被发现后由基金会人员进行回收。A級记忆消除被实施。
+
+附录： 录音记录1545-A：
+
+被调查者： D-5362，刚刚从SCP-1545中移出
+
+调查者： Fredericks博士
+
+前言： 测试者在SCP-1545内部呆了3个小时
+
+ 
+
+Fredericks博士： 你好，D-5362。
+
+D-5362： 下午好，先生。
+
+Fredericks博士： 你感觉如何？
+
+D-5362： 有点精疲力尽，先生。
+
+Fredericks博士： 啊是的，我看见那些舞蹈了。一定很累！
+
+D-5362： 是的，先生，不过你得让人们开心！
+
+Fredericks博士： 我觉得你该考虑离开并喝点什么。
+
+D-5362： 不能那么做，先生。这会毁了幻觉。
+
+Fredericks博士： 我们在讨论穿着雨胶鞋的羊驼，有什么幻觉？
+
+D-5362： 呃……你不像我那么明白可爱大羊驼拉里，先生。
+
+ 
+附加记录：
+
+录音记录1545-B
+
+被调查者： D-5483，正在歌唱“可爱大羊驼拉里”
+
+调查者： Fredericks博士
+
+前言： 测试者已经在SCP-1545内呆了2天。声音由于脱水而显得粗糙。
+
+ 
+
+Fredericks博士： 你好，D-5483。
+
+D-5483： 哦，我不是James！我是可爱大羊驼拉里！
+
+Fredericks博士： 好的……拉里，你感觉如何？
+
+D-5483： 超级爽，博士！我的屁股今天有点迟钝，不过没关系！（备忘：D-5484，SCP-1545后部操作员，在2小时前死去了。D-5483正拖行D-5484。）
+
+Fredericks博士： 拉里，你注意到你里面的那个人了么？
+
+D-5483： 你是说我的助理？
+
+Fredericks博士： 是的，你的助理。
+
+D-5483： 我的助理喜欢帮助我！我们一起为每个人带来欢乐！
+
+Fredericks博士： 你注意到D-5484已经死了么，拉里？
+
+D-5483： 他只是小睡一会，博士。
+
+ 
+附加记录：
+
+Footnotes
+1. 主要的死因是脱水，感染也很普遍，因为脏衣物没有更换
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                骆驼
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            29 Dec 2017 11:44
+            
+            编辑
++4)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            RetroWIKI
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            Psychology Job Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Tauren Ate My Grandma
+                      
+              has moved!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

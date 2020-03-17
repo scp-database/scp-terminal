@@ -1,0 +1,238 @@
+                        
+
+项目编号：  SCP-864
+
+项目等级： Euclid
+
+SCP-864，显露出了一条SCP-864-1个体
+
+特殊收容措施：  SCP-864被收容于位于Site-77，Euclid级SCP侧翼的标准收容间。房间应当保持干燥，并每天检查一遍密封情况。测试期间不得有人进入测试区域。当事件中有衣物出现时，这些衣物应作为非异常物品储存。
+
+描述：  SCP-864是一个半径10cm，高20cm的脸盆，项目的组成材料与普通脸盆相同。盆底印有黑色的“中国制造”与 Cherry Imperial Goff Applications ”的字样。在中国各地均未发现有此名字的公司。
+
+当装入200ml以上的水时， SCP-864-1将会出现。SCP-864-1指的是一系列由SCP-864产生的附属器官。他们会试图将一名人类捕捉进他们的范围，并强行拖进SCP-864之内。SCP-864-1并不总会捕捉目标，测试表明，大多数SCP-864-1并不会试图袭击人类。没有任何一个被拖入SCP-864的个体恢复原状。
+
+已知的 SCP-864-1个体包括：
+
+四条预计可达60cm长的人类手臂。潜伏在D级人员身后，但没有成功将其捕获。在与四名安保人员交战后撤退。
+类似SCP-1193的人形生物附肢。在SCP-1193的下一次激活事件中，没有对刺激作出反应并且退回。
+七条黑色的头足纲生物触须，长约90cm，基部直径约为10cm。试图将 SCP-864推向它那一侧，拿走了测试房间中的衣服。 SCP-864-1自行消失。
+三条长约70cm的深绿色的甲壳纲螯肢。他们试图将一名D级人员溺死，直至守卫将其成功解救。 SCP-864-1在与特工Boyd交战后撤退。
+六条约有1m长的分节的机械手。SCP-864-1捕获了一名D级人员，被一名守卫将手臂撬开。 SCP-864-1以折叠的形式返回 SCP-864中。
+三条约3m长的节肢动物头状触手。SCP-864-1试图捕获一名D级人员，但被一名守卫用刀切下了一条触手。另外两条触手撤退，被切下的部位没有表现出异常性质。
+
+测试表明，在一个SCP-864-1个体出现时， SCP-864的内部会扩张成两千米的范围，之后 SCP-864-1个体消失在一个上面饰有“黑龙有限责任公司”字样的钢制舱室。在 SCP-864 活跃期间，被送进项目的遥控飞机发现项目内部完全由被 SCP-864-1 处理的各式服装组成。在2013年1月16日，其中的11％被鉴别来自于地球。其中只有32件可能是1900年之后的服装。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            23 Jul 2018 18:08
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Kingsway EAP
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Sandbox SCP PT-BR
+                      
+              Onde SCPs Nascem
+            
+          
+        
+              
+          
+            
+              
+            
+            Heroes MUSH
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Join this Site!
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

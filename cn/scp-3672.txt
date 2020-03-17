@@ -1,0 +1,248 @@
+                        
+
+项目编号：  SCP-3672
+
+项目等级：  Euclid
+
+特殊收容措施： 所有与PoI-365相关或可能相关的信息都应按照协议3672-Lamech过滤，被认为与之相关的数据应被送至Site-102与圣物收容站点Site-██现存的两个研究团队。协议3672-Lamech的完整内容不允许在任何情况下提供给这两个团队。
+
+描述： SCP-3672是一种围绕着一名名为Michael Scrivener的人类个体发生的现象，该人被指定为PoI-365。由于一个孤立发生的CK级现实重组情景，除少量基金会及一些同类组织事先记录的信息外，与Scrivener相关的大部分信息都被从历史或历史纪录中抹除。
+
+现存的少量信息表明，Scrivener是男性天主教徒（见附录1），主要在电影业担任木偶戏演员，通常负责操纵等身大的木偶。这些信息还表明他曾在1979年的《大青蛙布偶电影》1中扮演剧中角色“Sweetums”（现表演者被取代为理查德·亨特）。他还在吉姆·汉森联合公司的其他电影中担任过木偶戏演员，如1982年的电影《魔水晶》、1984年的电影《布偶出征百老汇》和1986年的电影《魔幻迷宫》，他可能在其中扮演了“Ludo”这个角色。他可能同年被吉姆·汉森联合公司解雇，并在1987年的电影《大脚哈利》中饰演大脚怪，此外还参与了数目众多的未知商业广告的演出。数家慈善机构报告在这一段时间内Scrivener向它们捐赠了大笔款项，但无法确定具体向哪些慈善机构进行了捐赠。
+
+1995年初，Scrivener的失踪的情况被报告给警方。同年年末，基金会的休谟计数器短暂的记录到一次持续了1.5秒的CK级现实重组情景，在此之后，有关Scrivener的生平和职业生涯的信息被彻底抹去。群体或个人对Scrivener的记忆均被篡改，而且无法追踪到他的任何个人财产或账户。在75%的情况下他曾扮演的角色被证实为实际上由被理查德·亨特(Richard Hunt)、罗恩·穆克(Ron Mueck)和凯文·彼得·霍尔(Kevin Peter Hall)扮演。
+
+在存储公共信息的备份DEEPWELL数据库在该事件发生后报告了几次中断或错误上传后，基金会意识到了SCP-3672的存在。
+
+附录： 下面为目前除SCP-3672与基金会DEEPWELL服务器外唯一能证明Scrivener的证据：一张发现于英格兰伯翰伍德的儿童耶稣罗马天主教堂的圣特雷萨雕像内的抽屉中的损毁严重的手写纸条。
+
+我父Hallick
+
+[难以辨识]我对于即将到来的一切充满了喜悦，也充满着恐惧。由于这种情况，我无法亲自去见你，但我已经被告知我的[难以辨识]意味着[已损毁]将会再度发生，创世纪第5章24节2中所记叙的即是[已损毁]。我请求宽恕，我祈求赐予我力量让我在光芒下的阶梯上行走，完成对他的十二步宽恕。[损坏]现在与[难以辨认]同在。我为我的罪孽感到后悔，我希望我已经做的足够多了，我希望得到宽恕。
+
+如果你意识到了[损坏]，请向前看。
+
+我会让Jim知道我很抱歉。
+
+M. Scrivener 1995
+附加记录：
+
+这张纸条的含义复杂且难以明确，对它的研究正在进行中。
+
+脚注
+1. 译注：所提及的均为真实存在的电影，电影名均选择了便于搜索的译名而非直译。
+2. 译注：“以诺与神同行，神将他取去，他就不在世了。”
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                记忆影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Sep 2019 12:26
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Heroes MUSH
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BlackBerry Storm Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Mainframes
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The SCP Sandbox
+                      
+              Осторожно! Идут испытания!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,301 @@
+                        
+
+SCP-CN-1214
+
+    
+    
+    
+    
+
+CN-1214
+
+等級1
+
+收容等級：
+safe
+
+次要等級：
+none
+
+擾動等級：
+dark
+
+風險等級：
+待观察
+
+备忘录链接
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特殊收容措施： 项目被收容于Site-CN-75-B里的一个标准无危收容柜内。
+
+任何人员按照SCP-CN-1214-B记载的研究成果以人类为原料制造SCP-CN-1214-A的实验需得到道德伦理委员会及项目主管Dr.Camera的书面批准。
+
+当SCP-CN-1214-B被解读完成时，将项目等级修改为Explained。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+描述： SCP-CN-1214-A由总共十一颗大小不同的钻石组成（被编号为SCP-CN-1214-A-1～SCP-CN-1214-A-11），总重约██.█克拉。SCP-CN-1214-A的外部特征与普通钻石无异。
+
+SCP-CN-1214-A似乎经过了奇术强化，无法以基金会的常规手段摧毁。
+
+而SCP-CN-1214-A最主要的异常在于：
+
+在其内部有着异常的Eve粒子浓度，而通常而言生命实体特有的Eve粒子不可能存在于无生命的物体中；并且，在其内部的Eve粒子的排列、结构相当完整，甚至可以称之为Eve聚合源体1。
+
+其中：
+
+SCP-CN-1214-A-1的Eve粒子浓度相当于一株乔木
+A-2～A-4相当于小型动物
+A-5～A-6相当于中型动物
+A-7相当于一个幼年人类
+A-8相当于一个青年人类
+A-9～A-11相当于成年人类
+
+确信SCP-CN-1214-A中的Eve聚合源体仍保有意识，并且正处于类似于ΩK“死亡终结”事件的无法死亡的状态中。现未找到任何与其内部的Eve聚合源体进行信息交换的方法。
+
+SCP-CN-1214-B为一笔记本，在其封面上被用黑色油性笔写上了“永恒 ”二字。SCP-CN-1214-B曾被用作POI-786633的研究笔记。
+
+POI-786633为一高阶蓝型，其研究的研究方向为Eve聚合源体的转移和长久保存，取得的理论成果远超基金会水平。基金会按照SCP-CN-1214-B上记载的研究成果成功仿制了几个类似SCP-CN-1214-A的物品，但仅仅是极其微小的开裂形变便会使其失去异常性质。
+
+目前，SCP-CN-1214-B的解读工作顺利进行中。已解读部分使基金会的奇术理论水平显著提升，且已解读部分已被广泛应用于多个方面，包括但不限于SCP-CN-███的收容工作、█████、[已编辑]，并取得了显著成果。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+发现： SCP-CN-1214-A与SCP-CN-1214-B一同于POI-786633的住所的地下室内被发现。
+
+同时在其地下室内也发现了：
+
+几株从底部锯断的乔木
+多个中小型动物的尸体
+一个成年男子2的尸体
+POI-786633和其家人3的尸体
+一个未知作用的大型奇术阵4
+
+于POI-786633的地下室找到的尸体中无一例外全都未找到包括外伤、毒等致死原因。另外，死亡时间最短的尸体6，其他尸体亦是如此。
+
+POI-786633的住所已被基金会收购，在其地下室内的尸体在确认无异常后已按常规手续焚毁。
+
+脚注
+1. 通常的说法为“灵魂”。
+2. 身份尚未确认。
+3. 包括其妻子、青年长子、婴儿次女。
+4. 事后实验证明是用于Eve聚合源体的转移。
+5. POI-786633的尸体。
+6. 通常而言，人死后五天其Eve聚合源体才会完全分解消散，两个小时不至于没有任何Eve粒子残留。
+
+    
+    
+    
+    
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                待删除
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Feb 2020 08:37
+            
+            编辑
+-7)
+标签
+讨论 (5)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            Borderlands Modding Resource
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Horizons
+                      
+              The RP about how it all continued... maybe.
+            
+          
+        
+              
+          
+            
+              
+            
+            Mecha Documents
+                      
+              The Collection
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

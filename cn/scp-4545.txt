@@ -1,0 +1,241 @@
+                        
+
+一个SCP-4545的实例。
+
+项目编号：  SCP-4545
+
+项目等级：  Euclid
+
+特殊收容措施：  基金会需时刻保留至少十个适于引发SCP-4545显现的场所。在平民群体中，尤其是符合SCP-4545要求的场所内则应鼓励适用闭路电视监控系统。
+
+被公众观察到的SCP-4545实例应尽可能解释为艺术创作；于此种手段无法施行的情况下，则需对目击者采取记忆消除。于基金会控制下的场所内显现的SCP-4545实例应在一经查明后尽快收治于该区域。
+
+少量SCP-4545-1需被留存于Site-72以备研究（由负责SCP-4545的高级研究员酌情处理）；回收的SCP-4545实例和任何多余的SCP-4545-1实例将经由焚烧销毁。
+
+描述： SCP-4545是一种近似于马匹的中空木质构造，显现于有充足空间容纳其进入的建筑或封闭式室外区域外部。SCP-4545实例平均宽2.7m，高7.3m，长13.1m，已知于风格和结构上存在很大差异，非经常性地包括由绳子或钢铁制造出的视觉要素。SCP-4545只于未被观测的区域出现；记录设备或人类的存在足以防止其显现。与此同时，无法进行对其存在显现的直接观察。
+
+被带入目标建筑后的一到三小时内，SCP-4545的一部分将打开1并开始吐出SCP-4545-1的实例。实例数量与它被移入目标建筑前经历的显现时间成正比。
+
+随后这些实例将试图对目标建筑造成重大破坏，毁坏家具和设备，在地板上排便，并攻击任何当时在场的人员。需指出的是，虽然持续造成人员受伤，但当前仍未记录到SCP-4545-1活动造成的死亡结果。此种行为持续几个小时后，SCP-4545-1实例将开始表现出军事编队演习的行为，期间时常试图搜寻食物2。
+
+若SCP-4545实例未被移入目标建筑内部，它将表现出压力增加——如膨胀——的迹象，并于一定时间后剧烈爆炸。此种爆炸规模明显大于仅靠增加内部压力所能解释的程度，它不仅能对周围地区造成重大破坏，也会散落出内部收容的SCP-4545-1实例的残骸。
+
+SCP-4545-1实例为小型异常马匹，站立状态下至肩约高35cm，穿着与古希腊重装步兵甲胄相似的青铜文饰马铠，包括头盔上一个显眼的红色顶饰。它们表现出比非异常马种更显著的智力。对死亡实例的解剖显示其躯干内部有一个中空的洞，其中包含多个部分可动的木马雕像。
+
+脚注
+1. 最常见的部位是身体下部。
+2. 于收容中的SCP-4545-1实例继续从事此种行为。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                马类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            27 Sep 2019 11:15
+            
+            编辑
++1)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            WikiPlan
+                      
+              tools for participatory design of cities
+            
+          
+        
+              
+          
+            
+              
+            
+            Forteana: The Fortean Wiki
+                      
+              The World of Strange Phenomena
+            
+          
+        
+              
+          
+            
+              
+            
+            FreeSMUG
+                      
+              Free Open Source Software Mac User Group
+            
+          
+        
+              
+          
+            
+              
+            
+            Wiki Code Snippets
+                      
+              Snippets
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,260 @@
+                        
+
+項目編號：  SCP-449
+
+項目等級：  Euclid
+
+特殊收容措施：  在進行測試以外的情況下，所有SCP-449實體被儲存於一個標準收容間中。為減少多餘的產出，3至5公斤的SCP-449-A會被裝於一個低危化學品儲存容器中以供測試之用。 於SCP-449的測試中產出的多餘SCP-449-A必須被焚化處理。
+
+一個由D級人員組成，相距不小於1500公里的網絡需每天進食一顆SCP-449-A以監視SCP-449的使用情況。項目應因當事人，而不是基金會使用而被發現，特工將根據於文件449-5列出的拉網式搜捕協議定位並沒收SCP-449實體。
+
+描述：  所有SCP-449實體都是一個扭曲的鋁盆，大略形似豐饒角(cornucopia)。 每個實體皆長40厘米，擁有直徑約15厘米的開口，並重約一公斤。在兩側皆蓋有文字。由於不明原因，所有個體都很容易失去光澤。
+
+當有人擠壓它時，SCP-449個體會產生SCP-449-A。使用者能憑著自己的想法控制生產速率，範圍從單獨一顆到每秒約6公升不等。 SCP-449-A是一種透明，並擁有類似沙子質地的晶狀物質。它可以被塑型，被粉碎，或溶解於水或酒精中，但不溶於血液以外的體液。它無味無嗅。大量食用SCP-449可能導致牙齒琺瑯質被磨蝕，破壞消化道內襯，腹瀉或嘔吐等與服用其他研磨劑一致的情況。
+
+當服用任何劑量的SCP-449-A時，只要仍處於消化道內，它將會使服用者在接下來整天都處於極端愉快和興奮的狀態。此效應與服用劑量無關，而且瞬間起效。 SCP-449-A不會被消化道或造成外部損傷，但當其被排出或以其他方式移出體外時，它並不再體現異常特性。
+
+SCP-449-A的欣快感會在服用者周圍1300公里以內有人的消化道內有更多SCP-449-A的時候瞬間停止。 直到目前為止，所有獨立的SCP-449實體皆回收自竭力維持SCP-449-A的效應的行為中，包括：
+
+殺死其他最少四名SCP-449使用者。
+長期居住於遠離人口中心的小艇中。
+進行根治性胃部手術以將他們的消化道擴大約3立方米。
+
+在幾乎所有情況下，SCP-449的使用者都放棄進行除生產並服用SCP-449-A以外的一切活動。直到目前為止，在預計100個實體中，有83個已回收。
+
+附錄 449-2：  有幾個SCP-449實體附有以下筆記：
+
+來自the factory的JOY
+
+怎吃都會令你JOY
+
+很不幸遺憾抱歉下略地761哩內會互相干擾
+
+對你來說快樂的方式是成為唯一感受JOY的
+
+JOY JOY JOY 比JOY好
+
+要JOY多少由你決定
+
+用多少JOY帶來喜悅那沒有JOY就有多少憂愁
+
+你合作你背叛你組織你摧毀
+
+你來用
+
+factory 只提供
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                题写
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Dec 2017 23:46
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Mac Video Tutorial
+                      
+              Mac OS X video tutorial i18n subtitles project
+            
+          
+        
+              
+          
+            
+              
+            
+            Arlington, Mass.
+                      
+              The Arlington Wiki - Arlington, MA
+            
+          
+        
+              
+          
+            
+              
+            
+            Eventide MUSH
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            SCPDeclassified Sandbox
+                      
+              Secure. Contain. Protect. Declassify.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

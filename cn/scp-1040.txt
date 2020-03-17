@@ -1,0 +1,267 @@
+                        
+
+项目编号： SCP-1040
+
+项目等级： Safe
+
+特殊收容措施： SCP-1040根据标准Safe级长期储存协议被储存在Storage Site 12（储存单位12）的vault 89-Q5(保险库89-Q5)内且不需要额外维护。
+
+被指定于SCP-1040的新人员应始终称呼项目为确认的身份并被详细的告知对项目的维护。直接暴露于SCP-1040下的非D级人员应在月底被重新指派。
+
+SCP-1040上的所有数据应使用电子方式记录在空文档上以避免项目的效应干扰普通文件程序。
+
+描述： SCP-1040是一台古旧的丝纱罗落地灯，使用铁和彩色玻璃制成。项目没有表现出物理异常属性。当装上一个100瓦灯泡并通电后，SCP-1040就像一台普通落地灯那样运行。
+
+SCP-1040的异常效应会发生在当一个人类测试者对它进行观测或讨论时。受影响的人员会坚定的把SCP-1040拟人化，并把它当做一个男性熟人来交谈。在此影响下，可以提醒受影响测试者SCP-1040只是一台落地灯；尽管如此，即使被如此告之，只削弱了一点点测试者所受到的影响。
+
+测试者不同，他们对项目的称呼和外观描述也不同，不过至今为止这些描述的都是不存在的人。如果一个之前受影响的人“介绍”了一个新测试者给项目，该测试者会继承上一个测试者对项目的身份称呼。1
+
+附录1040-01：回收现场的异常情况 
+
+在██████ ███████死于1991年6月后，SCP-1040被从他家中回收。赶到的特工在现场接触了SCP-1040后把项目“护送”到Site-19，并收容在一个人形项目收容隔间直到确认其异常属性。
+
+留下调查现场的特工报告房间内的所有灯具（包括SCP-1040）都被特异安排过并做了奇怪的装饰。例子包括：
+
+灯具的外部被围上了围巾
+5个台灯和桌灯被安排在沙发上或椅子上并放置在电视，打开的书，和其他娱乐媒介前
+两个手持手电筒部分被衣物所包裹并被放在摇篮内
+房子内的三台落地灯被平放在床上
+
+所有灯具在被回收时都通了电，尽管很多连灯泡都没了。这被认为是房主的死因（因触电导致的心脏问题）
+
+在这些调查后，似乎发现了新的属性。我授权让5个预备被处决的D级人员用于研究该项目的长期影响。  O5-██
+
+附录1040-02：其他发现 
+
+随着对SCP-1040的重复和/或长期直接暴露，受影响个体将开始为其他无生命物体分配独特的身份，即使SCP-1040不在附近。 近似进展如下：
+
+累计暴露时间
+观测到的影响
+
+2个月
+测试者拟人化了所有高于1.25米的可移动灯具。
+
+3个月
+测试者拟人化了所有可移动灯具。测试者详细制定了所有拟人化灯具之间的人际关系，包括友谊，反感，嫉妒，和爱情关系。
+
+6个月
+测试者拟人化了所有用于照明的物品。测试者在没有接触灯具时会变得焦虑和/或沉默寡言并尽量避免与人类接触。
+
+根据这些长期影响，严重警告2级或更高权限的人员不得直接接触SCP-1040。
+
+Footnotes
+1. 批准开发该项目属性以用于促进收容  O5-██
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Jan 2018 08:26
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Wikidot Community
+                      
+              hints / tips / help / discussion
+            
+          
+        
+              
+          
+            
+              
+            
+            Capitol Hill Community Council
+                      
+              a community site
+            
+          
+        
+              
+          
+            
+              
+            
+            RTD1261 MediaPlayer
+                      
+              Tweaking the Realtek RTD1261 Mediaplayer
+            
+          
+        
+              
+          
+            
+              
+            
+            Eventide MUSH
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

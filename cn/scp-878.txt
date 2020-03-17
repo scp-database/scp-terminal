@@ -1,0 +1,231 @@
+                        
+
+SCP-878-2，███████的宣传形象
+
+项目编号： SCP-878
+
+项目等级： Euclid
+
+特殊收容措施： 任何对SCP-878-1或SCP-878-2的物理收容尝试已证明是无效的。所有证据表明在剥离SCP-878-2的情况下，SCP-878-1不具有任何特殊的能力，但SCP-878-2对SCP-878-1表现出了一种天生的保护倾向。对包含SCP-878的媒体的传播与播出进行干涉能够有效抑制其主要影响；基金会人员将对电视、电影以及其它包含SCP-878的媒体进行监测以对其进行抑制。该行动使得自SCP-878被发现以来对其进行的所有收容行动中有78%的案例成功抑制了其影响。除此之外，SCP-878-3的个体可被收容，从而防止其对他人造成伤害；这使得收容效率升高到了95%。
+
+描述： SCP-878是一名艺名为“████ ████████”的男性演员（SCP-878-1），以及一把道具刀（认定为SCP-878-2），其造型接近于6世纪位于███的███████王朝时期的铁质匕首。SCP-878-1在任何电视节目上都没有固定的出演角色，也从未在电影中出演过任何重要的角色。大约每隔█个月，SCP-878-1将在一系列不同的电视剧集、电影或戏剧拍摄/排练过程中出现；剧组成员将忽略SCP-878-1之前的缺席，并为之对剧本进行修改以保证“他”的出演。
+
+在SCP-878-1出现后，当剧情的发展到达某一节点时，由SCP-878-1出演的角色将身处于一场与一名更为重要的角色陷入争执的对手戏中。争执将会升级为斗殴，并且最后的结局是相近的。SCP-878-1将对对手进行无情的殴打，其暴力程度远超使对手失去行动能力所需以及本片通常的要求。当表演对手最后一次站起来时，SCP-878-1将会使用其左手手背击打对象，使其身体瘫倒于一张桌子上或其它相对较高的平面。然后从未知的地方抽出SCP-878-2并将刀刃全部插入表演对手的心脏处。之后SCP-878-1会将面部转向摄像机；在他的眼神与摄像机接触的那一刻，该电视节目将插入广告，电影则会切换到其它场景。而在出演的戏剧中，SCP-878-1则仅仅是消失，所有的观众都无法回忆起SCP-878-1的去向。SCP-878-1将不会再被目击到，他的消失也不会被给出解释。
+
+而表演对手在被“杀死”的那一刻将被认定为SCP-878-3。SCP-878-3将会在事件发生后表现出迥异于其之前性格的异常行为。对象最开始会陷入影响较小的性丑闻或是吸毒丑闻，而在几周内症状将加重为偏执症状或杀人倾向。如果SCP-878在作用时被发现，SCP-878-3可被基金会人员收容，但对象的症状不会因此而减轻，该对象通常将试图杀死其他人或是自杀。鉴于大部分SCP-878-3的个体仅是于公众视界中“消失”，这对非著名演员来说是一个相对普通的结局，故SCP-878-1与其对以上个体产生的影响之间的联系并未引起公众的注意，至于演员的家庭，基金会则会给予一个压力过大的理由作为托词。
+
+就现在来说仅知道他们为单一实体，SCP-878的动机未明。未发现SCP-878-1脱离SCP-878-2于媒体上单独出现的记录，SCP-878-1的真实身份未知。目前正在审查SCP-878作为收容广播类异常（像是SCP-1241）的手段之控管使用提案。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                表演
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Jul 2017 23:55
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP基金会小马国分部
+                      
+              控制 • 收容 • 保护
+            
+          
+        
+              
+          
+            
+              
+            
+            Wayward Society Sandbox
+                      
+              Even secret societies need to draft.
+            
+          
+        
+              
+          
+            
+              
+            
+            Great Hyderabad Adventure Club
+                      
+              Advenutre and Nature Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Chaos  Complexity Theories in Education Group
+                      
+              Also a Special Interest Group of the American Educational Research Association
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,249 @@
+                        
+
+項目編號： SCP-218
+
+項目等級： Euclid
+
+特殊收容措施： SCP-218現收容於一個標準水族標本缸裡。水缸只能由無人機負責進行維護。現時無需進一步的收容措施。
+
+描述： SCP-218是一群現重約1800公斤，由幾百頭屬七鰓鰻科，現命名為異七鰓鰻(Petromyzon anomalis1)的寄生性七鰓鰻組成的掠食性有機體群落。異七鰓鰻個體的長度為平均介乎50至90厘米之間，外表和一般的海七鰓鰻(Petromyzon marinus)相似，但不同之處在於其有著複雜的紫外線外皮圖案。七鰓鰻個體能脫離主體，並以類似於非異常個體的方式自力移動。這些游離單位會待在SCP-218主體附近，直至被群落成員捕食為止。SCP-218的核心質量包含有生物體的主要器官，以及一只用作移動之用的肉足。SCP-218能離開水中長達一小時，但這會大幅限制其移動能力。
+
+SCP-218的游離單位會產生一種麻痺毒素，並能透過咬噬或通過七鰓鰻的黏液鞘發揮作用。這種毒素會抑制肌肉運動並麻痺對象的痛覺—其他內部及心理過程則繼續不受影響。麻痺效應仍未觀察到會自行消失，而且仍未找到有效的抵抗方法。
+
+早期觀察使研究員相信SCP-218能透過游離單位對寄主進行寄生植入以進行複製—此行為已確認為非典型攝食行為，大量游離單位會在仍然活著的獵物體內挖洞，直到回到正常攝食行為前此行為可長達48小時。
+
+附錄-01： 在收容SCP-218後不久對其進行的檢查中發現，其主體腔內藏有一些外來的物品。SCP-218從收容缸中被移出並麻醉以進行手術。
+
+從SCP-218中移除的物品包括：
+
+33顆平均直徑3厘米的珍珠。每顆皆被鑽透，表明它們先前為一條項鏈的一部份。
+1尊以平滑的珊瑚雕刻而成的海豚雕像。
+2個金手鐲
+4個骨髮夾
+1柄龜殼梳
+1尊SCP-218的骨雕像。有著因被手持而嚴重磨損的跡象。
+1具人類骸骨，屬於一名估計約4-6歲的未成年女性。骸骨的一致性和白堊類似，並嵌有135枚珍珠。
+肩胛骨(相信來自一頭紅鹿)—刻有三個人形人物，兩名成人及一名小童。推測為對象及其家長。
+
+骸骨和文物皆來自約公元前7500年，但它們和其他已發掘地區的新石器時代群落的文物並不相似。
+
+附錄-02：  SCP-218的行為在移走上述物品後明顯變得更激動了：個體會重複拍打或試圖攀過缸壁。
+
+當將一個髮夾放回收容缸時，SCP-218用它的其中一名群體成員接住髮夾，並透過一個大括約肌將其放回中中央腔室。這背括約肌直到移走屍體及文物前為止都未曾存在過。
+
+Footnotes
+1. 譯注： 作者的自作品種，anomalis即拉丁語中的「異常」的意思。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                活物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Jan 2018 02:54
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            מבני נתונים
+                      
+              סמסטר בע
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiNorron
+                      
+              Almost as good as the guide, maybe better!
+            
+          
+        
+              
+          
+            
+              
+            
+            Wiki.PKP.in
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Managing Information Systems
+                      
+              BUA 581 - Rick Sprenkle
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

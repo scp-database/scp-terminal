@@ -1,0 +1,263 @@
+                        
+
+項目編號： SCP-CN-764
+
+項目等級： Safe Euclid
+
+特殊收容措施： SCP-CN-764必須被收容在標準的異常文件收容箱。根據特別命令SCP-CN-764-1，任何研究人員可在口頭報備後自由調用，需注意使用項目時不得攜帶任何形式的紀錄器材。
+
+SCP-CN-764必須被收容在標準的異常文件收容箱並永久封存監視。
+
+在負責保存項目的收容所內嚴禁所有人員使用白色筆記本。
+
+描述： SCP-CN-764是一本A4大小的白色筆記本。在清理於事故SCP-███中殉職的D███博士辦公桌時發現。並於隨後確認其異常性質。
+
+在筆記本任何頁數的首行寫上實存的對象名稱後，書寫者將短暫消失，並固定於30秒後重新出現於原地。此時該頁將自動浮現出對對象進行實驗的相關資訊與紀錄。該紀錄所使用的筆跡、語言、格式行文風格與相關知識的水平都與書寫者相符；但重新出現後的書寫者對於消失期間的事態毫無記憶。
+
+所有SCP-CN-764所呈現的紀錄被證實大體正確。
+
+極少數狀況下，書寫者將不會重新出現；此時該頁仍將於30秒後浮現出紀錄，但在紀錄末尾處必以一場帶走了實驗者性命的實驗事故作結。
+
+以SCP項目編號進行的書寫被證實有效。並且當書寫者為基金會研究人員時，浮現出的紀錄將與基金會檔案格式一致，並將額外包含SCP的描述、項目等級、收容措施、以及實驗紀錄等詳盡資訊。已確認來自中國支部的編號同樣有效。值得注意的是，SCP-CN-764浮現的所有實驗紀錄中，一切日期、人名、負責人等訊息一律被以［███］遮蔽，以致無法查證被記載的參與人員為何。
+
+於實驗SCP-CN-764-1中，嘗試對書寫者預先裝配攝影機，並於書寫者重新出現後回收。對回收影像的分析顯示出遠遠超過30秒的錄影長度，並拍攝到了[數據刪除]。自此次實驗以後，所有裝配了攝影機或其他形式紀錄設備的書寫者於消失後都不再重新出現。
+
+寫上不存在的對象時，書寫者於消失後將不會再度出現，也不會浮現出任何實驗紀錄。
+
+但是，寫上SCP-CN-764的場合將引發[數據刪除]。
+
++特別命令SCP-CN-764-1:
+
+-特別命令SCP-CN-764-1:
+
+鑒於SCP項目的急遽增加以及SCP-CN-764的實用性質，開放各研究人員在口頭報備後自由調用SCP-CN-764，以加速基金會對SCP的解明與掌握。
+
++R███博士的緊急報告:
+
+-R███博士的緊急報告:
+
+包含事故██、事故████、以及事故███在內，一連串的收容失效證實了SCP-CN-764所記載的［每一個］SCP資訊，在收容措施上都存在程度不一的惡意隱瞞。這些受隱瞞的部份幾乎無一例外將導致收容失效，甚至會加劇收容失效時所產生的破壞。這表明了SCP-CN-764不能再被視為一種節省時間與經費的便宜方式無論［30秒讓你解明一個SCP］具有多大吸引力。
+
+要求撤銷特別命令SCP-CN-764-1，並即刻成立特別小組，徹底清點我們究竟有哪些SCP的項目檔案未曾［在此世］被實驗，而僅僅是透過SCP-CN-764照抄的———否則我們將面對更多收容失效的SCP。
+
+許可 ——O5-██
+
++SCP-CN-764特別小組報告:
+
+-SCP-CN-764特別小組報告:
+
+情況比原先想像的更加嚴峻，各種跡象都指出SCP-CN-764在被編號以前就存在於基金會 祈禱在我們完成這項工作前不會繼續發生收容失效問題。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                知识
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Apr 2018 12:38
+            
+            编辑
++15)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Potters Army
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            odriNET
+                      
+              Odrin Topluluğu Veritabanı v.4.0.4
+            
+          
+        
+              
+          
+            
+              
+            
+            Managing Information Systems
+                      
+              BUA 581 - Rick Sprenkle
+            
+          
+        
+              
+          
+            
+              
+            
+            Criminal Justice Collaboratory
+                      
+              Colby Community College
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

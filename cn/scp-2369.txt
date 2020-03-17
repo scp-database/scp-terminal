@@ -1,0 +1,248 @@
+                        
+
+项目编号： SCP-2369
+
+项目等级： Euclid
+
+特殊收容措施： 基金会购买了SCP-2369和两个相邻该项目的住宅，以此用于收容。在项目保安人员认为有必要的情况下，所有未经授权的人员都将被拘留，盘问并施予A级记忆消除。
+
+所有针对于SCP-2369的实验只能由D级人员进行，并需要事先得到至少一（1）名4级站点主管的许可。
+
+描述： SCP-2369是一错层式住宅，共拥有三个卧室以及两个浴室。SCP-2369位于爱荷华州[数据删除]的郊区，该项目的室内装饰为法国乡村风格，且项目内所有家居设备齐全并可以直接入住。经由调查，基金会无法确定SCP-2369是于何时被建造以及由谁建造；居住在该项目附近的临近房屋住户在被询问关于SCP-2369的信息时表现出无法回忆有关其建筑的任何信息，并且有关该住所的城市记录均已丢失或损坏。
+
+当SCP-2369内至少有两个活着的人员并且项目的前门与后门均关闭时，SCP-2369将从内部发出致命性的闪光，所有处于房屋内部人员均会消失。此外，SCP-2369的内部将进行重置使项目内部恢复为初始状态，所有拆除或损坏的家具将被恢复。引入SCP-2369内部的任何外来物品或家具同样会消失。SCP-2369仅在其内部至少拥有一名男性和一名女性人员时才会激活，到目前为止，尚未发现任何参与激活事件的人。在D级人员上装配GPS定位跟踪设备以确认人员位置的实验尚未成功。
+
+SCP-2369是在[数据删除]中有失踪家庭报告后被发现的。经由项目附近有关邻居通知当地执法部门后，当地执法部门的警察于强行进入项目并发现项目处于原始状态，在房屋内执法人员意外关闭前门之前，其们并未发现任何关于该家庭的财物踪迹。基金会于该事件后得到通知，并派遣基金会收容小组收容了该区域，为所有目击者均被施予了A级记忆消除，并该事件进行掩饰。
+
+附录2369-1： 事件报告
+
+于████-██-██，两名后来被确认为James[数据删除]与Valerie[数据删除]女士的人员闯入了SCP-2369内企图盗窃，该两名人员后经确认涉及大量的武装抢劫与谋杀的犯罪记录。该人员组合被确认为持有武装且高度危险的逃犯后，现场基金会安保人员被命令不对该人员组合的犯罪活动进行干预并并准备接应来自Site-██的战术反应小组。但SCP-2369被激活了。
+
+大约四个小时后，基金会人员在SCP-2369内发现了另一道闪光。现场人员于调查后发现[数据删除]先生和女士的存在，以及他们用来强行进入SCP-2369的工具，各种个人物品和两个被拆卸的手枪。 [数据删除]女士被发现位于项目后门附近并处于狂躁状态，基金会人员使用镇静剂将其制服。[数据删除]先生被发现昏迷于客厅中但依旧保持生命迹象，其脖子上缠着一段未经检明的塑料。在医务人员拿取缠在[数据删除]先生脖子上塑料后，[数据删除]先生的头部脱离了他的身体，其所有的生命迹象均已消失。经后续鉴定该塑料与普通的压敏胶带于化学特征上表现一致，并且本身没有表现出任何异常性质。
+
+经由对SCP-2369的全面搜索，基金会人员于客厅桌子底下发现了一张手写便条：
+
+敬启者：
+
+您的产品十分的暴力，且完全不适合任何儿童使用。我着实地感到惊讶；若我不是一个细心的母亲，它能轻易的对身体造成伤害。
+
+我要求立即全额退款。
+
+此致
+
+[数据删除]
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            30 Dec 2019 00:09
+            
+            编辑
+0)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Early Childhood Program Administration
+                      
+              Resources, Training, Best Practices, Sharing
+            
+          
+        
+              
+          
+            
+              
+            
+            The Exploring Our World Wiki
+                      
+              A Site for Everyone Interested in Teaching and Learning
+            
+          
+        
+              
+          
+            
+              
+            
+            Scala Geography Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Dragon Trees
+                      
+              A Dragon Cave Fansite
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

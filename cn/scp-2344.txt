@@ -1,0 +1,269 @@
+                        
+
+收容初期时SCP-2344的入口。
+
+SCP-2344的内部景象。
+
+    
+
+项目编号： SCP-2344
+
+项目等级： Euclid
+
+特殊收容措施： 现已建立临时站点Site-93用于收容SCP-2344。除非另有规定，否则Site-93的安保应遵循标准C型异常地点收容程序。SCP-2344内部的探索应由MTF Eta-13（“格列佛旅者”）进行。任何意外离开SCP-2344的物体或实体都将被扣留且隔离，直至确认其能力与意图。Site-93与SCP-2344前哨间的交互应由两个站点的司令部自行决断。
+
+描述： SCP-2344是一系列的，贯穿数个超维度空间并扩展至现实的隧道。项目通常以挖穿土壤的管状隧道的形式出现，但在隧道系统的不同位置可能会表现出不同的形式。尽管隧道在某些特定区域的结构是非欧几里得的，但自发现以来项目的拓扑布局未曾发生改变。
+
+SCP-2344可以通过一个位于经度██.████° ，纬度██.████°的入口（见上图）进入。该入口由大量木棍组成，外形类似门框，改变这些木棍的位置或形状的尝试均告失败。当与至少7克的Gallus（原鸡属）的组织保持物理接触，并同时从项目的西北侧穿向东北侧时，可以通过该入口进入SCP-2344。虽然其它的激活SCP-2344的其它入口的方式被证明是偶尔有效的，但在穿过入口的同时与至少7克的Gallus（原鸡属）生物的组织或局部等效物保持物理接触的方式已被证明是最为普遍有效的一种。
+
+一些通往现实中其他地点的出口位于项目内的各个地点。大约13.4%的出口通向LoI Alpha-4（“被放逐者之图书馆”），由于异常与超自然政治的原因，在最坏的情况这些入口下是完全无法使用的，而且即使在最好的情况下，使用它们也是很不明智的举动。其余的出口通向不同的地点1（被指定为SCP-2344-1），但它们中的绝大多数位于靠近人类文明的位置。
+
+MTF Eta-13目前已经与0种不同的文化建立了联系。
+
+附录： 基金会初次介入SCP-2344之后的部分的时间线如下：
+
+1997年8月7日：初步建立收容设施。
+1997年8月21日：一支主要由MTFEta-13组成的探索队伍首次进入SCP-2344，之后探索队带着对SCP-2344的初步评估返回。
+1997年9月3日：MTF Eta-13再次探索SCP-2344内部以寻找另一个出口。
+1997年9月5日：与探索队伍的联系中断。Eya-13的全部成员均被宣布为MIA。
+1998年2月13日：MTF Eta-13意外的从SCP-2344中返回，他们按照标准程序被暂时收容与隔离。队伍成员报告称他们与居住于一处SCP-2344-1（SCP-2344-1-Alpha）的居民取得了联系，并与其建立了基本的外交关系。
+1998年4月20日：MTF Eta-13与五名基金会异常外交官和代表一同返回SCP-2344-1-Alpha。随后正式建立了外交关系。
+1999年6月7日：基金会大使馆（阿姆斯特朗前哨站）在SCP-2344-1-Alpha中建成。
+1999年7月10日：MTF Eta-13开始深入探索SCP-2344，分别与SCP-2344-1-Beta，SCP-2344-1-Gamma和LoI Alpha-4建立了联系。
+1999年12月21日：开始与SCP-2344-1-Alpha进行有限制的人员交换。
+2000年1月1日：MTF Eta-13被指派负责所有对SCP-2344与SCP-2344-1的后续探索。
+
+附加记录：
+
+附录： 前哨站相关信息。
+
+前哨站被设计为基金会外交事务部门的外部分支设施。每一个前哨站都是纬度外/地外基金会站点，同时也起联合大使馆，仓储地点，以及基金会特工的住所的作用。此外，这些前哨站均收容有从他们各自所在的SCP-2344-1实例通向SCP-2344的入口。以下是前哨站的列表：
+
+阿姆斯特朗前哨站（SCP-2344-1-Alpha）
+阿蒙森前哨站（SCP-2344-1-Delta）
+亚德前哨站（SCP-2344-1-Psi）
+马可波罗前哨站（SCP-2344-1-Mu）
+
+有关前哨站，它们所在的SCP-2344-1实例及当地文化的信息，请联系前哨站或是Site-93的HMCL主管获取。
+
+脚注
+1. 经确认包含有通往beta纬度，多元宇宙，超时空，外太空或是其他环境的出口。
+
+    
+    
+    
+    
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                超维度
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Feb 2020 14:36
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Astellia Tips
+                      
+              Astellia Tips  Tricks
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Foundation
+                      
+              Underrepresented Languages Incubator
+            
+          
+        
+              
+          
+            
+              
+            
+            Steel and Stone
+                      
+              Wagering Lives to the Blade
+            
+          
+        
+              
+          
+            
+              
+            
+            AQW
+                      
+              AQWorlds Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

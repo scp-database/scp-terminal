@@ -1,0 +1,246 @@
+                        
+
+项目编号： SCP-3166
+
+项目等级： Euclid
+
+特殊收容措施： 《加菲猫》媒体品牌系列将维持活动并尽可能保持成功。基金会在漫画电影业的前台公司将资助任何《加菲猫》媒体活动。潜伏于Paws有限公司2内的特工将在出版的漫画连载中投放定向模因触媒，以鼓励《加菲猫》系列维持有可观爱好者基础，并劝阻吉姆·戴维斯中止《加菲猫》。
+
+特工将监控遭SCP-3166攻击风险高的人员。若出现SCP-3166显现，特工将使用供应的冷冻千层面引开SCP-3166，将其驱出公众视线外。目击者将以其暴露程度施以适当的记忆删除。
+
+描述： SCP-3166是一2.1米高人形实体，推测具超形上学性质，已知其会在《加菲猫》媒体品牌系列在公众反馈中表现不佳时出现。SCP-3166的外层身体类似一制作粗糙的加菲猫角色戏服，实地检测发现其由真正的猫毛组成。然而，实地分析SCP-3166发现其内部物质完全为意大利面食组成，具体而言是千层面。
+
+在其显现条件满足后，SCP-3166会出现在一适宜人员附近，称之为目标，并向其所在地移动。SCP-3166的已知目标包括：
+
+积极参与到与《加菲猫》品牌系列竞争媒体的人员
+曾参加了《加菲猫》连环漫画出品的人员
+参与戏仿《加菲猫》品牌系列的人员
+口头批判《加菲猫》者
+《加菲猫》作者吉姆·戴维斯3
+
+在靠近目标后，SCP-3166会尝试用附近物品钝击对方、并自我剖腹取出千层面来强制喂食对方，以试图对其造成身体伤害。此过程中，SCP-3166会发出极度激动的猫所发出的喵叫声、咕噜声及尖叫声。来自SCP-3166体外的千层面被证实能有效引诱该实体，SCP-3166会在看见它后放弃原目标，改为试图将这些意面吞入自身。
+
+SCP-3166于10/23/1989初次显现在当时《加菲猫》连环漫画出版商联合传媒的芝加哥办公室内，其为。在显现后，SCP-3166以困惑而紧张的模式游荡在办公室里，在保安试图抓捕它时开始无差别攻击人员。它在十二分钟后消失。基金会特工响应后相应进行记忆删除。
+
+接下来一周内，类似显现出现在该县周边多个联合传媒办公室，结束于10/29/1989。在此日期后，SCP-3166的行为变化为当前模式。参见增补材料3166-1内10/23/1989开始的《加菲猫》连环漫画。起初，参与《加菲猫》连环漫画的人员称对这一周的连载内容没有记忆。所有处置SCP-3166收容的研究员应熟悉此材料内容。
+
+附录3166-1： 特工Muller于SCP-3166最近的显现中采集到组织样本，基因分析千层面内出现的肉类后，发现其与《加菲猫》作者吉姆·戴维斯在基因上相同。当前未知这有何意味。然而，在收容团队监控戴维斯期间，他曾多次在SCP-3166即将显现前抱怨夜里有蚊虫叮咬。
+
+脚注
+1. 《加菲猫》版权的唯一拥有者。
+2. 《加菲猫》连环漫画的主要发布者。
+3. 这发生在《加菲猫》所受负面反馈可被归结到戴维斯对品牌系列的管理上时。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                食物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            31 Aug 2019 06:45
+            
+            编辑
++1)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            iRacing.com Wiki
+                      
+              Your one-stop-shop for all iRacing setup help and knowledge.
+            
+          
+        
+              
+          
+            
+              
+            
+            Fondation SCP
+                      
+              Branche Francophone
+            
+          
+        
+              
+          
+            
+              
+            
+            Larpard
+                      
+              Vše nejen o larpech ve východních Čechách
+            
+          
+        
+              
+          
+            
+              
+            
+            Frontman Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

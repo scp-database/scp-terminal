@@ -1,0 +1,241 @@
+                        
+
+一名MTF-丙申-05成员正在远处观察一个SCP-CN-1619种群。
+
+项目编号： SCP-CN-1619
+
+项目等级： Euclid
+
+特殊收容措施： MTF-丙申-05“黑领鸲莺”将对目前已发现并定位的 14 个SCP-CN-1619种群进行追踪，并尽量捕捉活体SCP-CN-1619。若成功捕获SCP-CN-1619，应立即送往Site-CN-75-C7在中国塔克拉玛干沙漠边界设立的临时站点对其进行研究分析。禁止SCP-CN-1619直接接触任何水，若发现SCP-CN-1619种群朝绿洲方向前进，MTF-丙申-05将人为在其前进方向上制造风暴，遮蔽该SCP-CN-1619种群对绿洲的视野以避免其死亡。
+
+MTF-丙申-05需确保在监视的SCP-CN-1619数量不低于200只。
+
+描述： SCP-CN-1619是一种小红鹳（Phoeniconaias minor）外形的实体，身体完全由沙子构成，主要分布于中国塔克拉玛干沙漠中部。SCP-CN-1619不需要进食、呼吸和新陈代谢，目前未知其维生手段。SCP-CN-1619一般出现在形状近似椭圆的岩石内，该岩石会因异常原因而变得中空且充满纤维状粘蛋白；当SCP-CN-1619在岩石内生长到一定阶段后，将会用其喙部的沙砾尝试击穿岩石，但一般情况下无法击穿岩石并在一段时间后死亡，SCP-CN-1619种群也因此数量极为稀缺。
+
+若SCP-CN-1619成功脱离卵状岩石，其身体将会开始逐渐变化为成年体的小红鹳外形，并与其他SCP-CN-1619个体组成群落一起生活，每个群落一般有4-12个SCP-CN-1619组成。SCP-CN-1619的身体能够完全融入其生存环境的沙漠之中，但其倾向于维持小红鹳的外形。SCP-CN-1619会一直尝试跃起及将自身脱离非身体构成部分的沙子以尽量久地维持其小红鹳外形，但受重力影响，SCP-CN-1619将重新落入沙漠中变为零散的沙子，随后SCP-CN-1619会再次尝试跃起；SCP-CN-1619在脱离卵状岩石后的三天时间内会一直进行此行为，直至3天后死去，其身体将会失去异常性质。
+
+若SCP-CN-1619周围视野范围内存在水，其将会尽其所能获得水。研究小组内存在一种假说，即SCP-CN-1619会倾向于展现自身的原貌而非融入沙子中无法辨认；就该假说所提及关于SCP-CN-1619存在智能的观点有待进一步验证。
+
+SCP-CN-1619发现于07/02/2017，当时在中国塔克拉玛干沙漠中部执行收容任务的李享特工在一大块岩壁下躲避阳光进行饮水，在一旁的沙堆中突然窜出一SCP-CN-1619实体并开始用喙抢夺李享特工手中的水壶，但每次尝试都会随着身体被李享特工打散而失败。在SCP-CN-1619进行了数次尝试后，李享特工将水壶重新存放回背包，并向负责此次收容行动的Site-CN-75指挥部报告了SCP-CN-1619的存在。就此建立了SCP-CN-1619项目。
+
+附录A： 于30/03/2018的一次野外遭遇中，外勤人员向该SCP-CN-1619种群示意装有水的水壶。在随后的11小时里，该SCP-CN-1619种群一直尝试突破人员的车辆以获得水分。外勤人员于12小时后被解救离开该区域。
+
+附录B： 于02/04/2019，Site-CN-75出动17辆C类探索车及2艘用于追踪野外异常的无人机对一个数量约为12只的SCP-CN-1619种群进行追踪，此前MTF-丙申-05已对该种群进行了长达半年的追踪调查，并在耗费了5个小时后成功捕获一只幼年的SCP-CN-1619。MTF-丙申-05人员立即将该SCP-CN-1619运送回Site-CN-75-C7进行相关研究分析。当天，在一项有关SCP-CN-1619摄入水分后的情况研究中，Mark Henry博士用一常规花洒向该SCP-CN-1619洒水，SCP-CN-1619受到水流的冲击后迅速被冲散，且不再恢复原状，研究人员确信该SCP-CN-1619已死亡。在SCP-CN-1619被冲散的位置留下了三枚直径约为1cm的球状岩石，岩石内均为一小红鹳幼年骨骸。
+
+附录C： 于11/04/2019，MTF-丙申-05发现数个SCP-CN-1619种群向塔克拉玛干沙漠边界进行大规模迁徙现象，据人员分析推测此迁徙现象与当时塔克拉玛干沙漠边界的一场小雨有关。由于数量庞大，MTF-丙申-05未能及时阻止，导致约有600个SCP-CN-1619因此死去。在事件后，依旧存在有部分SCP-CN-1619种群向塔克拉玛干沙漠边界移动的迹象。
+
+附录D： 截至于02/05/2019，目前在记录并实施定位的SCP-CN-1619仅有 148 只。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2019 02:10
+            
+            编辑
++23)
+标签
+讨论 (8)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Unofficial Kingdom Conquest Wiki
+                      
+              Seven towers to rule them all...
+            
+          
+        
+              
+          
+            
+              
+            
+            TalkingPad Project
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Captain Barefoot
+                      
+              The naturist guide to the Greek Islands
+            
+          
+        
+              
+          
+            
+              
+            
+            ISTAR
+                      
+              International Society for Testate Amoeba Research
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

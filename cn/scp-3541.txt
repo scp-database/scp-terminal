@@ -1,0 +1,270 @@
+                        
+
+项目编号： SCP-3541
+
+项目等级： Keter
+
+特殊收容措施： 现有研究显示不可能阻碍或防止SCP-3541。因此，对于SCP-3541的收容包括确保所有SCP-3541-1实体均具有安全，始终如一的场所以使其开展工作。
+
+机动特遣队Omega-13已被建立以发现尽可能多的SCP-3541-1实体。机动特遣队Omega-13为自愿加入，并且其职工仍可选择继续其原工作及研究。他们将在被确定为SCP-3541-1实体后被告知SCP-3541之效果。
+
+如果机动特遣队Omega-13于平民内发现了SCP-3541-1实体，他们将告知现任对SCP-3541收容所负责的主任。随即，主任将构建一处可使实体不受干涉的工作以及为受影响的人提供咨询和心理治疗服务的工作场所。职工不应积极告知SCP-3541-1实体SCP-3541，但被问及的时候可以泄露这些信息。
+
+所有被SCP-3541-1实体所创造的物品必须为了人性之善所使用。鉴于这些物品并不会负面影响基金会之行动保密性，它们应被尽快向公众解密并传播。
+
+描述： SCP-3541为一种能产生SCP-3541-1实体，以及随后的死亡的随机发生现象。SCP-3541-1已经被在所有工作和教育领域内记录发生。目前对于SCP-3541事件的发生的预测以及会转变为SCP-3541-1的人员没有已知的迹象。自基金会发现此现象后，SCP-3541事件发生率每年增加百分之四。
+
+SCP-3541-1实体为一位被SCP-3541所影响的特定职业，领域或焦点的专家的人类。在人类被转化为实体后，因其在其领域中所提供的极高质量的工作，他们将很快名声显著。SCP-3541-1实体的在科学领域内的创造物被高度重视，并时常对新发现作出极大的贡献。在艺术领域内的创造非常成功并且会因其深度及情绪之深而受到赞赏。
+
+SCP-3541-1实体均具有一浮在其头上的虚灵的金冠。这些冠仅对其他SCP-3541-1可见。除冠之外，在物理上、智力上以及情绪上均无法分别SCP-3541-1实体与普通人。统计数据已显明人被影响之前之后亦无差距。
+
+在人被转化为SCP-3541-1实体的五年之后，他们会死去。试图防止这些死亡的所有尝试均已失败。死亡方法各不相同，但通常是因创伤及化学方法——通常是由自我造成的。当一位SCP-3541-1实体死亡时，其神经系统将立即进入热活动增强状态，并导致严重的脑及其他重要器官的损伤。
+
+附录： 以下诗歌是Samuel Friedrich，一位知名的异常艺术及基金会线人的最后作品。Friedrich是第一位告知基金会有关SCP-3541的人。
+
+吾于窥一心
+
+赤焰熔如金
+
+镜亦暗沉沉
+
+翳眼目无睛
+
+吾于立凛冽
+
+层峦黑崖曳
+
+恶眼如狼虎
+
+贪婪啮齿切
+
+其言不得解
+
+饥饿同吾写
+
+其意不得思
+
+寻寻觅无之
+
+吾于坠千楼
+
+怅望可足否
+
+心仍窥吾惘
+
+焰于灭烬悲
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                活物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Dec 2018 06:05
+            
+            编辑
++1)
+标签
+讨论 (5)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Microbiology@Morningside
+                      
+              The wiki for students in BIO 252 at Morningside
+            
+          
+        
+              
+          
+            
+              
+            
+            NauticoAmager
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Ars Magica holy magic
+                      
+              Holy Magic covenant project
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot Community
+                      
+              hints / tips / help / discussion
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

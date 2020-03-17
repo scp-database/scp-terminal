@@ -1,0 +1,280 @@
+                        
+
+项目编号： SCP-3907
+
+项目等级： Euclid
+
+特殊收容措施： SCP-3907及其周围的场地应由125米 x 125米的围栏围起，至少有一部分篱笆能一直遮蔽视线。所有SCP-3907实体都应由现场工作人员监视，并且任何异常都应立即报告。
+
+描述： SCP-3907是一张可追溯到1908年的橡木桌子，配有7把椅子，桌布和各种白瓷餐具。它的外表为异乎寻常的原始状态， SCP-3907不会受到任何破坏或磨损的影响。SCP-3907的主要异常表现于激活事件，其中SCP-3907-1至-5出现在SCP-3907周围的椅子上。激活事件不遵循任何固定模式，似乎是随机发生的。
+
+SCP-3907-1到-5指的是在SCP-3907上出现的5个人形实体。除了SCP-3907周围没有观察到任何异常出现。这些实体穿着英国军队1915年的制服，实体展示有关英军的大量知识和作战经验，并经常谈论他们在1880年至1915年间的各种英国军事行动中的功绩伟事。在激活事件期间，SCP-3907-1至-5将交谈并使用SCP-3907上的餐具进餐，并且只有在被SCP-3907-6打断时会停止动作。
+
+SCP-3907-6是指骑马的人形实体。 SCP-3907-6穿着与所有其他SCP-3907实体相同的制服，腰部以下的衣服上有明显的炭化和爆炸伤害。在所有记录的SCP-3907激活事件中，SCP-3907-6会以18公里/小时的速度从地平线上没有人看到的地方开始奔跑。它总会朝着SCP-3907所在的方向前进并最终跳过桌子和用餐的实体。 SCP-3907-6跳过桌子并着陆则会结束激活事件。
+
+附录-1：SCP-3907激活事件的示例。 
+附加记录：
+
+SCP-3907-2： 先生们。
+
+SCP-3907-3： 晚好，John，男士们。
+
+SCP-3907-2： 今晚真棒啊，天气恰到好处，让我想起了在约克的童年时代。
+
+SCP-3907-4： 德兰士瓦的天气无人能及。
+
+SCP-3907-5： 基督活着，那会是地狱一般。如果该死的布尔人并没有试图杀死你，那片土地就会像熔炉一样。
+
+SCP-3907-5： Allen，你想谈谈南非有多糟糕，但你在阿富汗一分钟都坚持不了。想象一下，如果你愿意：在寒冷的夜晚颤抖，又在90摄氏度1的一天被唤醒。你队伍中的三个人在行进中死亡，一半食物被当地人夺走。然后你去巡逻，穿着鲜红色的制服对抗棕褐色的石头。突之间，一百万个头巾从上面的岩石中弹出，而你队伍中一半的人手已经死了。你试图还击，但是当你放下你的武器时，那些混蛋已经在回喀布尔的半路上了！
+
+SCP-3907-2： 拜托了，Edward。你从来没有见过一千个东方人，像受到惊吓一样嚎叫，只用一支步枪冲向一条小巷，你的智慧将你与他们分开。
+
+SCP-3907-3： 在我再次夺回弗兰德之前我会去上海一百万次。
+
+一直沉默不语的SCP-3907-1大声疾呼
+
+SCP-3907-1： 我不能回到那里。
+
+这群人变得忧郁起来
+
+SCP-3907-1： *忍着眼泪*我不是故意的。我不可能知道。这令我无法接受。
+
+SCP-3907-2： 我没关系，Murphy。我们都不是故意的。这不是你的错。
+
+SCP-3907-1： 他死了。我们也是，都是因为我。对不起。
+
+SCP-3907-5： Murphy，你不可能知道手榴弹是装药的
+
+SCP-3907-2： 先生们。停一下。
+
+此时，SCP-3907-6出现并开始接近
+
+SCP-3907-2： 时间到了，小伙子们。看起来是时候回去了。战壕中见。
+
+SCP-3907-2站立并举起酒杯敬酒
+
+SCP-3907-2： 敬阵亡者。
+
+SCP-3907-1和SCP-3907-3-5站立并举杯
+
+全员齐声： 敬阵亡者。
+
+SCP-3907-6在实体完成敬酒时跳过桌子。 SCP-3907回到无效状态
+附加记录：
+
+脚注
+1. 原文为90°，此处为译者改动
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                需更新
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            22 Nov 2019 15:52
+            
+            编辑
+-3)
+标签
+讨论 (10)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            the Paperworks
+                      
+              codename /pw/
+            
+          
+        
+              
+          
+            
+              
+            
+            Khais personal knowledge vault.
+                      
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
+            
+          
+        
+              
+          
+            
+              
+            
+            Sistemas Digitales
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Early Childhood Program Administration
+                      
+              Resources, Training, Best Practices, Sharing
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,253 @@
+                        
+
+您最好的朋友
+
+商品编号： SCP-CN-392
+
+商品等级： 便宜
+
+特殊销售措施： 不需要
+
+描述： SCP-CN-392是一只雌性Nymphicus hollandicus，即玄凤鹦鹉。当项目被提及时，描述者会将SCP-CN-392当作商品，并强迫性地反复向听众推销，直到有人表示愿意购买为止。之后描述者将会忘记一切关于SCP-CN-392的信息。它没有别的异常性质，非常亲近人，是理想的宠物，只卖五十块钱。它非常容易饲养，喂些谷物和水就能活。本品喜欢站在主人的肩膀上和头上，并从不在您头上拉屎。它非常爱干净，如果有条件甚至会主动洗澡，您完全不需要为卫生问题费心。它虽然暂时不会讲话，但是会唱一小段陆行鸟之歌1。我相信它能给您带来无穷的快乐。
+
+本品唯一的缺陷是，当您提及它时，会不由自主地推销它。这意味着如果您购买它，就不能向任何人说起它，否则它就会变成别人的小鸟。毕竟不会有谁听说有这样的一只可爱小鸟却不来买它。然而我现在正向您介绍它呢，这意味着它是您的小鸟了。
+
+发现： SCP-CN-392在PoI-9242的家中被发现，它有着非常悲惨的过去，这使您更加怜爱它，无良的PoI-9242竟利用SCP-CN-392诈骗。事情的起因是这样的，由于本品的模因影响，其需求价格弹性2极低。PoI-9242提高本品价格至30亿元，并成功完成一起交易。由于金额过大，引起了当地警方的注意，PoI-9242速被逮捕。本品于是被带到基金会。值得注意的是任何国家都不应该利用SCP-CN-392增加其GDP。
+
+附录1： 滞销记录392-A
+
+您最棒的战斗鸡
+
+███研究员将SCP-CN-392错误定位为“高性能战斗鸡”，并将本品与Site-CN-75捆绑销售。听说本品之后，数百名基金会员工开始帮助███研究员销售SCP-CN-392，但无一人表现出购买欲望。最终基金会买下了本品和Site-CN-75。███研究员被告知自己中了彩票。此事应严格保密。
+
+附录2： 项目负责人Dorothy研究员与Site-CN-██主管的通信记录
+
+尊敬的Site-CN-██主管：
+
+项目说妈的。可能是刚学会的，现在天天说。求求您买它，我倒贴。
+
+Dorothy研究员
+附加记录：
+
+提议被否决。
+
+Site-CN-██主管███
+附加记录：
+
+Footnotes
+1. 出自系列游戏最终幻想的背景音乐
+2. 市场商品需求量对于价格变动作出反应的敏感程度。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Jun 2018 02:49
+            
+            编辑
++55)
+标签
+讨论 (26)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Rhyes of Wiki
+                      
+              Wiki for Rhyes mods and general awesomeness
+            
+          
+        
+              
+          
+            
+              
+            
+            Radiohub
+                      
+              Lossless Radiohead Hub Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            UBMedicineFAQ
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Puppet中文wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

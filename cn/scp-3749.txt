@@ -1,0 +1,237 @@
+                        
+
+项目编号： SCP-3749
+
+项目等级： Safe
+
+特殊收容措施： SCP-3749-A被收容于一个形状与之贴合的密封匣内，内衬减震凝胶，放置在配备了空气锁的真空密封舱内。地板下的电磁铁应一直保持通电开启。进入SCP-3749-A的密封舱前需要进行生物安全等级（BSL）-5级生物危害防护，并在接近前进行杀菌消毒。
+
+SCP-3749-B到-D的遗骸被存放于类似的舱室中。
+
+描述： SCP-3749-A为一把会自主攻击一切生命的装饰用不锈钢剑。
+
+由于细菌与微生物符合受SCP-3749-A影响之“生物”的定义，其在场时SCP-3749-A会持续地高速移动。分析显示SCP-3749-A将每个细菌都二等分，移动速度最高达到了4马赫。
+
+SCP-3749-A长75cm，有着紫色虹彩的剑尾与多个不必要的边沿和剑尖，使得它作为武器并无实际用途。SCP-3749-A的边沿极为锋利；电子显微镜显示它们只有几个原子的厚度。SCP-3749-A有着异常的抗损伤能力，其边沿尚未出现可被测量的钝化。
+
+SCP-3749-A被发现于一间曾属于Humphrey Bingham (POI-11928)的空屋中。该名43岁的失业人员怀有厌世情绪并痴迷于神秘学、末世论与《启示录》，似乎使用他收集的奇特武器执行了一个奥法仪式，并以此创造了SCP-3749。
+
+SCP-3749-B到-D的存在更为短暂；作为Bingham持有的其他奇特的剑，它们也被该仪式激活。然而，SCP-3749-A似乎消灭了它们、它们的产物，以及Bingham本人。SCP-3749-B、-C和-D被发现覆满了人类骨骼的粉末，以及匹配淋巴腺鼠疫(Yersinia pestis)和沙漠蝗虫壳(Schistocerca gregaria)的生物残留物。
+
+在一番努力之后，SCP-3749-A被带至最近的Site并引入一个带空气锁的真空室中。在允许SCP-3749-A杀灭房间内的少数微生物的同时，电磁铁和剑匣被准备妥当。当装备了BSL-5防护服的人员准备进入房间时，SCP-3749-A正躺在房间中央迟缓地移动。进一步调查显示它不断弯曲以尝试切断自身，又弹回原本的形状。此后，在电磁铁的协助下，SCP-3749-A被安全地放回剑匣中。
+
+有鉴于此，目前正在考虑受控地将SCP-3749-A用于协助应对Keter级生物危害收容突破。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Sep 2019 06:52
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            WikiEthica
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Prämien teilen
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            CST 133 A
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Patriot Box Office Media Player (PBO)
+                      
+              More Than Meets the Eye
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

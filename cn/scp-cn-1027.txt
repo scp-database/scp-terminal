@@ -1,0 +1,231 @@
+                        
+
+-1的部分内容。未打码的部分已经被破译，意为“人类的弱点”。
+
+项目编号： SCP-CN-1027
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-1027应被收容于低价值异常物品收容区的70cm×50cm×50cm收容柜中，在有三级许可的前提下可以将其取出。SCP-CN-1027-1应被收容于低价值异常物品收容区的钢制制式保险柜中。
+
+描述： SCP-CN-1027的外表为一个体积为55cm×40cm×40cm的，有两个容积为25cm×38cm×38cm抽屉的白色橡木床头柜。项目个体上层抽屉中放有一本B5大的牛皮纸封面笔记本，将此笔记本记作SCP-CN-1027-1。
+
+SCP-CN-1027的重量、强度等数据均与普通橡木床头柜的数据相似。项目没有生命迹象且不存在活体组织或共生生物，但可以通过不明方法发声和进行短距离移动。在已经进行的数次实验中，项目仅在经过的人类与其距离小于等于十厘米（10cm）的情况下会进行一次瞬间移动以完成碰撞，该异常状态的原理尚未被解明。目前未观察到项目进行连续的或大于该距离的移动。已记录的声音样本显示项目发出的声音具有某种规律，目前认为该规律为某种语言，但其尚未被完全破译。
+
+SCP-CN-1027-1为一普通牛皮纸封面的B5横格笔记本，其中的全部内容均用碳素墨水书写。-1的第一页绘有人类脚部的素描，在小脚趾的部分用红色记号笔标注了重点记号；余下有五页写有不明符号，推测为项目个体语言的相应文字。
+
+当有穿着拖鞋或赤足的人类经过项目个体时，该人类由于失误造成的小脚趾与项目个体发生碰撞从而受伤的几率因未知原因增加到约30%。在另外约20%的情况下，项目个体会进行短距离移动使经过人类的小脚趾与其进行碰撞。当其声音传播范围内有其他中大型家具时，项目个体有一定几率（约70%）会突然发出有规律的声音。如这项活动未被包括移走项目、移走其他家具、阻止声音传播等行为打断，在40分钟后，范围内的其他家具也会具有能够增加人类的小脚趾与其碰撞的异常性质，但不能发出声音或移动。经实验，会被影响的家具体积需大于20cm×20cm×20cm。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                家具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            16 Jul 2019 15:10
+            
+            编辑
++18)
+标签
+讨论 (6)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            批发V信:ccbb16688
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Fairfield Project
+                      
+              The Delta Green wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikidot URL shortener
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Harvey Capital Lectures
+                      
+              Crowdsourced Transcription and Translation Project
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

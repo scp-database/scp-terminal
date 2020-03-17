@@ -1,0 +1,242 @@
+                        
+
+项目编号：SCP-4887
+
+异常等级：Keter
+
+1。SCP-4887个体应被立即装入并储存在任何可用的密闭容器中，然后通过无人机将其运送到地下储藏库“花瓣”中。人类进入地下储藏库“花瓣”周围20公里范围内的行为将被视为违反隔离协议，并可能会招致处决。
+
+显示出被SCP-4887感染迹象的人将由轨道突击队进行处理。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+一个SCP-4887个体。
+
+描述：SCP-4887是在生理上与西方蜜蜂（Apis mellifera）幼虫有许多相同之处的生物体。SCP-4887在任何时候都不会长至成年蜜蜂，而是不断地爬向供人类食用的食物，并埋在其中进行休眠。SCP-4887个体方向感的范围没有已知的限制；一只幼虫可以感知到150公里之外有少量食物的存在。SCP-4887不会受到物理伤害，可以在没有食物、氧气或光线的情况下存活很长一段时间。
+
+当上述食物被人类对象摄入时，SCP-4887会附着在消化系统的内壁上，引发对象身体的巨大变化。其颅骨和颌骨中的所有骨骼结构都会立即断裂，颈部、胸部和手臂中的肌肉和脂肪会向上移动并包裹在脸部周围；对象的口腔随后会变形，形成一个直径在5到10米之间的开口，其细长的牙齿均匀地分布在边缘周围。对象会不受控制地将这个开口咬在地上，其舌头会充血并开始挖掘泥土或其它物质，以寻找有机化合物。这被认为是感染的第1阶段，整个过程通常需要2到20分钟。
+
+如果对象的舌头检测到足够数量的有机物质（例如树根、土壤、昆虫或小型哺乳动物），消化酶将被释放，对象将进入第2阶段结束之前的处决将杀死对象，但不会使SCP-4887个体死亡——必须从对象腹部手动取出，并像在正常情况下一样保存。
+
+在第3阶段的感染对象。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+附录丨事件4887-10A86：2050年9月2日，存活时间最长的第3阶段感染者（前Randall McAllister先生，于2038年8月22日被感染）成为一个长度约350米的异常蜜蜂实体（AE-4887-1）的目标。该实体在视觉上类似于一只蜂王，但有着更细长、更符合空气动力学的外形，以及几十条长短不一的腿部。没有观察到其有翅膀，但目击者报告说有六个半透明圆盘在实体移动时绕其旋转。
+
+AE-4887-1在近地轨道上停留了三个小时后进入大气层，在飞行过程中，它将对象充满幼虫的腹部从四肢和颈部分离出来。然后实体通过云层离开，或者脱离我们所处的现实，进入某种形式的超光速跳跃，又或者使用一种迄今尚未发现的隐身机制。它目前的位置是未知的，它的性质、种类或异常能力也是如此。McAllister先生在其剩余组织迅速干燥后被确认为死亡。
+
+Footnotes
+1. 措施包括对离开地球的人类和人类可消耗物质进行全面筛查；限制进入地球；在全球传播关于潜在感染风险的文件。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                蜜蜂
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Dec 2019 11:21
+            
+            编辑
++3)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            iRacing.com Wiki
+                      
+              Your one-stop-shop for all iRacing setup help and knowledge.
+            
+          
+        
+              
+          
+            
+              
+            
+            Chancel Aleph
+                      
+              A Nobilis Fansite
+            
+          
+        
+              
+          
+            
+              
+            
+            Bozic Nation
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            ZODIAC Final Fantasy RPG
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

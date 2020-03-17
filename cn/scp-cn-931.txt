@@ -1,0 +1,330 @@
+                        
+
+项目编号： SCP-CN-931
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-931-1应被浸泡在无菌生理盐水循环池1中；以72小时为周期，对SCP-CN-931各器官生理活性进行循环检验。
+
+SCP-CN-931-2应按照老旧珍贵文献保存法保存，查阅权限为3/931级。
+
+描述： SCP-CN-931-1为一个固定在铁架台上的残缺标本，重约12.8千克，拥有与哺乳动物相同结构的生命系统，但各个器官结构均不同于已知生物。
+
+SCP-CN-931-2为█张羊皮纸，以疑似印欧语系日耳曼语族的不明文字书写。
+
+SCP-CN-931-2上绘有一生物的解剖学结构，为SCP-CN-931-1的完整形象（称为SCP-CN-931-1a）。比对1a，SCP-CN-931-1缺失了数个维持生命活动所需的器官，但含有的器官均以不明方式保持生理活性。值得注意的是，缺失的器官与部分已知生物含有相同的结构与特性，详见列表931-list。
+
+附录： 
+
++列表931-list
+
+-关闭列表
+
+缺失器官
+对应生物
+器官特性
+
+皮肤
+八腕目动物
+该皮肤可感知光线
+
+眼部
+鸽形目动物
+该眼部视网膜可感知强磁场
+
++需要权限3/931
+
+-权限已确认
+
+基于图形及语言学规则，SCP-CN-931-2已被解读：
+
+SCP-CN-931-2记载了一种以SCP-CN-931-1的器官完整替代另一生物（称为SCP-CN-931-3）的器官的实验方法。该方法具有如下异常性质：
+
+①移植器官后，SCP-CN-931-1仍可保持生物活性。
+
+②SCP-CN-931-3会拥有该器官具有的特性。在24~72小时内，与SCP-CN-931-3具有相同生理结构的生物将会逐渐发育出对应的SCP-CN-931-1器官，且均具有该器官的特性，影响范围大致为种级至目级。
+
+由于SCP-CN-931-2的部分缺失，各个器官的特性尚不清楚，但均体现出异常的竞争优势。
+
+实验记录931-a 
+
+实验日期： 2006年█月█日
+
+实验内容： 以SCP-CN-931-1的肺至一只███2的肺部
+
+实验结果： 29小时后，所有███肺部被替换为SCP-CN-931-1的肺部；███肺部储存氧气，使得███可在浅水区活动超过20分钟；41小时后，███开始在陆地活动。
+
+实验结论： 证实了SCP-CN-931-1的替换效应。
+
+后续处理： 已对观察到███活动的无关人员进行A级记忆删除，同时由《██》期刊宣布███灭绝。
+附加记录：
+附加记录：
+
++SCP-CN-931-2分析记录，需要权限4/931
+
+-权限已确认
+
+放射性核素年代测定法 
+
+结果： 异常
+
+异常分析： 即使是对于同一张羊皮纸，各种测定法所得羊皮纸年份仍有较大差异，最小值为700±120年，最大值为25000±3800年；怀疑羊皮纸制作环境具有异常的元素丰度。
+附加记录：
+
+DNA测序技术 
+
+结果： 异常
+
+异常分析： 于羊皮纸上提取出三种DNA，均不属于已知生物；在部分羊皮纸中有以暗红色的相同字符，疑为制作者的标记，在暗红色字迹中提取出一女性蒙古人种的DNA。
+附加记录：
+
+印欧语系文字分析 
+
+结果： 该文字体现出分析语的特征，有较多语法结构及字母接近英语及德语。文字中计数系统采用十进制，已完成解析。
+
+注： SCP-CN-931-2文字中出现部分词形与已有文字相同，其中Sichern、Foundation及Witchery三个词多次出现。
+附加记录：
+
++需要权限4/931
+
+-权限已确认
+
+SCP-CN-931-1缺失器官记录：
+
+缺失器官
+对应生物
+器官特性
+
+皮肤
+八腕目动物
+该皮肤可感知光线
+
+眼部
+鸽形目动物
+该眼部视网膜可感知强磁场
+
+肺部
+███
+[数据删除]
+
+大脑
+[已编辑]
+[已编辑]
+
+Footnotes
+1. 容积为36L，液体交换速度为500mL/h
+2. 鲸目喙豚科白鱀豚属，确认存活数小于一百
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                原创
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            19 Dec 2018 23:15
+            
+            编辑
++27)
+标签
+讨论 (6)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Autorytet RPC
+                      
+              Badania. Ochrona. Przechowywanie.
+            
+          
+        
+              
+          
+            
+              
+            
+            BlackBerry Storm Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Bad Webcomics Wiki
+                      
+              Improving our media, with hatred
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Explained
+                      
+              Simplify, Condense, Paraphrase
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

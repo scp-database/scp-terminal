@@ -1,0 +1,449 @@
+                        
+
+作者的话：
+
+（这篇文档关于
+
+一个自我收容的异常。
+
+如果它被分配给了你
+
+那就是错误的。
+
+这并不是个玩笑。
+欢迎。）
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3183
+
+我们，不过仅仅是些
+
+在我们的脑海里
+
+ 以及内心深处的东西
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe等级
+
+尽管我知道
+
+我的命运不是
+
+保护
+
+尽管我知道
+
+我的命运不是
+
+愉悦别人
+
+尽管我知道
+
+我的命运不是
+
+所知道
+
+责任就在那儿；
+
+然而我
+
+停手
+
+不干。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+收容
+
+城市对了
+
+路
+
+汽车对我来讠兑了
+
+所
+
+以
+
+不
+
+能称之
+
+为家。
+
+我 去找
+
+（然后我找到了）
+
+（他们给了我）
+
+一个小些的地方
+
+在那儿我可以：
+
+思考
+
+在那儿我可以：
+
+呼吸，
+
+在那儿我可以：
+
+做
+
+我
+
+自己
+
+这儿——我称呼这儿为家。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+自我描述
+
+本我。
+自我。
+
+超我。
+
+我即是中心
+
+没有你的地方有着我
+有着你的地方没有我。
+在你的内心里
+在你的脑海中
+在你的灵魂内
+我既是所有人
+也不是任何人
+没有什么令人舒适
+
+你在哪受伤
+
+你在哪恐惧
+
+我都会追随着。
+
+因为我是
+
+契而不舍的
+
+因为我是
+
+不麻木的
+
+因为我是
+
+你需要的
+
+那个虚无
+亻 尔知道吗
+
+亻 尔 去的那里
+
+正在被
+
+安也
+
+包
+
+围
+
+你再也无法应对了它也不能再待在这儿了你他妈只是需要休息一下
+
+然后你的动作
+
+不再受你掌控
+
+你的语言
+
+不再受你控制
+
+你的身体
+
+也同样的
+
+不属于你了
+
+你好
+
+你好
+
+你好.
+
+.
+
+.
+
+.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+未选之路
+
+我们将讨论
+
+只有你和我
+
+在寂静中
+
+在黑暗里
+
+你会谈
+
+论你转换过形式的思维
+
+我也会分享
+
+我曾做过的事
+
+在晚上
+
+我们闭上眼睛
+
+笨拙而愚钝
+
+在晚上
+
+我们睡着了
+
+感受着平静。
+
+我们将争斗
+
+只有你和我
+
+当太阳在天空中
+
+冉冉升起
+
+你会大声喊叫
+
+对我说这很痛
+
+我会坐着
+
+然后被虐待
+
+这一天
+
+我离去了
+
+你就忘记了我们的昨天
+
+这一天
+
+我们不再交谈
+
+我们都很好。
+
+希望你会想念我
+
+但我知道你不会。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                scp
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Jan 2020 05:30
+            
+            编辑
++3)
+标签
+讨论 (12)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Vanguard Rider
+                      
+              CARDFIGHT!! Vanguard English Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP Sandbox
+                      
+              Réservé aux auteurs et traducteurs du Wiki
+            
+          
+        
+              
+          
+            
+              
+            
+            Story Chip
+                      
+              Become a part of history, share your story.
+            
+          
+        
+              
+          
+            
+              
+            
+            Signaturbogen 2.0
+                      
+              Sammen skaber vi en signaturbog
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

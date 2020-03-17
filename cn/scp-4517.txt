@@ -1,0 +1,281 @@
+                        
+
+裝有 SCP-4517 的浴缸。內容物已編輯。
+
+項目編號： SCP-4517
+
+收容等級： Safe
+
+特殊收容措施： SCP-4517 所佔據的公寓房間已被基金會購入，並配有加固的門窗以及內部監視系統。該建築的其餘住戶被視為 G 級優先度的監測對象；未來的住戶應使用加權選擇，以支持那些沒有偏執狂、妄想症或異常好奇心的人。該建築所有的監視錄影應交由 RAISA 人員分析與歸檔。
+
+描述： SCP-4517 位於英格蘭里茲市的三房公寓內的浴缸中。它長 170 公分，質量 55 公斤，沒有主觀特性與性質。雖然人類可以理解 SCP-4517，但是在不基於客觀量測的條件下，對項目之準確描述只能是間接地提及無法描述它。建議研究者注意 SCP-4517 並非具有不可描述性——因為這種性質會使其可用「不可描述」來描述——相反，它只是不擁有任何可使其本身被描述的特質1。
+
+𝒩ness (據 DoMc 研究員所稱) 是一個客觀相對 (而且可能通常為主觀的) 特性，可通過將所討論的實體與 SCP-4517 進行比較來量化。SCP-4517 做為基線，𝒩ness 為零。正在研究此特性的確切本質。為了確定各物體的不同 𝒩 值與異常之間的關係，已設計 Balance.aic2用來將 SCP-4517 的實時觀察與各種照片、影片和文字描述之間進行比較。該過程的某些相關結果列於下文。
+
+附錄 | Balance.aic 輸出紀錄 (節錄)： 
+
+物品或實體
+𝒩ness
+
+基金會配發的圓珠筆
+2.8 
+
+蘋果 (Granny Smith 栽培種)
+12 
+
+車 (1998 年別克世紀，由 Svenska 特工擁有)
+11,300 
+
+[刪略多餘內容] 
+
+10 英鎊鈔票
+40 
+
+投資組合，價值為 ~200,000 英鎊
+90,880 
+
+研究員 Griffith
+22,140,000 
+
+高級研究員 Lester
+30,090,000 
+
+D-00340 (前罪犯，被判犯有重複縱火罪；資深鋼琴家)
+912,300 
+
+D-00341 (前罪犯，被判犯有多項謀殺罪)
+144,600 
+
+[刪略多餘內容] 
+
+填充玩具 (新品，未拆封)
+87 
+
+填充玩具 (從 SCP-4517 所在的公寓房間回收，非常破舊；估計存在時間 15 年)
+2,300 
+
+[刪略多餘內容] 
+
+Damien Pisk (SCP-4517 所佔據的公寓房間之最後已知住戶)
+0 
+
+Langdon Pisk (前者的兄弟，數學家，曾在英國杜倫大學工作)
+比較已拒絕；整數溢位 
+
+Footnotes
+誤傳部門 (Department of Miscommunications, DoMc) 現任負責人 Eli Forkley 主任。
+2. 一個由 8-Ball 框架推斷出的第一世代人工智慧構造。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                概念
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            20 Oct 2019 05:58
+            
+            编辑
++1)
+标签
+讨论 (7)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            The Tales of Daeren
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Porphyra Roleplaying Game
+                      
+              Always a Work-In-Progress
+            
+          
+        
+              
+          
+            
+              
+            
+            the money making encyclopedia
+                      
+              Make money with us and have a fun
+            
+          
+        
+              
+          
+            
+              
+            
+            Demons Souls English Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

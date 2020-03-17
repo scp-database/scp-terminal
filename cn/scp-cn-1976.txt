@@ -1,0 +1,249 @@
+                        
+
+项目编号： SCP-CN-1976
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-1976被收容于Site-CN-02 Safe级收容区的一标准收容锁柜内，对SCP-CN-1976的读取应得到两名三级以上人员的书面批准。当读取其中文字时，读取人员不得使用嘴部发出声音。受到SCP-CN-1976的影响的人类应被收容于Site-CN-02的隔音型标准人形收容间，任何对于音乐相关的需求都不应对其满足。此外，基金会对相关组织“昏厥交响曲”的调查仍在进行中。
+
+描述： SCP-CN-1976为一本于1969年出版的64开本的《毛泽东语录》，其有被水浸泡过的痕迹。其扉页写有“革命尚未成功，我将伴随我的小提琴长眠”的字样。
+
+当一名人类朗读其中内容时，此人将产生短暂的脑供血不足而失去知觉。当恢复意识时，此人将察觉到身旁有一名身着文革时期红卫兵服装的实体，该实体只能由受SCP-CN-1976影响的对象直接观察到。未受影响者可以通过丘脑以太共振成像器（COLLICULUS）观测到该实体，但无法干涉其行为。此时受影响对象将会观察到该实体使用小提琴演奏并演唱歌曲《草原上的红卫兵见到了毛主席》。当受影响对象试图与该实体互动时，该实体将从受影响者的视野中消失，但乐器声与歌声直至曲终才会消失。在实体消失期间，任何对声音来源的寻找皆没有结果。受影响对象通常将这种声音描述为“从四面八方而来”。
+
+当该乐曲演奏完毕时，SCP-CN-1976中将出现数张有字迹的纸条（详见附录Ⅰ）。此时受影响者将对中华人民共和国1966年到1976年的历史产生极大兴趣，并声称自己加入了一名为面部严重损毁，且产生额外的心室、手脚多趾、颅腔体积和重量提升等畸形，并长出一个会发出或回应频率在2.4-3.6GHz范围内的无线电波的腹部器官。
+
+附录： SCP-CN-1976中出现的纸条文字摘录
+
+革命尚未成功，这些非人，自称人的东西已经赢了。他们自称拥护O5-9，但实则将他囚禁了起来。我们遭到了批斗，那些占大多数的，五个指头和五根脚趾的东西把我们这些原本的人类踩在了脚下，我们失败了。
+附加记录：
+
+那些斗争在解放战争初期就开始了，在大众面前，我们早已是非人之物，是不同于常理而存在的东西。我们无法直接出现在大众的视野中，只能默默地想办法将它恢复原貌，但是我们真的失败了。我们现在是妖魔鬼怪，是牛鬼蛇神，只能被他们批判地头破血流……
+附加记录：
+
+我没什么爱好，就爱拉这小提琴。无论是首长还是刚入伍的新兵，都爱听我拉这个。我还想继续拉下去……但76年真的糟透了，唐山大地震，O5-9逝世，我已经没有信心了，再见吧。
+附加记录：
+
+我将与我的小提琴一起沉眠于黄河之中，罢了，常态将得到保护。
+
+我认识水里的尸体?
+
+我不认识水里的尸体。
+
+我认识……我不认识……我?
+
+忘却忘却忘却忘却忘却……回到南湖边吧
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                音乐性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Feb 2020 14:38
+            
+            编辑
++26)
+标签
+讨论 (10)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            INCTR Palliative Care Handbook
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            FreeSMUG
+                      
+              Free Open Source Software Mac User Group
+            
+          
+        
+              
+          
+            
+              
+            
+            uberOptions
+                      
+              Enable all options on all buttons in SetPoint
+            
+          
+        
+              
+          
+            
+              
+            
+            Nre509
+                      
+              Ecology: Science of Context and Interaction
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

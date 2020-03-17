@@ -1,0 +1,263 @@
+                        
+
+前SCP-1568-1个体
+
+项目编号： SCP-1568
+
+项目等级： Euclid
+
+特殊收容措施： 鉴于SCP-1568缺少远距离移动的能力，SCP-1568被收容于佛罗里达州的██████的一个船库中。SCP-1568所在的位置被标记为私人财产。SCP-1568收容室的内部是衬铅钢，以阻止其突破收容。SCP-1568每天将被投放100kg的鱼作为食物。关于SCP-1568的实验必须得到4级人员的批准。每周SCP-1568将被清洗一次以去除藻类和藤壶。机动特遣队Theta-5（别称：“更大的船”）将处理相关的收容失效事件。
+
+描述： SCP-1568属于物种Dardanus calidus（寄生蟹）。SCP-1568长25m，宽10m。SCP-1568能够高速移动，与其寄身的船只的速度相符。SCP-1568没有表现出攻击性行为，除了在少数情况下试图逃跑。SCP-1568的蟹钳有极高的灵活性，并且能够触到SCP-1568-1的所有地方。SCP-1568是通常是的蓝绿色，但是能够根据水域颜色变色的能力。
+
+SCP-1568-1指的是SCP-1568寄居的护甲。自19██年起，SCP-1568-1就是一艘渔船。SCP-1568-1的本质没有任何异常，尽管其已嵌入SCP-1568内部。理论上可能从除了SCP-1568-1正面的任何方向捕鱼。SCP-1568-1的右侧写着“Kingston”。SCP-1568-1不具有除了SCP-1568拖拽以外的动力。
+
+在SCP-1568-1上用网捕鱼时，SCP-1568通常会用蟹钳从中取出鱼，并迅速进食。SCP-1568会一直持续进食直到鱼已经被吃完或者网已经收走。在捕鱼时“驾驶”SCP-1568-1离开当前位置的尝试失败了。如果再也抓不到鱼或是在██分钟内渔网没有被重新投掷。SCP-1568会倾覆SCP-1568-1。在这种情况下解救对象的尝试也没有成功。SCP-1568会在██分钟内吃掉落水的对象。SCP-1568通常会在吃掉对象前撕碎他们。
+
+SCP-1568对于没有登上SCP-1568-1的对象没有攻击性。在被吃掉之前解救对象的尝试未能成功。SCP-1568不会与没有登上SCP-1568-1过的落水对象接触，并会缩回SCP-1568-1中。
+
+每██年，SCP-1568会离开其当前的“甲壳”去寻找另一艘船。SCP-1568会潜入一艘其认为足够大的船只下方，而不顾船上的乘客。SCP-1568之后会释放一种酸性物质，在船上开出一个洞，通常有SCP-1568一半大小。 SCP-1568曾利用该物质在“换壳”期间突破收容。
+
+对于被废弃的SCP-1568-1的调查显示其上的洞太小而不足以容纳SCP-1568.目前未知其如何决定去换“甲壳”、SCP-1568-1的内通常非常的光滑，无论其原来是什么材料。
+
+实验记录 1568-1: 
+
+使用的网
+SCP-1568的反应
+
+水底拖网 
+SCP-1568的钳伸长到41米，达到网处并一次抓回大量的鱼。SCP-1568继续这一行为直到网被撤回。
+
+投网 
+SCP-1568没有回应。
+
+拖网 
+SCP-1568的钳伸长到27米长，达到网处并一次抓取大量的鱼。SCP-1568持续这一行为直到网空了为止。
+
+长袋网 
+SCP-1568没有回应。
+
+刺网 
+SCP-1568试图去抓鱼，但是由于网的透性，其切断了网放走了一些鱼。
+
+升网 
+SCP-1568在试着抓鱼时切断了网的几处。
+
+围网 
+SCP-1568的钳伸长到34米，达到网处并一次抓回大量的鱼。SCP-1568继续这一行为直到网被撤回。
+
+事故报告1568-1： 在威尔士的麦纳海峡的沙滩上发现了一只死去的SCP-1568个体。该SCP-1568旁没有SCP-1568-1。尸检显示SCP-1568身体内包含大量的消化道。SCP-1568没有可见的排泄口，除此以外拥有一套完整的消化系统。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                节肢动物
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            06 Jul 2017 21:02
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Trueblood: Dallas
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Tasker Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Astellia Tips
+                      
+              Astellia Tips  Tricks
+            
+          
+        
+              
+          
+            
+              
+            
+            UCSD Grad Students
+                      
+              ...the information exchange and virtual community
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,273 @@
+                        
+
+項目編號： SCP-1938
+
+項目等級： Keter
+
+特殊收容措施： 由於可能造成TK級科技崩潰，必須不計一切代價讓SCP-1938遠離任何計算設備 任何有該死網絡接口的東西。
+
+描述： SCP-1938是Dr. Mary-Ann Walker，基金會僱用的人類學家，人型生物收容站點06-3（Humanoid Containment Site 06-3）內的研究人員。她具有在使用數小時之內讓任何電子設備感染多種病毒、惡意程式和間諜軟件的異常能力。SCP-1938還具有對資訊技術和安全人員行為的災難性效應，迫使他們失聲大笑、崩潰流淚，然後生活中變成易怒且語無倫次（一般是照這種順序發生）。
+
+這種能力被懷疑是由於SCP-1938無法理解所有的「點我」白癡電子郵件其實不是真的。例如：你中了甚麼蠢大獎，或是不轉發這該死的東西這一百隻小狗就會死。
+
+Site 06-3的技術人員在SCP-1938報告疲軟的電腦性能，並請求協助之後注意到其異常性質。響應該求助的技術人員對受影響的終端機進行粗略檢查，發現硬碟中竟存在物理上不可能的病毒量。
+
+附錄1938-1： 研究員附註
+
+提醒所有工作人員，如果如果你們要用這種玩意去互相惡作劇，留著自己玩就好。不要「意外」把個人資料歸檔在主要的收容數據庫裡。
+
+不，我不會授權你們提出的禁止Dr. Walker使用網路的請求。她需要網路來工作，而你們要維護她的終端工作。
+
+Dr. ████ ████
+
+人型生物收容站點06-3主任
+附加记录：
+
+附錄1938-2： 技術員附註
+
+恕我直言，你知道她讓自己的手機中毒了嗎？那甚至不是智慧型手機！
+
+████ █████
+
+人型生物收容站點06-3資訊技術員
+附加记录：
+
+附錄1938-3： 研究員附註
+
+不好笑，伙計們。這很卑鄙而且非常過分。
+
+Dr. Mary-Ann Walker
+
+人類學部門研究員
+
+贏得5000美元現金！點擊這裡報名參加我們的每日免費 抽獎！
+
+在床上需要更多魅力？ 告訴你的女友甚麼才叫真男人！一晚變大3英寸！
+
+免費隱密的網上賭博！今天加入並獲得50000免費籌碼！
+
+性愛色情撲克真棒偉大驚人的免費安全的贏家完全不是病毒
+附加记录：
+
+附錄1938-4： 研究員附註
+
+收回前言。給她一台打字機，天啊，希望她不要找到感染這個的方法。
+
+Dr. ████ ████
+
+人型生物收容站點06-3主任
+附加记录：
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                病毒
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            05 Nov 2019 17:07
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Fundacja SCP
+                      
+              Polska Filia SCP
+            
+          
+        
+              
+          
+            
+              
+            
+            免費電子書：C# 程式設計
+                      
+              作者：陳鍾誠
+            
+          
+        
+              
+          
+            
+              
+            
+            World History/Physical Geo.
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Data Structures
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

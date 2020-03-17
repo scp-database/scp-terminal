@@ -1,0 +1,235 @@
+                        
+
+项目编号： SCP-2910
+
+项目等级：  Euclid
+
+特殊收容措施：  自动声音识别程序乳母ALPHA到ZETA已被部署以监控全球电信网络（每一乳母程序监控一个大陆），识别并标注可能表示SCP-2910发生的语句。一旦标注到语句，机动特遣队Epsilon-8（“助产士”）将被自动警报，出动调查并回收SCP-2910-A个体。目击到SCP-2910-A的平民将被送到最近的站点，接受文件2910-1内规定的疗法治疗。
+
+描述： SCP-2910是一种异常现象，会随机、零星地影响两名通过阴道分娩进行生产的人员；受影响者不会生出正常婴儿，而是SCP-2910-A个体：一团由新生儿器官及身体部件错乱组合而成、以凝结血块固定在一起的物体。SCP-2910-A具活动能力并作出新生婴儿的行为表现，如啼哭（声音从口中以未知方式发出）和翻找。随SCP-2910-A 年龄增加，它会模仿出同年龄婴幼儿的行为（例如，六月大的SCP-2910-A会自主活动）。然而，它并不会实际成长，也不能进食母乳以外的食物（且仅限于哺乳喂养）。在十二个月后，它将不再活动并开始正常腐败。
+
+所有SCP-2910-A个体的一半基因来自令女性受孕的父方；数据分析、事件记录和基因分析表明另一半基因并不来自“生母”，而是同一时间经历 SCP-2910现象的另一女性。
+
+关于SCP-2910-A的记忆不能被基金会能采取的任何方式移除；虽然其他所有关于其出生的情况，包括实际分娩的过程都能被记忆删除抹去，但任何亲自观看过SCP-2910-A的人都能以十分清楚地回想起该个体及其特征。催眠治疗和干预技术的应用使得受影响平民将SCP-2910-A视作紧张造成的幻觉，已证实这是一种有效的替代策略。
+
+附录：回收记录 
+
+首次记录到SCP-2910是在1983年7月16日。在04:35和04:37 UTC，马萨诸塞州南哈德利的James Knight及法国涅夫勒的Frederic Noel分别打电话通告当地紧急服务。两人都描述称其妻子在家中自然生产时生出了SCP-2910-A个体。两起案例中生产结果均被当地新闻报道，并吸引到了基金会注意。Epsilon-8调查此时，在发现并将SCP-2910分类为异常。Knight家和Noel家均不能被完全记忆删除后将SCP-2910分类为异常（两家人均被施以上述替代治疗措施）。
+
+附录：地理分析 
+
+自1978年以来发生过███起SCP-2910案例；事件数量似乎在以稳定速率增长。最近的分析和发生地测绘大致显示出一歪曲的费马螺线；然而并未能利用此模型成功预测未来SCP-2910发生地。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                生殖性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Apr 2018 09:15
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            TalkingPad Project
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            COSCUP WIKI
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            IRUNA Online Thailand WIKI
+                      
+              by iruna th team
+            
+          
+        
+              
+          
+            
+              
+            
+            Thymio  Aseba
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,231 @@
+                        
+
+一名处于激光排放期间的SCP-2001-J感染个体
+
+项目编号： SCP-2001-J
+
+项目等级： Euclid
+
+特殊收容措施： SCP-2001-J的样本将在测试后被彻底销毁
+
+描述： SCP-2001-J是一种哺乳动物的肠道菌群，是罗伊氏乳杆菌的一个变种。当食用了被SCP-2001-J的污染的食物后，哺乳动物体内的罗伊氏乳杆菌将尽数转变为SCP-2001-J。这个过程会持续两到三天，并且通常不会被宿主注意到。
+
+当连贯的SCP-2001-J群体被搅动——可能是肠道挤压所导致——时，它们会一个接一个地黏附起来。这一过程会被钴胺素的快速产生所促进。SCP-2001-J细菌会沿着钴胺素产生所形成的公共轴上连成一线。这个过程将导致一张薄的、单细胞的由SCP-2001-J构成的膜形成。当搅动停止，SCP-2001-J会沿着一条垂直于之前形成的膜的轴上连续发出生物辉光。光照的程度约为每个SCP-2001-J细菌3瓦，然而，发光通常会在大约50毫秒后停止。这导致了一个指向性的、连贯的，类似于千瓦级激光的光源从感染者的臀部发射出来。
+
+附录1： 武器化SCP-2001-J的研究正在进行中
+
+附录： 第一支专门装备了SCP-2001-J传染物的MTF队伍，“激光臀部小组（Laser Butt Squad），已经被创建以对抗SCP-789-J的传播。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                细菌
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            06 Feb 2016 02:30
+            
+            编辑
++2)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            KnightsWrite
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            PassatB5
+                      
+              Do It Yourself information for Passat Repair!
+            
+          
+        
+              
+          
+            
+              
+            
+            Spambot Death Wall
+                      
+              Fighting Spammers for Fun and Profit!
+            
+          
+        
+              
+          
+            
+              
+            
+            Nimin Wiki
+                      
+              The best text-based mature RPG database that anyone can edit!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

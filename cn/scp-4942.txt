@@ -1,0 +1,248 @@
+                        
+
+项目编号： SCP-4942
+
+项目等级： Safe
+
+特殊收容措施： 载有SCP-4942-1的《下界之书》的所有副本均已备案。基金会所持有的所有副本均需存放于Site-36图书馆的禁区内。对于任何副本的借阅或使用权限应由SCP-4942 HMCL主任批准。
+
+一个由基金会操作的网络分析机器人(I/O-SAURON)将监控神秘学社区以检测通过任何形式涉及SCP-4942-1的讨论。若有任何讨论被发现，它们将被审查并从运营网站删除。若被判定需进一步干预，机动特遣队χ-7 (Caledfwlch Red)将被部署至发布者所在的位置。
+
+不得尝试执行SCP-4942-1。
+
+描述： SCP-4942-1是一个冗长的召唤仪式，它将SCP-4942-2——一个特定的Aleph级Tartarean实体绑定到一位召唤者身上。SCP-4942-1最初被记录在一本被称为《下界之书》16世纪神秘学手稿上。
+
+《下界之书》在初版印刷时备受限制，因为这本书的内容在当时被认为是异端邪说。这一观点与SCP-4942-1的存在无关，而是由该书的整体内容导致。因此，这本书只出版了200本。
+
+从《下界之书》的出版至今，大部分副本已经丢失。目前，已知仍存在的副本只有42份，其中基金会拥有34份；Marshall, Carter和Dark有限公司拥有1份；联合撒旦教会，科学派拥有3份；重组的圣殿骑士教士团拥有4份。所有外部机构均已同意不出售副本或尝试SCP-4942-1。
+
+与其他类似的仪式相比，SCP-4942-1非常不同寻常。以下三要素为SCP-4942-1的显著特征：极度反常且要求苛刻的祭品，极端的仪式长度，以及复杂的程序。
+
+用来执行SCP-4942-1的祭品与同类仪式相比十分古怪且需耗用大量资源。SCP-4942-1的仪式需要完整的百牲祭2。
+
+SCP-4942-1需通过持续一周的不断活动才能被正确执行。在这期间主要进行唱颂吟，且需从仪式开始至结束不断吟诵。该仪式至少需要13名积极的参与者，其中每个人均须在该周内的精确时间节点下完成特定任务。其中许多任务需在短时间内准确完成，比如在90秒内按特定顺序点燃60支蜡烛。
+
+若操作正确且误差小于3%，SCP-4942-2将出现在由粉笔绘制的魔法阵内，并将服从召唤者的要求。
+
+SCP-4942-2是一个通过SCP-4942-1召唤出的Aleph级3Tartarean实体。SCP-4942-2近似人类，约一米高，显示出多种哺乳动物、鸟类及爬行动物的特征，其中包括角和翅膀。
+
+除其起源外，SCP-4942-2不具有异常性质。
+
+脚注
+1. 古希腊的一种祭祀，祭品为大量的牛，通常达100头。
+2. 小麦通常于5月至6月或9月至10月收割。
+3. Tartarean实体中最弱的分级。Tartarean实体从Aleph(最弱)到Tav(最强)排序。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Nov 2019 15:45
+            
+            编辑
++1)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Arnwick Co.
+                      
+              我们致力于保持龙界的安宁
+            
+          
+        
+              
+          
+            
+              
+            
+            BlackBerry Storm Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            Radiohub
+                      
+              Lossless Radiohead Hub Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

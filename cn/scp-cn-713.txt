@@ -1,0 +1,275 @@
+                        
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+项目编号： SCP-CN-713
+Level 1/713 
+
+项目等级： Safe
+机密 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特殊收容措施： 
+
+当前收容SCP-CN-713的设备
+
+SCP-CN-713群落应连同当前SCP-CN-713-1与一名D级人员被收容至Site-CN-19的标准人形收容间中，定时于特外站点十号进行空间异常的联合研究。并要求该D级人员与每日8:00 am——2:00pm间使用连接到一台不能联网的基金会标配电脑进行文字输入。工作内容包括但不限于世界名著、时事新闻、杂志刊物等，其内容需要在5个工作日前被一名三级人员审阅通过以及进行相关删改。
+描述： 
+
+一条SCP-CN-713个体
+
+SCP-CN-713为一水生生物群落，其个体形态一般情况下与金鱼相似，体长1-2cm。
+
+SCP-CN-713的异常性质主要体现在，当SCP-CN-713被放置于正确放置的“键盘”上时，该键盘将会编号为SCP-CN-713-1。在SCP-CN-713-1下会生成一个深约20cm的异常拓扑空间供SCP-CN-713进行活动，键盘与SCP-CN-713接触的面对于使用者仍是键盘的使用面，对于SCP-CN-713来说不具有阻碍作用。
+
+可能会成为SCP-CN-713-1的“键盘”包括但不限于1：
+
+钢琴琴键
+电脑、打字机键盘
+
+“键盘类艺术品”及没有实体的“键盘”2无法成为SCP-CN-713-1。
+
+倾倒SCP-CN-713-1可以得到其内容物。对其的成分监测结果为生理盐水3。
+
+在SCP-CN-713个体离开SCP-CN-713-1后该空间异常消失。
+
+SCP-CN-713通常会表现为鱼类的外观。但不同的SCP-CN-713本体与不同性格的使用者会对SCP-CN-713个体形态及心理健康产生影响，原理未知。
+
+SCP-CN-713的生理活动能量来源为使用者使用SCP-CN-713-1时的能量，每20只SCP-CN-713一日的需求量至少为4800个英文字符。
+
+测试表明，使用者的性格及使用SCP-CN-713-1时的工作状态会影响该特殊能量的产量。在产能供给持续低于某一平均值时，SCP-CN-713会通过某种方式让使用者短暂提高工作热情及工作效率。
+
+多数工作人员在使用SCP-CN-713-1进行工作时会明显的提高工作热情。但在某些情况下因为与SCP-CN-713互动却会降低工作效率。
+
+相关测试表明。SCP-CN-713有着与5-6岁孩童相仿的的智力，并且可以通过使用SCP-CN-713-1来表达自己的思想和情感。
+
+附录SCP-CN-713-A： 
+
+这鱼儿表达开心的方式是用尾巴扑打水花！ :)
+
+哦天哪，它摸起来滑溜溜的，小家伙真好看。:)
+附加记录：
+
+Footnotes
+1. “键盘”在此处指：
+
+1.用于操作设备运行的一种指令和数据输入装置，也指经过系统安排操作一台机器或设备的一组功能键。
+2.组成键盘乐器的一部分，也可以指使用键盘的乐器。
+
+2. 例如投影键盘
+3. 指生理学实验或临床上常用的渗透压与动物或人体血浆的渗透压基本相等的氯化钠溶液，浓度为0.85~0.9%
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                精神影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 May 2019 17:20
+            
+            编辑
++55)
+标签
+讨论 (25)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Dyslexia Connection
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            GameMaker Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            BitCoin
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Twilights Failing
+                      
+              A World of Darkness Encyclopedia for Modern Nights
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

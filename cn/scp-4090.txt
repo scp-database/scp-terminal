@@ -1,0 +1,476 @@
+                        
+
+SCP-4090-1
+
+项目编号： SCP-4090
+
+项目等级： Safe
+
+特殊收容措施： SCP-4090应当被储存于Site-484内一大型Safe级/异常物品保险柜中。SCP-4090-3应当被储存在一相邻保险柜中。对SCP-4090-1的测试应当得到4级安全权限人员批准。涉及SCP-4090-3的测试应当获得研究部主管Dias的批准。
+
+描述： SCP-4090为一大型亚马逊卡纸包装箱。当有人类个体进入时，SCP-4090先前的开口会成为进入一小型异次元空间，记作SCP-4090-1。
+
+SCP-4090-1是一Martin级1异次元空间。SCP-4090-1为球形，半径约8km。SCP-4090-1中大部分空间被海洋占据，在球心处有一面积为0.5平方千米的陆地。SCP-4090-1内部无动物存在。
+
+尽管内部无可见光源，SCP-4090-1内部仍然照明良好。根据相关人员叙述，SCP-4090-1内部的颜色。SCP-4090-1内部的温度维持在25摄氏度。除此之外，SCP-4090-1与地球环境间不存在其他物理性质差异。
+
+通过SCP-4090进入SCP-4090-12的人员必须通过一处类似古希腊神庙的建筑正前方的石质大门，记作SCP-4090-2。对SCP-4090-2组成材料的年代测定成效甚微，结果显示其存在时长在10-2000年之间。
+
+据信，SCP-4090被前“反大麻玩家”成员，POI-3055，应某名为Keegan Horner之人的要求所创造。值得注意的是，Horner为POI-958之子，该POI为一异常艺术家，目前认定其促成了EE-████与一系列相关事件。SCP-4090被美国邮政总局内部潜伏的基金会员工于其运送过程中被截获。
+
+以下聊天记录因其与SCP-4090之间的关联被基金会备份在案。
+
+- horner  加入聊天
+
+bluntfiend:  叶子真的嚷你爽上天啊
+
+zazzbery:  赞美420嗷
+
+bluntfiend:  对 笑死
+
+horner:  嘿，这里是不是讨论作品的地方啊？
+
+bluntfiend:  嗯
+
+bluntfiend:  新来的？
+
+horner:  对，我想问下能不能委托你们做个作品。
+
+zazzbery:  笑死 我们不是什么不正常艺术家3
+
+zazzbery:  我们就做点傻逼玩意 不接受委托
+
+zazzbery:  你想的话我倒是可以给你整个拟兽化头像
+
+horner:  我知道，但是我真的很想做一个作品，我自己又不知道怎么弄。你们能帮帮我吗？
+
+bluntfiend:  铁子 听zazz的话 出门右转找艺术家去
+
+horner:  是做给我爸的。
+
+zazzbery:  你怎么句句用句号啊
+
+zazzbery:  你是条子啊
+
+zazzbery:  按照法律你现在得告诉我们你是不是条子，否则就钓鱼执法了嗷
+
+horner:  我不是条子！这个事跟我爸有关系。他跟你们一样搞艺术的。
+
+zazzbery:  父子不和嗷
+
+zazzbery:  你继续说
+附加记录：
+
+- 来自bluntfiend 的私信
+
+bluntfiend:  你不能就因为这小孩的爹是个异常艺术家就帮他干活吧
+
+bluntfiend:  我们不搞委托这一套的
+
+zazzbery:  你觉得这是charlie horner的小孩吗
+
+zazzbery:  是的话我还真在线下见过
+
+bluntfiend:  在哪啊
+
+zazzbery:  2009年在辛辛那提 老哥
+
+bluntfiend:  所以你看到过那个
+
+zazzbery:  
+
+zazzbery:  操 差点把我手给整没了
+
+bluntfiend:  没法证明他就是charlie horner的小孩啊
+
+zazzbery:  我赌五块钱
+
+bluntfiend:  滚犊子
+附加记录：
+
+zazzbery:  嘿horner
+
+horner:  啊？
+
+zazzbery:  你是charlie的小孩吗
+
+horner:  对。
+
+bluntfiend:  我真操了
+附加记录：
+
+- 来自bluntfiend 的私信
+
+bluntfiend:  zazz
+
+bluntfiend:  别搞他了
+
+zazzbery:  听好了 charlie horner就一呆比
+
+zazzbery:  我跟他没啥深仇大恨 但是你也看到过他搞的东西
+
+bluntfiend:  他是awcy的人吗
+
+zazzbery:  倒不是 就是自由艺术家
+
+bluntfiend:  就因为你不喜欢他的东西你也不能报复性接受一个
+
+bluntfiend:  那小孩几岁啊
+
+zazzbery:  在辛辛那提见他的时候大概五岁
+
+zazzbery:  现在就大概十四
+
+bluntfiend:  每个十四岁小朋友都恨自己爹啊zazz
+
+bluntfiend:  动机不充分啊
+
+zazzbery:  别tm小看爸妈把小孩整傻逼的本事好吧
+
+zazzbery:  天知道我爹在我十四岁的时候把我搞成什么样了
+
+zazzbery:  我再跟他聊聊
+
+bluntfiend:  你要做什么都最好别署名啊
+
+zazzbery:  放心
+附加记录：
+
+horner:  你看过他的作品吧？
+
+zazzbery:  嗯
+
+horner:  都是玩感官冲击的东西。血浆，肠子，内脏，各种各样的东西。而且我觉得他跟别人交流就只有这种方式，像他只有这一种语言。
+
+zazzbery:  怎么说
+
+horner:  就比如说有一次，我比规定时间晚了点回家，大概11点半的时候从我朋友家回家。我走进厨房，然后就看到我爸大卸八块躺在厨房地上。
+
+horner:  像一颗手雷在他肚子里爆炸了一样。一滩他的尸体粘在墙上，眼球在地毯上滚来滚去。
+
+horner:  然后他的骷髅就滚过来，上面还耷拉着点碎肉，然后他往上看，盯着我说
+
+horner:  
+
+horner:  然后我爸就从冰箱里走出来了，给了我把拖把，让我把厨房弄干净。
+
+horner:  我在后院把他给埋了，而他就在门廊上看着我。
+
+horner:  这种事情其他人都不会经历的吧！他们爸妈最多也就吼吼他们吧！什么狗屁东西啊？！
+
+horner:  不好意思。信息量好像有点大。
+
+zazzbery:  我懂你 horner
+
+bluntfiend:  但是我们真的不接受委托
+
+zazzbery:  闭上你的臭嘴blunt 这活我接了
+
+bluntfiend:  天哪
+
+zazzbery:  我也不想做这些玩烂梗的狗屎东西了
+
+zazzbery:  我有个想法，但是运输是个问题
+
+zazzbery:  我给你做点慈善嗷
+
+zazzbery:  我一会把具体的想法私信你
+
+zazzbery:  俩傻逼爹养的孩子的友好会晤
+
+- bluntfiend  离开了群聊
+附加记录：
+
+- 进入与horner 的私信
+
+horner:  你能在他下一次展览上搞点破坏吗？我最近听他一直在车库里用圆锯干活。我说不定能给你寄一个。
+
+zazzbery:  听好 我知道你对你爹挺生气的
+
+horner:  差不多吧，对。
+
+zazzbery:  但是我不会做什么真正会伤害到他的东西
+
+horner:  为什么啊？！
+
+zazzbery:  没有什么很大用处
+
+horner:  我不要有什么用处！我就想他尝尝苦头！
+
+zazzbery:  horner 我明白
+
+horner:  你一点也不明白!
+
+horner:  你以点都不懂我在说什么，否则你会给我做的！
+
+zazzbery:  horner
+
+zazzbery:  如果我现在跟你说一遍我爸当初对我做的事肯定会让你那个长满痘痘的脑袋里面变成一团浆糊
+
+zazzbery:  所以别逼逼了，听我说
+
+horner:  好吧。我错了。
+
+zazzbery:  没事 我没生气
+
+zazzbery:  我想给你一个我当初很想要的东西
+
+zazzbery:  一个只属于你自己的地方
+
+zazzbery:  当人生艰难的时候，就去那里冷静冷静
+
+zazzbery:  你喜欢蒸気波吗
+
+horner:  那是啥?
+
+zazzbery:  就是一种颜色模式。你肯定会特别喜欢的 相信我
+
+horner:  行。
+
+zazzbery:  然后如果事情真的十分糟糕的话
+
+zazzbery:  你如果真的想做些什么的话我也会来的
+
+zazzbery:  我能帮你分担一点事情
+
+zazzbery:  握住这个东西的手，我就能帮你想想办法
+
+zazzbery:  但是，horner?
+
+horner:  嗯？
+
+zazzbery:  我非常严肃地和你说
+
+zazzbery:  只有在你觉得在他身边很不安全的时候再做这件事
+
+zazzbery:  因为我不能一次性帮你很久
+
+zazzbery:  懂吗?
+附加记录：
+
+SCP-4090-2：仅限4级权限阅读
+
+密钥正确
+
+SCP-4090-3是一人手的铜质雕塑，长度约32厘米。在对其进行回收时，SCP-4090-3处在SCP-4090-1中寺庙建筑内的一大理石基座上。当一人类个体与SCP-4090-3表面发生物理接触时，其生父会成为一种信息吞噬实体的宿主，该实体会消耗宿主对前述人类个体的感官与记忆层面的认识。受影响的个体将无法被该实体宿主所感知，亦无法被记起。该实体会在大约2周内自行蒸发，但会被与SCP-4090-3的接触再次激发。与SCP-4090-3的重复接触会逐渐减弱其异常影响的持续时间，除非每次接触之间间隔一特定时长（通常为2到3周）。
+
+与POI-3055进行接触的尝试仍在继续。
+
+脚注
+1. 用于指代小型的、自洽的、无人的异次元空间。(Mack Martin，针对对口袋次元分类的一种提议，2016)
+2. 通过奇术学或其他方式进入SCP-4090-1的任何尝试都未曾成功。
+3. 原文为DeviantArt，系一欧美互联网艺术社群，兽控聚集地。——译注
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                门径
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            07 Nov 2019 10:01
+            
+            编辑
++3)
+标签
+讨论 (4)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Another Stage of History
+                      
+              A Character Creation and Edit Officer Site
+            
+          
+        
+              
+          
+            
+              
+            
+            Lightworks Unofficial Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Join this Site!
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            PyLint Messages
+                      
+              and what theyre trying to tell you
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

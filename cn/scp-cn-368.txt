@@ -1,0 +1,241 @@
+                        
+
+项目编号： SCP-CN-368
+
+项目等级： Euclid
+
+特殊收容措施： 对SCP-CN-368实施收容是不可能的，信息部门应通过对监控设备的分析和排查寻找疑似SCP-CN-368-A的个体并确保及时将其实施收容与Site-CN-75-C7内种植了栎属植物（Quercus spp.）的标准真菌收容室内，在SCP-CN-368-A个体死亡后应立即送往C7-A07真菌类研究部进行处理。
+
+描述： SCP-CN-368是一种仅出现在中国华南地区的异常现象，目前此异常的触发机制尚未可知。当SCP-CN-368出现时，将会导致一名人类个体直接转化为SCP-CN-368-A个体，转化过程无法被察觉。SCP-CN-368-A个体从外表和生理学角度上观察与其转化前无异，其异常现象一般包括：
+
+虹膜转变为靛蓝色；
+分泌的汗水会在十分钟后缓慢转变为暗蓝色，且含有少量辣椒素；
+当前所承受的温度高于其体温时，SCP-CN-368-A的皮肤、毛发及瞳孔颜色缓慢转变为灰色但其本身并无生理上的变化，反之变化将逐渐消失；
+不需要按照人类膳食进食但仍会坚持进行此行为；
+多巴胺不定时地分泌过量；
+脑脊液内含有少量羟基二甲色胺，但未发现对SCP-CN-368-A造成任何影响；
+倾向于选择在栎属植物下作息，将SCP-CN-368-A带离栎属植物的行为会导致其不满与不配合；
+不能忍耐强烈的直射光线，在遭受不小于40坎德拉的光线照射时，将会观察到出现严重的多系统器官衰竭、乱语及谵妄症状，据目前的数据统计，若光照时间超过1小时将直接导致SCP-CN-368-A个体死亡。
+
+在SCP-CN-368-A个体死亡后，其身体将在未来一小时内迅速降解，头部将出现数量不定的真菌物种1，其中出现频率较大的物种包括有蓝绿乳菇（Lactarius indigo）、炫蓝蘑菇（Mycena interrupta）和木蹄层孔菌（Fomes fomentarius(L.:Fr.)Kick.），对出现的真菌进行分析发现其包含大量SCP-CN-368-A个体的脑脊液。
+
+若一名人类个体摄入SCP-CN-368-A的身体组织或是其产生的真菌时，将会在消化完毕后转变为SCP-CN-368-A，但此情况下的SCP-CN-368-A个体的存活率不高于37%。若将真菌置于人类尸体的口中或腹中，该尸体将直接转变为死亡的SCP-CN-368-A实体。
+
+附录： 在最近对异常药物的调查中，发现一批致幻剂和毒品含有与SCP-CN-368-A个体的DNA信息相符合的成分。对此批药物的来源进行搜查时发现其处于非洲████的工厂内部有超过████个SCP-CN-368-A个体用于制造药物，而该SCP-CN-368-A个体均为来自当地贫民窟的孤儿和老人与周边国家战乱地区的尸体。后续调查中发现，该工厂高层人员均为SCP-CN-368-A个体。
+
+Footnotes
+1. 该真菌确认在无菌环境下仍会出现，且能生长速度大约为普通该物种的20倍。此前对未死亡的SCP-CN-368-A个体的头部进行探查并无任何发现，造成此原因不明。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                真菌
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Sep 2018 17:19
+            
+            编辑
++12)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            My Pride
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Fondazione SCP
+                      
+              Branca Italiana della SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            Porphyra Roleplaying Game
+                      
+              Always a Work-In-Progress
+            
+          
+        
+              
+          
+            
+              
+            
+            Maximum Tension
+                      
+              Programing / Design Company
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

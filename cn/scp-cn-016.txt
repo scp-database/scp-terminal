@@ -1,0 +1,233 @@
+                        
+
+项目编号： SCP-CN-016
+
+项目等级： Safe
+
+特殊收容措施： SCP-CN-016被放置于Site-CN-03附属收容仓库的单独隔间里，访问项目的权限向全体2级或以上人员开放，但除D级人员以外，任何访问者或被分配至项目的人员不可拥有任何形式的游泳技能。在没有进行实验时，不允许向CN-016中注入深度超过1.75米的水。
+
+若等级为3级或以上人员有使用SCP-CN-016进行实验的意图，请与Dr.Anglia联系，并提交一份证明全体非D级人员参与者不具备游泳技能的书面材料。由于2015/07/██发生的意外，已暂停通过与项目相关的实验申请。
+
+描述： SCP-CN-016是一个高6米，直径2.5米的圆柱体水族展览缸，对项目外壳的取样分析表明其材质为无异常的聚甲基丙烯酸甲酯（PVC）玻璃。与SCP-CN-016同时自██海洋馆回收的相关收据显示项目由该海洋馆委托████集团生产，但截至目前，并未收到同一厂商的产品显示出和SCP-CN-016相同或类似的异常性质的报告。
+
+空置的SCP-CN-016没有任何异常之处，当且仅当其缸体中储水深度达到1.75米时，SCP-CN-016才会呈现出它的第一个异常性质，使任何与该项目产生视觉接触的人类个体产生一种想要将自身完全浸没在SCP-CN-016缸体内的冲动。这种冲动相当强烈，但可以被无法逾越的客观障碍（例如在受影响个体和缸口之间存在个体无法通过的障碍物）缓解甚至消除。注视SCP-CN-016的影像被证实和直接注视SCP-CN-016一样会导致个体被异常效应所影响，但完全不会游泳的人不在此列，无论其是否直接与项目产生视觉接触均不会受影响。
+
+当一名人类将自身完全浸没入SCP-CN-016内部的水体时，无论其是否受第一个异常性质所影响，SCP-CN-016的第二个也是最主要的异常性质将作用于受试个体身上。在十分钟内，在个体看来SCP-CN-016缸体以外的世界将逐渐被水体完全淹没，与此同时缸体内部的水体被渐渐排出。超出十分钟之后，个体将产生将水体和空气互相替换的严重认知失常，通常表现为拒绝浮出水面并试图呼吸缸中液体直至最终溺死。强行迫使个体使用水下呼吸器或将个体打捞出水也无法挽回个体的生命，因为个体将在空气中出现与溺水相同的症状并最终死于窒息。
+
+2015/07/██进行的几次实验证明了能触发项目的异常效应的不只是水，但同时也证明了项目的外壳并没有什么“坚不可摧”的属性，请不要再往里面倒能和塑料产生反应的液体了。出于对项目的保护着想，我申请暂时停止SCP-CN-016相关的实验，直到我们设法把项目的内壁完全清理干净再说。— Dr.Anglia
+
+同意申请。— O5-██
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                视觉性
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            24 Jul 2018 11:27
+            
+            编辑
++37)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Game Design Novice
+                      
+              Learn to make video games.
+            
+          
+        
+              
+          
+            
+              
+            
+            Fondation SCP
+                      
+              Branche Francophone
+            
+          
+        
+              
+          
+            
+              
+            
+            BRTFF
+                      
+              Passion on the Top
+            
+          
+        
+              
+          
+            
+              
+            
+            AQW
+                      
+              AQWorlds Wiki
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

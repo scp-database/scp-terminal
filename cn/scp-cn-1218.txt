@@ -1,0 +1,251 @@
+                        
+
+项目编号： SCP-CN-1218
+
+项目等级： Safe
+
+特殊收容措施： 项目目前被存放于一个15米X15米X4.5米的标准收容室，室内需安装4台全波段信号屏蔽器，禁止任何无线接收设备接近收容室10米范围内。三台基金会超级计算机“终局（Endgame） ” 、“哥白尼（Copernicus）” 、“进化（Evolution）”将24小时接收项目发射出的电子信号并储存于数据库中。
+
+访问数据库必须拥有监督者议会的直接授权。
+
+描述： SCP-CN-1218是一个由未知材料制作的圆环，表面刻有未知符号，直径大约30厘米，工艺远超当前人类科技水平。项目被收容于1997年██月，收容3天后观测到开始发射电子信号，运行原理未知。这些信号经解码后表现为数篇以图片和文字为主的电子文档。
+
+截止2018年，超级计算机“终局”在20年间总共从项目中储存并编译的文档数目超过3300亿份，这些信息储存进数据库后被自动转译为数种人类语言，以法语、葡萄牙语、中文居多。
+
+其中约60%的信息为无法识别的数据碎片，推测曾遭到未知手段的破坏，剩余完整的信息也有不同程度的损坏。
+
+超算“终局”已筛选出具有代表性的100份文档，由监督者议会封存。剩余文件及其副本已被删除。
+
++SCP-CN-1218信息目录
+
+-关闭附录
+
+大纲
+数目（份）
+
+可识别的信息（完整）
+约12亿
+
+可识别的信息（破损）
+约1100亿
+
+数据碎片
+约2188亿
+
+总计：约3300亿
+
+访问数据库
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                原创
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2019 03:01
+            
+            编辑
++47)
+标签
+讨论 (19)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            Borderlands Modding Resource
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Horizons
+                      
+              The RP about how it all continued... maybe.
+            
+          
+        
+              
+          
+            
+              
+            
+            Mecha Documents
+                      
+              The Collection
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

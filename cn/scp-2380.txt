@@ -1,0 +1,233 @@
+                        
+
+项目编号： SCP-2380
+
+项目等级： Safe
+
+特殊收容措施： SCP-2380存于Site-39的收容锁柜2380内，3级以下权限人员不得接触。若出现收容突破，高级研究员Østergaard将被安保人员置于保护性拘留下，直至收容恢复。除受控测试环境外，不得直接皮肤接触SCP-2380，且随时使用保护性配备。
+
+描述： SCP-2380是一人类左肾，基因上与位于丹麦███████的Site-39的高级研究员████████ Østergaard相同。SCP-2380的内、外部结构与正常人类肾脏没有任何可见差别。SCP-2380的细胞在可侦测范围内与非异常的人类细胞无异。所有组织处于健康状态，但是并无血液在其中流动。
+
+SCP-2380有主动与被动异常效应。 SCP-2380持续以未知方式旋转，使其上端一直指向Østergaard高级研究员。SCP-2380的主动性异常在其被Østergaard研究员以外任何人类握住且直接皮肤触碰时出现。在触碰后，对象（编为SCP-2380-1）将试图把SCP-2380以任何可用手段植入Østergaard高级研究员的体内。若可以找到手术设备或其他尖锐物体， SCP-2380-1将会使用之，但这些受影响者也会在没有任何工具、设备的情况下尝试进行移植。
+
+意义不大的一点是高级研究员Østergaard当前双肾齐全，且状态健康功能完好。未知SCP-2380-1个体在打开腹腔后会对Østergaard研究员现有的左肾做出何种举动。
+
+在脱离接触后，SCP-2380的主动异常效应会停止，直至下次被触碰。此前受影响的SCP-2380-1人员会表现出对其行为毫无察觉，但仍保留着在受影响期间移植“Østergaard肾脏”的概念，且是以妥当医疗程序（手术服、无菌医疗设备、指定手术室等）进行。这种信念无论SCP-2380-1人员是否曾有手术经验都会保留，甚至对此前不知晓Østergaard身份的人员也是如此。没有在前SCP-2380-1人员上注意到其他异常或反常效应，Østergaard研究员自身也是如此。
+
+发现： SCP-2380由高级研究员Østergaard于██/██/2011的早晨在他Site-39研究区█号的桌上发现。██/██早上与前一天夜晚的安保摄像并未发现在Østergaard来到前有人闯入的痕迹。对Østergaard的调查发现他对SCP-2380一无所知，其肾脏在██/██早上之前也没有任何异常。
+
+Dr. ███████，即Østergaard的直属上级，在到达后捡起SCP-2380，其异常效应出现。Dr. ███████从附近桌上拿起一把拆信刀，开始在走廊上追逐Østergaard，直至被安保人员制服。此时SCP-2380掉落在地，其效应停止。在Dr. ███████被送去扣留时，军官█████捡起了SCP-2380，开始试图用曲别针破开Østergaard研究员的腹腔，此时才使其异常性质被发现。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                认知危害
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            08 Mar 2018 10:15
+            
+            编辑
++1)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Pagan Michigan
+                      
+              News and Networking for the Pagan Community of Michigan
+            
+          
+        
+              
+          
+            
+              
+            
+            Software Craftsmanship
+                      
+              A conference all about building it right
+            
+          
+        
+              
+          
+            
+              
+            
+            CCS Related
+                      
+              Malkavian guide to CCS life
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP財団
+                      
+              確保、収容、保護
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,252 @@
+                        
+
+項目編號：  SCP-CN-394
+
+項目等級：  Euclid
+
+特殊收容措施：  SCP-CN-394樣本應被儲存於Site-CN-29的異常有機化合物保管室中，非必要之樣本可依照普通程序銷毀。SCP-CN-394-1在實驗結束後應進行安樂死，否則應交由中小型危險生物收容小組處理。若發現有野生的SCP-CN-394-1或-2，應立即通知距離最近的野生生物收容小組進行處理。收容中的SCP-CN-394-2由駐站的鳥類專家進行馴養。目前禁止一切在家貓以外的食肉目生物上試驗SCP-CN-394的行為。
+
+描述：  SCP-CN-394為一種異常的固醇類激素，目前無法人工合成，對家貓(Felis silvestris catus)食肉目動物有成癮性且可能致使各方面的生理功能異常地提升或發生變化。
+
+SCP-CN-394-1 指持續餵食或注射 SCP-CN-394 後發生變異的家貓。經實驗，SCP-CN-394-1的肌纖維單位截面出力最高可達到正常值的3.5倍，心臟出現[數據刪除]，估計可以在不供給食物的情況下存活三年以上，此外可能發生性別轉換與孤雌生殖等現象。SCP-CN-394-1發生戒斷症狀時被觀察到有同類相食的行為。SCP-CN-394-1'泛指其他受SCP-CN-394影響的食肉目生物。相比於家貓轉化成的SCP-CN-394-1，1'在生理特徵上的變化更不規律且難以辨認其原始個體的所屬物種。
+
+SCP-CN-394-2 指一種針尾雨燕屬的鳥類，羽毛在黑暗中呈現異常的淡藍色螢光。SCP-CN-394-2的肌肉細胞能夠合成且富含SCP-CN-394，同時也是目前SCP-CN-394的唯一來源。SCP-CN-394-2目前未發現有存活個體，推測在基金會發現前已被野生的SCP-CN-394-1獵食至滅絕。目前收容中的個體爲透過克隆技術製造的。
+
+SCP-CN-394及其相關項目最早於[已編輯]被發現，該區域已經███年沒有人類活動的相關記載與生活痕跡，儘管[已編輯]植被反常的呈現熱帶雨林景觀。該區域內散落著大量SCP-CN-394-1及-2的骨骸，除了11隻野生的SCP-CN-394-1以外沒有發現任何存活的動物。該區域中央有一個花崗岩混和有機質的巨人遺骸，編為Anomalous object-CN-9918(AO-CN-9918)。
+
+附錄一： SCP-CN-394-1'的實驗記錄
+
+[數據刪除]
+
+附錄二：  對發現地點的考古挖掘結果
+
+透過考古挖掘對該地的生態圈演變做了一定程度的重建，其中較為值得注意的有下列幾項：
+
+約█,███年前，開始存在疑似SCP-CN-394-2的生物。
+約█,███年前~███年前，出現大量極可能為SCP-CN-394-1'的生物。其骸骨排列的方式顯示當時可能發生過對SCP-CN-394-1'長達數千年的持續屠殺。
+約███年前1，有一隻麋鹿死亡，其遺骸形成了化石，全身被石英包裹住，而其鹿角及骨骼為紅寶石構成。考慮到可能存在的異常性質，被編為AO-CN-10026。
+約█年前，有帶著塑膠項圈的SCP-CN-394-1，根據骸骨推測死亡原因為重物砸落導致的全身粉碎性骨折。推測為當地SCP-CN-394-1族群的始祖。
+
+附錄三： AO-CN-9918相關資訊
+
+經過檢驗，AO-CN-9918是一種[數據刪除]的巨人形異常的遺骸，推測曾經在該地存活███年以上，2。切開手掌以取出樣本的作業過程中，在場的所有工作人員一度出現幻聽，認為有幼童在耳邊嚎啕大哭。將AO-CN-9918納入特殊收容措施的請求已被提交。切開右手手掌的計畫被暫停。
+
+有趣的是，AO-CN-9918似乎不是對疼痛或傷害有所反應。那個聲音並不是工作人員把它的手掌切開的時候出現，而是在他們把那隻鳥(SCP-CN-394-2)扭曲的遺體取出過後大概兩秒，所有人才聽到那個尖銳的哭聲。  事後調查委員會主委 Dr. Cells
+
+Footnotes
+1. 大約與AO-CN-9918最早出現於該處的推測時間段重疊。
+2. AO-CN-9918的手中兩具SCP-CN-394-2為目前最為完整，且可能帶有足量軟組織及完整基因體的遺骸樣本。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                鸟类
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Jun 2018 18:59
+            
+            编辑
++8)
+标签
+讨论 (6)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            InfiniteMac Wiki
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Pagan Michigan
+                      
+              News and Networking for the Pagan Community of Michigan
+            
+          
+        
+              
+          
+            
+              
+            
+            Wanderers Library Sandbox
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Parameterized Complexity
+                      
+              Did you say NP-hard?
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

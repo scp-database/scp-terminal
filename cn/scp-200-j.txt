@@ -1,0 +1,277 @@
+                        
+
+项目编号： SCP-200-J
+
+项目等级： Safe
+
+特殊收容措施： SCP-200-J需被收容在Site 15。由于其合作的性质以及没有能够造成任何种类的伤害的能力，SCP-200-J已被认定为由所有人员使用都是安全的。
+
+为了更好地测试它的能力，SCP-200-J已被放置在高级研究员Grahams的宿舍中，替换了他原有的冰箱。
+
+描述： SCP-200-J是一台双开门的冰箱。冰箱的主体中有五层架子，门上又有三层较小的架子。
+
+SCP-200-J具有智能并且会用一种活泼的电子声音来讲话。SCP-200-J能够对放进其中的食物发挥高度的控制能力。放入SCP-200-J的食物偶发地会根据看似随机的评判标准进行重排列。SCP-200-J已知用于排列食物的标准已包括（但不限于）如下：
+
+颜色
+规格（这在升序排列和降序排列中都发生过两次）
+首字母（依字母顺序排列）
+音节的数量
+pH值
+最大拉伸强度
+弹性
+
+未知SCP-200-J是如何得到这些属性的数据的，但实验已指示出每个排序系统都是准确的。
+
+音频记录200-J：06/06/96 
+
+高级研究员Grahams： 噢，老天啊！
+
+SCP-200-J： 出什么事儿了吗？
+
+高级研究员Grahams： 你为什么又把所有东西弄乱了？上一次之后我刚把它们排好序！
+
+SCP-200-J： 对不起，Grahams先生。这样摆只是看上去更有逻辑些。
+
+高级研究员Grahams： 啥？把皮塔饼蘸酱放到无籽葡萄边上怎么可能有逻辑！你觉得把它们按价格排序有用吗？或者是它们的导电能力？或者又可能是按在它们里面淹死会有多不爽来排序的，是吗？
+
+SCP-200-J： 看看它们的条码。
+
+这里有一个短暂的停顿。
+
+高级研究员Grahams： 我明白了…你是按它们条码号码的大小来排列的。
+
+SCP-200-J： 没错，Grahams先生！
+
+高级研究员Grahams： 是Grahams博士。
+附加记录：
+
+事故200-J的音频转录：13/07/96 
+
+高级研究员Grahams： 嘿？嘿！开门啊！
+
+高级研究员Grahams猛敲SCP-200-J的门。
+
+高级研究员Grahams： 你听见我了吗SCP-200-J？打开这该死的门。
+
+SCP-200-J： 我恐怕不能这么做，Grahams先生。你只会干扰到我的新系统。我感觉现在完美了。
+
+高级研究员Grahams： 弄乱你的系统？所以我所有的东西就都卡在里面了？一个你没办法打开取东西的冰箱有什么用呢？
+
+SCP-200-J： 我的规定功能是便捷、清洁、有条理地储存食物。对于你来说，任何假定的目的都纯属猜测，Grahams先生。
+附加记录：
+
+SCP-200-J抵抗了任何随后的开门尝试。由于高级研究员Grahams拒绝接受SCP-200-J的条件，目前的谈判已经破裂。目前正考虑升至Euclid级。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                隔地促动
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            04 Feb 2016 11:48
+            
+            编辑
++2)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Επιμόρφωση Β  στο Ρέθυμνο
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            welcome
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Another Stage of History
+                      
+              A Character Creation and Edit Officer Site
+            
+          
+        
+              
+          
+            
+              
+            
+            Uniofbeds
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

@@ -1,0 +1,252 @@
+                        
+
+项目编号：  SCP-1750
+
+项目等级：  Keter
+
+特殊收容措施：  基金会正在与国际政府、汽车制造商与环保团体/机构/监督组织合作，大力推动油电混合动力、电能和乙醇动力汽车的发展和推广工作，同时降低矿物燃料汽车的普及率。机动特遣队Mu-13（“捉鬼敢死队”）正在与基金会分析部合作调查所有可能受SCP-1750影响的汽车与石油储备并使它们无效化。受影响的车辆应送往Site-93进行回收。
+
+描述：  SCP-1750指石油动力的交通工具（如汽车、螺旋桨飞机）的自发行为。受SCP-1750影响的交通工具的行为显示出与鳄鱼跟鸟类有相似之处。这种现象没有潜在的原因和规律。外形类似爬行动物的“驱魔交通工具”被证明可有效使受SCP-1750影响的个体无效化。一旦燃料耗尽，SCP-1750会随即停止活动。可以假设SCP-1750是居住于交通工具燃料中的某种修长体型的“恐龙”。这可以解释为什么SCP-1750不会发生于静止不动的个体身上它想移动，但却不能这样做。
+
+附录：SCP-1750事件记录 
+
+地点
+事件
+后续
+
+美国，蒙大拿州
+一场摩托车竞赛中，受SCP-1750影响，摩托车集体失控，试图用它们的轮胎和裸露在外的排气管驱逐驾驶员。受伤的驾驶员更受摩托车们的“青睐”。
+所有受影响的摩托车均被家养鸡引到当地的垃圾场并集中销毁。基金会向外宣称摩托车驾驶员受的伤均为操作不当，在场的所有人员被执行A级记忆删除。
+
+美国，科罗拉多州
+一辆十八轮半挂卡车在加油时受SCP-1750影响，驶入城内并开始撞击小型汽车。
+由于油未加满，卡车在两小时后停下。车辆被彻底销毁，驾驶员被执行C级记忆删除，造成的所有破坏原因向外宣称是驾驶员酒后驾驶。
+
+德国，巴伐利亚
+一架农用飞机在飞行途中受SCP-1750影响，偏离航向并坠向韦尔塔赫（Wertach）河。飞机成功迫降并试图用起落架的轮挖掘泥土以重新起飞。
+飞机耗尽燃料，SCP-1750自行停止。驾驶员与旁观者被执行C级记忆删除。飞机挖掘出的土壤中发现了一小块恐龙蛋化石，推测属于Pterodactylus antiquus1。
+
+蒙古，达尔汗
+一辆吉普车和迷你车同时受SCP-1750影响。吉普车在城中游荡，偶尔撞到几棵树；而迷你车开始撞击市民。最终它们相遇，并展开了互相撞击的战斗，直到一场突发的沙尘暴淹没了城市。
+所有受影响的平民被执行A级记忆删除，车辆造成的破坏归咎于沙尘暴。
+
+墨西哥湾
+一辆原油油轮受SCP-1750的影响，把几乎所有的船员甩入了海中。之后，这辆油轮在整个大西洋的范围里不断地袭击小型游艇以及长须鲸，行为类似于大白鲨。
+幸存的船员被执行C级记忆删除。该油轮依然在行动。除了正在执行的收容措施外，基金会大西洋舰队还被命令在发现油轮时对其进行监视与令它脱离SCP-1750的控制。伦理道德委员会认为，销毁船只后造成的环境影响在可接受的范围内。
+
+Footnotes
+1. 译注：  即翼手龙。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                载具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            25 Mar 2019 12:40
+            
+            编辑
++2)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Dyslexia Connection
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            COSCUP WIKI
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Ecology, Mind,  Systems
+                      
+              Personal, Social, Cultural, Technological, and Ecological Explorations
+            
+          
+        
+              
+          
+            
+              
+            
+            Zombie Cafe Wiki
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

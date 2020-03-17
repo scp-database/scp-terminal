@@ -1,0 +1,239 @@
+                        
+
+SCP-844最初发现处。
+
+项目编号： SCP-844
+
+项目等级： Safe
+
+特殊收容措施： SCP-844现被收容于Site ██。SCP-844现安置于一个尺寸为6m x 6m的光照良好的收容间中，并且根据营养表844-1规定每月应向其提供一头牛科动物。每个月SCP-844都应由两名D级人员使用园艺剪刀对其进行修剪。
+
+为防止伤亡的出现，任何进入SCP-844收容间的人员都应穿着防护服。
+
+描述： SCP-844是一种无定形的物质聚合生命体，主要构成为人类骨头，大量的沙尘以及一种红色的发光真菌。SCP-844倾向于栖息在黑暗、温暖的地区，在不需要捕食的状态下，SCP-844更趋向于人类活动较少的地区。
+
+SCP-844是食肉性的，并且具有高机动性，现已展示出了通过在墙壁与天花板上移动以伏击猎物的能力。SCP-844在捕猎过程中会使用诱捕的技巧，但在被基金会收容后已放弃使用该能力，尽管在刚到达基金会时曾试图使用提供予SCP-844的牛引诱研究人员靠近。
+
+捕猎时，SCP-844会首先尝试引诱一名人类对象进入一个相对封闭的区域，对象通常为六至十二岁。SCP-844的诱捕过程是通过（在诱捕的路径上）分泌一种红色的粘性液体完成的，这种液体会迅速地凝固成一种可食用的胶体物质。诱捕通常发生于目标易于到达但人迹较少的区域。
+
+当目标达到诱捕地点时，SCP-844将会潜伏于暗处，并使用体内的数个锋利倒钩将目标制服并拖行至SCP-844的潜伏处。
+
+SCP-844接下来会使用不同的物理手段以刺激目标发出哀嚎。这个过程通常被认为是SCP-844使用自己主体中的锋利的骨头来完成的。这个过程中，SCP-844将竭力保证这些伤口不会致命，以使该目标能够用于下一次的狩猎。
+
+通常，人类将会接近并且试图调查哀嚎声的来源，此时，对象将会遭到SCP-844的攻击。这些攻击迅猛而又无痛，往往直取被害人的头部与颈部。随后，SCP-844将会将对象的骨头融入自己的身体。
+
+在收容期间，SCP-844被观察到在收容间的天花板上休息，试图摧毁提供收容间照明的光源，以及在收容间的墙壁上打磨自己体内的骨头。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                骨骼
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            29 Jul 2017 14:24
+            
+            编辑
+0)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            SCP日本財団中枢資料室。
+                      
+              収用
+            
+          
+        
+              
+          
+            
+              
+            
+            Celtic Heroes Wiki
+                      
+              A Wiki for the iPhone/iPad MMO Celtic Heroes
+            
+          
+        
+              
+          
+            
+              
+            
+            Data Structures
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Wayward Society Sandbox
+                      
+              Even secret societies need to draft.
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

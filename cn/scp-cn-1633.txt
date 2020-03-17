@@ -1,0 +1,238 @@
+                        
+
+一例用于避免SCP-CN-1633异常传播的标识符
+
+项目编号： SCP-CN-1633
+
+项目等级： Keter
+
+特殊收容措施： 关于SCP-CN-1633的所有研究向全体基金会人员公开和开放研究权限，一名为《SCP-CN-1633》的内部期刊建立以用于定期发表所有对SCP-CN-1633的研究；若成功解明SCP-CN-1633，《SCP-CN-1633》仍需保持每周一篇的频率发表关于SCP-CN-1633的资料和文章，由基金会发布的文章和论文都应至少引用一篇SCP-CN-1633相关文献以避免SCP-CN-1633对该文件造成影响；所有相关文章将由误传部门负责审核，并以Miriam Martha的名义发表。
+
+当前，SCP-CN-1633的主要研究核心为无效化项目，相关部分无需公开且仅限于口头交流；若无效化信息暴露于SCP-CN-1633，此情况被判定为SCP-CN-1633的收容失效。
+
+描述： SCP-CN-1633是一存在于基金会内部数据库的形而上概念，由基金会2级研究员Miriam Martha创造并遗忘。
+
+发现： 根据Miriam Martha口述和实用Evangeline记忆搜寻皿所得的结果，当时Miriam Martha正在阅读关于一份新型超形上学概念的文章，并想到将其武器化并用于舆论掌控的想法（推测为SCP-CN-1633的来源，已归纳并编号为SCP-CN-1633），计划在第二天写成文章发表于基金会内部期刊上，但关于新型超形上学概念的研究中取得其他方面的进展后转移了Miriam Martha的视线，导致在数个星期后Miriam Martha遗忘了SCP-CN-1633。
+
+在此之后，Miriam Martha发布的所有文章和项目研究报告均出现不同程度的篡改和删除现象，若意图尝试将文档恢复至之前的修订版本，将会导致该设备内所有的文字均转变为对Miriam Martha的人身攻击或示爱言论，图片则会被转变为Miriam Martha的私人照片，大部分图片的拍摄角度被认为是无法实施或无法追溯的；在近期被Miriam Martha引用过的文献档案则会遭到不同程度的损毁（包括涂鸦、篡改、部分删减或完全删除），对此情况的研究未能取得任何有效的成果。截止至2019/3/21，此现象已完全影响整个基金会内部数据库并使之无法正常使用；这一现象被超形上学部发现并研究归纳为当前的SCP-CN-1633文档初稿。
+
+附录： 鉴于SCP-CN-1633可能造成的严重影响以及对SCP-CN-1633影响的文字进行的心理分析结果，研究人员确信SCP-CN-1633可能存在智能而且会对任何与其无关的关信息表现出厌恶和仇恨情绪。在之后的一次无效化研究中，Miriam Martha撰写了一篇关于号召基金研究员引用和研究SCP-CN-1633的倡议书，该文章被发布于下一期的《基金会周刊2.0》头版上；在之后一周内，SCP-CN-1633的异常效应出现频率明显降低；基金会依此制定并实施了当前的特殊收容措施。
+
+为避免收容失效，所有SCP-CN-1633相关文章已经由Miriam Martha亲自授权和署名以抑制SCP-CN-1633的异常效应，除非特别注明，所有相关内容均采用Creative Commons Attribution-ShareAlike 3.0 License授权方式[1]，且所有相关信息均需由误传部门进行审核、修订与发表。
+
+参考文献
+1. Martha, M. (2019). 不可行的概念：智能概念的实用与规避. 《SCP-CN-1633》，10-16.
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                电子
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            11 Sep 2019 02:22
+            
+            编辑
++17)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Therafim RPG
+                      
+              Epic Destiny Awaits
+            
+          
+        
+              
+          
+            
+              
+            
+            the Paperworks
+                      
+              codename /pw/
+            
+          
+        
+              
+          
+            
+              
+            
+            Wikistória
+                      
+              A enciclopédia de História feita por estudantes
+            
+          
+        
+              
+          
+            
+              
+            
+            PassatB5
+                      
+              Do It Yourself information for Passat Repair!
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

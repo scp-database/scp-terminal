@@ -1,0 +1,235 @@
+                        
+
+項目編號： SCP-1874
+
+項目等級： Safe
+
+特殊收容措施： SCP-1874應與實驗畜牧場所飼養的綿羊形成一個不少於7隻羊的群體，收容於58站點（Site 58）之農業研究所的牧場裡。為了方便區分，SCP-1874不論什麼時候都應穿著外套1；必要時應立即更換外套。由於該種生物具有高度社會性，若和其他羊隻分離超過一天，SCP-1874將為極端壓力帶來的生理效應所苦；一旦任何其他羊隻遭到殺害，應在最短時間內替換。與SCP-1874及其群體互動——包含獸醫護理——時，必須穿戴全套防護裝備（手套、長袖套、護目鏡、長統靴）。SCP-1874及其群體應有飲水與食用適合作為飼料的植物之標準權利。
+
+描述： SCP-1874是一頭母威爾斯山地黑綿羊（Ovis aries）。當與非其他羊隻的活哺乳動物之皮膚接觸時，SCP-1874會爆炸。至今仍未正確測量出爆炸的威力；然而，當在開放空間時，其足以殺死SCP-1874四周約6公尺內的所有事物。SCP-1874無法免疫自身的爆炸傷害，且會化為生物碎屑；然而，約5分鐘後，這些肉和器官會互相靠近並重組成SCP-1874，其模樣看起來就如同爆炸發生前一刻那般。重組和復活的過程需花費1分鐘。SCP-1874並未因為爆炸而遭受精神創傷或其他心理上的影響。
+
+利用SCP-1874繁殖的實驗都失敗了；特別是，已證明公羊極不願意和SCP-1874交配，因此目前正在嘗試人工授精。無論如何，若SCP-1874有可能生下擁有相同異常性質的小羊，便表示有機會對SCP-1874進行身體內部的實驗。
+
+取得紀錄： SCP-1874於20██年██月██日發現，當時一起發生在███████，████████寵物動物園2，疑似恐怖攻擊的事件剛落幕，██名遊客與█名員工死亡；牧場的其他羊隻也全都在爆炸中喪生，唯一的例外是正站在爆炸中心吃草的SCP-1874。對生還者與目擊者施以記憶消除，且將SCP-1874帶回拘留。
+
+附錄1874-1： 採集SCP-1874羊毛表面的樣本後，利用顯微鏡確定其會分泌一種形態異常的三硝基甲苯4。再透過仔細檢查其反應，研究員█████發現這種異常材料正是SCP-1874得以重組並復活的原因。需進一步實驗以確定SCP-1874-1和活哺乳動物的皮膚接觸時為何會爆炸。
+
+脚注
+1. 译注： sheep jacket
+2. 译注： 也稱為「兒童農場」或「兒童動物園」，裡面包括一些家養動物和較溫馴的野生動物，可以讓兒童觸摸和餵哺牠們。——維基百科
+3. 译注： 就是TNT，黃色炸藥。
+4. 译注： 用來抵抗氣候與環境對毛與皮的破壞，它似乎也能保持外皮的衛生。——維基百科
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                触觉影响
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            03 Jan 2020 15:01
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            IS2216 - JAVA WIKI
+                      
+              Java for beginners
+            
+          
+        
+              
+          
+            
+              
+            
+            Souls Lore
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Bidirectional Transformations
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Nsb Notes
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

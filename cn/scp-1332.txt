@@ -1,0 +1,233 @@
+                        
+
+SCP-1332-B转化到SCP-1332-C的过程中
+
+项目编号：  SCP-1332
+
+项目等级：  Euclid
+
+特殊收容措施： 盛有SCP-1332-A样品的小瓶应密封并收容于在冷藏收容库中。SCP 1332-B个体应收容在密封的保温室中，并监测其向1332-C的转化过程。目前对于这些细胞进行日常的远程监测，并每天对其进行完整度检查。如果出现SCP-1332-C收容失效事件，则受损的收容间和周围区域将通过控制的热压爆炸消毒，以限制进一步传染的可能性。
+
+描述： 在其培养状态下，指定为SCP-1332-A，SCP—1332是一种浓的灰色金属糊状物，其颜色和光泽与汞相似。由于其半固态的形态，项目在空气中传播是不可能的；迄今为止，所有感染病例都是直接、无保护地接触SCP-1332-A或者SCP-1332-B和SCP-1332-C在非常规暴力事件中造成的伤口导致的。
+
+当活人感染SCP-1332（通常是通过皮下组织由于划伤和擦伤导致的和项目的直接接触），项目将会开始向SCP-1332-B转化。这种转变外在表现为流感样症状(疼痛、疲惫、恶心)，症状在两到三天内渐渐消退。在这个周期内，SCP-1332会将受感染对象的的骨骼和肌肉结构转化为无定形的肿块，表面上类似SCP-1332-A。尽管基本上是均匀的，SCP-1332-B中的物质仍然执行被替换系统的所有功能，比如保持内部结构，进行运动和反射行为，并保护脆弱的器官免受损伤。
+
+受感染的对象的神经系统将保持完整，尽管在某种程度上会因对象的内部变化而移位。自主神经系统似乎维持肿块的密度和结构，使SCP-1332-B保持适当的形状。因此理论上SCP-1332-B实体可以在不知道自己的状况的情况下完全正常地生活。
+
+SCP-1332-C会在两种情况下出现：SCP-1332-B意识到了他们的状态，或者SCP-1332-B试图进行对象不习惯的体育活动。这两种情况都会导致自主神经系统暂时停止其正常功能，因为SCP-1332-B试图有意识地控制自己的身体。在大多数情况下，这将导致对象内部支持系统的完全的结构性崩溃。据推测，这是由于对象无法保持保持自然形状所需的意识控制水平所导致的。这常常导致受感染对象因内出血和瘀伤而死亡(由于器官在没有保护的情况下撞击地面)或窒息(肺部和食道由于突然的重量而无法扩张)。在少数情况下，对象会设法重新控制自己的结构，这往往会导致大量的撕裂和失血，因为恐慌的对象在努力控制自己的体型时，无意中从内部刺穿了自己的皮肤。
+
+在少数的受感染对象在崩溃中存活的情况下，对象将被编号为SCP-1332-C，并按照特殊收容措施中的描述被重新收容。SCP-1332-C的实体由于其新的生理状况导致饮食困难(如果有可能饮食的话)，很少能存活超过两到三天，但是观察表明SCP-1332-C在某种程度上保留了一些人类的认知能力。程度因人而异，(从SCP-1332-B到-C的转换常常会直接导致影响到对象大脑的心理创伤)，但是受感染对象已经被证明他们会试图向他们熟悉的人和对象移动，从特定于对象的恐惧症的症状中回复，有时还试图接纳他们判定为友好的人。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                金属
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            15 Jun 2018 07:21
+            
+            编辑
+0)
+标签
+讨论 (2)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            COSCUP WIKI
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            Big Damn Gaming Page
+                      
+              So many games, so little time...
+            
+          
+        
+              
+          
+            
+              
+            
+            www.schrijven.wikidot.com
+                      
+              Voor teksten, artikelen, verhalen en poëzie
+            
+          
+        
+              
+          
+            
+              
+            
+            Isocentre Archive
+                      
+              Where ideas intersect
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

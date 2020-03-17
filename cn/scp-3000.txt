@@ -1,0 +1,582 @@
+    display: block;
+    text-align: center;
+    padding: 0.75em;
+    background-color: lightgrey;
+    border-top: 0.125rem dashed slategrey;
+    border-bottom: 0.125rem dashed slategrey;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+.addendum {
+    border:solid 2px #999999;
+    background:#F5F5F5;
+    width:84%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+#main-content .page-tags {
+    border-top: 2px solid rgba(var(--swatch-menubg-medium-color),.5);
+}
+
+#main-content .page-tags a {
+    display: inline-block;
+    height: 0.8125rem;
+    line-height: 13px;
+    line-height: 0.8125rem;
+    font-size: 11px;
+    font-size: 0.6875rem;
+    background: rgb(48, 48, 52);
+    background: rgb(var(--swatch-menubg-dark-color, 48, 48, 52));
+    color: rgb(252, 252, 22);
+    color: rgb(var(--swatch-menutxt-light-color, 252, 252, 252));
+    border-bottom-right-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin: 0 0 .5rem .75rem;
+    padding: 0.1875rem 0.3125rem 0.1875rem 0;
+}
+
+#main-content .page-tags a:before {
+    top: -0.1875rem;
+    left: -0.625rem;
+    width: 0;
+    height: 0;
+    border-color:
+     transparent
+     rgb(48, 48, 52)
+     transparent
+     transparent;
+    border-color:
+     transparent
+     rgb(var(--swatch-menubg-dark-color,  48, 48, 52))
+     transparent
+     transparent;
+    border-style: solid;
+    border-width: 0.5rem 0.5rem 0.5rem 0;
+    padding: 0 0.0625rem 0.1875rem;
+}
+
+#main-content .page-tags a:before,
+#main-content .page-tags a:after {
+    content: "";
+    float: left;
+    position: relative;
+}
+
+#main-content .page-tags a:after {
+    --box-shadow: rgb(var(--swatch-menubg-dark-color,  48, 48, 52));
+    top: 0.28125rem;
+    left: -0.5rem;
+    width: 0.25rem;
+    height: 0.25rem;
+    border-radius: 0.125rem;
+    background-color: rgb(252, 252, 252);
+    background-color: rgb(var(--swatch-background, 252, 252, 252));
+    box-shadow: -0.0625rem -0.0625rem 0.125rem rgb(48, 48, 52);
+    box-shadow: -0.0625rem -0.0625rem 0.125rem var(--box-shadow);
+}
+
+.page-tags span {
+    border-top: .5rem solid transparent;
+}
+
+/* 根据中文修改行高 */
+div.warning-box div.text-bottom,div.warning div.text-top {
+    line-height: 1.2 !important;
+}
+
+div.warning-box {
+    position: relative;
+    height: 15rem;
+}
+
+div.warning-box span {
+    word-break: break-word;
+}
+
+div.warning-box div.warning-box-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: 100%;
+}
+
+div.warning-box div.text-top,
+div.warning-box div.text-bottom,
+div.warning-box div.text-number {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+div.warning-box div.text-top {
+    font-size: 2em;
+    line-height: 1;
+    margin-bottom: 0.5em;
+    font-weight: 900;
+}
+
+div.warning-box div.text-bottom {
+    font-size: 1.25em;
+    line-height: 1;
+    margin: 0 auto;
+}
+
+div.warning-box div.text-number {
+    font-size: 1.25em;
+    position: absolute;
+    bottom: 2em;
+}
+
+div.warning-box div.image-bg {
+    position: absolute;
+    background: url(http://www.scp-wiki.net/local--files/component:object-warning-box-source/scp-logo.svg);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg);
+    -webkit-background-size: contain;
+            background-size: contain;
+    -webkit-background-size: {$bg-size};
+            background-size: {$bg-size};
+    background-repeat: no-repeat;
+    background-position: center center;
+    top: 0;
+    width: 100%;
+    height: 15rem;
+    z-index: 0;
+    opacity: 0.15;
+}
+
+@media only screen and (max-width: 768px) {
+    div.warning-box div.text-top {
+        font-size: 1.75em;
+    }
+    div.warning-box div.text-bottom {
+        font-size: 1.15em;
+    }
+}
+
+div.objclassbar {
+    display: flex;
+    height: 4rem;
+    justify-content: center;
+}
+
+.objclassbar span {
+    word-break: break-word;
+}
+
+div.objclassbar > div {
+    max-width: 30%;
+    width: 35%;
+    flex-basis: 35%;
+}
+
+div.objclassbar div.sideleft {
+    font-size: 1.15em;
+    border-right: 0.125rem solid;
+    border-color: rgb(12,12,12);
+    border-color: rgb(var(--black-monochrome, 12, 12, 12));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+div.objclassbar div.sidemiddle {
+    font-size: 0.75em;
+    padding-left: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div.objclassbar div.sideright {
+    display: flex;
+    font-size: 1.25em;
+    font-weight: 600;
+    border-left: 0.125rem solid;
+    border-color: rgb(12,12,12);
+    border-color: rgb(var(--black-monochrome, 12, 12, 12));
+    padding-left: 0.5rem;
+    justify-content: flex-end;
+}
+
+div.sideleft > div > span:nth-child(1),
+div.sidemiddle > div > span:nth-child(1) {
+    font-weight:900;
+}
+
+div.sideleft > div:nth-child(2) {
+    line-height: 1.1em;
+}
+
+div.sideleft > div:nth-child(2) > span:nth-child(1) {
+    height: 1.1em;
+}
+
+div.sideright > div.colorbars-container {
+    display: flex;
+    flex-direction: row-reverse;
+    transform: skew(15deg);
+    padding: 0 0.5em 0 0.25em;
+    height: 90%;
+    align-self: center;
+}
+
+div.sideright > div.leveltext-container {
+    height: 90%;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+}
+
+div.sideright > div.colorbars-container > div.colorbars {
+    width: 0.5em;
+    height: 100%;
+    margin: 0 0.1rem;
+    background: rgb(0,0,0);
+    background: optional;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+div.sideright > div.colorbars-container > div.colorbars.full {
+    opacity: 1;
+}
+
+div.sideright > div.colorbars-container > div.colorbars.half {
+    opacity: 0.5;
+}
+
+div.sideright > div.colorbars-container > div.colorbars.none {
+    opacity: 0;
+    display: none;
+}
+
+@media (max-width: 767px) {
+    div.objclassbar {
+        height: 3rem;
+    }
+    div.objclassbar div.sideleft {
+        font-size: 0.8em;
+    }
+    div.objclassbar div.sidemiddle {
+        font-size: 0.5em;
+    }
+    div.objclassbar div.sideright {
+        font-size: 0.75em;
+    }
+}
+
+    
+        
+            
+              SCP基金会
+                
+                    控制，收容，保护
+                
+                
+                
+                
+                
+    
+        
+    
+
+                
+                
+                    
+                        
+
+SCP系列
+
+系列 VI (5000 - 5999)
+系列 V (4000 - 4999)
+» 系列 V 故事
+系列 IV (3000 - 3999)
+» 系列 IV 故事
+系列 III (2000 - 2999)
+» 系列 III 故事
+系列 II (1000 - 1999)
+» 系列 II 故事
+系列 I (001 - 999)
+» 系列 I 故事
+搞笑SCP
+已解明SCP
+
+图书馆
+
+用户推荐清单
+异常物品记录
+超常现象记录
+GoI格式
+音频记录
+艺术作品
+征文竞赛
+被放逐者之图书馆
+原创图书馆中心
+
+故事
+
+基金会故事
+设定中心
+故事系列
+事故报告
+Creepy-Pasta 归档
+
+SCP-CN系列
+
+CN系列 II (CN-1000 - CN-1999)
+CN系列 I (CN-001 - CN-999)
+搞笑SCP-CN
+已解明SCP-CN
+中国异常物品记录
+中国超常现象记录
+中国分部故事
+原创短篇故事合集
+中国分部设定中心
+中国分部故事系列
+中国分部征文竞赛
+
+SCP国际
+
+SCP国际翻译中心
+SCP国际翻译站
+Russian Branch(-RU)
+SCP 재단(-KO)
+Fondation SCP(-FR)
+Fundacja SCP(-PL)
+La Fundación SCP(-ES)
+สถาบัน SCP(-TH)
+SCP財団(-JP)
+SCP auf Deutsch(-DE)
+Fondazione SCP(-IT)
+Ukrainian Branch(-UA)
+Fundação SCP(-PT/BR)
+SCP Nadace(-CZ)
+
+背景资料
+
+关于基金会
+相关组织
+项目等级
+职员档案
+安保许可等级
+安保设施
+机动特遣队
+中国相关组织
+中国分部设施
+中国分部机动特遣队
+
+指导
+
+指导中心
+新手指南
+如何撰写一篇SCP文档
+图像使用守则
+授权指南
+标签指导
+标签搜索
+翻译发布及搬运指南
+常见问题解答
+网站站规
+删帖指导
+批评守则
+链接
+
+≡
+
+SCP系列
+
+系列 VI (5000 - 5999)
+系列 V (4000 - 4999)
+» 系列 V 故事
+系列 IV (3000 - 3999)
+» 系列 IV 故事
+系列 III (2000 - 2999)
+» 系列 III 故事
+系列 II (1000 - 1999)
+» 系列 II 故事
+系列 I (001 - 999)
+» 系列 I 故事
+CN系列 II (CN-1000 - CN-1999)
+CN系列 I (CN-001 - CN-999)
+搞笑SCP
+已解明SCP
+搞笑SCP-CN
+已解明SCP-CN
+SCP国际翻译中心
+
+故事
+
+基金会故事
+设定中心
+故事系列
+事故报告
+Creepy-Pasta 归档
+中国分部故事
+原创短篇故事合集
+中国分部设定中心
+中国分部故事系列
+
+图书馆
+
+用户推荐清单
+异常物品记录
+超常现象记录
+GoI格式
+音频记录
+艺术作品
+征文竞赛
+中国异常物品记录
+中国超常现象记录
+中国分部征文竞赛
+被放逐者之图书馆
+原创图书馆中心
+
+背景资料
+
+关于基金会
+相关组织
+项目等级
+职员档案
+安保许可等级
+安保设施
+机动特遣队
+中国相关组织
+中国分部设施
+中国分部机动特遣队
+
+指导
+
+指导中心
+新手指南
+如何撰写一篇SCP文档
+图像使用守则
+授权指南
+标签指导
+标签搜索
+翻译发布及搬运指南
+常见问题解答
+网站站规
+删帖指导
+批评守则
+链接
+
+                    
+                
+                登入 
+                
+            
+            
+            
+                
+                    
+                        
+
+                        
+
+新人资讯
+
+新手指南
+网站站规
+加入网站
+如何撰写一篇SCP文档
+SCP中文沙盒站
+常见问题解答
+
+主页
+
+SCP资料库
+
+(5000-5999)
+(4000-4999)
+(3000-3999)
+(2000-2999)
+(1000-1999)
+(001-999)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1000-1999)
+(001-999)
+
+SCP图书馆
+
+原创故事
+原创设定中心
+GoI格式
+SCP国际翻译中心
+原创区
+
+网站
+
+最近新增的页面
+故事
+原创故事
+修改的页面
+最高评分的页面
+最低评分的页面
+
+社交
+
+最近发帖
+批评守则
+中国分部成员页
+
+相关网站
+
+SCP技术部门
+SCP国际翻译站
+
+写作指导
+
+指导中心
+标签指导
+标签搜索
+翻译发布及搬运指南
+维基语法
+语法速查
+
+管理专用
+
+管理专用
+
+后台管理
+职员专站
+所有页面
+会员一览
+版式
+
+相关媒体
+
+© SCP基金会
+
+授权指南
+
+    
+    
+    
+        
+    
+    
+    
+    
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

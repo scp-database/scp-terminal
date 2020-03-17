@@ -1,0 +1,281 @@
+                        
+
+項目編號： SCP-1322-J
+
+項目等級： Euclid
+
+特殊收容措施： 由於 SCP-1322-J 實際上自我收容，因此僅需要最低限度的安全措施。休息室應無限期關閉，僅用於測試。目前的測試重點是進入 SCP-1322-J-1。如果發生危險的異常物體突破收容，應指派額外的保全以防止異常物體進入 SCP-1322-J-1。
+
+描述： SCP-1322-J 位於 Site-27 的休息室。是一個兩公尺高，一公尺寬的時空異常，通往編號指定為 SCP-1322-J-1 的平行宇宙。SCP-1322-J 似乎連向平行世界基金會的 Site-27 休息室。
+
+SCP-1322-J-1 似乎與基線現實完全相同，除了它的對掌性。由於這種影響，人員目前無法進入 SCP-1322-J-1，因為他們的掌性對應物將阻止他們進入。可能因為這種異常對掌性的影響，而導致試圖和 SCP-1322-J-1 實例合作毫無成效，並且無法進行有意義的溝通。
+
+SCP-1322-J 由研究員 Cameron Barnes 發現，他在發現後立即警告安全人員注意未知異常的存在。目前由 Barnes 負責收容。
+
+測試 1 
+
+成功： 否
+
+採取行動： 研究員 Cameron Barnes 試圖進入 SCP-1322-J。
+
+結果： 研究員 Barnes 與 SCP-1322-J-1-Barnes 相撞。Barnes 花了 23 分鐘的時間試圖進入異常，但被 SCP-1322-J-1-Barnes 阻擋。測試在 SCP-1322-J-1-Barnes 變得有攻擊性之後結束。
+
+測試 2 
+
+成功： 否
+
+採取行動： MTF Eta-15 () 受令採取任何必要手段進入 SCP-1322-J。
+
+結果： MTF Eta-15 立即與他們的對應物進行近身肉搏。正如預期的那樣，MTF Eta-15 的所有成員都沒有取得任何進展。在 MTF Eta-15 使用手榴彈導致三名成員需要住院治療之後測試被放棄。
+
+測試 3 
+
+成功： 否
+
+採取行動： 一架無人機被派往 SCP-1322-J。
+
+結果： 該無人機被平行世界的無人機阻擋。
+
+測試 4 
+
+成功： 否
+
+採取行動： 一架無人機 (D-1) 被黏貼在另一架無人機上方 (D-2) ，然後以 60km/h 的速度向 SCP-1322-J 前進，希望借助撞擊的作用將 D-1 扔入 SCP-1322-J-1。
+
+結果：  D-1 因為 D-2 的撞擊而脫落，並被拋向 SCP-1322-J-1，但 D-1 被自己經歷相同飛行軌道的對應物阻擋。
+
+測試 5 
+
+成功： 是
+
+採取行動： 命令 D-23432 進入入口，若抗命則即刻處決。
+
+結果： D-23432 似乎對 SCP-1322-J 感到困惑，堅持認為它不是異常。D-23432 拒絕進入 SCP-1322-J。
+
++內容已更新
+
+-
+
+項目編號： SCP-1322-J
+
+項目等級： Safe
+
+特殊收容措施：  SCP-1322-J 應從休息室移走並放入安全存放處。
+
+描述： SCP-1322-J 是一面不可摧毀的鏡子。在大約 92.9832123% 的人類中，受試者確信它是一個入口，通往非常引人注目的替代宇宙。
+
+我想立刻辭職。 -研究員 Barnes
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                搞笑
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            10 Jun 2019 06:51
+            
+            编辑
++17)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            Fondazione SCP
+                      
+              Branca Italiana della SCP Foundation
+            
+          
+        
+              
+          
+            
+              
+            
+            Shadowrun: Denver
+                      
+              Complicated Shadows
+            
+          
+        
+              
+          
+            
+              
+            
+            The Collaboratory
+                      
+              at Colby Community College
+            
+          
+        
+              
+          
+            
+              
+            
+            Bootstrap Playground
+                      
+              Because we all need a place to play
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

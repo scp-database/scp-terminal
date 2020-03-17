@@ -1,0 +1,231 @@
+                        
+
+项目编号： SCP-388
+
+项目等级： Euclid
+
+特殊收容措施： SCP-388被保存在一个上锁的保险箱中，其房间应配备2名武装守卫并被指示严禁任何非法人员进入；为此目的批准使用致死手段。
+
+除非进行测试，SCP-388将被置于任何可以修改物理定律或从未知来源吸收能量的SCP项目的影响之外。
+
+描述： SCP-388为一具尼龙折叠飞盘，符合其宣传广告上派送的一般样式，该实例印有香蕉船防晒油公司的商标。SCP-388似乎不会损坏；在测试中已经抵挡住了小口径步枪射击、浸浴在强酸中和持续加热到3500°C的伤害手段 。在所有状况下，它将弹回，不会受到伤害，并恢复原状。X射线晶体照像术显示SCP-388的分子结构为完全正常的尼龙并由一个似乎是铝质的金属环支撑。
+
+█ █████镇的新闻报道称，有人目击到SCP-388的存在。███声称一条电缆被一个UFO击落。混入维修人员的特工调查并发现，水泥电线杆被毫无工具痕迹地斩断，这促使基金会进行完整的状况调查。由███████和NORAD（北美航空航天防御司令部）处获取的空情记录显示并没有例如[数据删除]之类的异常与[数据删除]典型地相关。调查几乎终止了，直到特工询问了在在新闻报道中第一个被提问的████家族，而他们的孩子████提到整个事故缘由于一只飞盘。尽管最初持怀疑态度，但基金会仍然付诸精力并在██/██/██取得了初步构想上的验证。整整一周直升机都在临近的█████市进行搜索并在屋顶上回收了无数的普通飞盘，最后终于有了结果。遗憾的是，在████从屋顶上将之丢下时特工███不幸被SCP-388肢解。以挖掘化粪池为名义，SCP-388从其院子地面下5.5米的掩埋处被取出并小心地保存。
+
+SCP-388在被人丢出3米以内的距离时是正常的。超出这个距离后，SCP-388立即开始发出白色亮光，并立即到大约███米每秒的速度。███将干净利落地切开一切路线上的物体而无视其密度，直到停下。目前的理论认为其失速是由于其上表面和下表面的摩擦力，和其材料的重量把它压在它穿过的物体上的缘故。SCP-388不会区分物质和派去接住它的测试人员。
+
+附录： 鉴于第一次射出后很难回收，████提出的将SCP-388作为武器的提案已被否决。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                玩具
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Oct 2019 16:47
+            
+            编辑
++1)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            免費電子書：C# 程式設計
+                      
+              作者：陳鍾誠
+            
+          
+        
+              
+          
+            
+              
+            
+            WikiNorron
+                      
+              Almost as good as the guide, maybe better!
+            
+          
+        
+              
+          
+            
+              
+            
+            The Crab Den
+                      
+              We Vibing 🦀
+            
+          
+        
+              
+          
+            
+              
+            
+            RSC Sandbox
+                      
+              RSC için Sandbox
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

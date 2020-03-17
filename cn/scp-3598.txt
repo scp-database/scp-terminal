@@ -1,0 +1,355 @@
+                        
+
+项目编号： SCP-3598
+
+项目等级： Euclid
+
+特殊收容措施： 格伦主教纪念公园入口被转移至公园南方。基金会员工将以公园保安的身份扣押任何试图从南方公共入口以外的入口进入的人员。
+
+任何从SCP-3598获得的材料都应被储存于生化收容单元。
+
+描述： SCP-3598是位于俄亥俄哥伦比亚纳县（Columbiana County, Ohio） 格伦主教纪念公园的一超维度空间。虽然SCP-3598内季节显现为永久性的秋天，但项目在外表上与地形上与格伦主教纪念公园完全一致。尽管空间外是可视的，但试图离开空间边界的行为会导致对象脱离SCP-3598。SCP-3598与格伦主教纪念公园在空间位置上重叠，在SCP-3598存在的物质会出现在格伦主教纪念公园内。
+
+SCP-3598只在某些特定条件成立的情况下才可进入。如果这些不按顺序满足条件就无法进入SCP-3598。
+
+对象必须从格伦主教纪念公园的地理北方进入。
+对象必须在公园内漫步至少30分钟，在公园内的方位都是可行的。移动速度超过一般认知范围内的“漫步”会导致该条件不成立。
+在漫步30分钟之后，对象必须前往公园东南方向的小溪。此时，奔跑是可行的。
+从小溪的任何位置爬下河床都会导致对象转移至SCP-3598。移动是瞬间完成的。
+
+SCP-3598是在（Columbiana County Sheriff's Office）哥伦比亚县治安官办公室收到一封详细描述如何找到和进入SCP-3598的匿名信之后被基金会发现的。
+
+附录： 1
+
++物证-3598（英文原版）
+
+-权限接受
+
+Transcript 
+
+Dear/to whom this may concern,
+
+You don't know who I am.
+
+ I made it that way.
+
+You've been looking for quite a
+
+while. I'm going to give them
+
+to you.
+
+1.) Go to Bishop's Glen Memorial Park.
+
+ Go in from the top/north.
+
+2.) Walk around a bit 2 a half hour
+
+will d[sic]. DO NOT RUN!!!!!!
+
+3.) Go to the creek at the south-east
+
+You can run now. They did too.
+
+4.) Go down into the creek. You
+
+should be there now.
+
+Just look around for a bit.
+
+ I'm sure you can find them
+
+ now.
+
+If you want to leave, just go outside.
+
+I wouldn't stay long, something feels
+
+wrong now.
+
+I have/want to show off. Let's
+
+keep this our little secret, ok?
+
+From, You don't know who I am.
+
+But you will
+附加记录：
+
++物证-3598（中文译版）
+
+-权限接受
+
+亲爱的/给可能关心的人，
+
+一个你不认识的人。
+
+我创造了那条路。
+
+你已经寻找了许
+
+久。我将把TA们交到你手里。
+
+1.) 去一趟格伦主教纪念公园。
+
+记得从上方/北方进去。
+
+2.)走个大概不要跑！
+
+3.)去东南方的河
+
+你现在能跑了。它们也是。
+
+4.)走到小河尽头。你
+
+现在应该在那里了。
+
+看看你的周围。
+
+我相信你能找到它们了
+
+现在。
+
+如果你想离开，走出去就行了。
+
+我不会呆的太久，有些东西我感觉有点
+
+不对劲就现在
+
+我不得不/想要炫耀。让我们
+
+保护好我们的小秘密，好吧？
+
+寄信人，一个你不认识的人。
+
+但你会的。
+附加记录：
+
+附录：  基金会搜查员在SCP-3598内取回和数件物体：
+
+口香糖包装纸（薄荷味）
+数份情色杂志
+127.25美元
+一个可折叠本生灯3
+14具人类尸体
+
+附加记录：
+
+Footnotes
+1. 译注： 为了防止部分读者可能不具有转化该图片内文字为英文文本的能力，故在此保留英文原版的同时进行中文翻译。
+2. 译注： “sic”为拉丁文，常放置于括号内，表示“原文如此”的意思，在下方的中文翻译中不予翻译。
+3. 译注： 亦称酒精喷灯。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                门径
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            01 Dec 2018 17:40
+            
+            编辑
++2)
+标签
+讨论 (3)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            projects.wikidot.com
+                      
+              Wikidot Projects Forum
+            
+          
+        
+              
+          
+            
+              
+            
+            CTC/Library Lab Wiki
+                      
+              The CTC mothership
+            
+          
+        
+              
+          
+            
+              
+            
+            SCP基金會中文沙盒站
+                      
+              千仞高塔，筑基于此
+            
+          
+        
+              
+          
+            
+              
+            
+            Benitachell Bowls Club
+                      
+              
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

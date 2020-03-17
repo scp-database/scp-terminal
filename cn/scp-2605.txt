@@ -1,0 +1,267 @@
+                        
+
+項目編號： SCP-2605
+
+項目等級： Euclid
+
+特殊收容措施： SCP-2605需要被置於基本似人類收容間。SCP-2605所需的營養與年齡和狀況類似的正常人一樣，它要有適合的進食與照顧。當SCP-2605要被移動時，被研究個案應透過有加入鎮定劑的食物被麻醉。
+
+描述： SCP-2605是一位原名 ███ ██████ 的女性人類。被研究個案患有與路易氏體型失智症類似的症狀，例如失憶與視覺幻覺。SCP-2605對單獨移動感到困難，因次它大多都待在病床上。
+
+SCP-2605-1看似是無質量，卻保有體積的生物，它會在SCP-2605的5公尺內直接現身，這與SCP-2605的幻覺相符。SCP-2605-1的內溫大約攝氏51度。紅外線攝影顯示形狀與一位1.8公尺高的大人相似。這個生物可以與環境進行實體互動，它通常會做出鋪枕頭的動作或撫摸SCP-2605的臉。SCP-2605-1沒有敵性且在幻覺結束時會在一聲擊掌後消失。在幻覺發生時，只有一個SCP-2605-1會出現。
+
+附錄 2605-A：監視紀錄片段 
+
+片段，6/20/2016
+
+［一個SCP-2605-1在SCP-2605的床邊走動］
+
+SCP-2605： 再過來一點，親愛的。這裡的通風太好了。
+
+［SCP-2605-1走向SCP-2605且開始撫摸它的臉。生物沒有發出可聽見的聲音。］
+
+SCP-2605： 啊，是啊。的確很辛苦，不過查理，難道他們沒有照顧我嗎？1我們會撐下去的，就和我們以前一樣。
+附加记录：
+
+片段，6/25/13
+
+［一個SCP-2605-1坐在SCP-2605的床上。兩位的頭部動作似乎跟著在房間另一邊的快速物體，不過在收容間裡偵測到的異常處只有SCP-2605。］
+
+SCP-2605： 她真可愛啊，查理。比你描述的還要好。非常感謝你把她帶來。
+
+［兩位繼續移動頭部，直到十二分鐘後幻覺結束。］
+附加记录：
+
+片段，4/9/14
+
+［一個SCP-2605-1站在SCP-2605對面的角落。］
+
+SCP-2605： 親愛的，再唱一次那首我喜歡的歌。
+
+［SCP-2605-1開始踏步與前後搖擺。最初沒有聲音被聽到，不過SCP-2605會不時哼一首未知曲子的片段。］
+
+［突然間，SCP-2605開始劇烈咳嗽。SCP-2605-1停止擺動且趕快向SCP-2605移動，明顯的在顫抖］
+
+［SCP-2605結束了咳嗽。SCP-2605-1將被研究個案的棉被蓋好，它依然在顫抖。］
+
+［SCP-2605-1停止顫抖，且看似比手畫腳。沒有聲音被發出，但SCP-2605被觀察到在微笑。］
+
+SCP-2605： 哦天啊，是的。只要我的神志還在，我不會有事的。
+附加记录：
+
+Footnotes
+1. 對SCP-2605的親戚調查結果發現沒有任何親戚名為查理或有任何類似的暱稱。
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                无形
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            14 Apr 2018 13:41
+            
+            编辑
+0)
+标签
+讨论 (1)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            1, 2, 3 ΣΤΟΠ
+                      
+              Κώδικας Οδικής Κυκλοφορίας
+            
+          
+        
+              
+          
+            
+              
+            
+            Performance  Philosophy
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            RPC Authority
+                      
+              Research, Protection, Containment
+            
+          
+        
+              
+          
+            
+              
+            
+            Maegica Wiki
+                      
+              Maegica Order In Chaos Online
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)

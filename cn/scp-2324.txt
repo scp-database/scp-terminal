@@ -1,0 +1,262 @@
+                        
+
+项目编号： SCP-2324
+
+项目等级： Keter
+
+特殊收容措施： 一名活体SCP-2324-A个体，此处为SCP-2324-A-11，收容在Site-58的高安保收容库内。所有其他个体一经发现便须消灭。Site-58已配备optima级别的杀虫剂播撒机应对收容突破。Site-58的全体关键人员应在其他站点接受optima免疫治疗-疫苗不得出现在Site-58。若气体对SCP-2324-A-1重收容无效，将启动站点的5-兆吨燃烧弹。
+
+描述： SCP-2324是与西洋蜂2及其对人类的寄生相关的现象。SCP-2324-A为受到SCP-2324侵入的人类。SCP-2324的进犯方式是通过对活体人类的特殊叮刺。
+
+SCP-2324-A个体在被彻底感染后已经进入临床死亡，但其生命活动仍然维持，并由一个新的替代意识以未知方式控制，推测是该个体体内的蜂群。SCP-2324-A的大脑被替换为一与蜂巢十分相似的新结构体，其体内有普通蜜蜂繁殖、培育，并会从鼻腔、口腔和其他体腔派出一种经生物改造、攻击性明显强烈的蜜蜂。SCP-2324-A个体能以宿主的母语说话，且会自称为隶属于“蜂巢当局”、“女王陛下舰队”及“女王海军”的一个军舰。
+
+附录- SCP-2324-A-1 采访，5/16/15: 
+
+Dr. █████████: 请说出你的名字以供记录。
+
+SCP-2324-A-1:  我们看见敌方旗舰了。准备交战。
+
+Dr. █████████: 说你的名字。
+
+SCP-2324-A-1:  侦测到敌意。向我的目标派出侦察无人机！
+
+Dr. █████████:  如果你配合我无意加害。
+
+SCP-2324-A-1:  撤销指令！敌舰试图谈判。示意困难，警告射击三，二，一……
+
+(SCP-2324-A-1打喷嚏喷出了一团苛性有毒蜂蜜在墙壁上，溶解了油漆)
+
+Dr. █████████:  …我能和舰长谈谈吗？
+
+(SCP-2324-A低头一分钟，然后)
+
+SCP-2324-A-1:  这里是皇家海军Darrel Dixon号舰长4-73，以女王陛下交战标准规则讲话。你方应撤离此区域，允许我们安全航行至最近的蜂巢当局前哨。你方必须服从，任何抵抗都将招致平民连带伤亡。
+
+Dr. █████████:  能来发镇静镖吗拜托？
+
+SCP-2324-A-1:  各就位！派出左舷登录无人机，出动出动出动！ (SCP-2324-A-1开始发出类似高音喇叭警报的喉音。SCP-2324-A-1左臂上的毛孔张开，放出一群蜜蜂叮咬了Dr. █████████多次。对 SCP-2324-A-1使用镇静飞镖。)
+
+SCP-2324-A-1: 被击中！外壳轻微损伤-引擎系统故障。脱离战斗。等待进一步指示…
+
+(SCP-2324-A-1被成功镇定。)
+
+备注： Dr. █████████被隔离检查是否遭感染。 Dr. █████████现在会于其名字后粗糙地画上“皇家海军”。
+附加记录：
+
+脚注
+1. 曾经是印第安纳州加里的Darrel Dixon。
+2. Apis mellifera
+
+                    
+
+                            
+            
+
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+
+        
+    
+
+                    
+
+                    
+                        
+                            
+                                蜂巢意识
+                            
+                        
+                    
+
+                    
+                    
+                        
+                            26 Jul 2019 14:28
+            
+            编辑
++5)
+标签
+讨论 (0)
+历史记录
+附件
+打印
+网站工具
++选项 
+
+    编辑段落
+    附加
+    编辑元信息
+    关注者 
+    反向链接 
+    页面源代码 
+    父页面 
+    锁定页面    
+    重新命名 
+    删除 
+
+                        
+                    
+                    
+                
+            
+            
+            
+            
+            
+                
+    说明
+    |
+    服务条款
+    |
+    隐私
+    |
+    报告错误
+    |
+    标记为令人反感的
+
+自豪地采用 Wikidot.com 
+            
+            
+                
+                    除非特别注明，本页内容采用以下授权方式： Creative Commons Attribution-ShareAlike 3.0 License
+                
+            
+            
+            
+
+            
+            
+            
+            
+            
+                
+  
+     
+  其它有趣的网站
+  
+  
+              
+          
+            
+              
+            
+            WikiofScience
+                      
+              Everything learned, and nothing forgotten
+            
+          
+        
+              
+          
+            
+              
+            
+            Bozic Nation
+                      
+              
+            
+          
+        
+              
+          
+            
+              
+            
+            GURPS Repository
+                      
+              A collection for your GURPS needs
+            
+          
+        
+              
+          
+            
+              
+            
+            Managing Information Systems
+                      
+              BUA 581 - Rick Sprenkle
+            
+          
+        
+        
+  
+
+            
+        
+        
+    
+
+    
+    
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    
+
+    
+    
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    
+    
+        
+    
+
+    
+        请点此编辑本页内容。    
+
+    
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    
+    
+        在不编辑整个页面源代码的情况下添加内容。    
+    
+        看看本页过去是如何沿革的。    
+    
+        若您想要讨论本页内容 - 这是最简单的方法。    
+    
+        检视并管理本页附件。    
+    
+        管理网站的实用工具。    
+    
+        检视链接至本页或引用本页的页面。    
+    
+        变更页面名称（及URL 位址，或许会影响分类）。    
+    
+        在不编辑的情形下检视维基原始码。    
+      
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    
+            
+            向管理员举报本页有令人反感的内容。        
+        
+            事情不如预期？看看您可以做些什么。        
+        
+            一般的 Wikidot.com 文件与说明。        
+        
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        
+        
+            Wikidot.com 隐私政策。          
+        
+    
+
+
+
+所有 SCP档案 均来自SCP基金会中文维基站点(www.scp-wiki-cn.net)
+>>>所有未经授权的阅读档案行为将被 监控 , 定位 和 处理<<<
+档案整理人Dr.dyer(www.weibo.com/pmindjh)
