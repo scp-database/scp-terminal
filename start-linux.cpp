@@ -92,7 +92,7 @@ void work(bool c=1){
   }
   else if(type==2){
     cout<<"--------------------------"<<endl;
-    cout<<"|  scp基金会数据库 v1.0  |"<<endl;
+    cout<<"|  scp基金会数据库 v1.1  |"<<endl;
     cout<<"|Developed by ZhangYiming|"<<endl;
     cout<<"--------------------------"<<endl;
     work(0);
