@@ -28,6 +28,21 @@ string decode(int id,int cn){
   v+=".txt";
   return v;
 }
+string decode_cmd(int id,int cn){
+  string v="start http://scp-wiki-cn.wikidot.com/";
+  string tmp=to_string(id);
+  if(cn){
+    v+="scp-cn-";
+  }
+  else{
+    v+="scp-";
+  }
+  if(id<=999){
+    while(tmp.length()!=3)tmp="0"+tmp;
+  }
+  v+=tmp;
+  return v;
+}
 void print_file(int be,int ed,bool cn){
   cout<<"当前目录下共有"<<ed-be+1<<"篇文章"<<endl;
   cout<<"正在输出名字..."<<endl;
@@ -47,11 +62,23 @@ void print_file(int be,int ed,bool cn){
   cout<<"正在读取文档..."<<endl;
   sleep(2);
   system(decode(type,cn).c_str());
-  cout<<"输入q退出:";
+  cout<<"输入q退出,o在浏览器中打开:";
   char c;
   while(cin>>c){
     if(c=='q')return;
-    cout<<"错误,输入q退出:";
+    if(c=='o'){
+      system(decode_cmd(type,cn).c_str());
+      return;
+    }
+    cout<<"错误,输入q退出,o在浏览器中打开:";
+  }
+}
+void sleep_print(string s,double tim){
+  int l=s.length();
+  for(int i=0;i<l;i++){
+    sleep(tim);
+    putchar(s[i]);
+    fflush(stdout);
   }
 }
 void start_read(){
@@ -71,8 +98,13 @@ void start_read(){
   if(type<=5){
     print_file(begi[type],endd[type],0);
   }
-  else{
+  else if(type<=7){
     print_file(begi[type],endd[type],1);
+  }
+  else{
+    cout<<"输入错误，请输入1~8"<<endl;
+    cout<<"三秒后重新启动";
+    sleep_print("...",1);
   }
   return;
 }
@@ -92,7 +124,7 @@ void work(bool c=1){
   }
   else if(type==2){
     cout<<"--------------------------"<<endl;
-    cout<<"|  scp基金会数据库 v1.1  |"<<endl;
+    cout<<"|  scp基金会数据库 v1.2  |"<<endl;
     cout<<"|Developed by ZhangYiming|"<<endl;
     cout<<"--------------------------"<<endl;
     work(0);
@@ -104,14 +136,6 @@ void work(bool c=1){
     cout<<"输入错误，程序将在3秒后重启..."<<endl;
     sleep(3);
     work();
-  }
-}
-void sleep_print(string s,double tim){
-  int l=s.length();
-  for(int i=0;i<l;i++){
-    sleep(tim);
-    putchar(s[i]);
-    fflush(stdout);
   }
 }
 int main(){
@@ -140,7 +164,6 @@ int main(){
     sleep_print("3\n2\n1\n",1);
     return 0;
   }
-  sleep(3);
   sleep_print("3\n2\n1\n",1);
   work();
   return 0;
