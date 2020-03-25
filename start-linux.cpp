@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+﻿#include<bits/stdc++.h>
 #include<unistd.h>
 using namespace std;
 int begi[8]={1,1000,2000,3000,4000,5000,1,1000},endd[8]={999,1999,2999,3999,4999,5999,999,1999};
@@ -54,6 +54,14 @@ void print_file(int be,int ed,bool cn){
     cout<<"错误,输入q退出:";
   }
 }
+void sleep_print(string s,double tim){
+  int l=s.length();
+  for(int i=0;i<l;i++){
+    sleep(tim);
+    putchar(s[i]);
+    fflush(stdout);
+  }
+}
 void start_read(){
   cout<<"请选择要查看的文档系列:"<<endl;
   cout<<"1.scp-001~scp-999"<<endl;
@@ -71,8 +79,12 @@ void start_read(){
   if(type<=5){
     print_file(begi[type],endd[type],0);
   }
-  else{
+  else if(type<=7){
     print_file(begi[type],endd[type],1);
+  }
+  else{
+    cout<<"输入错误，请在3秒后重新输入";
+    sleep_print("..\n",1);
   }
   return;
 }
@@ -92,7 +104,7 @@ void work(bool c=1){
   }
   else if(type==2){
     cout<<"--------------------------"<<endl;
-    cout<<"|  scp基金会数据库 v1.1  |"<<endl;
+    cout<<"|  scp基金会数据库 v1.2  |"<<endl;
     cout<<"|Developed by ZhangYiming|"<<endl;
     cout<<"--------------------------"<<endl;
     work(0);
@@ -104,14 +116,6 @@ void work(bool c=1){
     cout<<"输入错误，程序将在3秒后重启..."<<endl;
     sleep(3);
     work();
-  }
-}
-void sleep_print(string s,double tim){
-  int l=s.length();
-  for(int i=0;i<l;i++){
-    sleep(tim);
-    putchar(s[i]);
-    fflush(stdout);
   }
 }
 int main(){
@@ -139,7 +143,6 @@ int main(){
     sleep_print("3\n2\n1\n",1);
     return 0;
   }
-  sleep(3);
   sleep_print("3\n2\n1\n",1);
   work();
   return 0;
